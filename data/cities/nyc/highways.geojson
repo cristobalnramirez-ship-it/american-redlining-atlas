@@ -1,0 +1,540 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source": "Manually curated from Robert Caro's 'The Power Broker', NYC DOT records, and historical archives",
+    "note": "Simplified centerlines for visualization. Robert Moses built or oversaw all 9 expressways."
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.91,
+            40.846
+          ],
+          [
+            -73.9,
+            40.847
+          ],
+          [
+            -73.89,
+            40.8475
+          ],
+          [
+            -73.88,
+            40.848
+          ],
+          [
+            -73.87,
+            40.849
+          ],
+          [
+            -73.86,
+            40.8495
+          ],
+          [
+            -73.85,
+            40.849
+          ],
+          [
+            -73.84,
+            40.848
+          ],
+          [
+            -73.83,
+            40.847
+          ],
+          [
+            -73.82,
+            40.8455
+          ],
+          [
+            -73.81,
+            40.843
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Cross-Bronx Expressway",
+        "designation": "I-95",
+        "construction_year": 1948,
+        "completion_year": 1963,
+        "decade": "1950s",
+        "neighborhoods_displaced": [
+          "East Tremont",
+          "Morris Heights",
+          "Highbridge",
+          "Crotona Park East"
+        ],
+        "description": "The most notorious highway in American urban history. Robert Moses routed it directly through the dense, working-class neighborhood of East Tremont, displacing over 60,000 residents and destroying 159 buildings. Residents begged for an alternate route through Crotona Park \u2014 Moses refused. The expressway severed the South Bronx from the rest of the borough, accelerating a spiral of disinvestment, abandonment, and arson that culminated in the 'Bronx is Burning' era of the 1970s."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.01,
+            40.68
+          ],
+          [
+            -74.005,
+            40.688
+          ],
+          [
+            -73.998,
+            40.694
+          ],
+          [
+            -73.995,
+            40.699
+          ],
+          [
+            -73.993,
+            40.702
+          ],
+          [
+            -73.991,
+            40.707
+          ],
+          [
+            -73.975,
+            40.712
+          ],
+          [
+            -73.965,
+            40.715
+          ],
+          [
+            -73.955,
+            40.719
+          ],
+          [
+            -73.948,
+            40.722
+          ],
+          [
+            -73.94,
+            40.729
+          ],
+          [
+            -73.935,
+            40.735
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Brooklyn-Queens Expressway",
+        "designation": "I-278",
+        "construction_year": 1939,
+        "completion_year": 1964,
+        "decade": "1940s",
+        "neighborhoods_displaced": [
+          "Brooklyn Heights",
+          "Red Hook",
+          "Sunset Park",
+          "Williamsburg",
+          "Greenpoint"
+        ],
+        "description": "Robert Moses's first major highway in NYC, the BQE carved through waterfront neighborhoods across Brooklyn. In Brooklyn Heights, it was controversially built as a triple-cantilevered structure along the bluff. The highway severed Red Hook from the rest of Brooklyn, contributing to decades of isolation and poverty in what had been a thriving dockworker community."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.977,
+            40.707
+          ],
+          [
+            -73.976,
+            40.713
+          ],
+          [
+            -73.9745,
+            40.72
+          ],
+          [
+            -73.9735,
+            40.728
+          ],
+          [
+            -73.972,
+            40.737
+          ],
+          [
+            -73.971,
+            40.746
+          ],
+          [
+            -73.97,
+            40.755
+          ],
+          [
+            -73.969,
+            40.763
+          ],
+          [
+            -73.968,
+            40.771
+          ],
+          [
+            -73.967,
+            40.78
+          ],
+          [
+            -73.9665,
+            40.789
+          ]
+        ]
+      },
+      "properties": {
+        "name": "FDR Drive (East River Drive)",
+        "designation": "FDR Drive",
+        "construction_year": 1934,
+        "completion_year": 1966,
+        "decade": "1930s",
+        "neighborhoods_displaced": [
+          "Lower East Side",
+          "East Harlem"
+        ],
+        "description": "Built along Manhattan's East River waterfront, the FDR Drive cut off neighborhoods from river access. In the Lower East Side and East Harlem, it created a wall of traffic between dense immigrant communities and the waterfront, contributing to environmental injustice and reduced quality of life."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.01,
+            40.68
+          ],
+          [
+            -74.012,
+            40.673
+          ],
+          [
+            -74.014,
+            40.666
+          ],
+          [
+            -74.016,
+            40.659
+          ],
+          [
+            -74.018,
+            40.652
+          ],
+          [
+            -74.02,
+            40.645
+          ],
+          [
+            -74.022,
+            40.638
+          ],
+          [
+            -74.023,
+            40.632
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Gowanus Expressway",
+        "designation": "I-278 South",
+        "construction_year": 1941,
+        "completion_year": 1964,
+        "decade": "1940s",
+        "neighborhoods_displaced": [
+          "Sunset Park",
+          "Bay Ridge",
+          "Gowanus"
+        ],
+        "description": "The elevated Gowanus Expressway cast a permanent shadow over Third Avenue in Sunset Park, destroying the commercial vitality of what had been Brooklyn's busiest shopping street. The highway's construction, combined with the loss of waterfront industrial jobs, devastated the working-class Norwegian, Italian, and Puerto Rican communities below."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.928,
+            40.809
+          ],
+          [
+            -73.927,
+            40.818
+          ],
+          [
+            -73.926,
+            40.827
+          ],
+          [
+            -73.925,
+            40.835
+          ],
+          [
+            -73.924,
+            40.844
+          ],
+          [
+            -73.923,
+            40.853
+          ],
+          [
+            -73.922,
+            40.862
+          ],
+          [
+            -73.921,
+            40.871
+          ],
+          [
+            -73.92,
+            40.88
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Major Deegan Expressway",
+        "designation": "I-87",
+        "construction_year": 1939,
+        "completion_year": 1956,
+        "decade": "1940s",
+        "neighborhoods_displaced": [
+          "Port Morris",
+          "Mott Haven",
+          "Highbridge"
+        ],
+        "description": "Running along the Harlem River through the South Bronx, the Major Deegan severed waterfront communities from river access. Combined with the Cross-Bronx Expressway, it helped create the infrastructure cage around the South Bronx that contributed to the borough's decline."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.92,
+            40.81
+          ],
+          [
+            -73.91,
+            40.813
+          ],
+          [
+            -73.9,
+            40.815
+          ],
+          [
+            -73.89,
+            40.817
+          ],
+          [
+            -73.88,
+            40.819
+          ],
+          [
+            -73.87,
+            40.82
+          ],
+          [
+            -73.86,
+            40.821
+          ],
+          [
+            -73.85,
+            40.8215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Bruckner Expressway",
+        "designation": "I-278 East",
+        "construction_year": 1956,
+        "completion_year": 1972,
+        "decade": "1960s",
+        "neighborhoods_displaced": [
+          "Hunts Point",
+          "Longwood",
+          "Soundview"
+        ],
+        "description": "Built through the already struggling South Bronx, the Bruckner Expressway further isolated Hunts Point and Longwood from the rest of the borough. The highway facilitated the concentration of noxious industrial uses \u2014 including the Hunts Point Food Distribution Center \u2014 in communities already burdened by poverty and pollution."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.887,
+            40.829
+          ],
+          [
+            -73.8865,
+            40.833
+          ],
+          [
+            -73.886,
+            40.837
+          ],
+          [
+            -73.8855,
+            40.842
+          ],
+          [
+            -73.885,
+            40.846
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sheridan Expressway",
+        "designation": "I-895",
+        "construction_year": 1958,
+        "completion_year": 1963,
+        "decade": "1960s",
+        "neighborhoods_displaced": [
+          "Crotona Park East",
+          "West Farms",
+          "Hunts Point"
+        ],
+        "description": "A 1.25-mile stub highway that destroyed homes and parkland but never connected to anything useful. The Sheridan became a symbol of Moses-era highway overreach. After decades of community activism, it was finally decommissioned and converted to a boulevard in 2019."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.971,
+            40.743
+          ],
+          [
+            -73.959,
+            40.744
+          ],
+          [
+            -73.945,
+            40.744
+          ],
+          [
+            -73.93,
+            40.743
+          ],
+          [
+            -73.915,
+            40.742
+          ],
+          [
+            -73.9,
+            40.74
+          ],
+          [
+            -73.885,
+            40.738
+          ],
+          [
+            -73.87,
+            40.737
+          ],
+          [
+            -73.855,
+            40.736
+          ],
+          [
+            -73.84,
+            40.735
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Long Island Expressway",
+        "designation": "I-495",
+        "construction_year": 1955,
+        "completion_year": 1972,
+        "decade": "1960s",
+        "neighborhoods_displaced": [
+          "Maspeth",
+          "Rego Park",
+          "Flushing"
+        ],
+        "description": "The LIE was intended to carry suburban commuters from Long Island through Queens to the Midtown Tunnel. Its construction displaced residents in several Queens neighborhoods and, combined with the Van Wyck and Grand Central Parkway, created a web of highways that divided communities throughout the borough."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.065,
+            40.605
+          ],
+          [
+            -74.075,
+            40.606
+          ],
+          [
+            -74.085,
+            40.607
+          ],
+          [
+            -74.095,
+            40.608
+          ],
+          [
+            -74.105,
+            40.6085
+          ],
+          [
+            -74.115,
+            40.609
+          ],
+          [
+            -74.125,
+            40.61
+          ],
+          [
+            -74.135,
+            40.611
+          ],
+          [
+            -74.145,
+            40.613
+          ],
+          [
+            -74.155,
+            40.615
+          ],
+          [
+            -74.165,
+            40.617
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Staten Island Expressway",
+        "designation": "I-278 SI",
+        "construction_year": 1958,
+        "completion_year": 1964,
+        "decade": "1960s",
+        "neighborhoods_displaced": [
+          "Sunnyside",
+          "Willowbrook",
+          "Grasmere"
+        ],
+        "description": "Built to connect the Verrazzano-Narrows Bridge (opened 1964) to the Goethals Bridge, the expressway cut through the center of Staten Island. It spurred massive suburban development on the island, transforming it from a semi-rural borough into a car-dependent suburb \u2014 exactly as Moses intended."
+      }
+    }
+  ]
+}

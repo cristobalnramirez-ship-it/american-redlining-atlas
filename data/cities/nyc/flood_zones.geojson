@@ -1,0 +1,302 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source": "Simplified FEMA flood zones for NYC - run fetch_flood_zones.py for full data",
+    "note": "Placeholder data showing key Sandy-impacted areas"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "zone": "AE",
+        "flood_risk": "high",
+        "zone_description": "Base Flood Elevations determined. 100-year flood zone.",
+        "sfha": true,
+        "sandy_inundated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.018,
+              40.68
+            ],
+            [
+              -74.01,
+              40.68
+            ],
+            [
+              -74.01,
+              40.67
+            ],
+            [
+              -74.018,
+              40.67
+            ],
+            [
+              -74.018,
+              40.68
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone": "VE",
+        "flood_risk": "coastal",
+        "zone_description": "Coastal high hazard area with wave action.",
+        "sfha": true,
+        "sandy_inundated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.02,
+              40.71
+            ],
+            [
+              -74.005,
+              40.71
+            ],
+            [
+              -74.005,
+              40.7
+            ],
+            [
+              -74.02,
+              40.7
+            ],
+            [
+              -74.02,
+              40.71
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone": "VE",
+        "flood_risk": "coastal",
+        "zone_description": "Coastal high hazard area with wave action.",
+        "sfha": true,
+        "sandy_inundated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.99,
+              40.578
+            ],
+            [
+              -73.96,
+              40.578
+            ],
+            [
+              -73.96,
+              40.572
+            ],
+            [
+              -73.99,
+              40.572
+            ],
+            [
+              -73.99,
+              40.578
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone": "VE",
+        "flood_risk": "coastal",
+        "zone_description": "Coastal high hazard area with wave action.",
+        "sfha": true,
+        "sandy_inundated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.85,
+              40.59
+            ],
+            [
+              -73.78,
+              40.59
+            ],
+            [
+              -73.78,
+              40.58
+            ],
+            [
+              -73.85,
+              40.58
+            ],
+            [
+              -73.85,
+              40.59
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone": "AE",
+        "flood_risk": "high",
+        "zone_description": "100-year flood zone.",
+        "sfha": true,
+        "sandy_inundated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.12,
+              40.52
+            ],
+            [
+              -74.06,
+              40.52
+            ],
+            [
+              -74.06,
+              40.505
+            ],
+            [
+              -74.12,
+              40.505
+            ],
+            [
+              -74.12,
+              40.52
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone": "AE",
+        "flood_risk": "high",
+        "zone_description": "100-year flood zone.",
+        "sfha": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.895,
+              40.82
+            ],
+            [
+              -73.875,
+              40.82
+            ],
+            [
+              -73.875,
+              40.81
+            ],
+            [
+              -73.895,
+              40.81
+            ],
+            [
+              -73.895,
+              40.82
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone": "AE",
+        "flood_risk": "high",
+        "zone_description": "100-year flood zone.",
+        "sfha": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.94,
+              40.8
+            ],
+            [
+              -73.93,
+              40.8
+            ],
+            [
+              -73.93,
+              40.79
+            ],
+            [
+              -73.94,
+              40.79
+            ],
+            [
+              -73.94,
+              40.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone": "X500",
+        "flood_risk": "moderate",
+        "zone_description": "500-year flood zone. Area with reduced flood risk.",
+        "sfha": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.96,
+              40.77
+            ],
+            [
+              -73.94,
+              40.77
+            ],
+            [
+              -73.94,
+              40.75
+            ],
+            [
+              -73.96,
+              40.75
+            ],
+            [
+              -73.96,
+              40.77
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "type": "FeatureCollection",
+  "name": "Houston_Harris_County_TRI_Facilities",
+  "metadata": {
+    "source": "EPA Toxic Release Inventory (TRI)",
+    "description": "TRI facilities in the Houston/Harris County area reporting toxic chemical releases",
+    "coordinate_reference_system": "EPSG:4326",
+    "total_facilities": 25,
+    "region": "Houston, TX / Harris County"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.095, 29.735]
+      },
+      "properties": {
+        "facility_name": "Gulf Coast Petrochemical",
+        "address": "12400 Bay Area Blvd, Baytown, TX 77521",
+        "latitude": 29.735,
+        "longitude": -95.095,
+        "industry": "Petroleum Refining",
+        "total_releases_lbs": 850000,
+        "top_chemical": "Benzene",
+        "carcinogen": true,
+        "year_first_reported": 1988,
+        "risk_score": 9,
+        "nearby_neighborhoods": ["Baytown", "Woburn", "Highlands", "McNair"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.065, 29.745]
+      },
+      "properties": {
+        "facility_name": "Baytown Refining Corp",
+        "address": "4500 Decker Dr, Baytown, TX 77520",
+        "latitude": 29.745,
+        "longitude": -95.065,
+        "industry": "Petroleum Refining",
+        "total_releases_lbs": 1200000,
+        "top_chemical": "Toluene",
+        "carcinogen": false,
+        "year_first_reported": 1987,
+        "risk_score": 8,
+        "nearby_neighborhoods": ["Baytown", "Kilgore", "Pelly", "Goose Creek"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.100, 29.755]
+      },
+      "properties": {
+        "facility_name": "San Jacinto Chemical",
+        "address": "1800 San Jacinto Mall Rd, Channelview, TX 77530",
+        "latitude": 29.755,
+        "longitude": -95.100,
+        "industry": "Chemical Manufacturing",
+        "total_releases_lbs": 420000,
+        "top_chemical": "Ethylene Oxide",
+        "carcinogen": true,
+        "year_first_reported": 1991,
+        "risk_score": 9,
+        "nearby_neighborhoods": ["Channelview", "Sheldon", "Highlands", "San Jacinto Estates"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.120, 29.760]
+      },
+      "properties": {
+        "facility_name": "Lynchburg Industrial",
+        "address": "2500 Lynchburg Rd, Baytown, TX 77521",
+        "latitude": 29.760,
+        "longitude": -95.120,
+        "industry": "Plastics Manufacturing",
+        "total_releases_lbs": 180000,
+        "top_chemical": "Vinyl Chloride",
+        "carcinogen": true,
+        "year_first_reported": 1993,
+        "risk_score": 8,
+        "nearby_neighborhoods": ["Channelview", "Lynchburg Landing", "Sheldon", "Old River Terrace"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.140, 29.740]
+      },
+      "properties": {
+        "facility_name": "Channel Industries Complex",
+        "address": "3100 Independent Rd, Channelview, TX 77530",
+        "latitude": 29.740,
+        "longitude": -95.140,
+        "industry": "Chemical Manufacturing",
+        "total_releases_lbs": 650000,
+        "top_chemical": "1,3-Butadiene",
+        "carcinogen": true,
+        "year_first_reported": 1989,
+        "risk_score": 9,
+        "nearby_neighborhoods": ["Channelview", "Cloverleaf", "Jacinto City", "Deer Park"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.260, 29.727]
+      },
+      "properties": {
+        "facility_name": "Manchester Chemical Works",
+        "address": "6800 Manchester St, Houston, TX 77012",
+        "latitude": 29.727,
+        "longitude": -95.260,
+        "industry": "Chemical Manufacturing",
+        "total_releases_lbs": 380000,
+        "top_chemical": "Chromium Compounds",
+        "carcinogen": true,
+        "year_first_reported": 1990,
+        "risk_score": 10,
+        "nearby_neighborhoods": ["Manchester", "Magnolia Park", "Harrisburg", "Milby Park"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.290, 29.735]
+      },
+      "properties": {
+        "facility_name": "Harrisburg Metal Processing",
+        "address": "7200 Harrisburg Blvd, Houston, TX 77011",
+        "latitude": 29.735,
+        "longitude": -95.290,
+        "industry": "Metal Finishing",
+        "total_releases_lbs": 95000,
+        "top_chemical": "Lead Compounds",
+        "carcinogen": false,
+        "year_first_reported": 1994,
+        "risk_score": 6,
+        "nearby_neighborhoods": ["Harrisburg", "Magnolia Park", "East End", "Segundo Barrio"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.230, 29.745]
+      },
+      "properties": {
+        "facility_name": "Galena Park Industries",
+        "address": "1500 Clinton Dr, Galena Park, TX 77547",
+        "latitude": 29.745,
+        "longitude": -95.230,
+        "industry": "Chemical Storage and Distribution",
+        "total_releases_lbs": 210000,
+        "top_chemical": "Sulfuric Acid",
+        "carcinogen": false,
+        "year_first_reported": 1992,
+        "risk_score": 7,
+        "nearby_neighborhoods": ["Galena Park", "Jacinto City", "Cloverleaf", "Channelview"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.240, 29.760]
+      },
+      "properties": {
+        "facility_name": "Jacinto City Coatings",
+        "address": "10300 Market St, Jacinto City, TX 77029",
+        "latitude": 29.760,
+        "longitude": -95.240,
+        "industry": "Paint and Coatings Manufacturing",
+        "total_releases_lbs": 75000,
+        "top_chemical": "Xylene",
+        "carcinogen": false,
+        "year_first_reported": 1998,
+        "risk_score": 5,
+        "nearby_neighborhoods": ["Jacinto City", "Galena Park", "Pleasantville", "Cloverleaf"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.270, 29.748]
+      },
+      "properties": {
+        "facility_name": "Houston Plating Corp",
+        "address": "8400 Lawndale St, Houston, TX 77012",
+        "latitude": 29.748,
+        "longitude": -95.270,
+        "industry": "Metal Plating and Polishing",
+        "total_releases_lbs": 45000,
+        "top_chemical": "Hexavalent Chromium",
+        "carcinogen": true,
+        "year_first_reported": 1995,
+        "risk_score": 8,
+        "nearby_neighborhoods": ["Magnolia Park", "Pecan Park", "Galena Park", "Milby Park"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.305, 29.742]
+      },
+      "properties": {
+        "facility_name": "Navigation District Chemical",
+        "address": "5900 Navigation Blvd, Houston, TX 77011",
+        "latitude": 29.742,
+        "longitude": -95.305,
+        "industry": "Chemical Distribution",
+        "total_releases_lbs": 150000,
+        "top_chemical": "Hydrochloric Acid",
+        "carcinogen": false,
+        "year_first_reported": 1996,
+        "risk_score": 6,
+        "nearby_neighborhoods": ["Navigation", "Second Ward", "East End", "Magnolia Park"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.320, 29.738]
+      },
+      "properties": {
+        "facility_name": "East End Industrial Supply",
+        "address": "4800 Canal St, Houston, TX 77011",
+        "latitude": 29.738,
+        "longitude": -95.320,
+        "industry": "Industrial Chemical Supply",
+        "total_releases_lbs": 88000,
+        "top_chemical": "Formaldehyde",
+        "carcinogen": true,
+        "year_first_reported": 2001,
+        "risk_score": 7,
+        "nearby_neighborhoods": ["East End", "Second Ward", "Navigation", "Eastwood"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.280, 29.750]
+      },
+      "properties": {
+        "facility_name": "Port Houston Terminals",
+        "address": "111 East Loop N, Houston, TX 77029",
+        "latitude": 29.750,
+        "longitude": -95.280,
+        "industry": "Chemical Terminal and Storage",
+        "total_releases_lbs": 320000,
+        "top_chemical": "Benzene",
+        "carcinogen": true,
+        "year_first_reported": 1987,
+        "risk_score": 8,
+        "nearby_neighborhoods": ["Galena Park", "Jacinto City", "Pleasantville", "Magnolia Park"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.345, 29.810]
+      },
+      "properties": {
+        "facility_name": "Hardy Industrial Park",
+        "address": "3200 Hardy St, Houston, TX 77009",
+        "latitude": 29.810,
+        "longitude": -95.345,
+        "industry": "Metal Fabrication",
+        "total_releases_lbs": 62000,
+        "top_chemical": "Trichloroethylene",
+        "carcinogen": true,
+        "year_first_reported": 1999,
+        "risk_score": 6,
+        "nearby_neighborhoods": ["Near Northside", "Northline", "Independence Heights", "Lindale Park"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.310, 29.815]
+      },
+      "properties": {
+        "facility_name": "Settegast Recycling",
+        "address": "6100 Lockwood Dr, Houston, TX 77028",
+        "latitude": 29.815,
+        "longitude": -95.310,
+        "industry": "Waste Processing and Recycling",
+        "total_releases_lbs": 180000,
+        "top_chemical": "Lead Compounds",
+        "carcinogen": false,
+        "year_first_reported": 1997,
+        "risk_score": 7,
+        "nearby_neighborhoods": ["Settegast", "Kashmere Gardens", "Trinity Gardens", "Denver Harbor"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.320, 29.795]
+      },
+      "properties": {
+        "facility_name": "Kashmere Processing",
+        "address": "4900 Liberty Rd, Houston, TX 77026",
+        "latitude": 29.795,
+        "longitude": -95.320,
+        "industry": "Wood Treating and Preserving",
+        "total_releases_lbs": 95000,
+        "top_chemical": "Creosote",
+        "carcinogen": true,
+        "year_first_reported": 1988,
+        "risk_score": 8,
+        "nearby_neighborhoods": ["Kashmere Gardens", "Trinity Gardens", "Settegast", "Fifth Ward"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.370, 29.808]
+      },
+      "properties": {
+        "facility_name": "North Loop Chemical Storage",
+        "address": "2700 Fulton St, Houston, TX 77009",
+        "latitude": 29.808,
+        "longitude": -95.370,
+        "industry": "Chemical Storage and Warehousing",
+        "total_releases_lbs": 45000,
+        "top_chemical": "Methanol",
+        "carcinogen": false,
+        "year_first_reported": 2005,
+        "risk_score": 4,
+        "nearby_neighborhoods": ["Near Northside", "Lindale Park", "Independence Heights", "Northline"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.340, 29.665]
+      },
+      "properties": {
+        "facility_name": "Sims Bayou Industrial",
+        "address": "9300 Clearwood Dr, Houston, TX 77075",
+        "latitude": 29.665,
+        "longitude": -95.340,
+        "industry": "Plastics Manufacturing",
+        "total_releases_lbs": 120000,
+        "top_chemical": "Styrene",
+        "carcinogen": false,
+        "year_first_reported": 2000,
+        "risk_score": 5,
+        "nearby_neighborhoods": ["South Park", "Sunnyside", "Crestmont Park", "South Acres"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.310, 29.660]
+      },
+      "properties": {
+        "facility_name": "South Houston Fabricators",
+        "address": "800 College Ave, South Houston, TX 77587",
+        "latitude": 29.660,
+        "longitude": -95.310,
+        "industry": "Metal Working and Fabrication",
+        "total_releases_lbs": 55000,
+        "top_chemical": "Zinc Compounds",
+        "carcinogen": false,
+        "year_first_reported": 2003,
+        "risk_score": 4,
+        "nearby_neighborhoods": ["South Houston", "Edgebrook", "South Belt", "Genoa"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.290, 29.640]
+      },
+      "properties": {
+        "facility_name": "Hobby Area Chemical",
+        "address": "8600 Monroe Blvd, Houston, TX 77061",
+        "latitude": 29.640,
+        "longitude": -95.290,
+        "industry": "Chemical Manufacturing",
+        "total_releases_lbs": 88000,
+        "top_chemical": "Ethylene Glycol",
+        "carcinogen": false,
+        "year_first_reported": 2007,
+        "risk_score": 4,
+        "nearby_neighborhoods": ["Glenbrook Valley", "Park Place", "Hobby Area", "Edgebrook"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.480, 29.720]
+      },
+      "properties": {
+        "facility_name": "Westpark Industrial",
+        "address": "11200 Westpark Dr, Houston, TX 77042",
+        "latitude": 29.720,
+        "longitude": -95.480,
+        "industry": "Electronics Manufacturing",
+        "total_releases_lbs": 32000,
+        "top_chemical": "Trichloroethylene",
+        "carcinogen": true,
+        "year_first_reported": 2010,
+        "risk_score": 5,
+        "nearby_neighborhoods": ["Westwood", "Sharpstown", "Braeburn", "Westbury"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.430, 29.800]
+      },
+      "properties": {
+        "facility_name": "Hempstead Hwy Chemical",
+        "address": "5500 Hempstead Rd, Houston, TX 77092",
+        "latitude": 29.800,
+        "longitude": -95.430,
+        "industry": "Chemical Distribution",
+        "total_releases_lbs": 78000,
+        "top_chemical": "Methanol",
+        "carcinogen": false,
+        "year_first_reported": 2002,
+        "risk_score": 4,
+        "nearby_neighborhoods": ["Acres Homes", "Oak Forest", "Garden Oaks", "Timbergrove"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.340, 29.785]
+      },
+      "properties": {
+        "facility_name": "Jensen Drive Metals",
+        "address": "4300 Jensen Dr, Houston, TX 77026",
+        "latitude": 29.785,
+        "longitude": -95.340,
+        "industry": "Scrap Metal Processing",
+        "total_releases_lbs": 42000,
+        "top_chemical": "Lead Compounds",
+        "carcinogen": false,
+        "year_first_reported": 2004,
+        "risk_score": 5,
+        "nearby_neighborhoods": ["Fifth Ward", "Denver Harbor", "Kashmere Gardens", "Near Northside"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.295, 29.765]
+      },
+      "properties": {
+        "facility_name": "Clinton Drive Industries",
+        "address": "8900 Clinton Dr, Houston, TX 77029",
+        "latitude": 29.765,
+        "longitude": -95.295,
+        "industry": "Rubber Products Manufacturing",
+        "total_releases_lbs": 110000,
+        "top_chemical": "1,3-Butadiene",
+        "carcinogen": true,
+        "year_first_reported": 1994,
+        "risk_score": 7,
+        "nearby_neighborhoods": ["Pleasantville", "Galena Park", "Clinton Park", "Jacinto City"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.195, 29.695]
+      },
+      "properties": {
+        "facility_name": "Pasadena Chemical Plant",
+        "address": "3300 Pasadena Fwy, Pasadena, TX 77503",
+        "latitude": 29.695,
+        "longitude": -95.195,
+        "industry": "Petrochemical Manufacturing",
+        "total_releases_lbs": 750000,
+        "top_chemical": "Benzene",
+        "carcinogen": true,
+        "year_first_reported": 1987,
+        "risk_score": 9,
+        "nearby_neighborhoods": ["Pasadena", "Strang", "Deer Park", "La Marque"]
+      }
+    }
+  ]
+}

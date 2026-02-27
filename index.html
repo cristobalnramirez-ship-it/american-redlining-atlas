@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>American Redlining Atlas</title>
+
+  <!-- Leaflet -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- chroma.js for color ramps -->
+  <script src="https://unpkg.com/chroma-js@2.4.2/chroma.min.js"></script>
+
+  <!-- noUiSlider for timeline -->
+  <link rel="stylesheet" href="https://unpkg.com/nouislider@15.7.1/dist/nouislider.min.css" />
+  <script src="https://unpkg.com/nouislider@15.7.1/dist/nouislider.min.js"></script>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header id="header">
+    <div class="header-left">
+      <button id="sidebar-toggle" class="hamburger" aria-label="Toggle layers panel">
+        <span></span><span></span><span></span>
+      </button>
+      <div class="city-selector">
+        <input type="text" id="city-search" placeholder="Search cities..." autocomplete="off">
+        <div id="city-dropdown" class="city-dropdown hidden"></div>
+      </div>
+      <h1 id="atlas-title">American Redlining Atlas</h1>
+    </div>
+    <div class="header-right">
+      <span class="subtitle" id="city-subtitle">Layers of Spatial History</span>
+      <span id="current-decade" class="decade-badge">2020s</span>
+    </div>
+  </header>
+
+  <!-- Layer Control Sidebar -->
+  <aside id="sidebar" class="sidebar">
+    <div class="sidebar-header">
+      <h2>Map Layers</h2>
+    </div>
+    <div class="sidebar-content">
+      <!-- Redlining -->
+      <div class="layer-group" id="group-redlining">
+        <label class="layer-toggle">
+          <input type="checkbox" id="layer-redlining" data-layer="redlining">
+          <span class="toggle-switch"></span>
+          <span class="layer-name">HOLC Redlining <span id="holc-year-label">(1938)</span></span>
+        </label>
+        <div class="layer-legend" id="legend-redlining">
+          <div class="legend-item"><span class="legend-swatch" style="background:#4daf4a"></span> A — Best</div>
+          <div class="legend-item"><span class="legend-swatch" style="background:#377eb8"></span> B — Still Desirable</div>
+          <div class="legend-item"><span class="legend-swatch" style="background:#ffff33"></span> C — Declining</div>
+          <div class="legend-item"><span class="legend-swatch" style="background:#e41a1c"></span> D — Hazardous</div>
+        </div>
+      </div>
+
+      <!-- Highways -->
+      <div class="layer-group" id="group-highways">
+        <label class="layer-toggle">
+          <input type="checkbox" id="layer-highways" data-layer="highways">
+          <span class="toggle-switch"></span>
+          <span class="layer-name">Highways & Displacement</span>
+        </label>
+        <div class="layer-legend" id="legend-highways">
+          <div class="legend-item"><span class="legend-line" style="background:#ff8c00"></span> Highway route</div>
+          <div class="legend-item"><span class="legend-swatch" style="background:rgba(255,140,0,0.15)"></span> Displacement buffer</div>
+        </div>
+      </div>
+
+      <!-- Income -->
+      <div class="layer-group" id="group-income">
+        <label class="layer-toggle">
+          <input type="checkbox" id="layer-income" data-layer="income">
+          <span class="toggle-switch"></span>
+          <span class="layer-name">Median Household Income</span>
+        </label>
+        <div class="layer-legend" id="legend-income">
+          <div class="legend-gradient" id="income-gradient"></div>
+          <div class="legend-range">
+            <span>$20K</span><span>$250K+</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Race -->
+      <div class="layer-group" id="group-race">
+        <label class="layer-toggle">
+          <input type="checkbox" id="layer-race" data-layer="race">
+          <span class="toggle-switch"></span>
+          <span class="layer-name">Race & Ethnicity</span>
+        </label>
+        <div class="layer-legend" id="legend-race">
+          <div class="legend-item"><span class="legend-swatch" style="background:#1b9e77"></span> White majority</div>
+          <div class="legend-item"><span class="legend-swatch" style="background:#d95f02"></span> Black majority</div>
+          <div class="legend-item"><span class="legend-swatch" style="background:#7570b3"></span> Hispanic majority</div>
+          <div class="legend-item"><span class="legend-swatch" style="background:#e7298a"></span> Asian majority</div>
+          <div class="legend-item"><span class="legend-swatch" style="background:#66a61e"></span> No majority (diverse)</div>
+        </div>
+      </div>
+
+      <!-- Flood Zones -->
+      <div class="layer-group" id="group-floods">
+        <label class="layer-toggle">
+          <input type="checkbox" id="layer-floods" data-layer="floods">
+          <span class="toggle-switch"></span>
+          <span class="layer-name">Flood Zones</span>
+        </label>
+        <div class="layer-legend" id="legend-floods">
+          <div class="legend-item"><span class="legend-swatch" style="background:rgba(0,100,255,0.4)"></span> FEMA 100-yr zone</div>
+          <div class="legend-item"><span class="legend-swatch" style="background:rgba(0,100,255,0.15)"></span> 500-yr / storm extent</div>
+        </div>
+      </div>
+
+      <!-- Pollution -->
+      <div class="layer-group" id="group-pollution">
+        <label class="layer-toggle">
+          <input type="checkbox" id="layer-pollution" data-layer="pollution">
+          <span class="toggle-switch"></span>
+          <span class="layer-name">Toxic Release Sites</span>
+        </label>
+        <div class="layer-legend" id="legend-pollution">
+          <div class="legend-item"><span class="legend-circle carcinogen"></span> Carcinogen releases</div>
+          <div class="legend-item"><span class="legend-circle non-carcinogen"></span> Other toxic releases</div>
+        </div>
+      </div>
+
+      <!-- Capital Flow (Houston only) -->
+      <div class="layer-group capital-flow-group" id="group-capital">
+        <label class="layer-toggle">
+          <input type="checkbox" id="layer-capital" data-layer="capital">
+          <span class="toggle-switch"></span>
+          <span class="layer-name">Capital Flow Tracker <span class="layer-badge">NEW</span></span>
+        </label>
+        <div class="layer-legend" id="legend-capital">
+          <div class="capital-selector">
+            <label for="capital-indicator-select" class="capital-select-label">Indicator</label>
+            <select id="capital-indicator-select" class="capital-select">
+              <option value="displacement_risk">Displacement Risk</option>
+              <option value="price_trajectory">Price Trajectory</option>
+              <option value="listing_velocity">Listing Velocity</option>
+              <option value="rental_yield">Rental Yield</option>
+              <option value="investor_activity">Investor Activity</option>
+              <option value="dom_shift">DOM Shift</option>
+              <option value="flip_rate">Flip Rate</option>
+              <option value="affordability_cliff">Affordability Cliff</option>
+            </select>
+          </div>
+          <div class="legend-gradient" id="capital-gradient"></div>
+          <div class="legend-range">
+            <span id="capital-range-min">0</span><span id="capital-range-max">100</span>
+          </div>
+          <p class="capital-desc" id="capital-indicator-desc">Composite score measuring gentrification displacement pressure</p>
+        </div>
+      </div>
+
+      <!-- Political Districts -->
+      <div class="layer-group political-flow-group" id="group-political">
+        <label class="layer-toggle">
+          <input type="checkbox" id="layer-political" data-layer="political">
+          <span class="toggle-switch"></span>
+          <span class="layer-name">Political Districts</span>
+        </label>
+        <div class="layer-legend" id="legend-political">
+          <div class="capital-selector">
+            <label for="political-type-select" class="capital-select-label">District</label>
+            <select id="political-type-select" class="capital-select">
+              <!-- Populated dynamically per city -->
+            </select>
+          </div>
+          <div class="legend-item"><span class="legend-swatch" style="background:#3b82f6"></span> Democrat</div>
+          <div class="legend-item"><span class="legend-swatch" style="background:#ef4444"></span> Republican</div>
+        </div>
+      </div>
+
+      <div class="sidebar-footer">
+        <p class="data-note">See <a href="#" id="about-link">About</a> for data sources.</p>
+      </div>
+    </div>
+  </aside>
+
+  <!-- Map Container -->
+  <div id="map"></div>
+
+  <!-- Info Panel (click a feature) -->
+  <div id="info-panel" class="info-panel hidden">
+    <button id="info-close" class="info-close" aria-label="Close">&times;</button>
+    <div id="info-content"></div>
+  </div>
+
+  <!-- Narrative Card -->
+  <div id="narrative-card" class="narrative-card hidden">
+    <button id="narrative-close" class="narrative-close" aria-label="Dismiss">&times;</button>
+    <div class="narrative-year" id="narrative-year"></div>
+    <h3 id="narrative-title"></h3>
+    <p id="narrative-text"></p>
+  </div>
+
+  <!-- Timeline -->
+  <div id="timeline-container">
+    <div id="timeline-bar">
+      <div id="timeline-slider"></div>
+    </div>
+    <div id="timeline-labels">
+      <!-- Populated dynamically per city -->
+    </div>
+  </div>
+
+  <!-- About Modal -->
+  <div id="about-modal" class="modal hidden">
+    <div class="modal-content">
+      <button class="modal-close" id="modal-close">&times;</button>
+      <h2>About This Map</h2>
+      <p id="about-city-text"></p>
+      <h3>Data Sources</h3>
+      <ul>
+        <li><strong>Redlining:</strong> HOLC maps digitized by the <a href="https://dsl.richmond.edu/panorama/redlining/" target="_blank">Mapping Inequality</a> project</li>
+        <li><strong>Highways:</strong> Historical records of highway construction and community displacement</li>
+        <li><strong>Income & Demographics:</strong> US Census Bureau American Community Survey</li>
+        <li><strong>Flood Zones:</strong> FEMA National Flood Hazard Layer</li>
+        <li><strong>Toxic Releases:</strong> EPA Toxics Release Inventory</li>
+        <li><strong>Political Districts:</strong> <a href="https://tigerweb.geo.census.gov/" target="_blank">Census TIGERweb</a></li>
+      </ul>
+      <p class="note">Income and race 2020 values use real ACS 2022 5-Year data. Historical decades (1970–2010) are modeled estimates. Featured cities include additional curated layers (highways, political districts, timeline narratives).</p>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,173 @@
+[
+  {
+    "year": 1940,
+    "decade": "1940s",
+    "title": "HOLC Redlining Maps Drawn",
+    "description": "The Home Owners' Loan Corporation grades Houston neighborhoods A through D. Black and Mexican-American communities in Third Ward, Fifth Ward, and Second Ward are marked 'Hazardous' (D), denying residents access to federally-backed mortgages.",
+    "category": "redlining",
+    "location": [29.760, -95.370],
+    "layers": ["redlining"]
+  },
+  {
+    "year": 1948,
+    "decade": "1940s",
+    "title": "Gulf Freeway Construction Begins",
+    "description": "I-45 South, the first freeway in Texas, begins construction. It will connect downtown Houston to Galveston, establishing the template for highway-driven development.",
+    "category": "infrastructure",
+    "location": [29.720, -95.350],
+    "layers": ["highways"]
+  },
+  {
+    "year": 1953,
+    "decade": "1950s",
+    "title": "Highways Carve Through East Houston",
+    "description": "Construction of the East Freeway (I-10 East) begins, cutting through Second Ward and Magnolia Park—neighborhoods already redlined a decade earlier. Hundreds of homes and businesses are demolished.",
+    "category": "infrastructure",
+    "location": [29.757, -95.340],
+    "layers": ["highways", "redlining"]
+  },
+  {
+    "year": 1956,
+    "decade": "1950s",
+    "title": "Federal Highway Act Transforms Houston",
+    "description": "The Federal-Aid Highway Act of 1956 provides 90% federal funding for interstate construction. Houston plans a radial highway network centered on downtown, routing freeways through Black and Hispanic neighborhoods where land is cheapest and political resistance weakest.",
+    "category": "infrastructure",
+    "location": [29.760, -95.370],
+    "layers": ["highways"]
+  },
+  {
+    "year": 1959,
+    "decade": "1950s",
+    "title": "Southwest Freeway Bisects Third Ward",
+    "description": "US-59/I-69 construction tears through Third Ward and Midtown, displacing thousands of Black residents. The freeway creates a physical barrier that fragments one of Houston's most established Black communities.",
+    "category": "infrastructure",
+    "location": [29.735, -95.365],
+    "layers": ["highways", "redlining"]
+  },
+  {
+    "year": 1960,
+    "decade": "1960s",
+    "title": "Inner Loop Completed",
+    "description": "I-610 forms a 38-mile loop around central Houston, creating a stark inside/outside divide. Properties inside the loop gain value; communities the loop cuts through—Independence Heights, Eastwood—are disrupted.",
+    "category": "infrastructure",
+    "location": [29.760, -95.370],
+    "layers": ["highways"]
+  },
+  {
+    "year": 1964,
+    "decade": "1960s",
+    "title": "Civil Rights Act Passes",
+    "description": "While the Civil Rights Act outlaws racial discrimination, Houston's spatial inequality is already locked in by redlining maps and highway routes. Segregation persists through infrastructure and lending patterns.",
+    "category": "policy",
+    "location": [29.760, -95.370],
+    "layers": ["redlining", "race"]
+  },
+  {
+    "year": 1970,
+    "decade": "1970s",
+    "title": "Petrochemical Boom Along Ship Channel",
+    "description": "Houston's petrochemical industry expands rapidly along the Ship Channel. Refineries and chemical plants cluster near predominantly Black and Hispanic neighborhoods in East Houston, Manchester, and Galena Park.",
+    "category": "environment",
+    "location": [29.740, -95.260],
+    "layers": ["pollution"]
+  },
+  {
+    "year": 1976,
+    "decade": "1970s",
+    "title": "Tax Day Flood Devastates Meyerland",
+    "description": "Severe flooding along Brays Bayou inundates the Meyerland neighborhood. Despite repeated floods, development continues in Houston's bayou floodplains with minimal regulation.",
+    "category": "environment",
+    "location": [29.695, -95.450],
+    "layers": ["floods"]
+  },
+  {
+    "year": 1980,
+    "decade": "1980s",
+    "title": "White Flight and Suburban Expansion",
+    "description": "Houston's white population increasingly concentrates in suburbs outside Beltway 8—Katy, Sugar Land, Kingwood, Clear Lake. Inner-city neighborhoods see disinvestment as property values and services decline.",
+    "category": "demographics",
+    "location": [29.790, -95.650],
+    "layers": ["race", "income"]
+  },
+  {
+    "year": 1986,
+    "decade": "1980s",
+    "title": "Oil Bust Hits Houston",
+    "description": "The collapse of oil prices devastates Houston's economy. Low-income communities of color, already suffering from disinvestment, are hit hardest. Property values in Fifth Ward, Kashmere Gardens, and Sunnyside plummet.",
+    "category": "economic",
+    "location": [29.778, -95.339],
+    "layers": ["income"]
+  },
+  {
+    "year": 1987,
+    "decade": "1980s",
+    "title": "EPA Toxics Release Inventory Begins",
+    "description": "The first TRI data reveals the scale of toxic pollution in East Houston. Communities near the Ship Channel—Manchester, Galena Park, Harrisburg—face some of the highest toxic exposure in the nation.",
+    "category": "environment",
+    "location": [29.740, -95.260],
+    "layers": ["pollution"]
+  },
+  {
+    "year": 1994,
+    "decade": "1990s",
+    "title": "October Flood of 1994",
+    "description": "Devastating floods along White Oak and Greens Bayous hit northeast Houston hardest—areas that are predominantly Black and Hispanic. FEMA buyout programs begin acquiring properties in flood-prone areas.",
+    "category": "environment",
+    "location": [29.800, -95.310],
+    "layers": ["floods"]
+  },
+  {
+    "year": 2000,
+    "decade": "2000s",
+    "title": "Tropical Storm Allison",
+    "description": "Allison drops 40 inches of rain on Houston in June 2001, causing $9 billion in damage. The Medical Center floods catastrophically. Low-income areas along bayous suffer worst, with the least resources to recover.",
+    "category": "environment",
+    "location": [29.705, -95.400],
+    "layers": ["floods"]
+  },
+  {
+    "year": 2005,
+    "decade": "2000s",
+    "title": "Gentrification Accelerates in Inner Loop",
+    "description": "Heights, Montrose, EaDo, and Midtown see rapid development. Property values soar, pricing out long-time residents. Areas once redlined as 'hazardous' become desirable—but for new, wealthier, whiter populations.",
+    "category": "demographics",
+    "location": [29.790, -95.398],
+    "layers": ["income", "race"]
+  },
+  {
+    "year": 2010,
+    "decade": "2010s",
+    "title": "Houston Becomes Majority-Minority",
+    "description": "Houston is now one of the most ethnically diverse large cities in America. But diversity and integration are different things—racial and economic segregation patterns from the 1940s remain starkly visible.",
+    "category": "demographics",
+    "location": [29.760, -95.370],
+    "layers": ["race"]
+  },
+  {
+    "year": 2016,
+    "decade": "2010s",
+    "title": "Tax Day Flood & Memorial Day Flood",
+    "description": "Two devastating floods hit Houston in April and May 2016. Meyerland floods for the third time in 18 months. Low-income communities in Greens Bayou watershed, already living with industrial pollution, face repeated flood damage.",
+    "category": "environment",
+    "location": [29.695, -95.450],
+    "layers": ["floods"]
+  },
+  {
+    "year": 2017,
+    "decade": "2010s",
+    "title": "Hurricane Harvey",
+    "description": "Harvey drops over 60 inches of rain on Houston—the most extreme rainfall event in US history. Over 300,000 structures flood. Recovery reveals deep inequality: wealthier neighborhoods rebuild quickly while low-income communities of color wait years for assistance. Superfund sites overflow, spreading toxins into neighboring communities.",
+    "category": "environment",
+    "location": [29.760, -95.370],
+    "layers": ["floods", "pollution", "income"]
+  },
+  {
+    "year": 2020,
+    "decade": "2020s",
+    "title": "Inequality Persists",
+    "description": "In 2020, the median household income in River Oaks exceeds $250,000 while in Fifth Ward it's under $28,000—a 9:1 ratio. Life expectancy varies by up to 25 years between Houston ZIP codes. The map of inequality today still echoes the HOLC maps of 1940.",
+    "category": "economic",
+    "location": [29.760, -95.370],
+    "layers": ["income", "race", "redlining"]
+  }
+]

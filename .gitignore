@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Large data (track with LFS or exclude)
+data/holc_national.geojson
+
+# IDE
+.vscode/
+.idea/
+
+# Netlify
+.netlify/
+
+# Environment
+.env

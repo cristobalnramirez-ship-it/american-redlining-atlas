@@ -1,0 +1,39 @@
+{
+  "defaultCity": "nyc",
+  "cities": {
+    "nyc": {
+      "slug": "nyc",
+      "label": "New York City",
+      "state": "NY",
+      "stateFips": "36",
+      "center": [40.7128, -74.006],
+      "zoom": 11,
+      "bbox": [-74.26, 40.49, -73.70, 40.92],
+      "counties": {"061": "NEW YORK", "047": "KINGS", "081": "QUEENS", "005": "BRONX", "085": "RICHMOND"},
+      "holcCities": ["Manhattan", "Brooklyn", "Bronx", "Queens", "Staten Island"],
+      "holcYear": 1938,
+      "decadeMin": 1930,
+      "layers": ["redlining", "highways", "income", "race", "floods", "pollution", "political"],
+      "featured": true,
+      "politicalTypes": ["congressional", "state_senate", "state_assembly", "borough_president", "city_council"],
+      "about": "This map visualizes layers of spatial inequality in New York City, from the 1930s to today. It shows how policies like redlining, Robert Moses-era highway construction, industrial siting, and flood risk have compounded over decades to create persistent patterns of racial and economic segregation."
+    },
+    "houston": {
+      "slug": "houston",
+      "label": "Houston",
+      "state": "TX",
+      "stateFips": "48",
+      "center": [29.760, -95.370],
+      "zoom": 11,
+      "bbox": [-95.80, 29.50, -95.00, 30.10],
+      "counties": {"201": "HARRIS"},
+      "holcCities": ["Houston"],
+      "holcYear": 1940,
+      "decadeMin": 1940,
+      "layers": ["redlining", "highways", "income", "race", "floods", "pollution", "political", "capital"],
+      "featured": true,
+      "politicalTypes": ["congressional", "state_senate", "state_house", "commissioner", "city_council"],
+      "about": "This map visualizes layers of spatial inequality in Houston, from the 1940s to today. It shows how policies like redlining, highway construction through minority neighborhoods, petrochemical pollution, and recurring floods have compounded over decades to shape persistent patterns of racial and economic segregation."
+    }
+  }
+}
