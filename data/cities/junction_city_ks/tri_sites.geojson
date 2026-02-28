@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7025,
+          39.10944444444445
+        ]
+      },
+      "properties": {
+        "facility_name": "GENMAR MANUFACTURING OF KANSAS LLC",
+        "industry": "",
+        "tri_facility_id": "66441GNMRM2321N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.82194444444444,
+          39.032777777777774
+        ]
+      },
+      "properties": {
+        "facility_name": "ALCOA FUJIKURA LTD",
+        "industry": "",
+        "tri_facility_id": "66441LCFJK1002N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.86416666666666,
+          39.01694444444444
+        ]
+      },
+      "properties": {
+        "facility_name": "SMITHFIELD MEATS",
+        "industry": "",
+        "tri_facility_id": "66441RMRSW1920L",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.783333,
+          39.066667
+        ]
+      },
+      "properties": {
+        "facility_name": "US ARMY FORT RILEY-GARRISON",
+        "industry": "",
+        "tri_facility_id": "66442SDDSRAFZNE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

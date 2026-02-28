@@ -1,0 +1,2315 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.637778,
+          30.321667
+        ]
+      },
+      "properties": {
+        "facility_name": "BENJAMIN MOORE & CO JACKSONVILLE",
+        "industry": "",
+        "tri_facility_id": "32202BNJMN1436E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6316,
+          30.2909
+        ]
+      },
+      "properties": {
+        "facility_name": "JACKSONVILLE SHIPYARDS INC",
+        "industry": "",
+        "tri_facility_id": "32203JCKSN750EB",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.65,
+          30.324167
+        ]
+      },
+      "properties": {
+        "facility_name": "MAXWELL HOUSE COFFEE CO",
+        "industry": "",
+        "tri_facility_id": "32203MXWLL735EA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.713889,
+          30.3625
+        ]
+      },
+      "properties": {
+        "facility_name": "AETNA STEEL CO",
+        "industry": "",
+        "tri_facility_id": "32203TNSTL5007N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.683889,
+          30.329444
+        ]
+      },
+      "properties": {
+        "facility_name": "BARRIER INDUSTRIES INC BARRIER S DIV",
+        "industry": "",
+        "tri_facility_id": "32204BRRRN2433H",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.676068,
+          30.335921
+        ]
+      },
+      "properties": {
+        "facility_name": "A A FIBERGLASS INC",
+        "industry": "",
+        "tri_facility_id": "32204FBRGL825NM",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.691596,
+          30.329491
+        ]
+      },
+      "properties": {
+        "facility_name": "JACKSONVILLE WELDING SUPPLY  INC",
+        "industry": "",
+        "tri_facility_id": "32204FLRDC150ST",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.67666666666668,
+          30.334999999999997
+        ]
+      },
+      "properties": {
+        "facility_name": "PAN GLO FLORIDA",
+        "industry": "",
+        "tri_facility_id": "32204PN6101341V",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.68527777777778,
+          30.329166666666666
+        ]
+      },
+      "properties": {
+        "facility_name": "PROGRESSIVE INK CO LLC",
+        "industry": "",
+        "tri_facility_id": "32204PRGRS108CO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.691111,
+          30.3275
+        ]
+      },
+      "properties": {
+        "facility_name": "TOWNSEND FARMS INC",
+        "industry": "",
+        "tri_facility_id": "32204TWNSN2400M",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.751111,
+          30.331944
+        ]
+      },
+      "properties": {
+        "facility_name": "CLEANERS HANGER CO",
+        "industry": "",
+        "tri_facility_id": "32205CLNRS735NO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.740556,
+          30.323889
+        ]
+      },
+      "properties": {
+        "facility_name": "TYSON FOODS INC JACKSONVILLE PROCESSING PLANT",
+        "industry": "",
+        "tri_facility_id": "32205CRGLL5421W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.75,
+          30.341667
+        ]
+      },
+      "properties": {
+        "facility_name": "L&P MATERIALS MANUFACTURING INC",
+        "industry": "",
+        "tri_facility_id": "32205DCMWR925NO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.759722,
+          30.336111
+        ]
+      },
+      "properties": {
+        "facility_name": "FLINT INK CORP",
+        "industry": "",
+        "tri_facility_id": "32205FLNTN5560D",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.75,
+          30.333333
+        ]
+      },
+      "properties": {
+        "facility_name": "FLORIDA WIRE & CABLE INC",
+        "industry": "",
+        "tri_facility_id": "32205FLRDW825NO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6481,
+          30.3277
+        ]
+      },
+      "properties": {
+        "facility_name": "FLAV-O-RICH INC",
+        "industry": "",
+        "tri_facility_id": "32205FLVRC2903C",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7287,
+          30.3054
+        ]
+      },
+      "properties": {
+        "facility_name": "FLORIDA COCA-COLA BOTTLING CO",
+        "industry": "",
+        "tri_facility_id": "32205JCKSN1411H",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7287,
+          30.3054
+        ]
+      },
+      "properties": {
+        "facility_name": "AMERICAN NATIONAL CAN CO JACKSONVILLE FACILITY",
+        "industry": "",
+        "tri_facility_id": "32205MRCNN3331W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.744444,
+          30.338611
+        ]
+      },
+      "properties": {
+        "facility_name": "METAL CONTAINER CORP-JACKSONVILLE CAN PLANT",
+        "industry": "",
+        "tri_facility_id": "32205MTLCN1100N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.713333,
+          30.349444
+        ]
+      },
+      "properties": {
+        "facility_name": "ANCHOR GLASS CONTAINER CORP-JACKSONVILLE",
+        "industry": "",
+        "tri_facility_id": "32205NCHRG2121H",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.748056,
+          30.348611
+        ]
+      },
+      "properties": {
+        "facility_name": "IFF CHEMICAL HOLDINGS INC",
+        "industry": "",
+        "tri_facility_id": "32205NNCMP2051N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.736111,
+          30.341667
+        ]
+      },
+      "properties": {
+        "facility_name": "SUN CHEMICAL CORP US INK DIV",
+        "industry": "",
+        "tri_facility_id": "32205NTDST5200S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.701886,
+          30.330174
+        ]
+      },
+      "properties": {
+        "facility_name": "APPERSON CHEMICALS INC",
+        "industry": "",
+        "tri_facility_id": "32205PPRSN2903S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.718333,
+          30.328889
+        ]
+      },
+      "properties": {
+        "facility_name": "AMREP AUTOMOTIVE PRODUCTS GROUP",
+        "industry": "",
+        "tri_facility_id": "32205PTRCH2910W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7375,
+          30.315278
+        ]
+      },
+      "properties": {
+        "facility_name": "ROUX HABALORIES REVLON PROFESSIONAL PRODUCTS",
+        "industry": "",
+        "tri_facility_id": "32205RVLNP5344O",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.76,
+          30.318056
+        ]
+      },
+      "properties": {
+        "facility_name": "HOLCIM SOLUTIONS & PRODUCTS (US) LLC",
+        "industry": "",
+        "tri_facility_id": "32205THRML6831S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.717778,
+          30.343056
+        ]
+      },
+      "properties": {
+        "facility_name": "WIS-PAK FOODS",
+        "industry": "",
+        "tri_facility_id": "32205WSPKF5441W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.625,
+          30.360277777777778
+        ]
+      },
+      "properties": {
+        "facility_name": "COASTAL FUELS MARKETING INC JACKSONVILLE TERMINAL",
+        "industry": "",
+        "tri_facility_id": "32206CSTLF3529T",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.64111111111112,
+          30.355555555555558
+        ]
+      },
+      "properties": {
+        "facility_name": "CUSTOM PROPULSION SYSTEMS",
+        "industry": "",
+        "tri_facility_id": "32206CSTMP2900P",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.653611,
+          30.348889
+        ]
+      },
+      "properties": {
+        "facility_name": "DOZIER & GAY PAINT CO",
+        "industry": "",
+        "tri_facility_id": "32206DZRGY2245N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.633333,
+          30.340278
+        ]
+      },
+      "properties": {
+        "facility_name": "FMC CORP",
+        "industry": "",
+        "tri_facility_id": "32206FMCCR1200T",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.62222222222222,
+          30.359444444444446
+        ]
+      },
+      "properties": {
+        "facility_name": "CHEVRON JACKSONVILLE TERMINAL",
+        "industry": "",
+        "tri_facility_id": "32206JCKSN3117T",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.626944,
+          30.364167
+        ]
+      },
+      "properties": {
+        "facility_name": "JEFFERSON SMURFIT CORP",
+        "industry": "",
+        "tri_facility_id": "32206JFFRS1915W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.626944,
+          30.340833
+        ]
+      },
+      "properties": {
+        "facility_name": "JCI JONES CHEMICALS INC.",
+        "industry": "",
+        "tri_facility_id": "32206JNSCH1433T",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.60694444444444,
+          30.364444444444445
+        ]
+      },
+      "properties": {
+        "facility_name": "KENNEDY GENERATING STATION",
+        "industry": "",
+        "tri_facility_id": "32206KNNDY4215T",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.083333,
+          89.916667
+        ]
+      },
+      "properties": {
+        "facility_name": "ALL-BRITE SALES CO",
+        "industry": "",
+        "tri_facility_id": "32206LLBRT2204H",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.64861111111112,
+          30.319166666666668
+        ]
+      },
+      "properties": {
+        "facility_name": "SWISHER INTERNATIONAL INC",
+        "industry": "",
+        "tri_facility_id": "32206SWSHR459E1",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.631389,
+          30.336667
+        ]
+      },
+      "properties": {
+        "facility_name": "OWENS CORNING",
+        "industry": "",
+        "tri_facility_id": "32206WNSCR1035T",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.620556,
+          30.360833
+        ]
+      },
+      "properties": {
+        "facility_name": "WITCO CORP LUBRICANTS BUSINESS UNIT",
+        "industry": "",
+        "tri_facility_id": "32206WTCCR3101T",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.631889,
+          30.2738
+        ]
+      },
+      "properties": {
+        "facility_name": "BASTECH LLC",
+        "industry": "",
+        "tri_facility_id": "32207BSTCH3211P",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.626389,
+          30.270833
+        ]
+      },
+      "properties": {
+        "facility_name": "DELUXE CHECK PRINTERS INC",
+        "industry": "",
+        "tri_facility_id": "32207DLXCH3044M",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0,
+          31.0
+        ]
+      },
+      "properties": {
+        "facility_name": "FLORIDA CUSTOM MARBLE INC",
+        "industry": "",
+        "tri_facility_id": "32207FLRDC4566S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.64888888888889,
+          30.648888888888887
+        ]
+      },
+      "properties": {
+        "facility_name": "SOUTHSIDE GENERATING STATION",
+        "industry": "",
+        "tri_facility_id": "32207STHSD801BR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.620833,
+          30.265278
+        ]
+      },
+      "properties": {
+        "facility_name": "ALTIVITY PACKAGING",
+        "industry": "",
+        "tri_facility_id": "32207STLLP3389P",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.660556,
+          30.311667
+        ]
+      },
+      "properties": {
+        "facility_name": "VISTAKON J & J VISION PRODUCTS INC",
+        "industry": "",
+        "tri_facility_id": "32207VSTKN1417S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63527777777779,
+          30.38111111111111
+        ]
+      },
+      "properties": {
+        "facility_name": "US GYPSUM CO.",
+        "industry": "",
+        "tri_facility_id": "32208NTDST6825E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6726,
+          30.3739
+        ]
+      },
+      "properties": {
+        "facility_name": "SYMRISE AG JACKSONVILLE",
+        "industry": "",
+        "tri_facility_id": "32208SCMGL601CR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.71343,
+          30.359792
+        ]
+      },
+      "properties": {
+        "facility_name": "GENERAL MOTORS CORP ELECTRO-MOTIVE DIV",
+        "industry": "",
+        "tri_facility_id": "32209GMCLC3545N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.677778,
+          30.337778
+        ]
+      },
+      "properties": {
+        "facility_name": "LOAD KING MANUFACTURING CO",
+        "industry": "",
+        "tri_facility_id": "32209LDKNG1357W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.698611,
+          30.332222
+        ]
+      },
+      "properties": {
+        "facility_name": "WWF OPERATING CO LLC",
+        "industry": "",
+        "tri_facility_id": "32209LNGLF2198W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.695529,
+          30.363942
+        ]
+      },
+      "properties": {
+        "facility_name": "TIFFANY MARBLE & CREATIONS INC",
+        "industry": "",
+        "tri_facility_id": "32209TFFNY4226S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686944,
+          30.353333
+        ]
+      },
+      "properties": {
+        "facility_name": "WOOD TREATERS LLC",
+        "industry": "",
+        "tri_facility_id": "32209WDTRT2610F",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.69861111111112,
+          30.33222222222222
+        ]
+      },
+      "properties": {
+        "facility_name": "WWF OPERATING CO LLC",
+        "industry": "",
+        "tri_facility_id": "32209WHTWV2262W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.74944444444445,
+          30.34111111111111
+        ]
+      },
+      "properties": {
+        "facility_name": "SOUTHERN LUMBER & TREATING CO INC",
+        "industry": "",
+        "tri_facility_id": "32210STHRN1433L",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.683333,
+          30.225
+        ]
+      },
+      "properties": {
+        "facility_name": "US NAVY NAVAL AIR STATION JACKSONVILLE",
+        "industry": "",
+        "tri_facility_id": "32212SDDSN6500R",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.60629,
+          30.263609
+        ]
+      },
+      "properties": {
+        "facility_name": "PEPSI BOTTLING GROUP",
+        "industry": "",
+        "tri_facility_id": "32216PPSCL5829P",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.518592,
+          30.280768
+        ]
+      },
+      "properties": {
+        "facility_name": "PTC AEROSPACE",
+        "industry": "",
+        "tri_facility_id": "32216PTCRS11710",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.605522,
+          30.264119
+        ]
+      },
+      "properties": {
+        "facility_name": "TIFFANY MARBLE & CREATIONS INC",
+        "industry": "",
+        "tri_facility_id": "32216TFFNY5880P",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.591413,
+          30.252978
+        ]
+      },
+      "properties": {
+        "facility_name": "MEDTRONIC XOMED LLC",
+        "industry": "",
+        "tri_facility_id": "32216XMDTR6743S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.620833,
+          30.265278
+        ]
+      },
+      "properties": {
+        "facility_name": "MALNOVE INC FLORIDA",
+        "industry": "",
+        "tri_facility_id": "32217MLNVN4115U",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.611182,
+          30.262662
+        ]
+      },
+      "properties": {
+        "facility_name": "VISTAKON INC",
+        "industry": "",
+        "tri_facility_id": "32217VSTKN5985R",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.646667,
+          30.476389
+        ]
+      },
+      "properties": {
+        "facility_name": "BRADDOCKMETALLURGICAL INC.",
+        "industry": "",
+        "tri_facility_id": "32218BRDDC14600",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.655,
+          30.47694444444444
+        ]
+      },
+      "properties": {
+        "facility_name": "COACH SERVICES INC",
+        "industry": "",
+        "tri_facility_id": "32218CCHLT1COAC",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.60694444444444,
+          30.423333333333336
+        ]
+      },
+      "properties": {
+        "facility_name": "CEDAR BAY GENERATING CO LP",
+        "industry": "",
+        "tri_facility_id": "32218CDRBY9640E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.635575,
+          30.458812
+        ]
+      },
+      "properties": {
+        "facility_name": "CASTLETON BEVERAGE CORP",
+        "industry": "",
+        "tri_facility_id": "32218CSTLT12200",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.644722,
+          30.434167
+        ]
+      },
+      "properties": {
+        "facility_name": "ANHEUSER BUSCH-JACKSONVILLE BREWERY",
+        "industry": "",
+        "tri_facility_id": "32218NHSRB111BU",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.66722222222222,
+          30.46722222222222
+        ]
+      },
+      "properties": {
+        "facility_name": "ENKEI FLORIDA INC.",
+        "industry": "",
+        "tri_facility_id": "32218NKFLR141WH",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.605556,
+          30.425
+        ]
+      },
+      "properties": {
+        "facility_name": "WESTROCK CP LLC",
+        "industry": "",
+        "tri_facility_id": "32218SMNLK9469E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.522778,
+          30.405556
+        ]
+      },
+      "properties": {
+        "facility_name": "GOODRICH CORP",
+        "industry": "",
+        "tri_facility_id": "32218THBFG6061B",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.781389,
+          30.380556
+        ]
+      },
+      "properties": {
+        "facility_name": "BENJAMIN MOORE & CO",
+        "industry": "",
+        "tri_facility_id": "32219BMCJC4831B",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.73861111111111,
+          30.38277777777778
+        ]
+      },
+      "properties": {
+        "facility_name": "OLDCASTLE PRECAST INC",
+        "industry": "",
+        "tri_facility_id": "32219LDCST5995S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.738056,
+          30.384722
+        ]
+      },
+      "properties": {
+        "facility_name": "POLYPURE INC",
+        "industry": "",
+        "tri_facility_id": "32219LLDSG5930S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7816,
+          30.3934
+        ]
+      },
+      "properties": {
+        "facility_name": "METALPLATE GALVANIZING LP",
+        "industry": "",
+        "tri_facility_id": "32219MTLPL7123M",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.875,
+          30.305556
+        ]
+      },
+      "properties": {
+        "facility_name": "TYSON FOODS INC FEED MILL",
+        "industry": "",
+        "tri_facility_id": "32220CRGLL114HA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7786,
+          30.3224
+        ]
+      },
+      "properties": {
+        "facility_name": "DANTZLER INC",
+        "industry": "",
+        "tri_facility_id": "32220DNTZL7850W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.794167,
+          30.3175
+        ]
+      },
+      "properties": {
+        "facility_name": "FLUIDRA USA LLC",
+        "industry": "",
+        "tri_facility_id": "32220FLFBN8525M",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.863333,
+          30.303056
+        ]
+      },
+      "properties": {
+        "facility_name": "TRINITY INDUSTRIES INC",
+        "industry": "",
+        "tri_facility_id": "32220TRNTY11934",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.40166666666667,
+          30.314444444444444
+        ]
+      },
+      "properties": {
+        "facility_name": "WEST FRASER INC WHITEHOUSE LUMBER MILL",
+        "industry": "",
+        "tri_facility_id": "32220WHTHS109HA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.846389,
+          30.316111
+        ]
+      },
+      "properties": {
+        "facility_name": "CMC REBAR",
+        "industry": "",
+        "tri_facility_id": "32220WNSTL10483",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.44166666666668,
+          30.34722222222222
+        ]
+      },
+      "properties": {
+        "facility_name": "MCK TERMINALS LLC - JACKSONVILLE FL TERMINAL",
+        "industry": "",
+        "tri_facility_id": "32226BPXPL2101H",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.44166666666668,
+          30.34722222222222
+        ]
+      },
+      "properties": {
+        "facility_name": "AMOCO OIL CO",
+        "industry": "",
+        "tri_facility_id": "32226MCLC02054H",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.59666666666666,
+          30.41333333333333
+        ]
+      },
+      "properties": {
+        "facility_name": "BUCKEYE TERMINALS, LLC - JACKSONVILLE TERMINAL",
+        "industry": "",
+        "tri_facility_id": "32226MRDHS2617H",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.516667,
+          30.4
+        ]
+      },
+      "properties": {
+        "facility_name": "US DOD MARINE CORPS BLOUNT ISLAND COMMAND",
+        "industry": "",
+        "tri_facility_id": "32226SMCBL5880C",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55083333333333,
+          30.430833333333336
+        ]
+      },
+      "properties": {
+        "facility_name": "NORTHSIDE GENERATING STATION",
+        "industry": "",
+        "tri_facility_id": "32226STJHN11201",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.441667,
+          30.384722
+        ]
+      },
+      "properties": {
+        "facility_name": "ATLANTIC DRY DOCK CORP",
+        "industry": "",
+        "tri_facility_id": "32226TLNTC8500A",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.441667,
+          30.384722
+        ]
+      },
+      "properties": {
+        "facility_name": "BAE SYSTEMS JACKSONVILLE SHIP REPAIR LLC",
+        "industry": "",
+        "tri_facility_id": "32226TLNTC8500H",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.414444,
+          30.391111
+        ]
+      },
+      "properties": {
+        "facility_name": "U.S. NAVY NAVAL STATION MAYPORT",
+        "industry": "",
+        "tri_facility_id": "32228NVLSTOLDMA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.417778,
+          30.335556
+        ]
+      },
+      "properties": {
+        "facility_name": "FOWLER MANUFACTURING INC FOWLER FIBERGLASS GRATING INC",
+        "industry": "",
+        "tri_facility_id": "32233FWLRM95LEV",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.975,
+          30.283333
+        ]
+      },
+      "properties": {
+        "facility_name": "CMC STEEL FLORIDA",
+        "industry": "",
+        "tri_facility_id": "32234FLRDSHWY21",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.94861111111112,
+          30.320555555555554
+        ]
+      },
+      "properties": {
+        "facility_name": "JEA BRANDY BRANCH GENERATING STATION",
+        "industry": "",
+        "tri_facility_id": "32234JBRND1MINU",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.972587,
+          30.309011
+        ]
+      },
+      "properties": {
+        "facility_name": "SOUTHERN WOOD PIEDMONT CO",
+        "industry": "",
+        "tri_facility_id": "32234STHRN900NC",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.745833,
+          30.325
+        ]
+      },
+      "properties": {
+        "facility_name": "POLYNT COMPOSITES USA INC.",
+        "industry": "",
+        "tri_facility_id": "32236RCHHLWESTB",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.73527777777778,
+          30.32472222222222
+        ]
+      },
+      "properties": {
+        "facility_name": "BLUE ARROW PRODS INC",
+        "industry": "",
+        "tri_facility_id": "32254BLRRW5244E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.75472222222223,
+          30.32027777777778
+        ]
+      },
+      "properties": {
+        "facility_name": "CRH AMERICAS INC.",
+        "industry": "",
+        "tri_facility_id": "32254BNSLM6659H",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.755,
+          30.3125
+        ]
+      },
+      "properties": {
+        "facility_name": "CANAM STEEL CORP JACKSONVILLE PLANT",
+        "industry": "",
+        "tri_facility_id": "32254CNMST140SO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.65583333333333,
+          30.331944444444446
+        ]
+      },
+      "properties": {
+        "facility_name": "CORK INDUSTRIES",
+        "industry": "",
+        "tri_facility_id": "32254CRKND5555W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.74833333333333,
+          30.322499999999998
+        ]
+      },
+      "properties": {
+        "facility_name": "CATERPILLAR WORK TOOLS",
+        "industry": "",
+        "tri_facility_id": "32254CTRPL5801H",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.74,
+          30.321667
+        ]
+      },
+      "properties": {
+        "facility_name": "FLINT INK CORP",
+        "industry": "",
+        "tri_facility_id": "32254FLNTN5409H",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.743056,
+          30.343611
+        ]
+      },
+      "properties": {
+        "facility_name": "JAMES RIVER PAPER CO HANDI KUP",
+        "industry": "",
+        "tri_facility_id": "32254JMSRV5355S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.75222222222222,
+          30.325
+        ]
+      },
+      "properties": {
+        "facility_name": "HOT BOX",
+        "industry": "",
+        "tri_facility_id": "32254NFNCH250LA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.744722,
+          30.349722
+        ]
+      },
+      "properties": {
+        "facility_name": "JOHNS MANVILLE JACKSONVILLE",
+        "industry": "",
+        "tri_facility_id": "32254NRGBR5510W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.32138888888889,
+          30.58611111111111
+        ]
+      },
+      "properties": {
+        "facility_name": "UNIVAR USA INC JACKSONVILLE FA CILITY",
+        "industry": "",
+        "tri_facility_id": "32254PPRSN155EL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.74972222222222,
+          30.343055555555555
+        ]
+      },
+      "properties": {
+        "facility_name": "AIRGAS USA LLC",
+        "industry": "",
+        "tri_facility_id": "32254RPRDS5837W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.73722222222223,
+          30.345555555555553
+        ]
+      },
+      "properties": {
+        "facility_name": "SYSCO FOOD SERVICES JACKSONVILLE INC.",
+        "industry": "",
+        "tri_facility_id": "32254SYSCF151LE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.71388888888889,
+          30.343333333333334
+        ]
+      },
+      "properties": {
+        "facility_name": "VOPAK USA INC",
+        "industry": "",
+        "tri_facility_id": "32254VNWTR2783W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.581389,
+          30.232222
+        ]
+      },
+      "properties": {
+        "facility_name": "UNISON INDUSTRIES LLC",
+        "industry": "",
+        "tri_facility_id": "32256LLDSG7575B",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.529989,
+          30.155897
+        ]
+      },
+      "properties": {
+        "facility_name": "EMPIRE MARBLE CO INC",
+        "industry": "",
+        "tri_facility_id": "32256MPRMR11750",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58222222222221,
+          30.248055555555556
+        ]
+      },
+      "properties": {
+        "facility_name": "SOURCEONE HEALTHCARE TECHNOLOGIES INC",
+        "industry": "",
+        "tri_facility_id": "32256SRCNH718AC",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.568183,
+          30.189268
+        ]
+      },
+      "properties": {
+        "facility_name": "FLORIDA STEEL CORP JACKSONVILLE REINFORCING STEEL",
+        "industry": "",
+        "tri_facility_id": "32258FLRDS9625F",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.313056,
+          30.313056
+        ]
+      },
+      "properties": {
+        "facility_name": "PUBLIX SUPER MARKETS INC JACKSONVILLE FACILITY",
+        "industry": "",
+        "tri_facility_id": "32321PBLXJ9786W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.880556,
+          36.922222
+        ]
+      },
+      "properties": {
+        "facility_name": "BAYLINER MARINE CORP",
+        "industry": "",
+        "tri_facility_id": "74354BYLNR300NE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.900847,
+          36.903389
+        ]
+      },
+      "properties": {
+        "facility_name": "TRACKER MARINE LLC",
+        "industry": "",
+        "tri_facility_id": "74354BYLNR3807M",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.880556,
+          36.925
+        ]
+      },
+      "properties": {
+        "facility_name": "BAYLINER MARINE CORP",
+        "industry": "",
+        "tri_facility_id": "74354BYLNR805PI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.87666666666667,
+          36.88444444444444
+        ]
+      },
+      "properties": {
+        "facility_name": "EAGLE-PICHER TECHNOLOGIES LLC",
+        "industry": "",
+        "tri_facility_id": "74354GLPCH200BJ",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.876667,
+          36.884444
+        ]
+      },
+      "properties": {
+        "facility_name": "EP SCIENTIFIC PRODUCTS LLC",
+        "industry": "",
+        "tri_facility_id": "74354GLPCH520NO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8875,
+          36.909166666666664
+        ]
+      },
+      "properties": {
+        "facility_name": "STEELCRAFT INDUSTRIES LLC",
+        "industry": "",
+        "tri_facility_id": "74354STLCR50530",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.766667,
+          36.976667
+        ]
+      },
+      "properties": {
+        "facility_name": "3M TECHNICAL CERAMICS INC.",
+        "industry": "",
+        "tri_facility_id": "74363GLPCH1MILE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.763889,
+          36.979167
+        ]
+      },
+      "properties": {
+        "facility_name": "UMICORE OPTICAL MATERIALS USA INC.",
+        "industry": "",
+        "tri_facility_id": "74363GLPCHHIGHW",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

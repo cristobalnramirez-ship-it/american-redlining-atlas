@@ -1,0 +1,530 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28361111111111,
+          40.995
+        ]
+      },
+      "properties": {
+        "facility_name": "FERGUSON PERFORATING CO  INC",
+        "industry": "",
+        "tri_facility_id": "16101FRGSN2165C",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.35277777777777,
+          40.99027777777778
+        ]
+      },
+      "properties": {
+        "facility_name": "ELLWOOD MILL PRODUCTS",
+        "industry": "",
+        "tri_facility_id": "16101LLWDC712MO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.35,
+          40.983333
+        ]
+      },
+      "properties": {
+        "facility_name": "ELLWOOD QUALITY STEELS CO",
+        "industry": "",
+        "tri_facility_id": "16101LLWDD700MO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.295,
+          40.86055555555556
+        ]
+      },
+      "properties": {
+        "facility_name": "NORTH AMERICAN FORGEMASTERS",
+        "industry": "",
+        "tri_facility_id": "16101NRTHM710MO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.293333,
+          40.997222
+        ]
+      },
+      "properties": {
+        "facility_name": "SUPERIOR FORGE & STEEL CORP",
+        "industry": "",
+        "tri_facility_id": "16101QLTYRRD621",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.301389,
+          40.979722
+        ]
+      },
+      "properties": {
+        "facility_name": "US CAN CO PLANT 45 NEW CASTLE",
+        "industry": "",
+        "tri_facility_id": "16101SCNCP1902O",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.376944,
+          40.960278
+        ]
+      },
+      "properties": {
+        "facility_name": "PRAXIS COS LLC",
+        "industry": "",
+        "tri_facility_id": "16102NVRSLEASDT",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.35416666666666,
+          40.98166666666667
+        ]
+      },
+      "properties": {
+        "facility_name": "NEW CASTLE FOUNDRY CO",
+        "industry": "",
+        "tri_facility_id": "16102NWCST400HO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.35,
+          41.0
+        ]
+      },
+      "properties": {
+        "facility_name": "UNIVERSAL-RUNDLE CORP PRODDEVELOPMENT LAB",
+        "industry": "",
+        "tri_facility_id": "16102PRDCTECHER",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.375,
+          40.9375
+        ]
+      },
+      "properties": {
+        "facility_name": "NEW CASTLE POWER PLANT",
+        "industry": "",
+        "tri_facility_id": "16103FRSTN1EWAS",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.361111,
+          40.980278
+        ]
+      },
+      "properties": {
+        "facility_name": "ROCKWELL INTL CORP",
+        "industry": "",
+        "tri_facility_id": "16103RCKWLONERO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.356667,
+          41.006111
+        ]
+      },
+      "properties": {
+        "facility_name": "SYRACUSE CHINA CORP SHENANGO CHINA DIV",
+        "industry": "",
+        "tri_facility_id": "16103SHNNGPOBOX",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.354444,
+          41.082222
+        ]
+      },
+      "properties": {
+        "facility_name": "LINDE ADVANCED MATERIAL TECHNOLOGIES INC.",
+        "industry": "",
+        "tri_facility_id": "16105NNCRBRD3WI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3609,
+          41.0692
+        ]
+      },
+      "properties": {
+        "facility_name": "NEW CASTLE BATTERY MANUFACTURING CO",
+        "industry": "",
+        "tri_facility_id": "16105NWCST3601W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.316111,
+          40.986389
+        ]
+      },
+      "properties": {
+        "facility_name": "FLOWLINE DIV EZEFLOW USA INC.",
+        "industry": "",
+        "tri_facility_id": "16107FLWLN1400N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.489444,
+          40.974167
+        ]
+      },
+      "properties": {
+        "facility_name": "ESSROC CEMENT CORP",
+        "industry": "",
+        "tri_facility_id": "16112SSRCM2NDST",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.485556,
+          41.013056
+        ]
+      },
+      "properties": {
+        "facility_name": "WAMPUM HARDWARE CO",
+        "industry": "",
+        "tri_facility_id": "16116WMPMHRD1XX",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2642,
+          40.8643
+        ]
+      },
+      "properties": {
+        "facility_name": "ELLWOOD CITY FORGE CORP",
+        "industry": "",
+        "tri_facility_id": "16117LLWDCCOMME",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.280833,
+          40.856111
+        ]
+      },
+      "properties": {
+        "facility_name": "EMESS LIGHTING INC",
+        "industry": "",
+        "tri_facility_id": "16117LSYMN1EARL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.276944,
+          40.856944
+        ]
+      },
+      "properties": {
+        "facility_name": "INTERNATIONAL METALS RECLAMATION CO LLC INMETCO",
+        "industry": "",
+        "tri_facility_id": "16117NTRNTSR488",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2595,
+          40.866333
+        ]
+      },
+      "properties": {
+        "facility_name": "PRECISION METAL PRODUCTS",
+        "industry": "",
+        "tri_facility_id": "16117PRCSNJAMIS",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36,
+          41.11944444444445
+        ]
+      },
+      "properties": {
+        "facility_name": "DAIRY FARMERS OF AMERICA INC",
+        "industry": "",
+        "tri_facility_id": "16142DRYFRRR1BO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.433333,
+          41.118056
+        ]
+      },
+      "properties": {
+        "facility_name": "YOUNG GALVANIZING INC",
+        "industry": "",
+        "tri_facility_id": "16143YNGGLPOBOX",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.323889,
+          40.878333
+        ]
+      },
+      "properties": {
+        "facility_name": "CEMEX CONSTRUCTION MATERIALS ATLANTIC LLC",
+        "industry": "",
+        "tri_facility_id": "16157MDSCMROUTE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.371111,
+          40.934444
+        ]
+      },
+      "properties": {
+        "facility_name": "REACTIVE METALS & ALLOYS CORP",
+        "industry": "",
+        "tri_facility_id": "16160RCTVMRTE16",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

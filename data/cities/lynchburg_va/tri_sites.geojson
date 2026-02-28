@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.045944,
+          37.5879
+        ]
+      },
+      "properties": {
+        "facility_name": "GREIF PACKAGING LLC",
+        "industry": "",
+        "tri_facility_id": "24521VRGNFROUTE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.123056,
+          37.448333
+        ]
+      },
+      "properties": {
+        "facility_name": "BORAL BRICKS INC",
+        "industry": "",
+        "tri_facility_id": "24572BRLBRMITCH",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.123611,
+          37.508333
+        ]
+      },
+      "properties": {
+        "facility_name": "COOPER STEEL OF VIRGINIA",
+        "industry": "",
+        "tri_facility_id": "24574LYNCHRT29N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

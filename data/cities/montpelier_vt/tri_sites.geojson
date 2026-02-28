@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.50777777777778,
+          44.2
+        ]
+      },
+      "properties": {
+        "facility_name": "HP HOOD LLC",
+        "industry": "",
+        "tri_facility_id": "05641HPHDB219AL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.51527777777778,
+          44.205555555555556
+        ]
+      },
+      "properties": {
+        "facility_name": "SAFETY-KLEEN SYSTEMS BARRE (BVT)",
+        "industry": "",
+        "tri_facility_id": "05641SFTYK23WSE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.314444,
+          44.4
+        ]
+      },
+      "properties": {
+        "facility_name": "CABOT CREAMERY",
+        "industry": "",
+        "tri_facility_id": "05647CBTFRBOX12",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4875,
+          44.170833
+        ]
+      },
+      "properties": {
+        "facility_name": "BOMBARDIER TRANSIT CORP",
+        "industry": "",
+        "tri_facility_id": "05678BMBRDPITMA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

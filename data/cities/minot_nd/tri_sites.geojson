@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3911,
+          48.1386
+        ]
+      },
+      "properties": {
+        "facility_name": "NORTH DAKOTA CONCRETE PRODUCTS CO",
+        "industry": "",
+        "tri_facility_id": "58702NRTHD5THAV",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.32944444444443,
+          48.41722222222222
+        ]
+      },
+      "properties": {
+        "facility_name": "US DOD USAF MINOT AFB",
+        "industry": "",
+        "tri_facility_id": "58705SRFRC32PEA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

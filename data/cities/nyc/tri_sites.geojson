@@ -1,9 +1,5 @@
 {
   "type": "FeatureCollection",
-  "metadata": {
-    "source": "EPA Toxics Release Inventory (TRI)",
-    "region": "New York City (5 boroughs)"
-  },
   "features": [
     {
       "type": "Feature",
@@ -16,18 +12,13 @@
       },
       "properties": {
         "facility_name": "NATIONWIDE CHEMICAL CO INC",
-        "address": "395 JOHNSON AVE",
-        "city": "BROOKLYN",
-        "zip": "11120",
-        "latitude": 40.707204,
-        "longitude": -73.933164,
         "industry": "",
         "tri_facility_id": "11120NTNWD395JO",
-        "total_releases_lbs": 335343,
-        "top_chemical": "Xylene",
-        "carcinogen": false,
         "year_first_reported": 1987,
-        "risk_score": 7,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -42,18 +33,13 @@
       },
       "properties": {
         "facility_name": "BEN FORMAN & SONS INC",
-        "address": "201 WATER ST",
-        "city": "BROOKLYN",
-        "zip": "11201",
-        "latitude": 40.7,
-        "longitude": -73.966667,
         "industry": "",
         "tri_facility_id": "11201BNFRM201WA",
-        "total_releases_lbs": 128493,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1990,
-        "risk_score": 4,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -68,18 +54,13 @@
       },
       "properties": {
         "facility_name": "OSR CLEANING SPECIALTIES",
-        "address": "18 BRIDGE ST",
-        "city": "BROOKLYN",
-        "zip": "11201",
-        "latitude": 40.703611,
-        "longitude": -73.985,
         "industry": "",
         "tri_facility_id": "11202LSPCL18BRI",
-        "total_releases_lbs": 354885,
-        "top_chemical": "Mercury",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1988,
-        "risk_score": 9,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -94,18 +75,13 @@
       },
       "properties": {
         "facility_name": "MERCURY PAINT CORP",
-        "address": "4808 FARRAGUT RD",
-        "city": "BROOKLYN",
-        "zip": "11203",
-        "latitude": 40.636667,
-        "longitude": -73.930833,
         "industry": "",
         "tri_facility_id": "11203MRCRY4808F",
-        "total_releases_lbs": 16763,
-        "top_chemical": "Toluene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1988,
-        "risk_score": 6,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -120,18 +96,13 @@
       },
       "properties": {
         "facility_name": "IBM",
-        "address": "585 DEKALB AVE",
-        "city": "BROOKLYN",
-        "zip": "11205",
-        "latitude": 40.691389,
-        "longitude": -73.9525,
         "industry": "",
         "tri_facility_id": "11205BMXXX585DE",
-        "total_releases_lbs": 122081,
-        "top_chemical": "Mercury",
-        "carcinogen": false,
         "year_first_reported": 1987,
-        "risk_score": 6,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -140,24 +111,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735800.0,
-          404100.0
+          -73.96666666666667,
+          40.68333333333333
         ]
       },
       "properties": {
         "facility_name": "BROOKLYN NAVY YARD COGENERATION FACILITY",
-        "address": "BROOKLYN NAVY YARD BLDG 41 63 FL US HING AVE UNIT",
-        "city": "BROOKLYN",
-        "zip": "11205",
-        "latitude": 404100.0,
-        "longitude": -735800.0,
         "industry": "",
         "tri_facility_id": "11205BRKLYBROOK",
-        "total_releases_lbs": 375500,
-        "top_chemical": "Mercury",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2000,
-        "risk_score": 6,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -172,18 +138,13 @@
       },
       "properties": {
         "facility_name": "BEST KNITTING MILLS INC",
-        "address": "241 TAAFFE PL",
-        "city": "BROOKLYN",
-        "zip": "11205",
-        "latitude": 40.6938,
-        "longitude": -73.965,
         "industry": "",
         "tri_facility_id": "11205BSTKN241TA",
-        "total_releases_lbs": 235614,
-        "top_chemical": "Benzene",
-        "carcinogen": true,
-        "year_first_reported": 1995,
-        "risk_score": 3,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -198,18 +159,13 @@
       },
       "properties": {
         "facility_name": "CONTROL ELECTROPOLISHING CORP",
-        "address": "109 WALWORTH ST",
-        "city": "BROOKLYN",
-        "zip": "11205",
-        "latitude": 40.695833,
-        "longitude": -73.954722,
         "industry": "",
         "tri_facility_id": "11205CNTRL109WA",
-        "total_releases_lbs": 397933,
-        "top_chemical": "Methanol",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2000,
-        "risk_score": 8,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -224,18 +180,13 @@
       },
       "properties": {
         "facility_name": "DELTA METAL PRODUCTS CO",
-        "address": "476 FLUSHING AVE",
-        "city": "BROOKLYN",
-        "zip": "11205",
-        "latitude": 40.698889,
-        "longitude": -73.956944,
         "industry": "",
         "tri_facility_id": "11205DLTMT476FL",
-        "total_releases_lbs": 145784,
-        "top_chemical": "Methanol",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1992,
-        "risk_score": 8,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -250,18 +201,13 @@
       },
       "properties": {
         "facility_name": "TWI-LAQ INDUSTRIES INC",
-        "address": "76 GRAND AVE",
-        "city": "BROOKLYN",
-        "zip": "11205",
-        "latitude": 40.691667,
-        "longitude": -73.958333,
         "industry": "",
         "tri_facility_id": "11205TWLQN76GRA",
-        "total_releases_lbs": 53687,
-        "top_chemical": "Xylene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2000,
-        "risk_score": 4,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -276,18 +222,13 @@
       },
       "properties": {
         "facility_name": "EMPIRE METAL BOX CO INC",
-        "address": "68 MESEROLE ST",
-        "city": "BROOKLYN",
-        "zip": "11206",
-        "latitude": 40.7075,
-        "longitude": -73.947222,
         "industry": "",
         "tri_facility_id": "11206MPRMT68MES",
-        "total_releases_lbs": 188308,
-        "top_chemical": "Lead",
-        "carcinogen": true,
-        "year_first_reported": 1995,
-        "risk_score": 3,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -302,18 +243,13 @@
       },
       "properties": {
         "facility_name": "PFIZER INC BROOKLYN PLANT",
-        "address": "11 BARTLETT ST",
-        "city": "BROOKLYN",
-        "zip": "11206",
-        "latitude": 40.7002,
-        "longitude": -73.9484,
         "industry": "",
         "tri_facility_id": "11206PFZRN11BAR",
-        "total_releases_lbs": 382689,
-        "top_chemical": "Nickel",
-        "carcinogen": true,
-        "year_first_reported": 1988,
-        "risk_score": 9,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -322,24 +258,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735655.0,
-          404157.0
+          -73.94861111111112,
+          40.69916666666666
         ]
       },
       "properties": {
         "facility_name": "PFIZER INC BROOKLYN PLANT",
-        "address": "630 FLUSHING AVE",
-        "city": "BROOKLYN",
-        "zip": "11206",
-        "latitude": 404157.0,
-        "longitude": -735655.0,
         "industry": "",
         "tri_facility_id": "11206PFZRN630FL",
-        "total_releases_lbs": 41413,
-        "top_chemical": "Mercury",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1995,
-        "risk_score": 8,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -354,18 +285,13 @@
       },
       "properties": {
         "facility_name": "BELMONT METALS INC",
-        "address": "330 BELMONT AVE",
-        "city": "BROOKLYN",
-        "zip": "11207",
-        "latitude": 40.675,
-        "longitude": -73.908333,
         "industry": "",
         "tri_facility_id": "11207BLMNT330BE",
-        "total_releases_lbs": 302798,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1988,
-        "risk_score": 3,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -380,18 +306,13 @@
       },
       "properties": {
         "facility_name": "MARK CABINET CORP",
-        "address": "300 LIBERTY AVE",
-        "city": "BROOKLYN",
-        "zip": "11207",
-        "latitude": 40.675278,
-        "longitude": -73.899167,
         "industry": "",
         "tri_facility_id": "11207MRKCB300LI",
-        "total_releases_lbs": 346792,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1995,
-        "risk_score": 4,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -406,18 +327,13 @@
       },
       "properties": {
         "facility_name": "INLAND PAPER PRODUCTS & INLAND PAPER PRODUCTS CORP",
-        "address": "200 BRADFORD ST",
-        "city": "BROOKLYN",
-        "zip": "112073099",
-        "latitude": 40.674155,
-        "longitude": -73.893364,
         "industry": "",
         "tri_facility_id": "11207WWCNT200BR",
-        "total_releases_lbs": 448532,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1988,
-        "risk_score": 9,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -432,17 +348,12 @@
       },
       "properties": {
         "facility_name": "BLUE RIDGE FARMS INC",
-        "address": "3301 ATLANTIC AVE",
-        "city": "BROOKLYN",
-        "zip": "11208",
-        "latitude": 40.675,
-        "longitude": -73.854444,
         "industry": "",
         "tri_facility_id": "11208BLRDG3301A",
-        "total_releases_lbs": 145838,
-        "top_chemical": "Nickel",
-        "carcinogen": true,
-        "year_first_reported": 1998,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -458,18 +369,13 @@
       },
       "properties": {
         "facility_name": "ACTION PACKAGING CORP",
-        "address": "667 ATKINS AVE",
-        "city": "BROOKLYN",
-        "zip": "11208",
-        "latitude": 40.661111,
-        "longitude": -73.870833,
         "industry": "",
         "tri_facility_id": "11208CTNPC667AT",
-        "total_releases_lbs": 194181,
-        "top_chemical": "Lead",
-        "carcinogen": true,
-        "year_first_reported": 1992,
-        "risk_score": 7,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -484,18 +390,13 @@
       },
       "properties": {
         "facility_name": "INDUSTRIAL FINISHING PRODUCTS",
-        "address": "465 LOGAN ST",
-        "city": "BROOKLYN",
-        "zip": "11208",
-        "latitude": 40.6745,
-        "longitude": -73.8765,
         "industry": "",
         "tri_facility_id": "11208NDSTR465LO",
-        "total_releases_lbs": 368055,
-        "top_chemical": "Xylene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1990,
-        "risk_score": 6,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -510,18 +411,13 @@
       },
       "properties": {
         "facility_name": "O-Z/GEDNEY LLC",
-        "address": "1101 ELTON ST",
-        "city": "BROOKLYN",
-        "zip": "11208",
-        "latitude": 40.658333,
-        "longitude": -73.875,
         "industry": "",
         "tri_facility_id": "11208ZGDNY1101E",
-        "total_releases_lbs": 85769,
-        "top_chemical": "Nickel",
-        "carcinogen": true,
-        "year_first_reported": 2000,
-        "risk_score": 7,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -536,18 +432,13 @@
       },
       "properties": {
         "facility_name": "ABLE ANODIZING CORP",
-        "address": "984 E 35TH ST",
-        "city": "BROOKLYN",
-        "zip": "11210",
-        "latitude": 40.6306,
-        "longitude": -73.9431,
         "industry": "",
         "tri_facility_id": "11210BLNDZ984E3",
-        "total_releases_lbs": 485271,
-        "top_chemical": "Mercury",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1992,
-        "risk_score": 8,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -562,18 +453,13 @@
       },
       "properties": {
         "facility_name": "PYRAMID PRINT PRODUCTS INC",
-        "address": "761 E 42 ST",
-        "city": "BROOKLYN",
-        "zip": "11210",
-        "latitude": 40.636111,
-        "longitude": -73.935556,
         "industry": "",
         "tri_facility_id": "11210PYRMD761E4",
-        "total_releases_lbs": 441997,
-        "top_chemical": "Toluene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1992,
-        "risk_score": 3,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -588,18 +474,13 @@
       },
       "properties": {
         "facility_name": "R & A COATINGS CO INC",
-        "address": "812 E 43RD ST",
-        "city": "BROOKLYN",
-        "zip": "11210",
-        "latitude": 40.635833,
-        "longitude": -73.936111,
         "industry": "",
         "tri_facility_id": "11210RSPCL812EA",
-        "total_releases_lbs": 422175,
-        "top_chemical": "Lead",
-        "carcinogen": true,
-        "year_first_reported": 2000,
-        "risk_score": 7,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -614,18 +495,13 @@
       },
       "properties": {
         "facility_name": "CHROMIUM PLATING & POLISHING CORP",
-        "address": "373 WYTHE AVE",
-        "city": "BROOKLYN",
-        "zip": "112115117",
-        "latitude": 40.7121,
-        "longitude": -73.9662,
         "industry": "",
         "tri_facility_id": "11211CHRMM373WY",
-        "total_releases_lbs": 34801,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1998,
-        "risk_score": 6,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -634,24 +510,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735540.0,
-          434005.0
+          -73.92777777777778,
+          43.668055555555554
         ]
       },
       "properties": {
         "facility_name": "DITMAS OIL ASSOCIATES INC",
-        "address": "364 MASPETH AVE",
-        "city": "BROOKLYN",
-        "zip": "11211",
-        "latitude": 434005.0,
-        "longitude": -735540.0,
         "industry": "",
         "tri_facility_id": "11211DTMSL364MA",
-        "total_releases_lbs": 343738,
-        "top_chemical": "Nickel",
-        "carcinogen": true,
-        "year_first_reported": 2000,
-        "risk_score": 10,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -666,18 +537,13 @@
       },
       "properties": {
         "facility_name": "FYN PAINT & LACQUER CO INC",
-        "address": "229 KENT AVE",
-        "city": "BROOKLYN",
-        "zip": "112116334",
-        "latitude": 40.716667,
-        "longitude": -73.965,
         "industry": "",
         "tri_facility_id": "11211FYNPN229KE",
-        "total_releases_lbs": 75005,
-        "top_chemical": "Formaldehyde",
-        "carcinogen": true,
-        "year_first_reported": 1990,
-        "risk_score": 6,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -692,18 +558,13 @@
       },
       "properties": {
         "facility_name": "GLOSS-FLO CORP",
-        "address": "135 JACKSON ST",
-        "city": "BROOKLYN",
-        "zip": "112112401",
-        "latitude": 40.716667,
-        "longitude": -73.941667,
         "industry": "",
         "tri_facility_id": "11211GLSSF135JA",
-        "total_releases_lbs": 390688,
-        "top_chemical": "Mercury",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1995,
-        "risk_score": 9,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -718,18 +579,13 @@
       },
       "properties": {
         "facility_name": "KALEX CHEMICAL PRODUCTS INC",
-        "address": "235 GARDNER AVE",
-        "city": "NEW YORK",
-        "zip": "112111810",
-        "latitude": 40.7144,
-        "longitude": -73.9272,
         "industry": "",
         "tri_facility_id": "11211KLXCH235GA",
-        "total_releases_lbs": 470817,
-        "top_chemical": "Benzene",
-        "carcinogen": true,
-        "year_first_reported": 2000,
-        "risk_score": 8,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -744,18 +600,13 @@
       },
       "properties": {
         "facility_name": "EMULSION SYSTEMS INC",
-        "address": "215 KENT AVE",
-        "city": "BROOKLYN",
-        "zip": "11211",
-        "latitude": 40.733333,
-        "longitude": -73.966667,
         "industry": "",
         "tri_facility_id": "11211MLSNS215KE",
-        "total_releases_lbs": 115087,
-        "top_chemical": "Methanol",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2005,
-        "risk_score": 4,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -770,17 +621,12 @@
       },
       "properties": {
         "facility_name": "AMERICAN SUGAR REFINING INC",
-        "address": "266 KENT AVE",
-        "city": "BROOKLYN",
-        "zip": "112115187",
-        "latitude": 40.705833,
-        "longitude": -73.96,
         "industry": "",
         "tri_facility_id": "11211MSTRS49SOU",
-        "total_releases_lbs": 396347,
-        "top_chemical": "Toluene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1988,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -796,18 +642,13 @@
       },
       "properties": {
         "facility_name": "NAP INDUSTRIES INC",
-        "address": "667 KENT AVE",
-        "city": "BROOKLYN",
-        "zip": "11211",
-        "latitude": 40.701944,
-        "longitude": -73.964167,
         "industry": "",
         "tri_facility_id": "11211NPNDS667KE",
-        "total_releases_lbs": 329062,
-        "top_chemical": "Methanol",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2000,
-        "risk_score": 4,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -816,24 +657,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735722.0,
-          404337.0
+          -73.95611111111111,
+          40.72694444444445
         ]
       },
       "properties": {
         "facility_name": "TECHNIPOLY MANUFACTURING INC",
-        "address": "28 WYTHE AVE",
-        "city": "BROOKLYN",
-        "zip": "11211",
-        "latitude": 404337.0,
-        "longitude": -735722.0,
         "industry": "",
         "tri_facility_id": "11211TCNPL28WYT",
-        "total_releases_lbs": 201828,
-        "top_chemical": "Chromium",
-        "carcinogen": true,
-        "year_first_reported": 2005,
-        "risk_score": 7,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -848,18 +684,13 @@
       },
       "properties": {
         "facility_name": "CAMEO METAL PRODS INC",
-        "address": "127 12TH ST",
-        "city": "BROOKLYN",
-        "zip": "11215",
-        "latitude": 40.6653,
-        "longitude": -73.98,
         "industry": "",
         "tri_facility_id": "11215CMMTL12712",
-        "total_releases_lbs": 290149,
-        "top_chemical": "Toluene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1988,
-        "risk_score": 7,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -874,18 +705,13 @@
       },
       "properties": {
         "facility_name": "GENERAL COATINGS TECHNOLOGIES INC",
-        "address": "421 20TH ST",
-        "city": "BROOKLYN",
-        "zip": "11215",
-        "latitude": 40.658235,
-        "longitude": -73.987379,
         "industry": "",
         "tri_facility_id": "11215GNRLC42120",
-        "total_releases_lbs": 403067,
-        "top_chemical": "Lead",
-        "carcinogen": true,
-        "year_first_reported": 1988,
-        "risk_score": 7,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -900,18 +726,13 @@
       },
       "properties": {
         "facility_name": "KENTILE FLOORS INC",
-        "address": "58 2ND AVE",
-        "city": "BROOKLYN",
-        "zip": "11215",
-        "latitude": 40.674722,
-        "longitude": -73.994444,
         "industry": "",
         "tri_facility_id": "11215KNTLF58SEC",
-        "total_releases_lbs": 228042,
-        "top_chemical": "Methanol",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2005,
-        "risk_score": 3,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -926,18 +747,13 @@
       },
       "properties": {
         "facility_name": "AMBERG & HINZMAN INC",
-        "address": "165 6TH ST",
-        "city": "BROOKLYN",
-        "zip": "11215",
-        "latitude": 40.674444,
-        "longitude": -73.991667,
         "industry": "",
         "tri_facility_id": "11215MBRGH165SI",
-        "total_releases_lbs": 378684,
-        "top_chemical": "Formaldehyde",
-        "carcinogen": true,
-        "year_first_reported": 1990,
-        "risk_score": 4,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -952,17 +768,12 @@
       },
       "properties": {
         "facility_name": "A MARGOLIS & SONS CORP",
-        "address": "1504 ATLANTIC AVE",
-        "city": "BROOKLYN",
-        "zip": "11216",
-        "latitude": 40.677735,
-        "longitude": -73.942029,
         "industry": "",
         "tri_facility_id": "11216MRGLS1504A",
-        "total_releases_lbs": 456502,
-        "top_chemical": "Formaldehyde",
-        "carcinogen": true,
-        "year_first_reported": 1992,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -978,18 +789,13 @@
       },
       "properties": {
         "facility_name": "ULANO CORP",
-        "address": "280 BERGEN ST",
-        "city": "BROOKLYN",
-        "zip": "11217",
-        "latitude": 40.683591,
-        "longitude": -73.98339,
         "industry": "",
         "tri_facility_id": "11217LNCRP280BE",
-        "total_releases_lbs": 196138,
-        "top_chemical": "Methanol",
-        "carcinogen": false,
         "year_first_reported": 1987,
-        "risk_score": 8,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1004,18 +810,13 @@
       },
       "properties": {
         "facility_name": "ULANO CORP",
-        "address": "601 BERGEN ST",
-        "city": "BROOKLYN",
-        "zip": "11238",
-        "latitude": 40.6818,
-        "longitude": -73.9861,
         "industry": "",
         "tri_facility_id": "11217LNCRP601BE",
-        "total_releases_lbs": 256270,
-        "top_chemical": "Toluene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1988,
-        "risk_score": 8,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1030,18 +831,13 @@
       },
       "properties": {
         "facility_name": "LEE SPRING CO",
-        "address": "1462 62ND ST",
-        "city": "BROOKLYN",
-        "zip": "11219",
-        "latitude": 40.6326,
-        "longitude": -73.997,
         "industry": "",
         "tri_facility_id": "11219LSPRN14626",
-        "total_releases_lbs": 460803,
-        "top_chemical": "Formaldehyde",
-        "carcinogen": true,
-        "year_first_reported": 1992,
-        "risk_score": 3,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1050,24 +846,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -740130.0,
-          403855.0
+          -74.025,
+          40.64861111111111
         ]
       },
       "properties": {
         "facility_name": "IEH CORP",
-        "address": "140 58TH ST 8E",
-        "city": "BROOKLYN",
-        "zip": "11220",
-        "latitude": 403855.0,
-        "longitude": -740130.0,
         "industry": "",
         "tri_facility_id": "11220HCRPX1458T",
-        "total_releases_lbs": 126386,
-        "top_chemical": "Benzene",
-        "carcinogen": true,
-        "year_first_reported": 1988,
-        "risk_score": 4,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1082,17 +873,12 @@
       },
       "properties": {
         "facility_name": "MARINO POLISHING & PLATING INC",
-        "address": "244/254 59TH ST",
-        "city": "BROOKLYN",
-        "zip": "11220",
-        "latitude": 40.643333,
-        "longitude": -74.021667,
         "industry": "",
         "tri_facility_id": "11220MRNPL24425",
-        "total_releases_lbs": 383830,
-        "top_chemical": "Nickel",
-        "carcinogen": true,
-        "year_first_reported": 1988,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -1108,18 +894,13 @@
       },
       "properties": {
         "facility_name": "BROOKLYN FOIL INC",
-        "address": "196 DIAMOND ST",
-        "city": "BROOKLYN",
-        "zip": "112222405",
-        "latitude": 40.728671,
-        "longitude": -73.949085,
         "industry": "",
         "tri_facility_id": "11222BRKLY196DI",
-        "total_releases_lbs": 67414,
-        "top_chemical": "Nickel",
-        "carcinogen": true,
-        "year_first_reported": 1990,
-        "risk_score": 7,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1134,18 +915,13 @@
       },
       "properties": {
         "facility_name": "ACME STEEL DOOR INC",
-        "address": "513 PORTER AVE",
-        "city": "BROOKLYN",
-        "zip": "11222",
-        "latitude": 40.716667,
-        "longitude": -73.933333,
         "industry": "",
         "tri_facility_id": "11222CMSTL513PO",
-        "total_releases_lbs": 276753,
-        "top_chemical": "Benzene",
-        "carcinogen": true,
-        "year_first_reported": 2000,
-        "risk_score": 6,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1160,18 +936,13 @@
       },
       "properties": {
         "facility_name": "CARTER SPRAY FINISHING CORP",
-        "address": "65 ECKFORD ST",
-        "city": "BROOKLYN",
-        "zip": "11222",
-        "latitude": 40.721563,
-        "longitude": -73.948204,
         "industry": "",
         "tri_facility_id": "11222CRTRS65ECK",
-        "total_releases_lbs": 487118,
-        "top_chemical": "Mercury",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1992,
-        "risk_score": 7,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1186,18 +957,13 @@
       },
       "properties": {
         "facility_name": "WALLCOTE PAINT CO",
-        "address": "208 DUPONT ST",
-        "city": "BROOKLYN",
-        "zip": "11222",
-        "latitude": 40.736667,
-        "longitude": -73.951944,
         "industry": "",
         "tri_facility_id": "11222HRLCH208DU",
-        "total_releases_lbs": 209286,
-        "top_chemical": "Lead",
-        "carcinogen": true,
-        "year_first_reported": 2005,
-        "risk_score": 10,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1212,18 +978,13 @@
       },
       "properties": {
         "facility_name": "J & J BRONZE & ALUMINUM CASTING CORP",
-        "address": "249 HURON ST",
-        "city": "BROOKLYN",
-        "zip": "11222",
-        "latitude": 40.7277,
-        "longitude": -73.9481,
         "industry": "",
         "tri_facility_id": "11222JJBRN249HU",
-        "total_releases_lbs": 63541,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1992,
-        "risk_score": 4,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1238,18 +999,13 @@
       },
       "properties": {
         "facility_name": "JOSH LOWENSTEIN & SONS INC",
-        "address": "420 MORGAN AVE",
-        "city": "BROOKLYN",
-        "zip": "11222",
-        "latitude": 40.718889,
-        "longitude": -73.936111,
         "industry": "",
         "tri_facility_id": "11222JSHLW420MO",
-        "total_releases_lbs": 177354,
-        "top_chemical": "Toluene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1992,
-        "risk_score": 6,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1264,18 +1020,13 @@
       },
       "properties": {
         "facility_name": "ALBERTS PLATING WORKS INC",
-        "address": "50 DIVISION PL",
-        "city": "BROOKLYN",
-        "zip": "112225205",
-        "latitude": 40.725,
-        "longitude": -73.936667,
         "industry": "",
         "tri_facility_id": "11222LBRTS50DIV",
-        "total_releases_lbs": 3870,
-        "top_chemical": "Xylene",
-        "carcinogen": false,
         "year_first_reported": 1987,
-        "risk_score": 6,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1290,18 +1041,13 @@
       },
       "properties": {
         "facility_name": "LIQUIMARK",
-        "address": "19 CLAY ST",
-        "city": "BROOKLYN",
-        "zip": "11222",
-        "latitude": 40.744167,
-        "longitude": -73.951111,
         "industry": "",
         "tri_facility_id": "11222LQMRK19CLA",
-        "total_releases_lbs": 35437,
-        "top_chemical": "Toluene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1998,
-        "risk_score": 4,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1316,18 +1062,13 @@
       },
       "properties": {
         "facility_name": "LARIBEE WIRE MANUFACTURING CO INC",
-        "address": "208 MESEROLE AVE",
-        "city": "BROOKLYN",
-        "zip": "11222",
-        "latitude": 40.7287,
-        "longitude": -73.9477,
         "industry": "",
         "tri_facility_id": "11222LRBWR208ME",
-        "total_releases_lbs": 269665,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1995,
-        "risk_score": 10,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1342,18 +1083,13 @@
       },
       "properties": {
         "facility_name": "LEVITON MFG CO INC",
-        "address": "236 GREENPOINT AVE",
-        "city": "BROOKLYN",
-        "zip": "112222487",
-        "latitude": 40.728333,
-        "longitude": -73.950833,
         "industry": "",
         "tri_facility_id": "11222LVTNM236GR",
-        "total_releases_lbs": 112421,
-        "top_chemical": "Mercury",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1990,
-        "risk_score": 10,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1362,24 +1098,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735620.0,
-          404343.0
+          -73.9388888888889,
+          40.728611111111114
         ]
       },
       "properties": {
         "facility_name": "BP PRODUCTS NA INC BROOKLYN TERMINAL",
-        "address": "125 APOLLO ST",
-        "city": "BROOKLYN",
-        "zip": "11222",
-        "latitude": 404343.0,
-        "longitude": -735620.0,
         "industry": "",
         "tri_facility_id": "11222MCLC0125AP",
-        "total_releases_lbs": 127500,
-        "top_chemical": "Nickel",
-        "carcinogen": true,
-        "year_first_reported": 2000,
-        "risk_score": 6,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1394,18 +1125,13 @@
       },
       "properties": {
         "facility_name": "EMPIRE STATE VARNISH CO INC",
-        "address": "38 VARICK ST",
-        "city": "BROOKLYN",
-        "zip": "112223881",
-        "latitude": 40.729722,
-        "longitude": -73.938333,
         "industry": "",
         "tri_facility_id": "11222MPRST38VAR",
-        "total_releases_lbs": 49553,
-        "top_chemical": "Xylene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2000,
-        "risk_score": 8,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1414,24 +1140,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735630.0,
-          404405.0
+          -73.94166666666668,
+          40.734722222222224
         ]
       },
       "properties": {
         "facility_name": "UNITED METRO ENERGY CORP.",
-        "address": "498 KINGSLAND AVE",
-        "city": "BROOKLYN",
-        "zip": "11222",
-        "latitude": 404405.0,
-        "longitude": -735630.0,
         "industry": "",
         "tri_facility_id": "11222MTRTR498KI",
-        "total_releases_lbs": 222177,
-        "top_chemical": "Chromium",
-        "carcinogen": true,
-        "year_first_reported": 2005,
-        "risk_score": 3,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1440,24 +1161,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735704.0,
-          404416.0
+          -73.95111111111112,
+          40.73777777777778
         ]
       },
       "properties": {
         "facility_name": "ARC BROOKLYN ON BEHALF OF FORMER OWNER MOTIVA BROOKLYN",
-        "address": "25 PAIDGE AVE",
-        "city": "BROOKLYN",
-        "zip": "11222",
-        "latitude": 404416.0,
-        "longitude": -735704.0,
         "industry": "",
         "tri_facility_id": "11222MTVNT25PAI",
-        "total_releases_lbs": 353136,
-        "top_chemical": "Xylene",
-        "carcinogen": false,
         "year_first_reported": 1987,
-        "risk_score": 9,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1472,18 +1188,13 @@
       },
       "properties": {
         "facility_name": "NON-FERROUS PROCESSING CORP",
-        "address": "551 STEWART AVE",
-        "city": "BROOKLYN",
-        "zip": "11222",
-        "latitude": 40.7255,
-        "longitude": -73.9338,
         "industry": "",
         "tri_facility_id": "11222NNFRR551ST",
-        "total_releases_lbs": 381893,
-        "top_chemical": "Lead",
-        "carcinogen": true,
-        "year_first_reported": 1988,
-        "risk_score": 6,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1498,17 +1209,12 @@
       },
       "properties": {
         "facility_name": "HENKEL ADHESIVES CORP",
-        "address": "100 SUTTON ST",
-        "city": "BROOKLYN",
-        "zip": "11222",
-        "latitude": 40.716667,
-        "longitude": -73.95,
         "industry": "",
         "tri_facility_id": "11222NTDRS100SU",
-        "total_releases_lbs": 100548,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2005,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -1524,18 +1230,13 @@
       },
       "properties": {
         "facility_name": "NATIONAL DRUM & BARREL CORP",
-        "address": "35 BEADEL ST",
-        "city": "BROOKLYN",
-        "zip": "11222",
-        "latitude": 40.726389,
-        "longitude": -73.942222,
         "industry": "",
         "tri_facility_id": "11222NTNLD35BEA",
-        "total_releases_lbs": 221287,
-        "top_chemical": "Methanol",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1995,
-        "risk_score": 10,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1550,18 +1251,13 @@
       },
       "properties": {
         "facility_name": "NEY SMELTING & REFINING CO INC",
-        "address": "269 FREEMAN ST",
-        "city": "BROOKLYN",
-        "zip": "112221295",
-        "latitude": 40.744167,
-        "longitude": -73.951111,
         "industry": "",
         "tri_facility_id": "11222NYSML269FR",
-        "total_releases_lbs": 131070,
-        "top_chemical": "Xylene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2005,
-        "risk_score": 4,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1576,18 +1272,13 @@
       },
       "properties": {
         "facility_name": "EPNER TECHNOLOGY INC",
-        "address": "25 DIVISION PL",
-        "city": "BROOKLYN",
-        "zip": "112225603",
-        "latitude": 40.720556,
-        "longitude": -73.939722,
         "industry": "",
         "tri_facility_id": "11222PNRTC25DIV",
-        "total_releases_lbs": 26622,
-        "top_chemical": "Mercury",
-        "carcinogen": false,
         "year_first_reported": 1987,
-        "risk_score": 4,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1602,18 +1293,13 @@
       },
       "properties": {
         "facility_name": "PREMIER DYE & POLISH CO",
-        "address": "25 BRIDGEWATER ST",
-        "city": "BROOKLYN",
-        "zip": "11222",
-        "latitude": 40.727222,
-        "longitude": -73.936111,
         "industry": "",
         "tri_facility_id": "11222PRMRD25BRI",
-        "total_releases_lbs": 485783,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1990,
-        "risk_score": 9,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1628,18 +1314,13 @@
       },
       "properties": {
         "facility_name": "GOODMAN BROTHERS CO STEEL DRUM DIV",
-        "address": "18 DIVISION PL",
-        "city": "BROOKLYN",
-        "zip": "11222",
-        "latitude": 40.725,
-        "longitude": -73.942222,
         "industry": "",
         "tri_facility_id": "11222RVNGGPRESI",
-        "total_releases_lbs": 254715,
-        "top_chemical": "Nickel",
-        "carcinogen": true,
-        "year_first_reported": 1992,
-        "risk_score": 9,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1654,18 +1335,13 @@
       },
       "properties": {
         "facility_name": "TRANSPACKERS SERVICES CORP",
-        "address": "419 VANDERVOORT AVE",
-        "city": "BROOKLYN",
-        "zip": "11222",
-        "latitude": 40.718833,
-        "longitude": -73.935667,
         "industry": "",
         "tri_facility_id": "11222TRNSP419VA",
-        "total_releases_lbs": 473239,
-        "top_chemical": "Toluene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1990,
-        "risk_score": 9,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1680,18 +1356,13 @@
       },
       "properties": {
         "facility_name": "VANGUARD CORP DIP",
-        "address": "10 JAVA ST",
-        "city": "BROOKLYN",
-        "zip": "11222",
-        "latitude": 40.727778,
-        "longitude": -73.963889,
         "industry": "",
         "tri_facility_id": "11222VNGRD10JAV",
-        "total_releases_lbs": 1230,
-        "top_chemical": "Chromium",
-        "carcinogen": true,
-        "year_first_reported": 1995,
-        "risk_score": 10,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1706,17 +1377,12 @@
       },
       "properties": {
         "facility_name": "FELDWARE INC",
-        "address": "250 AVE W",
-        "city": "BROOKLYN",
-        "zip": "11223",
-        "latitude": 40.596944,
-        "longitude": -73.973611,
         "industry": "",
         "tri_facility_id": "11223FLDWR250AV",
-        "total_releases_lbs": 149652,
-        "top_chemical": "Chromium",
-        "carcinogen": true,
-        "year_first_reported": 2005,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -1732,18 +1398,13 @@
       },
       "properties": {
         "facility_name": "RASKO",
-        "address": "1704 MCDONALD AVE",
-        "city": "BROOKLYN",
-        "zip": "11230",
-        "latitude": 40.6111,
-        "longitude": -73.9738,
         "industry": "",
         "tri_facility_id": "11230RSKXX1704M",
-        "total_releases_lbs": 99661,
-        "top_chemical": "Formaldehyde",
-        "carcinogen": true,
-        "year_first_reported": 1992,
-        "risk_score": 3,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1758,18 +1419,13 @@
       },
       "properties": {
         "facility_name": "KARBO BRONZE FOUNDRY",
-        "address": "24 VAN DYKE ST",
-        "city": "BROOKLYN",
-        "zip": "11231",
-        "latitude": 40.6734,
-        "longitude": -74.0117,
         "industry": "",
         "tri_facility_id": "11231KRBBR24VAN",
-        "total_releases_lbs": 303757,
-        "top_chemical": "Mercury",
-        "carcinogen": false,
         "year_first_reported": 1987,
-        "risk_score": 8,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1778,23 +1434,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -740012.0,
-          404006.0
+          -74.00333333333333,
+          40.66833333333333
         ]
       },
       "properties": {
         "facility_name": "BUCKEYE TERMINALS, LLC - BROOKLYN TERMINAL",
-        "address": "722 CT ST",
-        "city": "BROOKLYN",
-        "zip": "11231",
-        "latitude": 404006.0,
-        "longitude": -740012.0,
         "industry": "",
         "tri_facility_id": "11231MRDHS722CT",
-        "total_releases_lbs": 30071,
-        "top_chemical": "Toluene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2005,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -1810,17 +1461,12 @@
       },
       "properties": {
         "facility_name": "WITCO CORP  BROOKLYN PLANT",
-        "address": "700 CT ST",
-        "city": "BROOKLYN",
-        "zip": "112313102",
-        "latitude": 40.669444,
-        "longitude": -74.003611,
         "industry": "",
         "tri_facility_id": "11231RGSDV633CO",
-        "total_releases_lbs": 29921,
-        "top_chemical": "Mercury",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1988,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -1836,18 +1482,13 @@
       },
       "properties": {
         "facility_name": "THOMAS PAULSON & SON INC",
-        "address": "450 UNION ST",
-        "city": "BROOKLYN",
-        "zip": "112310011",
-        "latitude": 40.679444,
-        "longitude": -73.989444,
         "industry": "",
         "tri_facility_id": "11231THMSP450UN",
-        "total_releases_lbs": 36024,
-        "top_chemical": "Benzene",
-        "carcinogen": true,
-        "year_first_reported": 1988,
-        "risk_score": 6,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1862,18 +1503,13 @@
       },
       "properties": {
         "facility_name": "BAR-RAY PRODUCTS INC",
-        "address": "237 25TH ST",
-        "city": "BROOKLYN",
-        "zip": "11232",
-        "latitude": 40.659267,
-        "longitude": -73.997034,
         "industry": "",
         "tri_facility_id": "11232BRRYP23725",
-        "total_releases_lbs": 211794,
-        "top_chemical": "Xylene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1992,
-        "risk_score": 3,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1888,18 +1524,13 @@
       },
       "properties": {
         "facility_name": "COLONIAL MIRROR & GLASS CORP",
-        "address": "142 19TH ST",
-        "city": "BROOKLYN",
-        "zip": "11232",
-        "latitude": 40.664136,
-        "longitude": -73.995792,
         "industry": "",
         "tri_facility_id": "11232CLNLM14219",
-        "total_releases_lbs": 324834,
-        "top_chemical": "Xylene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2000,
-        "risk_score": 8,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1908,24 +1539,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735700.0,
-          403900.0
+          -73.95,
+          40.65
         ]
       },
       "properties": {
         "facility_name": "GALAXCO INC",
-        "address": "33 34TH ST",
-        "city": "BROOKLYN",
-        "zip": "11232",
-        "latitude": 403900.0,
-        "longitude": -735700.0,
         "industry": "",
         "tri_facility_id": "11232GLXCN3334T",
-        "total_releases_lbs": 490155,
-        "top_chemical": "Formaldehyde",
-        "carcinogen": true,
-        "year_first_reported": 1992,
-        "risk_score": 8,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1934,23 +1560,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -740021.0,
-          403947.0
+          -74.00583333333333,
+          40.66305555555555
         ]
       },
       "properties": {
         "facility_name": "GOWANUS GENERATING STATION",
-        "address": "29TH ST & 2ND AVE",
-        "city": "BROOKLYN",
-        "zip": "11232",
-        "latitude": 403947.0,
-        "longitude": -740021.0,
         "industry": "",
         "tri_facility_id": "11232GWNSG29THS",
-        "total_releases_lbs": 125240,
-        "top_chemical": "Formaldehyde",
-        "carcinogen": true,
-        "year_first_reported": 2000,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -1966,18 +1587,13 @@
       },
       "properties": {
         "facility_name": "ALPHA ASSOC INC ALPHA COATINGS DIV",
-        "address": "254 36TH ST BLDG 2, 6TH FLOOR SECTION C",
-        "city": "BROOKLYN",
-        "zip": "11232",
-        "latitude": 40.656111,
-        "longitude": -74.008333,
         "industry": "",
         "tri_facility_id": "11232LPHSS25436",
-        "total_releases_lbs": 352259,
-        "top_chemical": "Formaldehyde",
-        "carcinogen": true,
-        "year_first_reported": 2005,
-        "risk_score": 8,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -1992,18 +1608,13 @@
       },
       "properties": {
         "facility_name": "INDUSTRIAL FINISHING PRODS, INC",
-        "address": "214 40TH ST",
-        "city": "BROOKLYN",
-        "zip": "11232",
-        "latitude": 40.6544,
-        "longitude": -74.0113,
         "industry": "",
         "tri_facility_id": "11232NDSTR21440",
-        "total_releases_lbs": 487173,
-        "top_chemical": "Xylene",
-        "carcinogen": false,
         "year_first_reported": 1987,
-        "risk_score": 10,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2012,24 +1623,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -740130.0,
-          403903.0
+          -74.025,
+          40.65083333333333
         ]
       },
       "properties": {
         "facility_name": "NARROWS GENERATING STATION",
-        "address": "53RD ST & 1ST AVE",
-        "city": "BROOKLYN",
-        "zip": "11232",
-        "latitude": 403903.0,
-        "longitude": -740130.0,
         "industry": "",
         "tri_facility_id": "11232NRRWS53RDS",
-        "total_releases_lbs": 325766,
-        "top_chemical": "Benzene",
-        "carcinogen": true,
-        "year_first_reported": 1988,
-        "risk_score": 4,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2044,17 +1650,12 @@
       },
       "properties": {
         "facility_name": "INTERDYNAMICS INC",
-        "address": "80 39TH ST",
-        "city": "BROOKLYN",
-        "zip": "11232",
-        "latitude": 40.656389,
-        "longitude": -74.013611,
         "industry": "",
         "tri_facility_id": "11232NTRDY8039T",
-        "total_releases_lbs": 281975,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1995,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -2070,18 +1671,13 @@
       },
       "properties": {
         "facility_name": "NEW YORK HARDBOARD & PLYWOOD CORP",
-        "address": "230-234 25TH ST",
-        "city": "BROOKLYN",
-        "zip": "11232",
-        "latitude": 40.6586,
-        "longitude": -74.0027,
         "industry": "",
         "tri_facility_id": "11232NWYRK12930",
-        "total_releases_lbs": 489396,
-        "top_chemical": "Lead",
-        "carcinogen": true,
-        "year_first_reported": 1988,
-        "risk_score": 6,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2096,18 +1692,13 @@
       },
       "properties": {
         "facility_name": "PETROCON MARINE & INDL, CHEMICAL CORP",
-        "address": "243 44TH ST",
-        "city": "BROOKLYN",
-        "zip": "11232",
-        "latitude": 40.654167,
-        "longitude": -74.001667,
         "industry": "",
         "tri_facility_id": "11232PTRCN24344",
-        "total_releases_lbs": 193838,
-        "top_chemical": "Formaldehyde",
-        "carcinogen": true,
-        "year_first_reported": 1990,
-        "risk_score": 10,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2122,18 +1713,13 @@
       },
       "properties": {
         "facility_name": "ARTHUR MATNEY CO INC",
-        "address": "4014 1ST AVE",
-        "city": "BROOKLYN",
-        "zip": "112322705",
-        "latitude": 40.6558,
-        "longitude": -74.0138,
         "industry": "",
         "tri_facility_id": "11232RTHRM4014F",
-        "total_releases_lbs": 437222,
-        "top_chemical": "Mercury",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1995,
-        "risk_score": 3,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2148,18 +1734,13 @@
       },
       "properties": {
         "facility_name": "TEKNI-PLEX INC",
-        "address": "68 35TH ST",
-        "city": "BROOKLYN",
-        "zip": "112322208",
-        "latitude": 40.657222,
-        "longitude": -74.000556,
         "industry": "",
         "tri_facility_id": "11232TKNPL6835T",
-        "total_releases_lbs": 350252,
-        "top_chemical": "Mercury",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1995,
-        "risk_score": 4,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2174,18 +1755,13 @@
       },
       "properties": {
         "facility_name": "VIRGINIA DARE EXTRACT CO INC",
-        "address": "882 3RD AVE",
-        "city": "BROOKLYN",
-        "zip": "11232",
-        "latitude": 40.65,
-        "longitude": -74.016667,
         "industry": "",
         "tri_facility_id": "11232VRGND882TH",
-        "total_releases_lbs": 492369,
-        "top_chemical": "Methanol",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1995,
-        "risk_score": 4,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2200,18 +1776,13 @@
       },
       "properties": {
         "facility_name": "H S FINISHING PRODUCTS CORP",
-        "address": "1768-84 DEAN ST",
-        "city": "BROOKLYN",
-        "zip": "11233",
-        "latitude": 40.675556,
-        "longitude": -73.929722,
         "industry": "",
         "tri_facility_id": "11233HSFNS17688",
-        "total_releases_lbs": 466565,
-        "top_chemical": "Xylene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1990,
-        "risk_score": 7,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2220,24 +1791,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735723.0,
-          403515.0
+          -73.9563888888889,
+          40.587500000000006
         ]
       },
       "properties": {
         "facility_name": "GOTHIC PRESS",
-        "address": "1317 AVE Z",
-        "city": "BROOKLYN",
-        "zip": "11235",
-        "latitude": 403515.0,
-        "longitude": -735723.0,
         "industry": "",
         "tri_facility_id": "11235GTHCP1317A",
-        "total_releases_lbs": 147821,
-        "top_chemical": "Benzene",
-        "carcinogen": true,
-        "year_first_reported": 1992,
-        "risk_score": 8,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2246,24 +1812,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735719.0,
-          403458.0
+          -73.95527777777778,
+          40.58277777777778
         ]
       },
       "properties": {
         "facility_name": "SCIENTIFIC COMPONENTS CORP",
-        "address": "13 NEPTUNE AVE",
-        "city": "BROOKLYN",
-        "zip": "11235",
-        "latitude": 403458.0,
-        "longitude": -735719.0,
         "industry": "",
         "tri_facility_id": "11235SCNTF13NEP",
-        "total_releases_lbs": 106843,
-        "top_chemical": "Formaldehyde",
-        "carcinogen": true,
-        "year_first_reported": 2005,
-        "risk_score": 7,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2278,18 +1839,13 @@
       },
       "properties": {
         "facility_name": "GLENMORE PLASTIC INDUSTRIES",
-        "address": "807 BANK ST",
-        "city": "BROOKLYN",
-        "zip": "112362299",
-        "latitude": 40.652778,
-        "longitude": -73.891667,
         "industry": "",
         "tri_facility_id": "11236GLNMR807BA",
-        "total_releases_lbs": 474757,
-        "top_chemical": "Toluene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1988,
-        "risk_score": 9,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2304,18 +1860,13 @@
       },
       "properties": {
         "facility_name": "INDUSTRIAL FINISHING PRODUCTS REMSEN AVE",
-        "address": "820-840 REMSEN AVE",
-        "city": "BROOKLYN",
-        "zip": "11236",
-        "latitude": 40.6478,
-        "longitude": -73.9148,
         "industry": "",
         "tri_facility_id": "11236NDSTR82040",
-        "total_releases_lbs": 434917,
-        "top_chemical": "Formaldehyde",
-        "carcinogen": true,
         "year_first_reported": 1987,
-        "risk_score": 3,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2330,17 +1881,12 @@
       },
       "properties": {
         "facility_name": "PEPSI-COLA BOTTLING CO OF NEW YORK",
-        "address": "9701 AVE D",
-        "city": "BROOKLYN",
-        "zip": "11236",
-        "latitude": 40.6501,
-        "longitude": -73.9079,
         "industry": "",
         "tri_facility_id": "11236PPSCL9701A",
-        "total_releases_lbs": 174979,
-        "top_chemical": "Methanol",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1995,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -2356,18 +1902,13 @@
       },
       "properties": {
         "facility_name": "ARROW LOCK",
-        "address": "10300 FOSTER AVE",
-        "city": "BROOKLYN",
-        "zip": "11236",
-        "latitude": 40.650833,
-        "longitude": -73.901944,
         "industry": "",
         "tri_facility_id": "11236RRWLC10300",
-        "total_releases_lbs": 388718,
-        "top_chemical": "Nickel",
-        "carcinogen": true,
-        "year_first_reported": 2000,
-        "risk_score": 3,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2382,18 +1923,13 @@
       },
       "properties": {
         "facility_name": "ARTIC METAL PRODUCTS INC",
-        "address": "9829 DITMAS AVE",
-        "city": "BROOKLYN",
-        "zip": "11236",
-        "latitude": 40.653056,
-        "longitude": -73.907778,
         "industry": "",
         "tri_facility_id": "11236RTCMT9829D",
-        "total_releases_lbs": 58754,
-        "top_chemical": "Xylene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1990,
-        "risk_score": 3,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2408,18 +1944,13 @@
       },
       "properties": {
         "facility_name": "WORLD DISPLAY FIXTURES",
-        "address": "458 E 101ST ST",
-        "city": "BROOKLYN",
-        "zip": "11236",
-        "latitude": 40.6475,
-        "longitude": -73.895556,
         "industry": "",
         "tri_facility_id": "11236WRLDD458EA",
-        "total_releases_lbs": 437668,
-        "top_chemical": "Lead",
-        "carcinogen": true,
-        "year_first_reported": 1990,
-        "risk_score": 9,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2434,18 +1965,13 @@
       },
       "properties": {
         "facility_name": "BASIC ADHESIVES INC.",
-        "address": "25 KNICKERBOCKER AVE",
-        "city": "BROOKLYN",
-        "zip": "11237",
-        "latitude": 40.706111,
-        "longitude": -73.931667,
         "industry": "",
         "tri_facility_id": "11237BSCDH25KNI",
-        "total_releases_lbs": 66918,
-        "top_chemical": "Toluene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1995,
-        "risk_score": 8,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2460,18 +1986,13 @@
       },
       "properties": {
         "facility_name": "GRAND CHROMIUM PLATING CORP",
-        "address": "209 MORGAN AVE",
-        "city": "BROOKLYN",
-        "zip": "11237",
-        "latitude": 40.718889,
-        "longitude": -73.933889,
         "industry": "",
         "tri_facility_id": "11237GRNDC209MO",
-        "total_releases_lbs": 471425,
-        "top_chemical": "Toluene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1998,
-        "risk_score": 6,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2486,18 +2007,13 @@
       },
       "properties": {
         "facility_name": "JEFSTEEL BUSINESS EQUIPMENT CORP",
-        "address": "1345 HALSEY ST",
-        "city": "BROOKLYN",
-        "zip": "112376102",
-        "latitude": 40.696111,
-        "longitude": -73.906667,
         "industry": "",
         "tri_facility_id": "11237JFSTL1345H",
-        "total_releases_lbs": 357699,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1988,
-        "risk_score": 8,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2512,17 +2028,12 @@
       },
       "properties": {
         "facility_name": "ALFRED CHEMICAL CORP",
-        "address": "111 GARDNER AVE",
-        "city": "BROOKLYN",
-        "zip": "11237",
-        "latitude": 40.71,
-        "longitude": -73.9252,
         "industry": "",
         "tri_facility_id": "11237LFRDC111GA",
-        "total_releases_lbs": 409105,
-        "top_chemical": "Mercury",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2000,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -2538,17 +2049,12 @@
       },
       "properties": {
         "facility_name": "BROOKLYN STEEL & TUBE CORP",
-        "address": "72 SCOTT AVE",
-        "city": "BROOKLYN",
-        "zip": "11237",
-        "latitude": 40.705833,
-        "longitude": -73.919444,
         "industry": "",
         "tri_facility_id": "11237LTVST7288S",
-        "total_releases_lbs": 485466,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1990,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -2558,23 +2064,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735542.0,
-          404234.0
+          -73.92833333333334,
+          40.70944444444445
         ]
       },
       "properties": {
         "facility_name": "ENEQUIST CHEMICAL CO INC",
-        "address": "100 VARICK AVE",
-        "city": "BROOKLYN",
-        "zip": "11237",
-        "latitude": 404234.0,
-        "longitude": -735542.0,
         "industry": "",
         "tri_facility_id": "11237NQSTC100VA",
-        "total_releases_lbs": 462215,
-        "top_chemical": "Chromium",
-        "carcinogen": true,
         "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -2584,24 +2085,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735533.0,
-          404230.0
+          -73.92583333333334,
+          40.708333333333336
         ]
       },
       "properties": {
         "facility_name": "NEO-RAY PRODUCTS INC",
-        "address": "537-45 JOHNSON AVE",
-        "city": "BROOKLYN",
-        "zip": "11237",
-        "latitude": 404230.0,
-        "longitude": -735533.0,
         "industry": "",
         "tri_facility_id": "11237NRYPR53754",
-        "total_releases_lbs": 386271,
-        "top_chemical": "Lead",
-        "carcinogen": true,
-        "year_first_reported": 2000,
-        "risk_score": 6,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2616,18 +2112,13 @@
       },
       "properties": {
         "facility_name": "ANTON MACHINE WORKS INC",
-        "address": "1226 FLUSHING AVE",
-        "city": "BROOKLYN",
-        "zip": "11237",
-        "latitude": 40.707035,
-        "longitude": -73.924253,
         "industry": "",
         "tri_facility_id": "11237NTNMC1226F",
-        "total_releases_lbs": 139983,
-        "top_chemical": "Methanol",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1988,
-        "risk_score": 9,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2642,18 +2133,13 @@
       },
       "properties": {
         "facility_name": "PLATED PLASTIC INDUSTRIES INC",
-        "address": "385 TROUTMAN ST",
-        "city": "BROOKLYN",
-        "zip": "11237",
-        "latitude": 40.707778,
-        "longitude": -73.941944,
         "industry": "",
         "tri_facility_id": "11237PLTDP385TR",
-        "total_releases_lbs": 457366,
-        "top_chemical": "Toluene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2005,
-        "risk_score": 6,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2662,24 +2148,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -734621.0,
-          403828.0
+          -73.7725,
+          40.64111111111111
         ]
       },
       "properties": {
         "facility_name": "ALLIED NEW YORK SERVICES  INC .",
-        "address": "J.F.K. INTERNATIONAL AIRPORT BUILDING # 90",
-        "city": "JAMAICA",
-        "zip": "11430",
-        "latitude": 403828.0,
-        "longitude": -734621.0,
         "industry": "",
         "tri_facility_id": "10001GDNNWJFKIN",
-        "total_releases_lbs": 104733,
-        "top_chemical": "Nickel",
-        "carcinogen": true,
-        "year_first_reported": 1998,
-        "risk_score": 7,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2688,24 +2169,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735444.0,
-          404713.0
+          -73.91222222222223,
+          40.786944444444444
         ]
       },
       "properties": {
         "facility_name": "CONSOLIDATED EDISON CO OF NEW YORK  ASTORIA FACILITY",
-        "address": "20TH AVE & 21ST ST",
-        "city": "ASTORIA",
-        "zip": "10015",
-        "latitude": 404713.0,
-        "longitude": -735444.0,
         "industry": "",
         "tri_facility_id": "10015CNSLD20THA",
-        "total_releases_lbs": 430297,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1992,
-        "risk_score": 3,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2720,18 +2196,13 @@
       },
       "properties": {
         "facility_name": "DOUBLE E PLATING CO (DBA HYGRADE POLISHING & PLATING)",
-        "address": "22-07 41ST AVE",
-        "city": "LONG ISLAND CITY",
-        "zip": "11101",
-        "latitude": 40.753333,
-        "longitude": -73.941111,
         "industry": "",
         "tri_facility_id": "10977DBLPL22074",
-        "total_releases_lbs": 346147,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2000,
-        "risk_score": 8,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2746,18 +2217,13 @@
       },
       "properties": {
         "facility_name": "ABLE STEEL EQUIPMENT CO INC",
-        "address": "50-02 23RD ST",
-        "city": "LONG ISLAND CITY",
-        "zip": "11101",
-        "latitude": 40.741389,
-        "longitude": -73.948333,
         "industry": "",
         "tri_facility_id": "11101BLSTL50022",
-        "total_releases_lbs": 146168,
-        "top_chemical": "Xylene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1995,
-        "risk_score": 8,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2766,24 +2232,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735611.0,
-          404434.0
+          -73.9363888888889,
+          40.74277777777778
         ]
       },
       "properties": {
         "facility_name": "BROMANTE SIRMOS DIV",
-        "address": "30-00 47TH AVE",
-        "city": "LONG ISLAND CITY",
-        "zip": "11101",
-        "latitude": 404434.0,
-        "longitude": -735611.0,
         "industry": "",
         "tri_facility_id": "11101BRMNT30004",
-        "total_releases_lbs": 336421,
-        "top_chemical": "Mercury",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2000,
-        "risk_score": 8,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2792,24 +2253,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735644.0,
-          404534.0
+          -73.94555555555556,
+          40.75944444444445
         ]
       },
       "properties": {
         "facility_name": "RAVENSWOOD GENERATING STATION",
-        "address": "38-54 VERNON BLVD",
-        "city": "LONG ISLAND CITY",
-        "zip": "11101",
-        "latitude": 404534.0,
-        "longitude": -735644.0,
         "industry": "",
         "tri_facility_id": "11101CNSLD3854V",
-        "total_releases_lbs": 492530,
-        "top_chemical": "Toluene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1988,
-        "risk_score": 7,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2818,24 +2274,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735632.0,
-          404449.0
+          -73.94222222222223,
+          40.746944444444445
         ]
       },
       "properties": {
         "facility_name": "COOPER WIRING DEVICES",
-        "address": "23-10 QUEENS PLAZA S",
-        "city": "LONG ISLAND CITY",
-        "zip": "11101",
-        "latitude": 404449.0,
-        "longitude": -735632.0,
         "industry": "",
         "tri_facility_id": "11101CPRWR231QU",
-        "total_releases_lbs": 93720,
-        "top_chemical": "Benzene",
-        "carcinogen": true,
-        "year_first_reported": 1995,
-        "risk_score": 3,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2850,18 +2301,13 @@
       },
       "properties": {
         "facility_name": "COSMOPOLITON CHEMICAL CO",
-        "address": "50-23 23RD ST",
-        "city": "LONG ISLAND CITY",
-        "zip": "11101",
-        "latitude": 40.746389,
-        "longitude": -73.938611,
         "industry": "",
         "tri_facility_id": "11101CSMPL50232",
-        "total_releases_lbs": 56934,
-        "top_chemical": "Benzene",
-        "carcinogen": true,
-        "year_first_reported": 2000,
-        "risk_score": 8,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2876,18 +2322,13 @@
       },
       "properties": {
         "facility_name": "EDISON PRICE INC",
-        "address": "41-05 21ST ST",
-        "city": "LONG ISLAND CITY",
-        "zip": "11101",
-        "latitude": 40.753333,
-        "longitude": -73.943333,
         "industry": "",
         "tri_facility_id": "11101DSNPR41052",
-        "total_releases_lbs": 382067,
-        "top_chemical": "Lead",
-        "carcinogen": true,
-        "year_first_reported": 2000,
-        "risk_score": 4,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2896,24 +2337,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735559.0,
-          404519.0
+          -73.93305555555555,
+          40.75527777777778
         ]
       },
       "properties": {
         "facility_name": "CIRIELLO MANUFACTURING INC (DBA FLORENTINE CRAFTSMEN)",
-        "address": "46-24 28TH ST",
-        "city": "LONG ISLAND CITY",
-        "zip": "11101",
-        "latitude": 404519.0,
-        "longitude": -735559.0,
         "industry": "",
         "tri_facility_id": "11101FLRNT46242",
-        "total_releases_lbs": 202053,
-        "top_chemical": "Benzene",
-        "carcinogen": true,
-        "year_first_reported": 1992,
-        "risk_score": 7,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2922,24 +2358,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735654.0,
-          404506.0
+          -73.94833333333334,
+          40.751666666666665
         ]
       },
       "properties": {
         "facility_name": "GOLDSMITH & SONS DISPLAY INC.",
-        "address": "10-09 43RD AVE",
-        "city": "LONG ISLAND CITY",
-        "zip": "11101",
-        "latitude": 404506.0,
-        "longitude": -735654.0,
         "industry": "",
         "tri_facility_id": "11101GLDSM10094",
-        "total_releases_lbs": 23371,
-        "top_chemical": "Chromium",
-        "carcinogen": true,
         "year_first_reported": 1987,
-        "risk_score": 6,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2954,18 +2385,13 @@
       },
       "properties": {
         "facility_name": "COOPER WIRING DEVICES",
-        "address": "45-31 CT ST",
-        "city": "LONG ISLAND CITY",
-        "zip": "11101",
-        "latitude": 40.746944,
-        "longitude": -73.942222,
         "industry": "",
         "tri_facility_id": "11101GLLCT4531C",
-        "total_releases_lbs": 191056,
-        "top_chemical": "Chromium",
-        "carcinogen": true,
-        "year_first_reported": 1988,
-        "risk_score": 8,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -2974,24 +2400,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735627.0,
-          404402.0
+          -73.94083333333333,
+          40.73388888888889
         ]
       },
       "properties": {
         "facility_name": "GETTY TERMINALS CORP.",
-        "address": "30-23 GREENPOINT AVE",
-        "city": "LONG ISLAND CITY",
-        "zip": "111012009",
-        "latitude": 404402.0,
-        "longitude": -735627.0,
         "industry": "",
         "tri_facility_id": "11101GTTYT3023G",
-        "total_releases_lbs": 326812,
-        "top_chemical": "Lead",
-        "carcinogen": true,
-        "year_first_reported": 1988,
-        "risk_score": 7,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3006,18 +2427,13 @@
       },
       "properties": {
         "facility_name": "J MANHEIMER INC",
-        "address": "47-22 PEARSON PL",
-        "city": "LONG ISLAND CITY",
-        "zip": "111014404",
-        "latitude": 40.742222,
-        "longitude": -73.943333,
         "industry": "",
         "tri_facility_id": "11101JMNHM4722P",
-        "total_releases_lbs": 265978,
-        "top_chemical": "Formaldehyde",
-        "carcinogen": true,
-        "year_first_reported": 2000,
-        "risk_score": 8,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3032,18 +2448,13 @@
       },
       "properties": {
         "facility_name": "ANACOTE CORP",
-        "address": "10-01 45TH AVE",
-        "city": "LONG ISLAND CITY",
-        "zip": "11101",
-        "latitude": 40.752778,
-        "longitude": -73.950278,
         "industry": "",
         "tri_facility_id": "11101NCTCR10014",
-        "total_releases_lbs": 211073,
-        "top_chemical": "Formaldehyde",
-        "carcinogen": true,
-        "year_first_reported": 1990,
-        "risk_score": 6,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3058,18 +2469,13 @@
       },
       "properties": {
         "facility_name": "ANACOTE CORP",
-        "address": "45-22 VERNON BLVD",
-        "city": "LONG ISLAND CITY",
-        "zip": "11101",
-        "latitude": 40.752222,
-        "longitude": -73.950556,
         "industry": "",
         "tri_facility_id": "11101NCTCR4522V",
-        "total_releases_lbs": 220534,
-        "top_chemical": "Chromium",
-        "carcinogen": true,
-        "year_first_reported": 1990,
-        "risk_score": 7,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3084,18 +2490,13 @@
       },
       "properties": {
         "facility_name": "PEPSI-COLA BOTTLING CO OF NY",
-        "address": "4600 5TH ST",
-        "city": "LONG ISLAND CITY",
-        "zip": "11101",
-        "latitude": 40.75,
-        "longitude": -73.966667,
         "industry": "",
         "tri_facility_id": "11101PPSCL4600F",
-        "total_releases_lbs": 213000,
-        "top_chemical": "Mercury",
-        "carcinogen": false,
         "year_first_reported": 1987,
-        "risk_score": 7,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3110,18 +2511,13 @@
       },
       "properties": {
         "facility_name": "PARAGON PAINT & VARNISH CORP",
-        "address": "5-49 46TH AVE",
-        "city": "LONG ISLAND CITY",
-        "zip": "11101",
-        "latitude": 40.747222,
-        "longitude": -73.954167,
         "industry": "",
         "tri_facility_id": "11101PRGNP54946",
-        "total_releases_lbs": 150525,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2000,
-        "risk_score": 8,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3136,18 +2532,13 @@
       },
       "properties": {
         "facility_name": "PERMABRITE VACUUM PLATING, CORP",
-        "address": "43-24 21ST ST",
-        "city": "LONG ISLAND CITY",
-        "zip": "11101",
-        "latitude": 40.746389,
-        "longitude": -73.938611,
         "industry": "",
         "tri_facility_id": "11101PRMBR43242",
-        "total_releases_lbs": 243887,
-        "top_chemical": "Nickel",
-        "carcinogen": true,
-        "year_first_reported": 2005,
-        "risk_score": 6,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3162,18 +2553,13 @@
       },
       "properties": {
         "facility_name": "QUEENS PLATING CO INC",
-        "address": "36-16 37TH ST",
-        "city": "LONG ISLAND CITY",
-        "zip": "11101",
-        "latitude": 40.7533,
-        "longitude": -73.9265,
         "industry": "",
         "tri_facility_id": "11101QNSPL36163",
-        "total_releases_lbs": 268102,
-        "top_chemical": "Nickel",
-        "carcinogen": true,
-        "year_first_reported": 1990,
-        "risk_score": 4,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3188,18 +2574,13 @@
       },
       "properties": {
         "facility_name": "ROEHR CHEMICALS INC",
-        "address": "52-20 37TH ST",
-        "city": "LONG ISLAND CITY",
-        "zip": "11101",
-        "latitude": 40.7348,
-        "longitude": -73.9357,
         "industry": "",
         "tri_facility_id": "11101RHRCH52203",
-        "total_releases_lbs": 148885,
-        "top_chemical": "Mercury",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1998,
-        "risk_score": 4,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3214,18 +2595,13 @@
       },
       "properties": {
         "facility_name": "SCHWARTZ CHEMICAL CO INC",
-        "address": "50-01 SECOND ST",
-        "city": "LONG ISLAND CITY",
-        "zip": "11101",
-        "latitude": 40.743056,
-        "longitude": -73.957778,
         "industry": "",
         "tri_facility_id": "11101SCHWR50012",
-        "total_releases_lbs": 429189,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1995,
-        "risk_score": 6,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3240,18 +2616,13 @@
       },
       "properties": {
         "facility_name": "STANDARD MOTOR PRODUCTS INC",
-        "address": "37-18 NORTHERN BLVD",
-        "city": "LONG ISLAND CITY",
-        "zip": "111011616",
-        "latitude": 40.751667,
-        "longitude": -73.925,
         "industry": "",
         "tri_facility_id": "11101STNDR3718N",
-        "total_releases_lbs": 422971,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1990,
-        "risk_score": 3,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3266,18 +2637,13 @@
       },
       "properties": {
         "facility_name": "STANDARD FINISHING CO INC",
-        "address": "43-10 23RD ST",
-        "city": "LONG ISLAND CITY",
-        "zip": "11101",
-        "latitude": 40.75,
-        "longitude": -73.933333,
         "industry": "",
         "tri_facility_id": "11101STNDR43102",
-        "total_releases_lbs": 24329,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2005,
-        "risk_score": 4,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3292,18 +2658,13 @@
       },
       "properties": {
         "facility_name": "ACCO USA INC",
-        "address": "32-02 SKILLMAN AVE",
-        "city": "LONG ISLAND CITY",
-        "zip": "11101",
-        "latitude": 40.7473,
-        "longitude": -73.9273,
         "industry": "",
         "tri_facility_id": "11101SWNGL3700S",
-        "total_releases_lbs": 238869,
-        "top_chemical": "Chromium",
-        "carcinogen": true,
-        "year_first_reported": 1992,
-        "risk_score": 9,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3318,17 +2679,12 @@
       },
       "properties": {
         "facility_name": "ACCO USA INC  LEEMAR BLDG",
-        "address": "45-20 33RD ST",
-        "city": "LONG ISLAND CITY",
-        "zip": "11101",
-        "latitude": 40.7443,
-        "longitude": -73.9324,
         "industry": "",
         "tri_facility_id": "11101SWNGL45203",
-        "total_releases_lbs": 259296,
-        "top_chemical": "Chromium",
-        "carcinogen": true,
-        "year_first_reported": 1992,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -3338,24 +2694,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735540.0,
-          404502.0
+          -73.92777777777778,
+          40.75055555555556
         ]
       },
       "properties": {
         "facility_name": "TUDOR HANDLE CORP",
-        "address": "43-02 38TH ST",
-        "city": "LONG ISLAND CITY",
-        "zip": "11101",
-        "latitude": 404502.0,
-        "longitude": -735540.0,
         "industry": "",
         "tri_facility_id": "11101TDRHN43023",
-        "total_releases_lbs": 344063,
-        "top_chemical": "Toluene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1988,
-        "risk_score": 9,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3370,18 +2721,13 @@
       },
       "properties": {
         "facility_name": "MECHANICAL MIRROR WORKS INC",
-        "address": "27-02 FIRST AVE",
-        "city": "LONG ISLAND CITY",
-        "zip": "11102",
-        "latitude": 40.7752,
-        "longitude": -73.936444,
         "industry": "",
         "tri_facility_id": "11102MCHNC2702F",
-        "total_releases_lbs": 114835,
-        "top_chemical": "Methanol",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2005,
-        "risk_score": 3,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3396,18 +2742,13 @@
       },
       "properties": {
         "facility_name": "GUILD PLATERS INC",
-        "address": "48-09 25TH AVE",
-        "city": "LONG ISLAND CITY",
-        "zip": "11103",
-        "latitude": 40.7646,
-        "longitude": -73.905444,
         "industry": "",
         "tri_facility_id": "11103GLDPL48092",
-        "total_releases_lbs": 292341,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1988,
-        "risk_score": 10,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3422,18 +2763,13 @@
       },
       "properties": {
         "facility_name": "PILOT PRODUCTS INC",
-        "address": "24-13 46TH ST",
-        "city": "LONG ISLAND CITY",
-        "zip": "11103",
-        "latitude": 40.7675,
-        "longitude": -73.906111,
         "industry": "",
         "tri_facility_id": "11103PLTPR24134",
-        "total_releases_lbs": 70008,
-        "top_chemical": "Nickel",
-        "carcinogen": true,
-        "year_first_reported": 1998,
-        "risk_score": 10,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3442,24 +2778,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735356.0,
-          404652.0
+          -73.89888888888889,
+          40.78111111111111
         ]
       },
       "properties": {
         "facility_name": "ASTORIA ENERGY POWER GENERATION  FACILITY",
-        "address": "17-10 STEINWAY ST",
-        "city": "ASTORIA",
-        "zip": "11105",
-        "latitude": 404652.0,
-        "longitude": -735356.0,
         "industry": "",
         "tri_facility_id": "11105CSTLS1710S",
-        "total_releases_lbs": 321306,
-        "top_chemical": "Mercury",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2000,
-        "risk_score": 10,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3474,18 +2805,13 @@
       },
       "properties": {
         "facility_name": "HUDSON CHROMIUM CO INC",
-        "address": "20-20 STEINWAY ST",
-        "city": "LONG ISLAND CITY",
-        "zip": "11105",
-        "latitude": 40.768333,
-        "longitude": -73.902222,
         "industry": "",
         "tri_facility_id": "11105HDSNC2020S",
-        "total_releases_lbs": 470495,
-        "top_chemical": "Methanol",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2005,
-        "risk_score": 10,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3494,24 +2820,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735440.0,
-          404725.0
+          -73.91111111111111,
+          40.790277777777774
         ]
       },
       "properties": {
         "facility_name": "CHARLES POLETTI POWER PROJECT & 500 MW PLANT",
-        "address": "31-03 20TH AVE",
-        "city": "ASTORIA",
-        "zip": "11105",
-        "latitude": 404725.0,
-        "longitude": -735440.0,
         "industry": "",
         "tri_facility_id": "11105NWYRK31032",
-        "total_releases_lbs": 135991,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1995,
-        "risk_score": 10,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3526,18 +2847,13 @@
       },
       "properties": {
         "facility_name": "STEINWAY & SONS",
-        "address": "1 STEINWAY PL",
-        "city": "LONG ISLAND CITY",
-        "zip": "11105",
-        "latitude": 40.779722,
-        "longitude": -73.9,
         "industry": "",
         "tri_facility_id": "11105STNWY1STEI",
-        "total_releases_lbs": 328696,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1995,
-        "risk_score": 10,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3546,24 +2862,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735444.0,
-          404713.0
+          -73.91222222222223,
+          40.786944444444444
         ]
       },
       "properties": {
         "facility_name": "ASTORIA GENERATING STATION",
-        "address": "18-01 20TH AVE",
-        "city": "ASTORIA",
-        "zip": "11105",
-        "latitude": 404713.0,
-        "longitude": -735444.0,
         "industry": "",
         "tri_facility_id": "11105STRGN18012",
-        "total_releases_lbs": 40723,
-        "top_chemical": "Formaldehyde",
-        "carcinogen": true,
-        "year_first_reported": 1992,
-        "risk_score": 7,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3572,23 +2883,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735400.0,
-          404710.0
+          -73.9,
+          40.78611111111111
         ]
       },
       "properties": {
         "facility_name": "ASTORIA GAS TURBINE SITE",
-        "address": "31-01 20TH AVE",
-        "city": "ASTORIA",
-        "zip": "11105",
-        "latitude": 404710.0,
-        "longitude": -735400.0,
         "industry": "",
         "tri_facility_id": "11105STRGS31012",
-        "total_releases_lbs": 176180,
-        "top_chemical": "Lead",
-        "carcinogen": true,
-        "year_first_reported": 1988,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -3604,17 +2910,12 @@
       },
       "properties": {
         "facility_name": "L B RUSSELL CHEMICALS INC",
-        "address": "14-33 31ST AVE",
-        "city": "LONG ISLAND CITY",
-        "zip": "11106",
-        "latitude": 45.679444,
-        "longitude": -73.929167,
         "industry": "",
         "tri_facility_id": "11106LBRSS14333",
-        "total_releases_lbs": 79178,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2000,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -3630,18 +2931,13 @@
       },
       "properties": {
         "facility_name": "LEVCO METAL FINISHERS INC",
-        "address": "34-11 36TH ST",
-        "city": "LONG ISLAND CITY",
-        "zip": "11106",
-        "latitude": 40.75,
-        "longitude": -73.916667,
         "industry": "",
         "tri_facility_id": "11106LVCMT34113",
-        "total_releases_lbs": 370467,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1988,
-        "risk_score": 9,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3656,44 +2952,13 @@
       },
       "properties": {
         "facility_name": "NELSON GALVANIZING INC",
-        "address": "11-02 BROADWAY",
-        "city": "LONG ISLAND CITY",
-        "zip": "11106",
-        "latitude": 40.7611,
-        "longitude": -73.932,
         "industry": "",
         "tri_facility_id": "11106NLSNG1102B",
-        "total_releases_lbs": 213799,
-        "top_chemical": "Lead",
-        "carcinogen": true,
-        "year_first_reported": 2005,
-        "risk_score": 9,
-        "nearby_neighborhoods": []
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "facility_name": "FLUSHING ASPHALT LLC",
-        "address": "120-01 31ST AVE",
-        "city": "FLUSHING",
-        "zip": "11354",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "industry": "",
-        "tri_facility_id": "11354FLSHN12131",
-        "total_releases_lbs": 32745,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2000,
-        "risk_score": 9,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3708,18 +2973,13 @@
       },
       "properties": {
         "facility_name": "NORTH AMERICAN SPECIALTIES CO",
-        "address": "120-12 28TH AVE",
-        "city": "FLUSHING",
-        "zip": "11354",
-        "latitude": 40.7729,
-        "longitude": -73.8475,
         "industry": "",
         "tri_facility_id": "11354NRTHM12012",
-        "total_releases_lbs": 474495,
-        "top_chemical": "Benzene",
-        "carcinogen": true,
         "year_first_reported": 1987,
-        "risk_score": 9,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3734,18 +2994,13 @@
       },
       "properties": {
         "facility_name": "PARK NAMEPLATE CO INC",
-        "address": "34-10 LINDEN PL",
-        "city": "FLUSHING",
-        "zip": "11354",
-        "latitude": 40.765556,
-        "longitude": -73.831667,
         "industry": "",
         "tri_facility_id": "11354PRKNM3410L",
-        "total_releases_lbs": 250174,
-        "top_chemical": "Toluene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1998,
-        "risk_score": 7,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3760,18 +3015,13 @@
       },
       "properties": {
         "facility_name": "PEPSI COLA BOTTLING CO OF NEW YORK INC",
-        "address": "112-02 15TH AVE",
-        "city": "COLLEGE POINT",
-        "zip": "11356",
-        "latitude": 40.8,
-        "longitude": -73.868333,
         "industry": "",
         "tri_facility_id": "11356CNDDR11202",
-        "total_releases_lbs": 395137,
-        "top_chemical": "Chromium",
-        "carcinogen": true,
-        "year_first_reported": 2000,
-        "risk_score": 6,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3786,18 +3036,13 @@
       },
       "properties": {
         "facility_name": "EDO CORP GOVERNMENT SYSTEMS DIV COLLEGE PT",
-        "address": "14-04 111TH ST",
-        "city": "COLLEGE POINT",
-        "zip": "11356",
-        "latitude": 40.783333,
-        "longitude": -73.866667,
         "industry": "",
         "tri_facility_id": "11356DCRPR14041",
-        "total_releases_lbs": 256072,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1995,
-        "risk_score": 9,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3812,18 +3057,13 @@
       },
       "properties": {
         "facility_name": "EDWARD FIELDS INC",
-        "address": "128-28 25TH AVE",
-        "city": "COLLEGE POINT",
-        "zip": "11356",
-        "latitude": 40.784444,
-        "longitude": -73.841111,
         "industry": "",
         "tri_facility_id": "11356DWRDF12828",
-        "total_releases_lbs": 254716,
-        "top_chemical": "Toluene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2000,
-        "risk_score": 8,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3838,18 +3078,13 @@
       },
       "properties": {
         "facility_name": "COMSTAR INTERNATIONAL INC",
-        "address": "20-45 128 ST",
-        "city": "COLLEGE POINT",
-        "zip": "11356",
-        "latitude": 40.78,
-        "longitude": -73.840833,
         "industry": "",
         "tri_facility_id": "11356NDSTR20451",
-        "total_releases_lbs": 350782,
-        "top_chemical": "Chromium",
-        "carcinogen": true,
-        "year_first_reported": 1990,
-        "risk_score": 10,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3864,18 +3099,13 @@
       },
       "properties": {
         "facility_name": "ATLANTIC WIRE & CABLE CORP",
-        "address": "119-14 14TH RD",
-        "city": "COLLEGE POINT",
-        "zip": "11356",
-        "latitude": 40.784444,
-        "longitude": -73.848611,
         "industry": "",
         "tri_facility_id": "11356TLNTC11914",
-        "total_releases_lbs": 482204,
-        "top_chemical": "Methanol",
-        "carcinogen": false,
         "year_first_reported": 1987,
-        "risk_score": 9,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3890,18 +3120,13 @@
       },
       "properties": {
         "facility_name": "TRAULSEN & CO INC",
-        "address": "114-02 15TH AVE",
-        "city": "COLLEGE POINT",
-        "zip": "11356",
-        "latitude": 40.776667,
-        "longitude": -73.873056,
         "industry": "",
         "tri_facility_id": "11356TRLSN11402",
-        "total_releases_lbs": 310422,
-        "top_chemical": "Benzene",
-        "carcinogen": true,
         "year_first_reported": 1987,
-        "risk_score": 4,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3916,18 +3141,13 @@
       },
       "properties": {
         "facility_name": "EUTECTIC CORP",
-        "address": "40-40 172ND ST",
-        "city": "FLUSHING",
-        "zip": "113589981",
-        "latitude": 40.7599,
-        "longitude": -73.7951,
         "industry": "",
         "tri_facility_id": "11358TCTCC40401",
-        "total_releases_lbs": 337085,
-        "top_chemical": "Chromium",
-        "carcinogen": true,
-        "year_first_reported": 1990,
-        "risk_score": 10,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3942,18 +3162,13 @@
       },
       "properties": {
         "facility_name": "KARP ASSOCIATES INC",
-        "address": "54-54 43RD ST",
-        "city": "MASPETH",
-        "zip": "11368",
-        "latitude": 40.749167,
-        "longitude": -73.853333,
         "industry": "",
         "tri_facility_id": "11368KRPSS54544",
-        "total_releases_lbs": 95378,
-        "top_chemical": "Toluene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1995,
-        "risk_score": 9,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3968,18 +3183,13 @@
       },
       "properties": {
         "facility_name": "PROGRAMATIC PLATERS INC",
-        "address": "49-25 20TH AVE",
-        "city": "EAST ELMHURST",
-        "zip": "11370",
-        "latitude": 40.778611,
-        "longitude": -73.923056,
         "industry": "",
         "tri_facility_id": "11370PRGRM49252",
-        "total_releases_lbs": 171727,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2005,
-        "risk_score": 8,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -3988,24 +3198,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735220.0,
-          404638.0
+          -73.87222222222222,
+          40.77722222222222
         ]
       },
       "properties": {
         "facility_name": "ALLIED AVIATION SERVICE CO OF NEW YORK INC",
-        "address": "LAGUARDIA AIRPORT BUILDING 42",
-        "city": "FLUSHING",
-        "zip": "11371",
-        "latitude": 404638.0,
-        "longitude": -735220.0,
         "industry": "",
         "tri_facility_id": "11371GDNVTLAGUA",
-        "total_releases_lbs": 177047,
-        "top_chemical": "Chromium",
-        "carcinogen": true,
-        "year_first_reported": 1995,
-        "risk_score": 9,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4020,18 +3225,13 @@
       },
       "properties": {
         "facility_name": "MASTER METAL POLISHING CORP",
-        "address": "2560 BOROUGH PL",
-        "city": "WOODSIDE",
-        "zip": "11371",
-        "latitude": 40.762534,
-        "longitude": -73.90407,
         "industry": "",
         "tri_facility_id": "11371MSTRM2560B",
-        "total_releases_lbs": 132362,
-        "top_chemical": "Xylene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2005,
-        "risk_score": 3,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4046,18 +3246,13 @@
       },
       "properties": {
         "facility_name": "QUICK ROLL LEAF MANUFACTURING CO",
-        "address": "85-09 57TH AVE",
-        "city": "ELMHURST",
-        "zip": "11373",
-        "latitude": 40.7372,
-        "longitude": -73.8789,
         "industry": "",
         "tri_facility_id": "11373QCKRL85095",
-        "total_releases_lbs": 392804,
-        "top_chemical": "Mercury",
-        "carcinogen": false,
         "year_first_reported": 1987,
-        "risk_score": 8,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4072,18 +3267,13 @@
       },
       "properties": {
         "facility_name": "CREATIONS AROMATIQUES INC",
-        "address": "61-12 32ND AVE",
-        "city": "WOODSIDE",
-        "zip": "11377",
-        "latitude": 40.755556,
-        "longitude": -73.901944,
         "industry": "",
         "tri_facility_id": "11377CRTNS61123",
-        "total_releases_lbs": 117656,
-        "top_chemical": "Xylene",
-        "carcinogen": false,
         "year_first_reported": 1987,
-        "risk_score": 3,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4098,18 +3288,13 @@
       },
       "properties": {
         "facility_name": "HANDY BUTTON MACHINE CO OF NY",
-        "address": "50-05 47TH AVE",
-        "city": "WOODSIDE",
-        "zip": "113770658",
-        "latitude": 40.741667,
-        "longitude": -73.914167,
         "industry": "",
         "tri_facility_id": "11377HNDYB50054",
-        "total_releases_lbs": 497970,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1992,
-        "risk_score": 3,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4124,17 +3309,12 @@
       },
       "properties": {
         "facility_name": "LONG ISLAND MECHANICAL PLATING CO INC",
-        "address": "37-18 57TH ST",
-        "city": "WOODSIDE",
-        "zip": "11377",
-        "latitude": 40.7495,
-        "longitude": -73.9064,
         "industry": "",
         "tri_facility_id": "11377LMCHN37185",
-        "total_releases_lbs": 325858,
-        "top_chemical": "Methanol",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1992,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -4150,18 +3330,13 @@
       },
       "properties": {
         "facility_name": "VERNON PLATING WORKS INC",
-        "address": "33-18 57TH ST",
-        "city": "WOODSIDE",
-        "zip": "11377",
-        "latitude": 40.7528,
-        "longitude": -73.9048,
         "industry": "",
         "tri_facility_id": "11377VRNNP33185",
-        "total_releases_lbs": 248382,
-        "top_chemical": "Xylene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1992,
-        "risk_score": 10,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4176,17 +3351,12 @@
       },
       "properties": {
         "facility_name": "BERGER IND INC",
-        "address": "7416 GRAND AVE",
-        "city": "MASPETH",
-        "zip": "11378",
-        "latitude": 40.729722,
-        "longitude": -73.886944,
         "industry": "",
         "tri_facility_id": "11378BRGRN7416G",
-        "total_releases_lbs": 366821,
-        "top_chemical": "Formaldehyde",
-        "carcinogen": true,
-        "year_first_reported": 1998,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -4202,17 +3372,12 @@
       },
       "properties": {
         "facility_name": "COCA-COLA BOTTLING CO OF NEW YORK MASPETH",
-        "address": "59-02 BORDEN AVE",
-        "city": "MASPETH",
-        "zip": "10532",
-        "latitude": 40.727222,
-        "longitude": -73.910278,
         "industry": "",
         "tri_facility_id": "11378CCCLB5902B",
-        "total_releases_lbs": 317762,
-        "top_chemical": "Benzene",
-        "carcinogen": true,
-        "year_first_reported": 1988,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -4228,18 +3393,13 @@
       },
       "properties": {
         "facility_name": "FLUSH METAL PARTITIONS",
-        "address": "54-35 46TH ST",
-        "city": "MASPETH",
-        "zip": "11378",
-        "latitude": 40.730556,
-        "longitude": -73.922222,
         "industry": "",
         "tri_facility_id": "11378FLSHM54354",
-        "total_releases_lbs": 163173,
-        "top_chemical": "Xylene",
-        "carcinogen": false,
         "year_first_reported": 1987,
-        "risk_score": 7,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4254,18 +3414,13 @@
       },
       "properties": {
         "facility_name": "GRAND BASKET CO INC",
-        "address": "53-06 GRAND AVE",
-        "city": "MASPETH",
-        "zip": "11378",
-        "latitude": 40.718611,
-        "longitude": -73.915833,
         "industry": "",
         "tri_facility_id": "11378GRNDB5306G",
-        "total_releases_lbs": 301983,
-        "top_chemical": "Chromium",
-        "carcinogen": true,
-        "year_first_reported": 2000,
-        "risk_score": 6,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4280,18 +3435,13 @@
       },
       "properties": {
         "facility_name": "KINGS/KINGSLEY CORP",
-        "address": "58-96 57TH ST",
-        "city": "MASPETH",
-        "zip": "11378",
-        "latitude": 40.75,
-        "longitude": -73.9,
         "industry": "",
         "tri_facility_id": "11378KNGSK58965",
-        "total_releases_lbs": 39944,
-        "top_chemical": "Benzene",
-        "carcinogen": true,
-        "year_first_reported": 1992,
-        "risk_score": 4,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4306,18 +3456,13 @@
       },
       "properties": {
         "facility_name": "ELECTRONICS PLATING CORP",
-        "address": "58-16 57TH RD",
-        "city": "MASPETH",
-        "zip": "11378",
-        "latitude": 40.7221,
-        "longitude": -73.9117,
         "industry": "",
         "tri_facility_id": "11378LCTRN58155",
-        "total_releases_lbs": 365629,
-        "top_chemical": "Formaldehyde",
-        "carcinogen": true,
-        "year_first_reported": 1988,
-        "risk_score": 3,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4332,18 +3477,13 @@
       },
       "properties": {
         "facility_name": "ARROW-BAKE ON CORP",
-        "address": "52-08 GRAND AVE",
-        "city": "MASPETH",
-        "zip": "11378",
-        "latitude": 40.7179,
-        "longitude": -73.9173,
         "industry": "",
         "tri_facility_id": "11378RRWBK5208G",
-        "total_releases_lbs": 182134,
-        "top_chemical": "Mercury",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 2000,
-        "risk_score": 8,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4358,18 +3498,13 @@
       },
       "properties": {
         "facility_name": "STRUCTURAL PROCESSING CORP",
-        "address": "59-30 56TH RD",
-        "city": "NEW YORK",
-        "zip": "11378",
-        "latitude": 40.741667,
-        "longitude": -73.916389,
         "industry": "",
         "tri_facility_id": "11378STRCT59305",
-        "total_releases_lbs": 36253,
-        "top_chemical": "Mercury",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1998,
-        "risk_score": 3,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4384,18 +3519,13 @@
       },
       "properties": {
         "facility_name": "BARKER BROTHERS INC",
-        "address": "1666 SUMMERFIELD ST",
-        "city": "RIDGEWOOD",
-        "zip": "11385",
-        "latitude": 40.697222,
-        "longitude": -73.900556,
         "industry": "",
         "tri_facility_id": "11385BRKRB1666S",
-        "total_releases_lbs": 445522,
-        "top_chemical": "Chromium",
-        "carcinogen": true,
-        "year_first_reported": 2005,
-        "risk_score": 4,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4404,23 +3534,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735215.0,
-          404228.0
+          -73.87083333333332,
+          40.70777777777778
         ]
       },
       "properties": {
         "facility_name": "INDEPENDENT CHEMICAL CORP",
-        "address": "70-30 79TH PL",
-        "city": "GLENDALE",
-        "zip": "11385",
-        "latitude": 404228.0,
-        "longitude": -735215.0,
         "industry": "",
         "tri_facility_id": "11385NDPND7951C",
-        "total_releases_lbs": 227391,
-        "top_chemical": "Lead",
-        "carcinogen": true,
-        "year_first_reported": 2005,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -4436,18 +3561,13 @@
       },
       "properties": {
         "facility_name": "SHOPSIN PAPER CORP",
-        "address": "50-50 METROPOLITAN AVE",
-        "city": "RIDGEWOOD",
-        "zip": "11385",
-        "latitude": 40.700556,
-        "longitude": -73.879722,
         "industry": "",
         "tri_facility_id": "11385SHPSN5050M",
-        "total_releases_lbs": 228420,
-        "top_chemical": "Methanol",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1995,
-        "risk_score": 10,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4462,18 +3582,13 @@
       },
       "properties": {
         "facility_name": "EON LABS MANUFACTURING INC",
-        "address": "227-15 N CONDUIT AVE",
-        "city": "LAURELTON",
-        "zip": "114133134",
-        "latitude": 40.6668,
-        "longitude": -73.7493,
         "industry": "",
         "tri_facility_id": "11413VTRNP22715",
-        "total_releases_lbs": 243827,
-        "top_chemical": "Chromium",
-        "carcinogen": true,
-        "year_first_reported": 1995,
-        "risk_score": 8,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4488,18 +3603,13 @@
       },
       "properties": {
         "facility_name": "OZONE INDUSTRIES INC",
-        "address": "101-32 101 ST",
-        "city": "OZONE PARK",
-        "zip": "11416",
-        "latitude": 40.684722,
-        "longitude": -73.841944,
         "industry": "",
         "tri_facility_id": "11416ZNNDS10132",
-        "total_releases_lbs": 446642,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1988,
-        "risk_score": 7,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4514,18 +3624,13 @@
       },
       "properties": {
         "facility_name": "CROWN NOVELTY WORKS CORP",
-        "address": "86-15 LIBERTY AVE",
-        "city": "OZONE PARK",
-        "zip": "114171325",
-        "latitude": 40.68,
-        "longitude": -73.851667,
         "industry": "",
         "tri_facility_id": "11417CRWNN8615L",
-        "total_releases_lbs": 462328,
-        "top_chemical": "Nickel",
-        "carcinogen": true,
-        "year_first_reported": 1992,
-        "risk_score": 10,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4540,18 +3645,13 @@
       },
       "properties": {
         "facility_name": "RAYMAC CABINET CO INC",
-        "address": "87-49 130TH ST",
-        "city": "RICHMOND HILL",
-        "zip": "11418",
-        "latitude": 40.697778,
-        "longitude": -73.832222,
         "industry": "",
         "tri_facility_id": "11418RYMCC87491",
-        "total_releases_lbs": 298865,
-        "top_chemical": "Benzene",
-        "carcinogen": true,
-        "year_first_reported": 2000,
-        "risk_score": 8,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4566,17 +3666,12 @@
       },
       "properties": {
         "facility_name": "VOLKERT PRECISION TECHS INC",
-        "address": "222-40 96TH AVE",
-        "city": "QUEENS VILLAGE",
-        "zip": "11429",
-        "latitude": 40.707778,
-        "longitude": -73.725,
         "industry": "",
         "tri_facility_id": "11429VLKRT22240",
-        "total_releases_lbs": 15147,
-        "top_chemical": "Nickel",
-        "carcinogen": true,
-        "year_first_reported": 1998,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -4592,18 +3687,13 @@
       },
       "properties": {
         "facility_name": "PAN AMERICAN WORLD AIRWAYS INC",
-        "address": "JFK INTL AIRPORT",
-        "city": "JAMAICA",
-        "zip": "11430",
-        "latitude": 40.656944,
-        "longitude": -73.810833,
         "industry": "",
         "tri_facility_id": "11430PNMRCJFKIN",
-        "total_releases_lbs": 255716,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1998,
-        "risk_score": 7,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4612,24 +3702,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -734659.0,
-          403859.0
+          -73.78305555555555,
+          40.64972222222222
         ]
       },
       "properties": {
         "facility_name": "US CUSTOMS SERVICE FIRING RANGE",
-        "address": "JFK BUILDING 77",
-        "city": "JAMAICA",
-        "zip": "11430",
-        "latitude": 403859.0,
-        "longitude": -734659.0,
         "industry": "",
         "tri_facility_id": "11430SCSTMJFKBU",
-        "total_releases_lbs": 178535,
-        "top_chemical": "Formaldehyde",
-        "carcinogen": true,
-        "year_first_reported": 1995,
-        "risk_score": 3,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4638,24 +3723,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -734726.0,
-          404214.0
+          -73.79055555555556,
+          40.70388888888889
         ]
       },
       "properties": {
         "facility_name": "INTERSTATE BRANDS CORP",
-        "address": "168-23 DOUGLAS AVE",
-        "city": "JAMAICA",
-        "zip": "11433",
-        "latitude": 404214.0,
-        "longitude": -734726.0,
         "industry": "",
         "tri_facility_id": "11433NTRST16823",
-        "total_releases_lbs": 270961,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1988,
-        "risk_score": 6,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4670,18 +3750,13 @@
       },
       "properties": {
         "facility_name": "CHEMCLEAN CORP",
-        "address": "130-45 180TH ST",
-        "city": "JAMAICA",
-        "zip": "114344107",
-        "latitude": 40.6798,
-        "longitude": -73.760222,
         "industry": "",
         "tri_facility_id": "11434CHMCL13045",
-        "total_releases_lbs": 377626,
-        "top_chemical": "Chromium",
-        "carcinogen": true,
-        "year_first_reported": 2005,
-        "risk_score": 6,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4696,18 +3771,13 @@
       },
       "properties": {
         "facility_name": "ABBOTT INDUSTRIES INC",
-        "address": "95-25 149TH ST",
-        "city": "JAMAICA",
-        "zip": "11435",
-        "latitude": 40.699444,
-        "longitude": -73.808333,
         "industry": "",
         "tri_facility_id": "11435BBTND95251",
-        "total_releases_lbs": 362178,
-        "top_chemical": "Nickel",
-        "carcinogen": true,
-        "year_first_reported": 2005,
-        "risk_score": 10,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4716,24 +3786,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -734544.0,
-          403626.0
+          -73.76222222222222,
+          40.60722222222223
         ]
       },
       "properties": {
         "facility_name": "BAYSWATER PEAKING FACILITY LLC",
-        "address": "14-25 BAY 24TH ST",
-        "city": "FAR ROCKAWAY",
-        "zip": "11691",
-        "latitude": 403626.0,
-        "longitude": -734544.0,
         "industry": "",
         "tri_facility_id": "11691BYSWT1425B",
-        "total_releases_lbs": 415825,
-        "top_chemical": "Toluene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1988,
-        "risk_score": 7,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4748,148 +3813,13 @@
       },
       "properties": {
         "facility_name": "AMERICAN COMBINING CORP",
-        "address": "72-36 BURCHELL AVE",
-        "city": "ARVERNE",
-        "zip": "11692",
-        "latitude": 40.595833,
-        "longitude": -73.803056,
         "industry": "",
         "tri_facility_id": "11692MRCNC7236B",
-        "total_releases_lbs": 116280,
-        "top_chemical": "Chromium",
-        "carcinogen": true,
-        "year_first_reported": 1992,
-        "risk_score": 7,
-        "nearby_neighborhoods": []
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.181944,
-          40.638889
-        ]
-      },
-      "properties": {
-        "facility_name": "PROCTER & GAMBLE MFG CO",
-        "address": "40 WESTERN AVE",
-        "city": "STATEN ISLAND",
-        "zip": "10303",
-        "latitude": 40.638889,
-        "longitude": -74.181944,
-        "industry": "",
-        "tri_facility_id": "10303PRCTR40WES",
-        "total_releases_lbs": 348206,
-        "top_chemical": "Benzene",
-        "carcinogen": true,
-        "year_first_reported": 1998,
-        "risk_score": 10,
-        "nearby_neighborhoods": []
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.074167,
-          40.616111
-        ]
-      },
-      "properties": {
-        "facility_name": "SUN CHEMICAL CORP",
-        "address": "441 TOMPKINS AVE",
-        "city": "STATEN ISLAND",
-        "zip": "10305",
-        "latitude": 40.616111,
-        "longitude": -74.074167,
-        "industry": "",
-        "tri_facility_id": "10305SNCHM441TO",
-        "total_releases_lbs": 290279,
-        "top_chemical": "Mercury",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1998,
-        "risk_score": 9,
-        "nearby_neighborhoods": []
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.231944,
-          40.527778
-        ]
-      },
-      "properties": {
-        "facility_name": "LUCENT TECHNOLOGIES NASSAU METALS",
-        "address": "236 RICHMOND VALLEY ROAD",
-        "city": "STATEN ISLAND",
-        "zip": "10309",
-        "latitude": 40.527778,
-        "longitude": -74.231944,
-        "industry": "",
-        "tri_facility_id": "10307TTNSS1NASS",
-        "total_releases_lbs": 391184,
-        "top_chemical": "Mercury",
-        "carcinogen": false,
-        "year_first_reported": 1998,
-        "risk_score": 8,
-        "nearby_neighborhoods": []
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -741412.0,
-          403232.0
-        ]
-      },
-      "properties": {
-        "facility_name": "EXXONMOBIL OIL CORP PORT MOBIL TERMINAL",
-        "address": "4101 ARTHUR KILL RD",
-        "city": "STATEN ISLAND",
-        "zip": "10309",
-        "latitude": 403232.0,
-        "longitude": -741412.0,
-        "industry": "",
-        "tri_facility_id": "10309MBLLP4101A",
-        "total_releases_lbs": 368598,
-        "top_chemical": "Nickel",
-        "carcinogen": true,
-        "year_first_reported": 1995,
-        "risk_score": 7,
-        "nearby_neighborhoods": []
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -741157.0,
-          403512.0
-        ]
-      },
-      "properties": {
-        "facility_name": "PRATT PAPER (NY) INC",
-        "address": "4435 VICTORY BLVD",
-        "city": "STATEN ISLAND",
-        "zip": "10314",
-        "latitude": 403512.0,
-        "longitude": -741157.0,
-        "industry": "",
-        "tri_facility_id": "10314VSYPP4435V",
-        "total_releases_lbs": 131907,
-        "top_chemical": "Styrene",
-        "carcinogen": false,
-        "year_first_reported": 1988,
-        "risk_score": 6,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4904,18 +3834,13 @@
       },
       "properties": {
         "facility_name": "G A L MANUFACTURING CORP",
-        "address": "50 EAST 153RD ST",
-        "city": "BRONX",
-        "zip": "10451",
-        "latitude": 40.8275,
-        "longitude": -73.944444,
         "industry": "",
         "tri_facility_id": "10451GLMNF50EAS",
-        "total_releases_lbs": 211900,
-        "top_chemical": "Chromium",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1988,
-        "risk_score": 6,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4930,18 +3855,13 @@
       },
       "properties": {
         "facility_name": "S & S IND INC",
-        "address": "385 GERARD AVE",
-        "city": "BRONX",
-        "zip": "104515407",
-        "latitude": 40.8165,
-        "longitude": -73.9306,
         "industry": "",
         "tri_facility_id": "10451SSNDS385GE",
-        "total_releases_lbs": 130349,
-        "top_chemical": "Methanol",
-        "carcinogen": true,
-        "year_first_reported": 1990,
-        "risk_score": 9,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4956,18 +3876,13 @@
       },
       "properties": {
         "facility_name": "ACE PLATING WORKS INC",
-        "address": "800 E 136TH ST",
-        "city": "NEW YORK",
-        "zip": "10454",
-        "latitude": 40.805278,
-        "longitude": -73.916944,
         "industry": "",
         "tri_facility_id": "10454CPLTN800E1",
-        "total_releases_lbs": 278398,
-        "top_chemical": "Mercury",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1995,
-        "risk_score": 10,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -4976,24 +3891,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735427.0,
-          404804.0
+          -73.9075,
+          40.801111111111105
         ]
       },
       "properties": {
         "facility_name": "SPRAGUE BRONX TERMINAL",
-        "address": "939 E 138TH ST",
-        "city": "BRONX",
-        "zip": "10454",
-        "latitude": 404804.0,
-        "longitude": -735427.0,
         "industry": "",
         "tri_facility_id": "10454CSTLL939E1",
-        "total_releases_lbs": 104678,
-        "top_chemical": "Chromium",
-        "carcinogen": true,
-        "year_first_reported": 1995,
-        "risk_score": 6,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -5008,17 +3918,12 @@
       },
       "properties": {
         "facility_name": "FARBERWARE INC",
-        "address": "415 BRUCKNER BLVD",
-        "city": "BRONX",
-        "zip": "10454",
-        "latitude": 40.791667,
-        "longitude": -73.9,
         "industry": "",
         "tri_facility_id": "10454FRBRW415BR",
-        "total_releases_lbs": 415658,
-        "top_chemical": "Lead",
-        "carcinogen": true,
-        "year_first_reported": 1988,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -5028,24 +3933,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735449.0,
-          404809.0
+          -73.91361111111112,
+          40.802499999999995
         ]
       },
       "properties": {
         "facility_name": "T.J RONAN PAINT CORP",
-        "address": "749 E 135TH ST",
-        "city": "BRONX",
-        "zip": "10454",
-        "latitude": 404809.0,
-        "longitude": -735449.0,
         "industry": "",
         "tri_facility_id": "10454TJRNN749EA",
-        "total_releases_lbs": 242050,
-        "top_chemical": "Methanol",
-        "carcinogen": true,
-        "year_first_reported": 1990,
-        "risk_score": 4,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -5054,24 +3954,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735448.0,
-          404754.0
+          -73.91333333333334,
+          40.79833333333333
         ]
       },
       "properties": {
         "facility_name": "WALNUT BUS DEPOT",
-        "address": "900 E 132ND ST",
-        "city": "BRONX",
-        "zip": "10454",
-        "latitude": 404754.0,
-        "longitude": -735448.0,
         "industry": "",
         "tri_facility_id": "10454WLNTB900E1",
-        "total_releases_lbs": 496526,
-        "top_chemical": "Mercury",
-        "carcinogen": true,
         "year_first_reported": 1987,
-        "risk_score": 10,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -5086,18 +3981,13 @@
       },
       "properties": {
         "facility_name": "PERRIGO NY",
-        "address": "1700 BATHGATE AVE",
-        "city": "BRONX",
-        "zip": "10457",
-        "latitude": 40.841667,
-        "longitude": -73.899833,
         "industry": "",
         "tri_facility_id": "10457CLYPR1700B",
-        "total_releases_lbs": 165973,
-        "top_chemical": "Chromium",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1995,
-        "risk_score": 3,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -5112,18 +4002,13 @@
       },
       "properties": {
         "facility_name": "RUSSALL PRODS CO INC",
-        "address": "1719 W FARMS RD",
-        "city": "BRONX",
-        "zip": "104601001",
-        "latitude": 40.833333,
-        "longitude": -73.884722,
         "industry": "",
         "tri_facility_id": "10460RSSLL1719W",
-        "total_releases_lbs": 223030,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1995,
-        "risk_score": 4,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -5138,18 +4023,13 @@
       },
       "properties": {
         "facility_name": "ARTHUR FRISCH CO INC",
-        "address": "1816 BOSTON RD",
-        "city": "BRONX",
-        "zip": "10460",
-        "latitude": 40.839167,
-        "longitude": -73.886389,
         "industry": "",
         "tri_facility_id": "10460RTHRF1816B",
-        "total_releases_lbs": 242366,
-        "top_chemical": "Mercury",
-        "carcinogen": true,
-        "year_first_reported": 1995,
-        "risk_score": 10,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -5164,18 +4044,13 @@
       },
       "properties": {
         "facility_name": "ABSOLUTE COATINGS INC",
-        "address": "34 INDUSTRIAL ST",
-        "city": "BRONX",
-        "zip": "10461",
-        "latitude": 40.849722,
-        "longitude": -73.843056,
         "industry": "",
         "tri_facility_id": "10461BSLTC34IND",
-        "total_releases_lbs": 27005,
-        "top_chemical": "Lead",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1988,
-        "risk_score": 10,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -5184,24 +4059,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735027.0,
-          405017.0
+          -73.84083333333332,
+          40.838055555555556
         ]
       },
       "properties": {
         "facility_name": "FRED M SCHILDWACHTER & SONS, INC.",
-        "address": "1400 FERRIS PL",
-        "city": "BRONX",
-        "zip": "10461",
-        "latitude": 405017.0,
-        "longitude": -735027.0,
         "industry": "",
         "tri_facility_id": "10461FRDMS1400F",
-        "total_releases_lbs": 312270,
-        "top_chemical": "Methanol",
-        "carcinogen": true,
-        "year_first_reported": 1988,
-        "risk_score": 3,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -5216,18 +4086,13 @@
       },
       "properties": {
         "facility_name": "AMSTERDAM COLOR WORKS",
-        "address": "1546 STILLWELL AVE",
-        "city": "BRONX",
-        "zip": "10461",
-        "latitude": 40.853563,
-        "longitude": -73.843032,
         "industry": "",
         "tri_facility_id": "10461MSTRD1546S",
-        "total_releases_lbs": 57662,
-        "top_chemical": "Toluene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1992,
-        "risk_score": 4,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -5242,18 +4107,13 @@
       },
       "properties": {
         "facility_name": "WORLD DYEING & FINISHING CORP",
-        "address": "2472 BULTER PL",
-        "city": "BRONX",
-        "zip": "104613604",
-        "latitude": 40.8465,
-        "longitude": -73.8405,
         "industry": "",
         "tri_facility_id": "10461WRLDD2472B",
-        "total_releases_lbs": 491191,
-        "top_chemical": "Chromium",
-        "carcinogen": true,
-        "year_first_reported": 1988,
-        "risk_score": 7,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -5268,18 +4128,13 @@
       },
       "properties": {
         "facility_name": "INDUSTRIAL ACOUSTICS CO INC",
-        "address": "1160 COMMERCE AVE",
-        "city": "BRONX",
-        "zip": "10462",
-        "latitude": 40.831389,
-        "longitude": -73.842778,
         "industry": "",
         "tri_facility_id": "10462NDSTR1160C",
-        "total_releases_lbs": 323790,
-        "top_chemical": "Toluene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1988,
-        "risk_score": 9,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -5288,24 +4143,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735241.0,
-          405009.0
+          -73.87805555555555,
+          40.83583333333333
         ]
       },
       "properties": {
         "facility_name": "SRM - JENNA LLC",
-        "address": "1465 BRONX RIVER AVE",
-        "city": "BRONX",
-        "zip": "10472",
-        "latitude": 405009.0,
-        "longitude": -735241.0,
         "industry": "",
         "tri_facility_id": "10472JNNCN1465B",
-        "total_releases_lbs": 105374,
-        "top_chemical": "Toluene",
-        "carcinogen": true,
-        "year_first_reported": 1992,
-        "risk_score": 7,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -5320,18 +4170,13 @@
       },
       "properties": {
         "facility_name": "LORAL ELECTRONIC SYSTEMS",
-        "address": "825 BRONX RIVER AVE",
-        "city": "BRONX",
-        "zip": "10473",
-        "latitude": 40.825,
-        "longitude": -73.884444,
         "industry": "",
         "tri_facility_id": "10473LRLLC825BR",
-        "total_releases_lbs": 286083,
-        "top_chemical": "Chromium",
-        "carcinogen": true,
-        "year_first_reported": 1988,
-        "risk_score": 8,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -5346,17 +4191,12 @@
       },
       "properties": {
         "facility_name": "ACE SPRAYFINISHING CORP",
-        "address": "250 COSTER ST",
-        "city": "BRONX",
-        "zip": "10474",
-        "latitude": 40.805278,
-        "longitude": -73.885,
         "industry": "",
         "tri_facility_id": "10474CSPRY250CO",
-        "total_releases_lbs": 493639,
-        "top_chemical": "Nickel",
-        "carcinogen": true,
-        "year_first_reported": 1988,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -5372,17 +4212,12 @@
       },
       "properties": {
         "facility_name": "DEXTER CHEMICAL LLC",
-        "address": "845 EDGEWATER RD",
-        "city": "BRONX",
-        "zip": "10474",
-        "latitude": 40.805,
-        "longitude": -73.875,
         "industry": "",
         "tri_facility_id": "10474DXTRC845ED",
-        "total_releases_lbs": 318885,
-        "top_chemical": "Chromium",
-        "carcinogen": false,
         "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -5392,23 +4227,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -735309.0,
-          404908.0
+          -73.88583333333334,
+          40.81888888888889
         ]
       },
       "properties": {
         "facility_name": "GENERAL FIREPROOF DOOR CORP",
-        "address": "900 WHITTER ST",
-        "city": "BRONX",
-        "zip": "10474",
-        "latitude": 404908.0,
-        "longitude": -735309.0,
         "industry": "",
         "tri_facility_id": "10474GNRLF900WH",
-        "total_releases_lbs": 155275,
-        "top_chemical": "Methanol",
-        "carcinogen": true,
-        "year_first_reported": 1992,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -5424,18 +4254,13 @@
       },
       "properties": {
         "facility_name": "GENERAL GALVANIZING & SUPPLY CO INC",
-        "address": "652 WHITTIER ST",
-        "city": "BRONX",
-        "zip": "10474",
-        "latitude": 40.8189,
-        "longitude": -73.8844,
         "industry": "",
         "tri_facility_id": "10474GNRLG652WH",
-        "total_releases_lbs": 484612,
-        "top_chemical": "Styrene",
-        "carcinogen": true,
-        "year_first_reported": 1990,
-        "risk_score": 10,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -5450,18 +4275,13 @@
       },
       "properties": {
         "facility_name": "GENERAL GALVANIZING & SUPPLY CO INC",
-        "address": "810 EDGEWATER RD",
-        "city": "BRONX",
-        "zip": "10474",
-        "latitude": 40.817614,
-        "longitude": -73.883918,
         "industry": "",
         "tri_facility_id": "10474GNRLG810ED",
-        "total_releases_lbs": 418463,
-        "top_chemical": "Styrene",
-        "carcinogen": true,
         "year_first_reported": 1987,
-        "risk_score": 8,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -5476,18 +4296,13 @@
       },
       "properties": {
         "facility_name": "TWI-LAQ INDUSTRIES INC",
-        "address": "1345 SENECA AVE",
-        "city": "BRONX",
-        "zip": "10474",
-        "latitude": 40.819057,
-        "longitude": -73.886043,
         "industry": "",
         "tri_facility_id": "10474JHNLN1345S",
-        "total_releases_lbs": 97592,
-        "top_chemical": "Xylene",
-        "carcinogen": false,
         "year_first_reported": 1987,
-        "risk_score": 3,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -5502,18 +4317,13 @@
       },
       "properties": {
         "facility_name": "STEVENS PLATING WORKS INC",
-        "address": "1357 SENECA AVE",
-        "city": "BRONX",
-        "zip": "104744894",
-        "latitude": 40.819171,
-        "longitude": -73.885529,
         "industry": "",
         "tri_facility_id": "10474STVNS1357S",
-        "total_releases_lbs": 177013,
-        "top_chemical": "Styrene",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1990,
-        "risk_score": 9,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -5528,18 +4338,13 @@
       },
       "properties": {
         "facility_name": "VICTORIA PLATING CO INC",
-        "address": "650 TIFFANY ST",
-        "city": "BRONX",
-        "zip": "10474",
-        "latitude": 40.826389,
-        "longitude": -73.894444,
         "industry": "",
         "tri_facility_id": "10474VCTRP650TI",
-        "total_releases_lbs": 202443,
-        "top_chemical": "Chromium",
-        "carcinogen": true,
-        "year_first_reported": 1995,
-        "risk_score": 4,
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -5554,173 +4359,12 @@
       },
       "properties": {
         "facility_name": "HEXAGON LABS OF NEW YORK INC",
-        "address": "3536 PEARTREE AVE",
-        "city": "BRONX",
-        "zip": "10475",
-        "latitude": 40.8855,
-        "longitude": -73.826,
         "industry": "",
         "tri_facility_id": "10475HXGNL3536P",
-        "total_releases_lbs": 95114,
-        "top_chemical": "Toluene",
-        "carcinogen": true,
-        "year_first_reported": 1992,
-        "risk_score": 10,
-        "nearby_neighborhoods": []
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.003343,
-          40.749447
-        ]
-      },
-      "properties": {
-        "facility_name": "POTOMAC GRAPHIC INDUSTRIES INC",
-        "address": "508 W 26TH ST",
-        "city": "NEW YORK",
-        "zip": "10001",
-        "latitude": 40.749447,
-        "longitude": -74.003343,
-        "industry": "",
-        "tri_facility_id": "10001PTMCG508W2",
-        "total_releases_lbs": 120796,
-        "top_chemical": "Formaldehyde",
-        "carcinogen": true,
-        "year_first_reported": 1988,
-        "risk_score": 7,
-        "nearby_neighborhoods": []
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -735829.0,
-          404342.0
-        ]
-      },
-      "properties": {
-        "facility_name": "CONSOLIDATED EDISON CO OF NEW YORK - EAST RIVER FACILITY",
-        "address": "801 E 14 ST",
-        "city": "MANHATTAN",
-        "zip": "10009",
-        "latitude": 404342.0,
-        "longitude": -735829.0,
-        "industry": "",
-        "tri_facility_id": "10009CNSLD801E1",
-        "total_releases_lbs": 55542,
-        "top_chemical": "Lead",
-        "carcinogen": false,
-        "year_first_reported": 1988,
-        "risk_score": 9,
-        "nearby_neighborhoods": []
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.991272,
-          40.740813
-        ]
-      },
-      "properties": {
-        "facility_name": "ENDURART INC",
-        "address": "20 W 22ND ST",
-        "city": "NEW YORK",
-        "zip": "10010",
-        "latitude": 40.740813,
-        "longitude": -73.991272,
-        "industry": "",
-        "tri_facility_id": "10010NDRRT20W22",
-        "total_releases_lbs": 155486,
-        "top_chemical": "Nickel",
-        "carcinogen": true,
         "year_first_reported": 1987,
-        "risk_score": 10,
-        "nearby_neighborhoods": []
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.995833,
-          40.717222
-        ]
-      },
-      "properties": {
-        "facility_name": "CONCORD ELECTRONICS CORP",
-        "address": "35 GREAT JONES ST",
-        "city": "NEW YORK",
-        "zip": "10012",
-        "latitude": 40.717222,
-        "longitude": -73.995833,
-        "industry": "",
-        "tri_facility_id": "10012CNCRD30GRE",
-        "total_releases_lbs": 220882,
-        "top_chemical": "Formaldehyde",
         "carcinogen": false,
-        "year_first_reported": 1990,
-        "risk_score": 8,
-        "nearby_neighborhoods": []
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -735994.0,
-          404260.0
-        ]
-      },
-      "properties": {
-        "facility_name": "US CUSTOMS SERVICE FIRING RANGE",
-        "address": "6 WORLD TRADE CENTER",
-        "city": "NEW YORK",
-        "zip": "10012",
-        "latitude": 404260.0,
-        "longitude": -735994.0,
-        "industry": "",
-        "tri_facility_id": "10012SCSTM6WORL",
-        "total_releases_lbs": 413345,
-        "top_chemical": "Nickel",
-        "carcinogen": false,
-        "year_first_reported": 1990,
-        "risk_score": 9,
-        "nearby_neighborhoods": []
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.0055,
-          40.7282
-        ]
-      },
-      "properties": {
-        "facility_name": "PERFECT FINISHING CO",
-        "address": "200 VARICK ST",
-        "city": "NEW YORK",
-        "zip": "10014",
-        "latitude": 40.7282,
-        "longitude": -74.0055,
-        "industry": "",
-        "tri_facility_id": "10014PRFCT200VA",
-        "total_releases_lbs": 462301,
-        "top_chemical": "Formaldehyde",
-        "carcinogen": false,
-        "year_first_reported": 1995,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -5730,75 +4374,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.0098,
-          40.737
+          -74.181944,
+          40.638889
         ]
       },
       "properties": {
-        "facility_name": "SUPERIOR PRINTING INK CO INC",
-        "address": "70 BETHUNE ST",
-        "city": "NEW YORK",
-        "zip": "100141768",
-        "latitude": 40.737,
-        "longitude": -74.0098,
+        "facility_name": "PROCTER & GAMBLE MFG CO",
         "industry": "",
-        "tri_facility_id": "10014SPRRP70BET",
-        "total_releases_lbs": 148101,
-        "top_chemical": "Chromium",
-        "carcinogen": true,
-        "year_first_reported": 1995,
-        "risk_score": 10,
-        "nearby_neighborhoods": []
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.960556,
-          40.759722
-        ]
-      },
-      "properties": {
-        "facility_name": "EDISON PRICE INC",
-        "address": "409 E 60TH ST",
-        "city": "NEW YORK",
-        "zip": "10022",
-        "latitude": 40.759722,
-        "longitude": -73.960556,
-        "industry": "",
-        "tri_facility_id": "10022DSNPR409EA",
-        "total_releases_lbs": 102059,
-        "top_chemical": "Chromium",
+        "tri_facility_id": "10303PRCTR40WES",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1988,
-        "risk_score": 8,
-        "nearby_neighborhoods": []
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.988167,
-          40.7709
-        ]
-      },
-      "properties": {
-        "facility_name": "EMSIG MANUFACTURING CORP",
-        "address": "225 W 60TH ST",
-        "city": "NEW YORK",
-        "zip": "10023",
-        "latitude": 40.7709,
-        "longitude": -73.988167,
-        "industry": "",
-        "tri_facility_id": "10023MSGMN225W6",
-        "total_releases_lbs": 2360,
-        "top_chemical": "Lead",
-        "carcinogen": true,
-        "year_first_reported": 1988,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
         "risk_score": 5,
         "nearby_neighborhoods": []
       }
@@ -5808,50 +4395,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.958333,
-          40.818056
+          -74.074167,
+          40.616111
         ]
       },
       "properties": {
-        "facility_name": "OLIN CORP OLIN WATER SERVICES",
-        "address": "608 W 132ND ST",
-        "city": "NEW YORK",
-        "zip": "10027",
-        "latitude": 40.818056,
-        "longitude": -73.958333,
+        "facility_name": "SUN CHEMICAL CORP",
         "industry": "",
-        "tri_facility_id": "10027LNCRP608WE",
-        "total_releases_lbs": 414021,
-        "top_chemical": "Formaldehyde",
-        "carcinogen": true,
-        "year_first_reported": 1988,
-        "risk_score": 9,
-        "nearby_neighborhoods": []
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -735717.0,
-          404851.0
-        ]
-      },
-      "properties": {
-        "facility_name": "AMSTERDAM BUS DEPOT",
-        "address": "1381 AMSTERDAM AVE",
-        "city": "NEW YORK",
-        "zip": "10027",
-        "latitude": 404851.0,
-        "longitude": -735717.0,
-        "industry": "",
-        "tri_facility_id": "10027MSTRD1381A",
-        "total_releases_lbs": 451252,
-        "top_chemical": "Lead",
-        "carcinogen": true,
+        "tri_facility_id": "10305SNCHM441TO",
         "year_first_reported": 1987,
-        "risk_score": 4,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -5860,24 +4416,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.930556,
-          40.867778
+          -74.231944,
+          40.527778
         ]
       },
       "properties": {
-        "facility_name": "MAGIC NOVELTY CO INC",
-        "address": "308 DYCKMAN ST",
-        "city": "NEW YORK",
-        "zip": "10034",
-        "latitude": 40.867778,
-        "longitude": -73.930556,
+        "facility_name": "LUCENT TECHNOLOGIES NASSAU METALS",
         "industry": "",
-        "tri_facility_id": "10034MGCNV304DY",
-        "total_releases_lbs": 263112,
-        "top_chemical": "Mercury",
+        "tri_facility_id": "10307TTNSS1NASS",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1995,
-        "risk_score": 7,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -5886,24 +4437,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.9834,
-          40.7573
+          -74.23666666666666,
+          40.54222222222222
         ]
       },
       "properties": {
-        "facility_name": "FEATURE ENTERPRISES INC",
-        "address": "130 WEST 46TH ST",
-        "city": "NEW YORK",
-        "zip": "10036",
-        "latitude": 40.7573,
-        "longitude": -73.9834,
+        "facility_name": "EXXONMOBIL OIL CORP PORT MOBIL TERMINAL",
         "industry": "",
-        "tri_facility_id": "10036FTRNT130WE",
-        "total_releases_lbs": 498122,
-        "top_chemical": "Methanol",
+        "tri_facility_id": "10309MBLLP4101A",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1992,
-        "risk_score": 6,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     },
@@ -5912,24 +4458,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.991764,
-          40.759584
+          -74.19916666666667,
+          40.586666666666666
         ]
       },
       "properties": {
-        "facility_name": "PRECISION FILM LAB INC",
-        "address": "630 9TH AVE",
-        "city": "NEW YORK",
-        "zip": "10036",
-        "latitude": 40.759584,
-        "longitude": -73.991764,
+        "facility_name": "PRATT PAPER (NY) INC",
         "industry": "",
-        "tri_facility_id": "10036PRCSN630NI",
-        "total_releases_lbs": 138463,
-        "top_chemical": "Chromium",
+        "tri_facility_id": "10314VSYPP4435V",
+        "year_first_reported": 1987,
         "carcinogen": false,
-        "year_first_reported": 1995,
-        "risk_score": 7,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
         "nearby_neighborhoods": []
       }
     }
