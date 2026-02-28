@@ -1,4 +1,698 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.43805555555556,
+          42.528055555555554
+        ]
+      },
+      "properties": {
+        "facility_name": "CEDAR FALLS UTILITIES",
+        "industry": "",
+        "tri_facility_id": "50613CDRFLUTILI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.442778,
+          42.539444
+        ]
+      },
+      "properties": {
+        "facility_name": "CLAY EQUIPMENT CORP",
+        "industry": "",
+        "tri_facility_id": "50613CLYQP101LI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.424444,
+          42.481111
+        ]
+      },
+      "properties": {
+        "facility_name": "JOHN DEERE PRODUCTS ENGINEERING CENTER",
+        "industry": "",
+        "tri_facility_id": "50613JHNDR6725C",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.44861111111112,
+          42.47777777777778
+        ]
+      },
+      "properties": {
+        "facility_name": "METOKOTE CORP PLANT 15",
+        "industry": "",
+        "tri_facility_id": "50613MTKTC312SA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.441667,
+          42.525833
+        ]
+      },
+      "properties": {
+        "facility_name": "UNIVERSAL INDUSTRIES",
+        "industry": "",
+        "tri_facility_id": "50613NVRSL1326W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.442778,
+          42.532778
+        ]
+      },
+      "properties": {
+        "facility_name": "VIKING PUMP INC-ALLOYS FOUNDRY",
+        "industry": "",
+        "tri_facility_id": "50613VKNGL7THBL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.44166666666668,
+          42.53333333333333
+        ]
+      },
+      "properties": {
+        "facility_name": "VIKING PUMP INC. - SOUTH MAIN FACILITY",
+        "industry": "",
+        "tri_facility_id": "50613VKNGP711VI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.45305555555557,
+          42.475833333333334
+        ]
+      },
+      "properties": {
+        "facility_name": "CURBTENDER INC",
+        "industry": "",
+        "tri_facility_id": "50613WYNNG701PE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.459444,
+          42.406389
+        ]
+      },
+      "properties": {
+        "facility_name": "LAND O'LAKES INC",
+        "industry": "",
+        "tri_facility_id": "50643LNDLK650W5",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.367222,
+          42.508056
+        ]
+      },
+      "properties": {
+        "facility_name": "JOHN DEERE FOUNDRY WATERLOO",
+        "industry": "",
+        "tri_facility_id": "50701JHNDR2000W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.333333,
+          42.5
+        ]
+      },
+      "properties": {
+        "facility_name": "BERTCH CABINET LLC",
+        "industry": "",
+        "tri_facility_id": "50702BRTCH4747C",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2611111111111,
+          42.50861111111111
+        ]
+      },
+      "properties": {
+        "facility_name": "BEEF PRODUCTS INC (WLO)",
+        "industry": "",
+        "tri_facility_id": "50703BFPRD501NE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.365556,
+          42.541111
+        ]
+      },
+      "properties": {
+        "facility_name": "MASTERBRAND CABINETS WATERLOO OPERATIONS",
+        "industry": "",
+        "tri_facility_id": "50703BRTCH1205P",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.330833,
+          42.521111
+        ]
+      },
+      "properties": {
+        "facility_name": "CHAMBERLAIN MANUFACTURING CORP",
+        "industry": "",
+        "tri_facility_id": "50703CHMBR550ES",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.39361111111111,
+          42.546388888888885
+        ]
+      },
+      "properties": {
+        "facility_name": "ADVANCED HEAT TREAT CORP.",
+        "industry": "",
+        "tri_facility_id": "50703DVNCD2825M",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.35749999999999,
+          42.53944444444444
+        ]
+      },
+      "properties": {
+        "facility_name": "ADVANCED HEAT TREAT CORP",
+        "industry": "",
+        "tri_facility_id": "50703DVNCD2839B",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.256667,
+          42.532778
+        ]
+      },
+      "properties": {
+        "facility_name": "WATERLOO PROCESSING LLC",
+        "industry": "",
+        "tri_facility_id": "50703GLTNN4455R",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.367222,
+          42.5575
+        ]
+      },
+      "properties": {
+        "facility_name": "HYDRITE CHEMICAL CO.",
+        "industry": "",
+        "tri_facility_id": "50703HYDRT2815W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.380833,
+          42.540278
+        ]
+      },
+      "properties": {
+        "facility_name": "KENT NUTRITION GROUP INC",
+        "industry": "",
+        "tri_facility_id": "50703KNTFD2233W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.28416666666666,
+          42.51166666666666
+        ]
+      },
+      "properties": {
+        "facility_name": "CROWN GROUP WATERLOO PLANT",
+        "industry": "",
+        "tri_facility_id": "50703MTKTC2320N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.37662,
+          42.544722
+        ]
+      },
+      "properties": {
+        "facility_name": "PRIES ENTERPRISES INC",
+        "industry": "",
+        "tri_facility_id": "50703PRSNT3136W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.325,
+          42.491667
+        ]
+      },
+      "properties": {
+        "facility_name": "POWERS MANUFACTURING CO",
+        "industry": "",
+        "tri_facility_id": "50703PWRSM1340S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.31666666666666,
+          42.49166666666667
+        ]
+      },
+      "properties": {
+        "facility_name": "QUALITY MAT CO INC",
+        "industry": "",
+        "tri_facility_id": "50703QLTYM410RA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.261389,
+          42.508611
+        ]
+      },
+      "properties": {
+        "facility_name": "TYSON FRESH MEATS INC WATERLOO IOWA",
+        "industry": "",
+        "tri_facility_id": "50704BPNCX501NE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.346389,
+          42.509167
+        ]
+      },
+      "properties": {
+        "facility_name": "CEDAR METAL WORKS",
+        "industry": "",
+        "tri_facility_id": "50704CDRMT524PA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2642,
+          42.5447
+        ]
+      },
+      "properties": {
+        "facility_name": "AIRGAS CENTRAL STATES",
+        "industry": "",
+        "tri_facility_id": "50704CNTRL306TH",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.261944,
+          42.522222
+        ]
+      },
+      "properties": {
+        "facility_name": "JOHN DEERE WATERLOO WORKS TCAO",
+        "industry": "",
+        "tri_facility_id": "50704JHNDR3500E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.432222,
+          42.468611
+        ]
+      },
+      "properties": {
+        "facility_name": "JOHN DEERE ENGINE WORKS",
+        "industry": "",
+        "tri_facility_id": "50704JHNDR3801W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.351389,
+          42.503333
+        ]
+      },
+      "properties": {
+        "facility_name": "JOHN DEERE WATERLOO WORKS DRIVETRAIN OPERATIONS AND FOUNDRY",
+        "industry": "",
+        "tri_facility_id": "50704JHNDR400WE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32166666666666,
+          42.488055555555555
+        ]
+      },
+      "properties": {
+        "facility_name": "AMERICAN COLLOID CO",
+        "industry": "",
+        "tri_facility_id": "50704MRCNC1812W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.383333,
+          42.516667
+        ]
+      },
+      "properties": {
+        "facility_name": "NORTHLAND PRODUCTS CO",
+        "industry": "",
+        "tri_facility_id": "50704NRTHL1000R",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2642,
+          42.5447
+        ]
+      },
+      "properties": {
+        "facility_name": "PEPSI-COLA GENERAL BOTTLERS",
+        "industry": "",
+        "tri_facility_id": "50704PPSCL1424B",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.377778,
+          42.506667
+        ]
+      },
+      "properties": {
+        "facility_name": "WATERLOO INDUSTRIES INC",
+        "industry": "",
+        "tri_facility_id": "50704WTRLN300AN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
 }

@@ -9,6 +9,7 @@ Queries EPA Envirofacts API (no API key required).
 
 import json
 import urllib.request
+import urllib.parse
 import argparse
 import os
 import time
@@ -49,7 +50,7 @@ def fetch_tri(slug):
         # Try by county name if available, otherwise by state only
         name = county_name.strip() if county_name else ''
         if name:
-            url = f"{BASE_URL}/state_abbr/{state}/county_name/{name}"
+            url = f"{BASE_URL}/state_abbr/{state}/county_name/{urllib.parse.quote(name)}"
         else:
             url = f"{BASE_URL}/state_abbr/{state}"
 
