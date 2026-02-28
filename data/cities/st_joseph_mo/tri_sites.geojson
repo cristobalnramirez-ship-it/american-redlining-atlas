@@ -1,0 +1,551 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.86,
+          39.76
+        ]
+      },
+      "properties": {
+        "facility_name": "HILLYARD INDUSTRIES INC",
+        "industry": "",
+        "tri_facility_id": "64501HLLYR402NO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.85444444444444,
+          39.76888888888889
+        ]
+      },
+      "properties": {
+        "facility_name": "ROSEWOOD FARMS LLC",
+        "industry": "",
+        "tri_facility_id": "64501RSWDF4501P",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.858333,
+          39.770833
+        ]
+      },
+      "properties": {
+        "facility_name": "WIRECO WORLDGROUP ST JOSEPH FACILITY",
+        "industry": "",
+        "tri_facility_id": "64501WRRPC609NO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.857577,
+          39.7337
+        ]
+      },
+      "properties": {
+        "facility_name": "NATIONAL BEEF LEATHERS LLC",
+        "industry": "",
+        "tri_facility_id": "64502BLSDC205FL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.846,
+          39.7637
+        ]
+      },
+      "properties": {
+        "facility_name": "HPI PRODUCTS INC",
+        "industry": "",
+        "tri_facility_id": "64502HPPRD222SY",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.781111,
+          39.73
+        ]
+      },
+      "properties": {
+        "facility_name": "CLARIOS LLC",
+        "industry": "",
+        "tri_facility_id": "64502JHNSN4722P",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8615,
+          39.7233
+        ]
+      },
+      "properties": {
+        "facility_name": "SEITZ FOODS INC",
+        "industry": "",
+        "tri_facility_id": "64502STZFDLAKER",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.781111,
+          39.728889
+        ]
+      },
+      "properties": {
+        "facility_name": "RITEPACK INC",
+        "industry": "",
+        "tri_facility_id": "64503CSTCS3800S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.794444,
+          39.726389
+        ]
+      },
+      "properties": {
+        "facility_name": "PURINA ANIMAL NUTRITION LLC-ST JOSEPH",
+        "industry": "",
+        "tri_facility_id": "64503PRNML4225S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.778333,
+          39.732778
+        ]
+      },
+      "properties": {
+        "facility_name": "BRADKEN SAINT JOSEPH MACHINE SHOP",
+        "industry": "",
+        "tri_facility_id": "64503RCKWL3811S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8001,
+          39.6875
+        ]
+      },
+      "properties": {
+        "facility_name": "SHERWOOD MEDICAL CO",
+        "industry": "",
+        "tri_facility_id": "64503SHRWDROSEC",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.890556,
+          39.720556
+        ]
+      },
+      "properties": {
+        "facility_name": "NESTLE PURINA PETCARE CO",
+        "industry": "",
+        "tri_facility_id": "64504CRNTN2017L",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.881389,
+          39.719444
+        ]
+      },
+      "properties": {
+        "facility_name": "OMNIUM",
+        "industry": "",
+        "tri_facility_id": "64504FRMLN1417L",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.867778,
+          39.733333
+        ]
+      },
+      "properties": {
+        "facility_name": "NESTLE PURINA  PETCARE",
+        "industry": "",
+        "tri_facility_id": "64504FRSKS5402P",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.870833,
+          39.725
+        ]
+      },
+      "properties": {
+        "facility_name": "ALBAUGH INC.",
+        "industry": "",
+        "tri_facility_id": "64504GLMRC4900P",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.875,
+          39.729167
+        ]
+      },
+      "properties": {
+        "facility_name": "AG PROCESSING INC",
+        "industry": "",
+        "tri_facility_id": "64504GPRCS900LO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.89777777777779,
+          39.71888888888889
+        ]
+      },
+      "properties": {
+        "facility_name": "CLARIOS DISTRIBUTION CENTER",
+        "industry": "",
+        "tri_facility_id": "64504JHNSN2330L",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.891111,
+          39.713889
+        ]
+      },
+      "properties": {
+        "facility_name": "PEACHTREE DOORS INC",
+        "industry": "",
+        "tri_facility_id": "64504PCHTR6000I",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.862222,
+          39.735556
+        ]
+      },
+      "properties": {
+        "facility_name": "HPI PRODUCTS INC",
+        "industry": "",
+        "tri_facility_id": "64504RHNPL317WE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.893333,
+          39.720833
+        ]
+      },
+      "properties": {
+        "facility_name": "SILGAN CONTAINERS MANUFACTURING CORP",
+        "industry": "",
+        "tri_facility_id": "64504SLGNC2115L",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.87777777777777,
+          39.725833333333334
+        ]
+      },
+      "properties": {
+        "facility_name": "LAKE ROAD STATION",
+        "industry": "",
+        "tri_facility_id": "64504STJSP1413L",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.872513,
+          39.719535
+        ]
+      },
+      "properties": {
+        "facility_name": "MONFORT INC",
+        "industry": "",
+        "tri_facility_id": "64504SWFTNPACKE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.890556,
+          39.718611
+        ]
+      },
+      "properties": {
+        "facility_name": "BLUESCOPE BUILDINGS N.A. INC.",
+        "industry": "",
+        "tri_facility_id": "64504VRCPR2250L",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.80555555555556,
+          39.78972222222222
+        ]
+      },
+      "properties": {
+        "facility_name": "BOEHRINGER INGELHEIM ANIMAL HEALTH--N. BELT CAMPUS",
+        "industry": "",
+        "tri_facility_id": "64506BHRNG2621N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7679,
+          39.749344
+        ]
+      },
+      "properties": {
+        "facility_name": "ALTEC INDUSTRIES INC",
+        "industry": "",
+        "tri_facility_id": "64507LTCND2106S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.75944444444444,
+          39.75666666666667
+        ]
+      },
+      "properties": {
+        "facility_name": "THE HILLSHIRE BRANDS   ST. JOSEPH MISSOURI",
+        "industry": "",
+        "tri_facility_id": "64507STJSP5807M",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

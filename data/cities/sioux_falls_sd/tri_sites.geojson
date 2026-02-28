@@ -1,0 +1,698 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.57385,
+          43.603278
+        ]
+      },
+      "properties": {
+        "facility_name": "BRANDON WOOD PRESERVING",
+        "industry": "",
+        "tri_facility_id": "57005BRNDN9THAV",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.61222222222221,
+          43.60583333333334
+        ]
+      },
+      "properties": {
+        "facility_name": "LOU-RIC INC",
+        "industry": "",
+        "tri_facility_id": "57005LRCHN9ASHS",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.57416666666666,
+          43.60416666666667
+        ]
+      },
+      "properties": {
+        "facility_name": "CURT MANUFACTURING LLC",
+        "industry": "",
+        "tri_facility_id": "57005LVRNT1200E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.59083333333332,
+          43.586666666666666
+        ]
+      },
+      "properties": {
+        "facility_name": "ATLAS HYDRAULICS INC",
+        "industry": "",
+        "tri_facility_id": "57005PCMFG600SS",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.722222,
+          43.6025
+        ]
+      },
+      "properties": {
+        "facility_name": "ALAMO SMC",
+        "industry": "",
+        "tri_facility_id": "57101MRQPX300EA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.724444,
+          43.550833
+        ]
+      },
+      "properties": {
+        "facility_name": "RAVEN INDUSTRIES INC.",
+        "industry": "",
+        "tri_facility_id": "57102RVNND205EA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.724444,
+          43.5525
+        ]
+      },
+      "properties": {
+        "facility_name": "SIOUX STEEL CO",
+        "industry": "",
+        "tri_facility_id": "57102SXSTL19612",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.733333,
+          43.566667
+        ]
+      },
+      "properties": {
+        "facility_name": "HUBBARD FEEDS INC",
+        "industry": "",
+        "tri_facility_id": "57102ZPFDM305E6",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7,
+          43.533333
+        ]
+      },
+      "properties": {
+        "facility_name": "EGGER STEEL CO",
+        "industry": "",
+        "tri_facility_id": "57104GGRST909SO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.72361111111111,
+          43.58638888888889
+        ]
+      },
+      "properties": {
+        "facility_name": "GRACO INC SIOUX FALLS",
+        "industry": "",
+        "tri_facility_id": "57104GRCNC3501N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.69361111111111,
+          43.6
+        ]
+      },
+      "properties": {
+        "facility_name": "HUTCHINSON TECHNOLOGY INC",
+        "industry": "",
+        "tri_facility_id": "57104HTCHN2301E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.721111,
+          43.581944
+        ]
+      },
+      "properties": {
+        "facility_name": "HUTCHINSON TECHNOLOGY  INC",
+        "industry": "",
+        "tri_facility_id": "57104HTCHN3401N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.72083333333333,
+          43.59638888888889
+        ]
+      },
+      "properties": {
+        "facility_name": "ELECTRONIC SYSTEMS INC",
+        "industry": "",
+        "tri_facility_id": "57104LCTRN600E5",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.744444,
+          43.55
+        ]
+      },
+      "properties": {
+        "facility_name": "LAND O'LAKES INC NEW PRODS",
+        "industry": "",
+        "tri_facility_id": "57104LNDLK1501W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.719722,
+          43.595278
+        ]
+      },
+      "properties": {
+        "facility_name": "DAKTRONICS INC",
+        "industry": "",
+        "tri_facility_id": "57104LTTNM600E5",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.733333,
+          43.55
+        ]
+      },
+      "properties": {
+        "facility_name": "CCL LABEL MODERN PRESS DIV",
+        "industry": "",
+        "tri_facility_id": "57104MDRNP1209W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7329,
+          43.5706
+        ]
+      },
+      "properties": {
+        "facility_name": "NEW ZEALAND MILK PRODUCTS",
+        "industry": "",
+        "tri_facility_id": "57104NWZLN611WE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.72638888888889,
+          43.55138888888889
+        ]
+      },
+      "properties": {
+        "facility_name": "RAVEN INDUSTRIES INC",
+        "industry": "",
+        "tri_facility_id": "57104RVNND101E6",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.736944,
+          43.568333
+        ]
+      },
+      "properties": {
+        "facility_name": "RAVEN EFD",
+        "industry": "",
+        "tri_facility_id": "57104RVNND1810E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.74194444444444,
+          43.572500000000005
+        ]
+      },
+      "properties": {
+        "facility_name": "US DOD USAF JOE FOSS FIELD ANG SD",
+        "industry": "",
+        "tri_facility_id": "57104SRFRC1201W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.718333,
+          43.589444
+        ]
+      },
+      "properties": {
+        "facility_name": "MASTERBRAND CABINETS LLC",
+        "industry": "",
+        "tri_facility_id": "57104STRMR700E4",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.732222,
+          43.550556
+        ]
+      },
+      "properties": {
+        "facility_name": "MEDALLIC ART CO LTD",
+        "industry": "",
+        "tri_facility_id": "57104TRSTT1600A",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.74805555555555,
+          43.57166666666667
+        ]
+      },
+      "properties": {
+        "facility_name": "TYCO PLASTICS SIOUX FALLS",
+        "industry": "",
+        "tri_facility_id": "57104TYCPL18NMA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.786111,
+          43.553333
+        ]
+      },
+      "properties": {
+        "facility_name": "GAGE BROS CONCRETE PRODS INC",
+        "industry": "",
+        "tri_facility_id": "57106GGBRS4301W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.791667,
+          43.545833
+        ]
+      },
+      "properties": {
+        "facility_name": "PURINA ANIMAL NUTRITION LLC - SIOUX FALLS SD",
+        "industry": "",
+        "tri_facility_id": "57106GLDNS101SO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7875,
+          43.54416666666666
+        ]
+      },
+      "properties": {
+        "facility_name": "HANSEN MANUFACTURING DBA HI-ROLLER CONVEYORS",
+        "industry": "",
+        "tri_facility_id": "57107HRLLR5100W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.76888888888888,
+          43.56944444444445
+        ]
+      },
+      "properties": {
+        "facility_name": "SENCORE INC.",
+        "industry": "",
+        "tri_facility_id": "57107SNCRN3200S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7725,
+          43.564167
+        ]
+      },
+      "properties": {
+        "facility_name": "WASTEQUIP INC, TEEM INC (DBA)",
+        "industry": "",
+        "tri_facility_id": "57107TMNTR3509T",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.742778,
+          43.568333
+        ]
+      },
+      "properties": {
+        "facility_name": "WOODS EQUIPMENT CO",
+        "industry": "",
+        "tri_facility_id": "57117DLMNF1000W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.831667,
+          43.560556
+        ]
+      },
+      "properties": {
+        "facility_name": "HARVEST STATES CO-OP",
+        "industry": "",
+        "tri_facility_id": "57117HRVSTHWY42",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.71889,
+          43.56389
+        ]
+      },
+      "properties": {
+        "facility_name": "SMITHFIELD PACKAGED MEATS CORP - SIOUX FALLS",
+        "industry": "",
+        "tri_facility_id": "57117JHNMR1400N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.83166666666666,
+          43.56055555555555
+        ]
+      },
+      "properties": {
+        "facility_name": "LAND O'LAKES FARMLAND FEED",
+        "industry": "",
+        "tri_facility_id": "57117LNDLK1211N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7267,
+          43.5464
+        ]
+      },
+      "properties": {
+        "facility_name": "HOH WATER TECHNOLOGY INC",
+        "industry": "",
+        "tri_facility_id": "57117WLLNG2008N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

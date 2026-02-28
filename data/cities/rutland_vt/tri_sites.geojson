@@ -1,0 +1,236 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9923,
+          43.6073
+        ]
+      },
+      "properties": {
+        "facility_name": "GE AEROSPACE PLANT 1",
+        "industry": "",
+        "tri_facility_id": "05701GNRLL210CO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.963,
+          43.5864
+        ]
+      },
+      "properties": {
+        "facility_name": "MOORE CORP BUSINESS FORMS & SYSTEMS DIV",
+        "industry": "",
+        "tri_facility_id": "05701MRBSNSEWAR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0062,
+          43.6032
+        ]
+      },
+      "properties": {
+        "facility_name": "RUTLAND PLYWOOD CORP",
+        "industry": "",
+        "tri_facility_id": "05701RTLNDRIPLE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.963111,
+          43.5757
+        ]
+      },
+      "properties": {
+        "facility_name": "ISOVOLTA/U.S. SAMICA",
+        "industry": "",
+        "tri_facility_id": "05701SSMCCWINDC",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.091667,
+          43.8
+        ]
+      },
+      "properties": {
+        "facility_name": "NEXUS CUSTOM ELECTRONICS INC",
+        "industry": "",
+        "tri_facility_id": "05733DWTYLPROSP",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.267222,
+          43.576667
+        ]
+      },
+      "properties": {
+        "facility_name": "SKYLINE HOMES",
+        "industry": "",
+        "tri_facility_id": "05743SKYLNHWY22",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0994,
+          43.7901
+        ]
+      },
+      "properties": {
+        "facility_name": "NEW ENGLAND WOODCRAFT INC",
+        "industry": "",
+        "tri_facility_id": "05745NWNGLRT53X",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.966667,
+          43.566667
+        ]
+      },
+      "properties": {
+        "facility_name": "GE AEROSPACE PLANT 2",
+        "industry": "",
+        "tri_facility_id": "05759GNRLL16WIN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.80833333333334,
+          43.77222222222222
+        ]
+      },
+      "properties": {
+        "facility_name": "STANLEY TOOLS PITTSFIELD",
+        "industry": "",
+        "tri_facility_id": "05762STNLY3950R",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.23444444444445,
+          43.520833333333336
+        ]
+      },
+      "properties": {
+        "facility_name": "FIRST LIGHT TECHNOLOGIES INC",
+        "industry": "",
+        "tri_facility_id": "05764FRSTL212ID",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.236111,
+          43.513889
+        ]
+      },
+      "properties": {
+        "facility_name": "JAYMAR SPECIALTY CO INC, FAIR HAVEN SPECIALTY CO INC",
+        "industry": "",
+        "tri_facility_id": "05764JYMRS28FSC",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

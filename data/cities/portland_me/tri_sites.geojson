@@ -1,0 +1,992 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7,
+          44.04361111111111
+        ]
+      },
+      "properties": {
+        "facility_name": "DIELECTRIC COMMUNICATIONS INC BRIDGTON FACILITY",
+        "industry": "",
+        "tri_facility_id": "04009DLCTRRTE30",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.702778,
+          44.0675
+        ]
+      },
+      "properties": {
+        "facility_name": "HOWELL LABORATORIES INC",
+        "industry": "",
+        "tri_facility_id": "04009HWLLLRTE11",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.886111,
+          43.911667
+        ]
+      },
+      "properties": {
+        "facility_name": "BATH IRON WORKS OUTFIT FABRICATION FACILITY (FORMERLY EBMF)",
+        "industry": "",
+        "tri_facility_id": "04011BTHRNMALLE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.885,
+          43.915278
+        ]
+      },
+      "properties": {
+        "facility_name": "BATH IRON WORKS-STRUCTURAL FABRICATION FACILITY (FORMERLY HA",
+        "industry": "",
+        "tri_facility_id": "04011BTHRNROUTE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.958333,
+          43.916667
+        ]
+      },
+      "properties": {
+        "facility_name": "COOPER WIRING DEVICES",
+        "industry": "",
+        "tri_facility_id": "04011RRWHR1CRES",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.93,
+          43.894444444444446
+        ]
+      },
+      "properties": {
+        "facility_name": "U.S. NAVY NAVAL AIR STATION BRUNSWICK",
+        "industry": "",
+        "tri_facility_id": "04011SNVYN437HU",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.101,
+          43.8592
+        ]
+      },
+      "properties": {
+        "facility_name": "EASTLAND SHOE MANUFACTURING CORP",
+        "industry": "",
+        "tri_facility_id": "04032STLND106PA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3875,
+          43.670833333333334
+        ]
+      },
+      "properties": {
+        "facility_name": "MAINE INDUSTRIAL TIRE LLC",
+        "industry": "",
+        "tri_facility_id": "04038MNRBB9LAUR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.391667,
+          43.644444
+        ]
+      },
+      "properties": {
+        "facility_name": "AMF REECE INC",
+        "industry": "",
+        "tri_facility_id": "04038THRCCGORHA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4322,
+          43.6768
+        ]
+      },
+      "properties": {
+        "facility_name": "IRWIN CO GORHAM DIV",
+        "industry": "",
+        "tri_facility_id": "04058RWNCX37BAR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.491944,
+          43.923889
+        ]
+      },
+      "properties": {
+        "facility_name": "DIELECTRIC LLC",
+        "industry": "",
+        "tri_facility_id": "04071DLCTRTOWER",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.433333,
+          43.883333
+        ]
+      },
+      "properties": {
+        "facility_name": "MICROWAVE TECHNIQUES",
+        "industry": "",
+        "tri_facility_id": "04071MCRWVROUTE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.508,
+          43.9101
+        ]
+      },
+      "properties": {
+        "facility_name": "SABRE CORP",
+        "industry": "",
+        "tri_facility_id": "04071SBRYCHAWTH",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.30722222222222,
+          43.606944444444444
+        ]
+      },
+      "properties": {
+        "facility_name": "CPRC GROUP LLC",
+        "industry": "",
+        "tri_facility_id": "04074CMMRC2GIBS",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.361389,
+          43.582778
+        ]
+      },
+      "properties": {
+        "facility_name": "GABRIEL ELECTRONICS INC",
+        "industry": "",
+        "tri_facility_id": "04074GBRLLPOBOX",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.400556,
+          43.645
+        ]
+      },
+      "properties": {
+        "facility_name": "MAINE RUBBER RIM SHOP",
+        "industry": "",
+        "tri_facility_id": "04074MNRBB865SA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.29833333333333,
+          43.60111111111111
+        ]
+      },
+      "properties": {
+        "facility_name": "WHITCRAFT LLC",
+        "industry": "",
+        "tri_facility_id": "04074RCHTL28PON",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.550556,
+          43.734167
+        ]
+      },
+      "properties": {
+        "facility_name": "FIRST TECHNOLOGY/SENSATA",
+        "industry": "",
+        "tri_facility_id": "04084GTPRDROUTE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3771,
+          43.6644
+        ]
+      },
+      "properties": {
+        "facility_name": "DATA GENERAL CORP",
+        "industry": "",
+        "tri_facility_id": "04092DTGNR80EIS",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.358333,
+          43.658333
+        ]
+      },
+      "properties": {
+        "facility_name": "UNITRODE CORP",
+        "industry": "",
+        "tri_facility_id": "04092NTRDC2EISE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.376667,
+          43.664167
+        ]
+      },
+      "properties": {
+        "facility_name": "PRECIS METALS INC",
+        "industry": "",
+        "tri_facility_id": "04092PRCSM80BEI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.37,
+          43.659722
+        ]
+      },
+      "properties": {
+        "facility_name": "PERMATHANE CUSTOM MOLDED URETHANES",
+        "industry": "",
+        "tri_facility_id": "04092PRMTH50EIS",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.370556,
+          43.676667
+        ]
+      },
+      "properties": {
+        "facility_name": "PERMATHANE CUSTOM MOLDED URETHANES",
+        "industry": "",
+        "tri_facility_id": "04092PRMTH942RE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.35,
+          43.684722
+        ]
+      },
+      "properties": {
+        "facility_name": "SAPPI N.A. - WESTBROOK OPERATIONS",
+        "industry": "",
+        "tri_facility_id": "04092SDWRR89CUM",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.35,
+          43.646667
+        ]
+      },
+      "properties": {
+        "facility_name": "SILVEX INC",
+        "industry": "",
+        "tri_facility_id": "04092SLVXN45THO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.35,
+          43.68472222222222
+        ]
+      },
+      "properties": {
+        "facility_name": "SPINNAKER COATING",
+        "industry": "",
+        "tri_facility_id": "04092SPNNK225WA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.15805555555556,
+          43.75
+        ]
+      },
+      "properties": {
+        "facility_name": "FPL ENERGY WYMAN LLC WF WYMAN STEAM STATION",
+        "industry": "",
+        "tri_facility_id": "04096WFWYMCOUSI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.246111,
+          43.658056
+        ]
+      },
+      "properties": {
+        "facility_name": "BATH IRON WORKS CORP",
+        "industry": "",
+        "tri_facility_id": "04101BTHRN40COM",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.25055555555555,
+          43.660555555555554
+        ]
+      },
+      "properties": {
+        "facility_name": "JORDAN'S MEATS",
+        "industry": "",
+        "tri_facility_id": "04101JRDNS38IND",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.259167,
+          43.661389
+        ]
+      },
+      "properties": {
+        "facility_name": "OAKHURST DAIRY",
+        "industry": "",
+        "tri_facility_id": "04101KHRST364FO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.278889,
+          43.645833
+        ]
+      },
+      "properties": {
+        "facility_name": "BARBER FOODS",
+        "industry": "",
+        "tri_facility_id": "04102BRBRF70STJ",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2828,
+          43.6557
+        ]
+      },
+      "properties": {
+        "facility_name": "HP HOOD LLC",
+        "industry": "",
+        "tri_facility_id": "04102HPHDN349PA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.340833,
+          43.649444
+        ]
+      },
+      "properties": {
+        "facility_name": "NICHOLS PORTLAND",
+        "industry": "",
+        "tri_facility_id": "04102NCHLS2400C",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.25472222222223,
+          43.67805555555555
+        ]
+      },
+      "properties": {
+        "facility_name": "B&G FOODS NA INC (BURNHAM & MORRILL CO DIVISION)",
+        "industry": "",
+        "tri_facility_id": "04103BRNHM1BEAN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.287301,
+          43.679086
+        ]
+      },
+      "properties": {
+        "facility_name": "DEERING ICE CREAM CO INC",
+        "industry": "",
+        "tri_facility_id": "04103DRNGC135WA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2594,
+          43.6619
+        ]
+      },
+      "properties": {
+        "facility_name": "SELTZER & RYDHOLM INC",
+        "industry": "",
+        "tri_facility_id": "04104SLTZR250CA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.326028,
+          43.639466
+        ]
+      },
+      "properties": {
+        "facility_name": "COCA-COLA BOTTLING CO OF MAINE INC",
+        "industry": "",
+        "tri_facility_id": "04106CCCLB316WE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2388888888889,
+          43.65277777777778
+        ]
+      },
+      "properties": {
+        "facility_name": "SUNOCO MIDSTREAM LLC",
+        "industry": "",
+        "tri_facility_id": "04106GLFLL175FR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.283611,
+          43.6275
+        ]
+      },
+      "properties": {
+        "facility_name": "MEGQUIER & JONES CORP",
+        "industry": "",
+        "tri_facility_id": "04106MGQRJ1156B",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.27638888888889,
+          43.63611111111111
+        ]
+      },
+      "properties": {
+        "facility_name": "GLOBAL COS LLC-SOUTH PORTLAND TERMINAL",
+        "industry": "",
+        "tri_facility_id": "04106NRTHSONECL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.326433,
+          43.639844
+        ]
+      },
+      "properties": {
+        "facility_name": "DIODES US MANUFACTURING INC",
+        "industry": "",
+        "tri_facility_id": "04106NTNLS333WE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.32416666666666,
+          43.64138888888889
+        ]
+      },
+      "properties": {
+        "facility_name": "TEXAS INSTRUMENTS INC",
+        "industry": "",
+        "tri_facility_id": "04106NTNLS5FODE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2875,
+          43.6375
+        ]
+      },
+      "properties": {
+        "facility_name": "SPRAGUE SOUTH PORTLAND",
+        "industry": "",
+        "tri_facility_id": "04106SPRGS59MAI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.310004,
+          43.61593
+        ]
+      },
+      "properties": {
+        "facility_name": "EAST COAST STEEL, BRIDGE DIV",
+        "industry": "",
+        "tri_facility_id": "04106STCSTONEWA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.28472222222221,
+          43.636944444444445
+        ]
+      },
+      "properties": {
+        "facility_name": "SOUTH PORTLAND TERMINAL (SPTPM)",
+        "industry": "",
+        "tri_facility_id": "04107MBLLS170LI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.303055555555556,
+          43.60666666666667
+        ]
+      },
+      "properties": {
+        "facility_name": "MONSON COMPANIES INC",
+        "industry": "",
+        "tri_facility_id": "04116MNSNCONERU",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.26805555555555,
+          43.64055555555556
+        ]
+      },
+      "properties": {
+        "facility_name": "CITGO PETROLEUM CORP SOUTH PORTLAND TERMINAL",
+        "industry": "",
+        "tri_facility_id": "04116STHPR102ME",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

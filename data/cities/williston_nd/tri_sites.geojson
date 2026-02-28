@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6255,
+          48.1913
+        ]
+      },
+      "properties": {
+        "facility_name": "MOR TECH FAB",
+        "industry": "",
+        "tri_facility_id": "58802MRTCHHWY85",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.60499999999999,
+          48.14527777777778
+        ]
+      },
+      "properties": {
+        "facility_name": "SABIN METAL WEST CORP",
+        "industry": "",
+        "tri_facility_id": "58802SBNMT1512T",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

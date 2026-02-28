@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.783333,
+          35.255556
+        ]
+      },
+      "properties": {
+        "facility_name": "POLYONE CORP",
+        "industry": "",
+        "tri_facility_id": "72396CMSCH2151B",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.784722,
+          35.229167
+        ]
+      },
+      "properties": {
+        "facility_name": "MUELLER COPPER TUBE PRODUCTS INC",
+        "industry": "",
+        "tri_facility_id": "72396HLSTDHWY1N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.81,
+          33.532222222222224
+        ]
+      },
+      "properties": {
+        "facility_name": "TYSON POULTRY INC. RIVER VALLEY INGREDIENTS - TEXARKANA",
+        "industry": "",
+        "tri_facility_id": "71854RVRVL7500T",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0025,
+          33.435
+        ]
+      },
+      "properties": {
+        "facility_name": "COLEMAN CABLE - TEXARKANA FACILITY",
+        "industry": "",
+        "tri_facility_id": "71854TXRKN3717O",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.983333,
+          33.45
+        ]
+      },
+      "properties": {
+        "facility_name": "DOW CHEMICAL CO",
+        "industry": "",
+        "tri_facility_id": "75502CLTXC1JIMW",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.002778,
+          33.419444
+        ]
+      },
+      "properties": {
+        "facility_name": "THE GOODYEAR TIRE & RUBBER CO",
+        "industry": "",
+        "tri_facility_id": "75502CPRTRRT12P",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9179,
+          33.4772
+        ]
+      },
+      "properties": {
+        "facility_name": "SMITH-BLAIR INC",
+        "industry": "",
+        "tri_facility_id": "75502RCKWL30GLO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9179,
+          33.4772
+        ]
+      },
+      "properties": {
+        "facility_name": "CARPENTER CO",
+        "industry": "",
+        "tri_facility_id": "75502RCRPN41GLO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

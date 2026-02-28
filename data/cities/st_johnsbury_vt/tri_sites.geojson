@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.059167,
+          44.205833
+        ]
+      },
+      "properties": {
+        "facility_name": "CPM INC",
+        "industry": "",
+        "tri_facility_id": "05042CPMNCCHURC",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0175,
+          44.433056
+        ]
+      },
+      "properties": {
+        "facility_name": "WEIDMANN ELECTRICAL TECHNOLOGY INC",
+        "industry": "",
+        "tri_facility_id": "05819HVWDMUSROU",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0624,
+          44.5539
+        ]
+      },
+      "properties": {
+        "facility_name": "MARDON IND INC",
+        "industry": "",
+        "tri_facility_id": "05851MRDNNRT122",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.004222,
+          44.5367
+        ]
+      },
+      "properties": {
+        "facility_name": "KENNAMETAL INC",
+        "industry": "",
+        "tri_facility_id": "05851VRMNT79MAI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.007778,
+          44.505556
+        ]
+      },
+      "properties": {
+        "facility_name": "VERMONT AMERICAN CORP, NORTHEAST TOOL DIV",
+        "industry": "",
+        "tri_facility_id": "05951NRTHSAIRPO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

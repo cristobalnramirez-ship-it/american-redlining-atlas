@@ -1,0 +1,404 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.508333,
+          44.058333
+        ]
+      },
+      "properties": {
+        "facility_name": "IBM ROCHESTER",
+        "industry": "",
+        "tri_facility_id": "55901BMXXXHWY52",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5275,
+          44.05694444444444
+        ]
+      },
+      "properties": {
+        "facility_name": "CELESTICA CORP",
+        "industry": "",
+        "tri_facility_id": "55901CLSTC3050S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.50833333333334,
+          44.05833333333333
+        ]
+      },
+      "properties": {
+        "facility_name": "CELESTICA CORP",
+        "industry": "",
+        "tri_facility_id": "55901CLSTC30543",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.508558,
+          44.048794
+        ]
+      },
+      "properties": {
+        "facility_name": "CRENLO ENGINEERED CABS LLC - PLANT 2",
+        "industry": "",
+        "tri_facility_id": "55901CRNLN2501V",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.510577,
+          44.050794
+        ]
+      },
+      "properties": {
+        "facility_name": "PACE DAIRY FOODS CO",
+        "industry": "",
+        "tri_facility_id": "55901PCDRY2700V",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.51444444444445,
+          44.05277777777778
+        ]
+      },
+      "properties": {
+        "facility_name": "BENCHMARK",
+        "industry": "",
+        "tri_facility_id": "55901PMSTR3535T",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.51,
+          44.0656
+        ]
+      },
+      "properties": {
+        "facility_name": "PEPSI-COLA BOTTLING CO",
+        "industry": "",
+        "tri_facility_id": "55901PPSCL1307V",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.497778,
+          44.035
+        ]
+      },
+      "properties": {
+        "facility_name": "KERRY INGREDIENTS & FLAVOURS INC.",
+        "industry": "",
+        "tri_facility_id": "55901STFFR24027",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.498,
+          44.0353
+        ]
+      },
+      "properties": {
+        "facility_name": "WATERS INSTRUMENTS",
+        "industry": "",
+        "tri_facility_id": "55901WTRSN24117",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.496111,
+          43.910556
+        ]
+      },
+      "properties": {
+        "facility_name": "NORTHWEST AIRLINES ROCHESTER MUNICIPAL AIRPORT",
+        "industry": "",
+        "tri_facility_id": "55902NRTHWROCHE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.471944,
+          44.009722
+        ]
+      },
+      "properties": {
+        "facility_name": "SENECA FOODS CORP",
+        "industry": "",
+        "tri_facility_id": "55903SNCFD12173",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.462222,
+          44.027778
+        ]
+      },
+      "properties": {
+        "facility_name": "KEMPS LLC - ROCHESTER",
+        "industry": "",
+        "tri_facility_id": "55904MRGLD406NB",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.460556,
+          44.016111
+        ]
+      },
+      "properties": {
+        "facility_name": "KEMPS LLC",
+        "industry": "",
+        "tri_facility_id": "55904MRGLD700LA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.47194444444445,
+          44.00972222222222
+        ]
+      },
+      "properties": {
+        "facility_name": "SENECA FOODS CORP",
+        "industry": "",
+        "tri_facility_id": "55904SNCFD30820",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.461111,
+          44.015833
+        ]
+      },
+      "properties": {
+        "facility_name": "ASSOCIATED MILK PRODUCERS INC",
+        "industry": "",
+        "tri_facility_id": "55904SSCTD7001S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.46055555555556,
+          44.02861111111111
+        ]
+      },
+      "properties": {
+        "facility_name": "ROCHESTER PUBLIC UTILITIES SILVER LAKE PLANT",
+        "industry": "",
+        "tri_facility_id": "55906RCHST425WS",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.489781,
+          43.868604
+        ]
+      },
+      "properties": {
+        "facility_name": "HALCON CORP",
+        "industry": "",
+        "tri_facility_id": "55976HLCNC18112",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.490278,
+          43.865833
+        ]
+      },
+      "properties": {
+        "facility_name": "GEOTEK LLC",
+        "industry": "",
+        "tri_facility_id": "55976MNTRC14212",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.489444,
+          43.8665
+        ]
+      },
+      "properties": {
+        "facility_name": "C.R. BARD-STEWARTVILLE OPERATIONS PLANT 2",
+        "industry": "",
+        "tri_facility_id": "55976RCHST1500N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

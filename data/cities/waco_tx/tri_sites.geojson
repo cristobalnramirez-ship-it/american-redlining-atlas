@@ -1,0 +1,866 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.24972222222222,
+          31.46638888888889
+        ]
+      },
+      "properties": {
+        "facility_name": "FORTERRA PIPE & PRECAST - WACO",
+        "industry": "",
+        "tri_facility_id": "76643HNSNP1171C",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.37722222222222,
+          31.453888888888887
+        ]
+      },
+      "properties": {
+        "facility_name": "PURINA ANIMAL NUTRITION LLC - MCGREGOR",
+        "industry": "",
+        "tri_facility_id": "76657FRMLNHWY84",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.42666666666668,
+          31.38888888888889
+        ]
+      },
+      "properties": {
+        "facility_name": "PACE AMERICAN OF TEXAS",
+        "industry": "",
+        "tri_facility_id": "76657PCMRC2290M",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.438056,
+          31.408333
+        ]
+      },
+      "properties": {
+        "facility_name": "ALLIANT TECHSYSTEMS NAVY WEAPONS INDL RESERVE PLANT",
+        "industry": "",
+        "tri_facility_id": "76657SNVLW1101J",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.341667,
+          31.470833
+        ]
+      },
+      "properties": {
+        "facility_name": "TRANE-WACO",
+        "industry": "",
+        "tri_facility_id": "76657TRNCXHWY84",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.208333,
+          31.490833
+        ]
+      },
+      "properties": {
+        "facility_name": "FLEETWOOD HOMES OF TEXAS INC #84",
+        "industry": "",
+        "tri_facility_id": "76702FLTWD1101F",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2058,
+          31.493
+        ]
+      },
+      "properties": {
+        "facility_name": "PACKLESS INDUSTRIES WACO FACILITY",
+        "industry": "",
+        "tri_facility_id": "76702PCKLS8401I",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.13333333333334,
+          31.616666666666667
+        ]
+      },
+      "properties": {
+        "facility_name": "CARGILL VALUE ADDED MEATS",
+        "industry": "",
+        "tri_facility_id": "76702PLNTTLAKES",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.183333,
+          31.5
+        ]
+      },
+      "properties": {
+        "facility_name": "SPENCO MEDICAL CORP",
+        "industry": "",
+        "tri_facility_id": "76702SPNCM6301I",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.11999999999999,
+          31.6075
+        ]
+      },
+      "properties": {
+        "facility_name": "TATEX THERMOGRAPHERS",
+        "industry": "",
+        "tri_facility_id": "76702TTXTH2800G",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.199722,
+          31.496111
+        ]
+      },
+      "properties": {
+        "facility_name": "VANTRAN INDUSTRIES LLC.",
+        "industry": "",
+        "tri_facility_id": "76702VNTRN7711I",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1384,
+          31.5517
+        ]
+      },
+      "properties": {
+        "facility_name": "FLEETWOOD HOMES INC.",
+        "industry": "",
+        "tri_facility_id": "76703FLTWD2801G",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.108333,
+          31.570833
+        ]
+      },
+      "properties": {
+        "facility_name": "ROCA BATHROOM PRODUCTS INC.",
+        "industry": "",
+        "tri_facility_id": "76703GNRLT600GE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.131995,
+          31.550647
+        ]
+      },
+      "properties": {
+        "facility_name": "REDDY ICE-WACO",
+        "industry": "",
+        "tri_facility_id": "76703WCRDD421S9",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1,
+          31.56527777777778
+        ]
+      },
+      "properties": {
+        "facility_name": "FLINT HILLS RESOURCES CORPUS CHRISTI LLC WACO TERMINAL",
+        "industry": "",
+        "tri_facility_id": "76705KCHPT2017K",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.11888888888888,
+          31.611666666666668
+        ]
+      },
+      "properties": {
+        "facility_name": "K-D MANITOU INC",
+        "industry": "",
+        "tri_facility_id": "76705KDMNT3120G",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.10833333333333,
+          31.622222222222224
+        ]
+      },
+      "properties": {
+        "facility_name": "CMC STEEL FABRICATORS INC DBA CMC STRUCTURAL",
+        "industry": "",
+        "tri_facility_id": "76705LMSTL321OL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.12694444444443,
+          31.608333333333334
+        ]
+      },
+      "properties": {
+        "facility_name": "PILGRIM'S PRIDE CORP WACO PROCESSING PLANT",
+        "industry": "",
+        "tri_facility_id": "76705PLGRM2500E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.96416666666667,
+          31.573333333333334
+        ]
+      },
+      "properties": {
+        "facility_name": "TRADINGHOUSE STEAM ELECTRIC STATION",
+        "industry": "",
+        "tri_facility_id": "76705TRDNGFM295",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0975,
+          31.4552
+        ]
+      },
+      "properties": {
+        "facility_name": "DIETZ MEMORIAL CO INC",
+        "industry": "",
+        "tri_facility_id": "76706DTZMM500LA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.11361111111111,
+          31.564444444444444
+        ]
+      },
+      "properties": {
+        "facility_name": "US GREENFIBER LLC",
+        "industry": "",
+        "tri_facility_id": "76707SGRNF615FR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1975,
+          31.604444
+        ]
+      },
+      "properties": {
+        "facility_name": "PRECISE HARD CHROME LLC",
+        "industry": "",
+        "tri_facility_id": "76708PRCSH6613N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.161163,
+          31.525015
+        ]
+      },
+      "properties": {
+        "facility_name": "GULF STATES PAPER CORP",
+        "industry": "",
+        "tri_facility_id": "76710GLFST401PR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.173056,
+          31.518056
+        ]
+      },
+      "properties": {
+        "facility_name": "WEYERHAEUSER CO",
+        "industry": "",
+        "tri_facility_id": "76710WYRHS4920F",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.155,
+          31.528889
+        ]
+      },
+      "properties": {
+        "facility_name": "EQUIPMENT MANUFACTURING CORP",
+        "industry": "",
+        "tri_facility_id": "76711QPMNT500SV",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.169444,
+          31.5125
+        ]
+      },
+      "properties": {
+        "facility_name": "OWENS-BROCKWAY GLASS CONTAINER INC PLANT 15",
+        "industry": "",
+        "tri_facility_id": "76711WNSLL5200B",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4,
+          30.711389
+        ]
+      },
+      "properties": {
+        "facility_name": "REFRESCO BEVERAGES US WACO PLANT",
+        "industry": "",
+        "tri_facility_id": "76712CCCLF8400I",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.18861111111111,
+          31.496944444444445
+        ]
+      },
+      "properties": {
+        "facility_name": "CLAYTON WACO 1",
+        "industry": "",
+        "tri_facility_id": "76712CLYTN6800I",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.18861111111111,
+          31.496944444444445
+        ]
+      },
+      "properties": {
+        "facility_name": "CLAYTON WACO 2",
+        "industry": "",
+        "tri_facility_id": "76712CLYTN7001I",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.181667,
+          31.501944
+        ]
+      },
+      "properties": {
+        "facility_name": "CENTRAL TEXAS IRON WORKS",
+        "industry": "",
+        "tri_facility_id": "76712CNTRL1100W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.20305555555557,
+          31.503888888888888
+        ]
+      },
+      "properties": {
+        "facility_name": "JEWELL CONCRETE PRODUCTS",
+        "industry": "",
+        "tri_facility_id": "76712JWLLC400JE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.219444,
+          31.490556
+        ]
+      },
+      "properties": {
+        "facility_name": "PACKAGING CORP OF AMERI CA",
+        "industry": "",
+        "tri_facility_id": "76712LXPCK9200O",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.198889,
+          31.495833
+        ]
+      },
+      "properties": {
+        "facility_name": "MARS WRIGLEY CONFECTIONERY US LLC",
+        "industry": "",
+        "tri_facility_id": "76712MMMRS1001T",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.18444444444445,
+          31.505
+        ]
+      },
+      "properties": {
+        "facility_name": "MANITOU NORTH AMERICA",
+        "industry": "",
+        "tri_facility_id": "76712MNTNX6401I",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.200874,
+          31.495203
+        ]
+      },
+      "properties": {
+        "facility_name": "MARATHONNORCO AEROSPACE INC",
+        "industry": "",
+        "tri_facility_id": "76712MRTHN8301I",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2468,
+          31.4722
+        ]
+      },
+      "properties": {
+        "facility_name": "PATRIOT HOMES OF TEXAS L.P.",
+        "industry": "",
+        "tri_facility_id": "76712PTRTT1001W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.25694444444444,
+          31.484444444444446
+        ]
+      },
+      "properties": {
+        "facility_name": "SAFETY-KLEEN SYSTEMS WACO (WAC)",
+        "industry": "",
+        "tri_facility_id": "76712SFTYK22006",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2468,
+          31.4722
+        ]
+      },
+      "properties": {
+        "facility_name": "TEXAS COPPER WORKS",
+        "industry": "",
+        "tri_facility_id": "76712TXSCP705OL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.188611,
+          31.508889
+        ]
+      },
+      "properties": {
+        "facility_name": "WACO FIBERGLASS INC",
+        "industry": "",
+        "tri_facility_id": "76712WCFBR224CO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.202778,
+          31.494444
+        ]
+      },
+      "properties": {
+        "facility_name": "HOWMET FASTENING SYSTEMS WACO",
+        "industry": "",
+        "tri_facility_id": "76714HCKMN8001I",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.069444,
+          31.631944
+        ]
+      },
+      "properties": {
+        "facility_name": "RESY-W MAEHR RD/TSTC AMF",
+        "industry": "",
+        "tri_facility_id": "76715CHRYS7500M",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

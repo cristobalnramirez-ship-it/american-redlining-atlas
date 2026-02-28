@@ -1,0 +1,551 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.52777777777777,
+          33.68833333333333
+        ]
+      },
+      "properties": {
+        "facility_name": "SAFETY-KLEEN (PINEWOOD)",
+        "industry": "",
+        "tri_facility_id": "29125SFTYKRTE1X",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.333333,
+          33.920833
+        ]
+      },
+      "properties": {
+        "facility_name": "B L MONTAGUE CO INC",
+        "industry": "",
+        "tri_facility_id": "29150BLMNT303EL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.366051,
+          33.862366
+        ]
+      },
+      "properties": {
+        "facility_name": "PILGRIM'S PRIDE SUMTER PROCESSING PLANT",
+        "industry": "",
+        "tri_facility_id": "29150CMPBL2050H",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.391667,
+          33.8575
+        ]
+      },
+      "properties": {
+        "facility_name": "PHIBRO-TECH INC SUMTER",
+        "industry": "",
+        "tri_facility_id": "29150CPCHMHWY15",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.325,
+          33.920556
+        ]
+      },
+      "properties": {
+        "facility_name": "CAROLINA COCA-COLA BOTTLING",
+        "industry": "",
+        "tri_facility_id": "29150CRLNC712EL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.409444,
+          33.827778
+        ]
+      },
+      "properties": {
+        "facility_name": "PILGRIM'S PRIDE SUMTER FEED MILL",
+        "industry": "",
+        "tri_facility_id": "29150CRLNGSTARK",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.366667,
+          33.958333
+        ]
+      },
+      "properties": {
+        "facility_name": "MAYSTEEL PORTER'S FABRICATION OF SUMTER",
+        "industry": "",
+        "tri_facility_id": "29150DBLDN1485D",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.383333,
+          33.85
+        ]
+      },
+      "properties": {
+        "facility_name": "ROBERT BOSCH CORP AUTOMOTIVE CHASSIS DIV",
+        "industry": "",
+        "tri_facility_id": "29150LLDSGNORTH",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36916666666666,
+          33.855000000000004
+        ]
+      },
+      "properties": {
+        "facility_name": "SUMTER COATINGS INC",
+        "industry": "",
+        "tri_facility_id": "29150SMTRC2410H",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3,
+          33.925
+        ]
+      },
+      "properties": {
+        "facility_name": "SUMTER WOOD PRESERVING CO",
+        "industry": "",
+        "tri_facility_id": "29150SMTRWEASTF",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.377778,
+          33.847222
+        ]
+      },
+      "properties": {
+        "facility_name": "EATON CORP",
+        "industry": "",
+        "tri_facility_id": "29150WSTNG11COR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.348056,
+          33.967222
+        ]
+      },
+      "properties": {
+        "facility_name": "BD LIFE SCIENCES",
+        "industry": "",
+        "tri_facility_id": "29151BCTNDAIRPO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.332778,
+          33.929444
+        ]
+      },
+      "properties": {
+        "facility_name": "CAROLINA FURNITURE WORKS INC 130130",
+        "industry": "",
+        "tri_facility_id": "29151CRLNF406BR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.333056,
+          33.909444
+        ]
+      },
+      "properties": {
+        "facility_name": "KORN INDUSTRIES INC",
+        "industry": "",
+        "tri_facility_id": "29151KRNNDPOSTO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3525,
+          33.8739
+        ]
+      },
+      "properties": {
+        "facility_name": "KAYDON CORP PLANT 12",
+        "industry": "",
+        "tri_facility_id": "29151KYDNC3CORP",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3775,
+          33.843889
+        ]
+      },
+      "properties": {
+        "facility_name": "METOKOTE CORP PLANT 7",
+        "industry": "",
+        "tri_facility_id": "29151MTKTC2945S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.340347,
+          33.895443
+        ]
+      },
+      "properties": {
+        "facility_name": "INTERLAKE MATERIAL HANDLING",
+        "industry": "",
+        "tri_facility_id": "29151NTRLK1925C",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.314167,
+          33.921111
+        ]
+      },
+      "properties": {
+        "facility_name": "SANTEE PRINT WORKS",
+        "industry": "",
+        "tri_facility_id": "29151SNTPRPROGR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.331389,
+          33.907778
+        ]
+      },
+      "properties": {
+        "facility_name": "SOUTHERN COATINGS INC",
+        "industry": "",
+        "tri_facility_id": "29151STHRN730FU",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.34194444444444,
+          33.906666666666666
+        ]
+      },
+      "properties": {
+        "facility_name": "GIANT RESOURCE RECOVERY-SUMTER INC",
+        "industry": "",
+        "tri_facility_id": "29151STHST755IN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.334946,
+          33.908318
+        ]
+      },
+      "properties": {
+        "facility_name": "VAUGHAN-BASSETT FURNITURE CO",
+        "industry": "",
+        "tri_facility_id": "29151VBWLL602FU",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.39183,
+          33.854691
+        ]
+      },
+      "properties": {
+        "facility_name": "ENERSYS INC",
+        "industry": "",
+        "tri_facility_id": "29151XDBTT2315C",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4576,
+          33.9761
+        ]
+      },
+      "properties": {
+        "facility_name": "US DOD USAF SHAW AFB",
+        "industry": "",
+        "tri_facility_id": "29152SDDSF517LA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36638888888888,
+          33.97916666666667
+        ]
+      },
+      "properties": {
+        "facility_name": "CATERPILLAR PRECISION PIN PRODUCTS GROUP",
+        "industry": "",
+        "tri_facility_id": "29153CTRPL1355N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37194444444444,
+          33.96027777777778
+        ]
+      },
+      "properties": {
+        "facility_name": "FEDERAL-MOGUL POWERTRAIN SYSTEMS",
+        "industry": "",
+        "tri_facility_id": "29153FDRLM990JE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.380556,
+          33.850833
+        ]
+      },
+      "properties": {
+        "facility_name": "APEX TOOL GROUP LLC SUMTER SC OPERATION",
+        "industry": "",
+        "tri_facility_id": "29154CRSCN43486",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

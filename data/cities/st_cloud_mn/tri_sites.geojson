@@ -1,0 +1,362 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0411111111111,
+          45.57666666666667
+        ]
+      },
+      "properties": {
+        "facility_name": "QUEBECOR WORLD ST CLOUD",
+        "industry": "",
+        "tri_facility_id": "56302QBCRW66MAY",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9213888888889,
+          45.666666666666664
+        ]
+      },
+      "properties": {
+        "facility_name": "GORECKI MFG INC",
+        "industry": "",
+        "tri_facility_id": "56329GRCKM512ND",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.222111,
+          45.7581
+        ]
+      },
+      "properties": {
+        "facility_name": "CENTRAL MARBLE PRODUCTS INC",
+        "industry": "",
+        "tri_facility_id": "56367CNTRL10499",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.201667,
+          45.62
+        ]
+      },
+      "properties": {
+        "facility_name": "VERSO PAPER CORP. - SARTELL MILL",
+        "industry": "",
+        "tri_facility_id": "56377CHMPN100EA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.14166666666668,
+          45.583333333333336
+        ]
+      },
+      "properties": {
+        "facility_name": "DESIGN LINE CABINETS",
+        "industry": "",
+        "tri_facility_id": "56379DSGNL4INDU",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.153,
+          45.6108
+        ]
+      },
+      "properties": {
+        "facility_name": "DESIGN LINE CABINETS",
+        "industry": "",
+        "tri_facility_id": "56379DSGNLNORTH",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.117212,
+          45.624499
+        ]
+      },
+      "properties": {
+        "facility_name": "PILGRIM'S SAUK RAPIDS FEEDMILL",
+        "industry": "",
+        "tri_facility_id": "56379JCKFR6005B",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.09027777777777,
+          45.57694444444445
+        ]
+      },
+      "properties": {
+        "facility_name": "STONE PRODUCTS INC",
+        "industry": "",
+        "tri_facility_id": "56379STNPR336QU",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.21666666666667,
+          45.56666666666667
+        ]
+      },
+      "properties": {
+        "facility_name": "WIMAN CORP",
+        "industry": "",
+        "tri_facility_id": "56379WMNCR180IN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.15,
+          45.566667
+        ]
+      },
+      "properties": {
+        "facility_name": "X-CEL OPTICAL CO",
+        "industry": "",
+        "tri_facility_id": "56379XCLPT806SB",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.875,
+          45.38333333333333
+        ]
+      },
+      "properties": {
+        "facility_name": "LIBERTY PAPER INC",
+        "industry": "",
+        "tri_facility_id": "55308LBRTY13500",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.89444444444445,
+          45.36666666666667
+        ]
+      },
+      "properties": {
+        "facility_name": "XCEL ENERGY SHERBURNE COUNTY GENERATING PLANT",
+        "industry": "",
+        "tri_facility_id": "55308NRTHR13999",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.73111111111112,
+          45.33222222222223
+        ]
+      },
+      "properties": {
+        "facility_name": "CARGILL ANIMAL NUTRITION",
+        "industry": "",
+        "tri_facility_id": "55309CRGLL100CO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.588056,
+          45.317222
+        ]
+      },
+      "properties": {
+        "facility_name": "TESCOM",
+        "industry": "",
+        "tri_facility_id": "55330TSCMC12616",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.608889,
+          45.561111
+        ]
+      },
+      "properties": {
+        "facility_name": "CRYSTAL CABINET WORKS INC. -- PRINCETON",
+        "industry": "",
+        "tri_facility_id": "55371CRYST1100C",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.608889,
+          45.561111
+        ]
+      },
+      "properties": {
+        "facility_name": "CRYSTAL COMMERCIAL DIV",
+        "industry": "",
+        "tri_facility_id": "55371CRYST16081",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6,
+          45.545833
+        ]
+      },
+      "properties": {
+        "facility_name": "US DISTILLED PRODS CO",
+        "industry": "",
+        "tri_facility_id": "55371SDSTL16071",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

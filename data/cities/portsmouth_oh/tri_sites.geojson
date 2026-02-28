@@ -1,0 +1,194 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.846389,
+          38.629167
+        ]
+      },
+      "properties": {
+        "facility_name": "G & J PEPSI COLA BOTTLING CO",
+        "industry": "",
+        "tri_facility_id": "45629GJPPSOLDST",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.819444,
+          38.591667
+        ]
+      },
+      "properties": {
+        "facility_name": "ALTIVIA PETROCHEMICALS, LLC",
+        "industry": "",
+        "tri_facility_id": "45636RSTCHRT52A",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.977778,
+          38.736944
+        ]
+      },
+      "properties": {
+        "facility_name": "MITCHELLACE INC",
+        "industry": "",
+        "tri_facility_id": "45662MTCHL830MU",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9773,
+          38.732
+        ]
+      },
+      "properties": {
+        "facility_name": "NEW BOSTON COKE CORP",
+        "industry": "",
+        "tri_facility_id": "45662NWBST600RI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.966667,
+          38.738889
+        ]
+      },
+      "properties": {
+        "facility_name": "LUCASVARITY HVBS, PORTSMOUTH CASTING CENTER",
+        "industry": "",
+        "tri_facility_id": "45662PRTSM2400E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.997222,
+          38.731389
+        ]
+      },
+      "properties": {
+        "facility_name": "OSCO INDUSTRIES INC  PORTSMOUTH DIV",
+        "industry": "",
+        "tri_facility_id": "45662SCNDS11THC",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.93472222222222,
+          38.74861111111111
+        ]
+      },
+      "properties": {
+        "facility_name": "OSCO INDUSTRIES INC NEW BOSTON DIV",
+        "industry": "",
+        "tri_facility_id": "45662SCNDS202VI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.729167,
+          38.8
+        ]
+      },
+      "properties": {
+        "facility_name": "VESUVIUS USA  SOUTH WEBSTER PLANT",
+        "industry": "",
+        "tri_facility_id": "45682BMRFRPOTTS",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.83055555555555,
+          38.36055555555556
+        ]
+      },
+      "properties": {
+        "facility_name": "PC WEST VIRGINIA SYNTHETIC FUEL #2 LLC",
+        "industry": "",
+        "tri_facility_id": "45694PCWST127HA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

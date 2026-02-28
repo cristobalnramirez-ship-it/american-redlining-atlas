@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.181944,
+          40.638889
+        ]
+      },
+      "properties": {
+        "facility_name": "PROCTER & GAMBLE MFG CO",
+        "industry": "",
+        "tri_facility_id": "10303PRCTR40WES",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.074167,
+          40.616111
+        ]
+      },
+      "properties": {
+        "facility_name": "SUN CHEMICAL CORP",
+        "industry": "",
+        "tri_facility_id": "10305SNCHM441TO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.231944,
+          40.527778
+        ]
+      },
+      "properties": {
+        "facility_name": "LUCENT TECHNOLOGIES NASSAU METALS",
+        "industry": "",
+        "tri_facility_id": "10307TTNSS1NASS",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.23666666666666,
+          40.54222222222222
+        ]
+      },
+      "properties": {
+        "facility_name": "EXXONMOBIL OIL CORP PORT MOBIL TERMINAL",
+        "industry": "",
+        "tri_facility_id": "10309MBLLP4101A",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.19916666666667,
+          40.586666666666666
+        ]
+      },
+      "properties": {
+        "facility_name": "PRATT PAPER (NY) INC",
+        "industry": "",
+        "tri_facility_id": "10314VSYPP4435V",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

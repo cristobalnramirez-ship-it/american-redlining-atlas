@@ -1,0 +1,341 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.983333,
+          44.669444
+        ]
+      },
+      "properties": {
+        "facility_name": "MILTON BRADLEY CO WOOD PRODUCTS",
+        "industry": "",
+        "tri_facility_id": "05454MLTNB293FL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.089722,
+          44.696389
+        ]
+      },
+      "properties": {
+        "facility_name": "VERMONT WHEY CO",
+        "industry": "",
+        "tri_facility_id": "05468VRMNTGEORG",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.093611,
+          44.696389
+        ]
+      },
+      "properties": {
+        "facility_name": "PERRIGO NUTRITIONALS",
+        "industry": "",
+        "tri_facility_id": "05468WYTHNGEORG",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.67,
+          45.000278
+        ]
+      },
+      "properties": {
+        "facility_name": "KENT NUTRITION GROUP INC",
+        "industry": "",
+        "tri_facility_id": "05476BLSLFELEVA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0827,
+          44.8115
+        ]
+      },
+      "properties": {
+        "facility_name": "BEN & JERRY'S HOMEMADE INC ST ALBANS",
+        "industry": "",
+        "tri_facility_id": "05478BNJRR900IN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.083333,
+          44.816667
+        ]
+      },
+      "properties": {
+        "facility_name": "MYLAN TECHNOLOGIES INC",
+        "industry": "",
+        "tri_facility_id": "05478BRTKN110LA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.083333,
+          44.816667
+        ]
+      },
+      "properties": {
+        "facility_name": "FONDA GROUP INC",
+        "industry": "",
+        "tri_facility_id": "05478FNDGR1521L",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.083333,
+          44.8
+        ]
+      },
+      "properties": {
+        "facility_name": "AGWAY INC ST ALBANS FEED MILL",
+        "industry": "",
+        "tri_facility_id": "05478GWYNC79WAL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.083333,
+          44.8
+        ]
+      },
+      "properties": {
+        "facility_name": "SUPERIOR TECHNICAL CERAMICS",
+        "industry": "",
+        "tri_facility_id": "05478SPRRTSTALB",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.083333,
+          44.816667
+        ]
+      },
+      "properties": {
+        "facility_name": "ST ALBANS CREAMERY LLC",
+        "industry": "",
+        "tri_facility_id": "05478STLBN140FE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.077778,
+          44.833333
+        ]
+      },
+      "properties": {
+        "facility_name": "ENERGIZER BATTERY MANUFACTURING INC",
+        "industry": "",
+        "tri_facility_id": "05478VRDYB75SWA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9554,
+          44.899
+        ]
+      },
+      "properties": {
+        "facility_name": "WESTROCK CONVERTING LLC",
+        "industry": "",
+        "tri_facility_id": "05485BSCSCMILLS",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12916666666666,
+          44.928888888888885
+        ]
+      },
+      "properties": {
+        "facility_name": "CARGILL FEED & NUTRITION SWANTON",
+        "industry": "",
+        "tri_facility_id": "05488CRGLL100JO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.085833,
+          44.934444
+        ]
+      },
+      "properties": {
+        "facility_name": "LUCILLE FARM PRODUCTS",
+        "industry": "",
+        "tri_facility_id": "05488LCLLFPOBOX",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.127667,
+          44.9245
+        ]
+      },
+      "properties": {
+        "facility_name": "NUTRITE CORP",
+        "industry": "",
+        "tri_facility_id": "05488NTRTC50BRO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.116944,
+          44.933611
+        ]
+      },
+      "properties": {
+        "facility_name": "NEW ENGLAND FIREARMS CO INC",
+        "industry": "",
+        "tri_facility_id": "05488NWNGLLAKES",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

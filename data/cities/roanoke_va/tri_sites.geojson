@@ -1,0 +1,404 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.858111,
+          37.3237
+        ]
+      },
+      "properties": {
+        "facility_name": "VIRGINIA TRANSFORMER CORP.",
+        "industry": "",
+        "tri_facility_id": "24012VRGNT220GL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95863,
+          37.351743
+        ]
+      },
+      "properties": {
+        "facility_name": "DRAGON CORP",
+        "industry": "",
+        "tri_facility_id": "24019DRGNC7033W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.957778,
+          37.354167
+        ]
+      },
+      "properties": {
+        "facility_name": "ALCATEL TELECOMMUNICATIONS",
+        "industry": "",
+        "tri_facility_id": "24019LCTLT7635P",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.991667,
+          37.320833
+        ]
+      },
+      "properties": {
+        "facility_name": "PEPSI-COLA CO OF ROANOKE VA",
+        "industry": "",
+        "tri_facility_id": "24019PPSCLPOBOX",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.989722,
+          37.335278
+        ]
+      },
+      "properties": {
+        "facility_name": "OPTICAL CABLE CORP",
+        "industry": "",
+        "tri_facility_id": "24019PTCLC5290C",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95805555555556,
+          37.35194444444445
+        ]
+      },
+      "properties": {
+        "facility_name": "SEMCO INC",
+        "industry": "",
+        "tri_facility_id": "24019SMCNC774EN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.956667,
+          37.353611
+        ]
+      },
+      "properties": {
+        "facility_name": "ITT ELECTRO OPTICAL PRODS DIV",
+        "industry": "",
+        "tri_facility_id": "24019TTLCT150KN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.957778,
+          37.354167
+        ]
+      },
+      "properties": {
+        "facility_name": "ELBIT SYSTEMS OF AMERICA - NIGHT VISION LLC",
+        "industry": "",
+        "tri_facility_id": "24019TTLCT7635P",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92611111111111,
+          37.3425
+        ]
+      },
+      "properties": {
+        "facility_name": "VALCOM INC",
+        "industry": "",
+        "tri_facility_id": "24019VLCMN5614H",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90583333333333,
+          37.33388888888889
+        ]
+      },
+      "properties": {
+        "facility_name": "VALLEY MACHINE CO",
+        "industry": "",
+        "tri_facility_id": "24019VLLYM75ASH",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.054722,
+          37.279167
+        ]
+      },
+      "properties": {
+        "facility_name": "GRAHAM-WHITE MANUFACTURING CO.",
+        "industry": "",
+        "tri_facility_id": "24153GRHMW1242C",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.116944,
+          37.278889
+        ]
+      },
+      "properties": {
+        "facility_name": "NEW MILLENNIUM BUILDING SYSTEMS",
+        "industry": "",
+        "tri_facility_id": "24153JHNWH2535D",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0611,
+          37.2921
+        ]
+      },
+      "properties": {
+        "facility_name": "KOPPERS INC (ROANOKE)",
+        "industry": "",
+        "tri_facility_id": "24153KPPRSRT460",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.125,
+          37.279167
+        ]
+      },
+      "properties": {
+        "facility_name": "MEDECO SECURITY LOCKS INC.",
+        "industry": "",
+        "tri_facility_id": "24153MDCSCUS11A",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.041111,
+          37.276944
+        ]
+      },
+      "properties": {
+        "facility_name": "YOKOHAMA TIRE MANUFACTURING VIRGINIA LLC",
+        "industry": "",
+        "tri_facility_id": "24153MHWKR1500I",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.99638888888889,
+          37.348888888888894
+        ]
+      },
+      "properties": {
+        "facility_name": "NOVOZYMES",
+        "industry": "",
+        "tri_facility_id": "24153NVZYM42KES",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.080833,
+          37.288611
+        ]
+      },
+      "properties": {
+        "facility_name": "KIK (VIRGINIA) LLC",
+        "industry": "",
+        "tri_facility_id": "24153THDLC27MIL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.76083333333334,
+          37.26972222222222
+        ]
+      },
+      "properties": {
+        "facility_name": "SAFETY-KLEEN SYSTEMS VINTON (ROA)",
+        "industry": "",
+        "tri_facility_id": "24179SFTYKRTE24",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.908333,
+          37.278611
+        ]
+      },
+      "properties": {
+        "facility_name": "CARGILL FEED & NUTRITION ROANOKE",
+        "industry": "",
+        "tri_facility_id": "24179STHRN1003W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

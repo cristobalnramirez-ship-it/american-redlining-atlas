@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.860833,
+          45.998333
+        ]
+      },
+      "properties": {
+        "facility_name": "CENTRAL BI-PRODUCTS",
+        "industry": "",
+        "tri_facility_id": "56347CNTRLHWY71",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.866111,
+          45.977222
+        ]
+      },
+      "properties": {
+        "facility_name": "LONG PRAIRIE PACKING CO",
+        "industry": "",
+        "tri_facility_id": "56347LNGPR10RIV",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.06555555555555,
+          46.26916666666666
+        ]
+      },
+      "properties": {
+        "facility_name": "SUNOPTA INGREDIENTS",
+        "industry": "",
+        "tri_facility_id": "56437NRTHR3082N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7926,
+          46.0927
+        ]
+      },
+      "properties": {
+        "facility_name": "LAND O'LAKES INC",
+        "industry": "",
+        "tri_facility_id": "56438LNDLK660CR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.791667,
+          46.3625
+        ]
+      },
+      "properties": {
+        "facility_name": "3M CO STAPLES PLANT",
+        "industry": "",
+        "tri_facility_id": "56479MSTPL1030N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

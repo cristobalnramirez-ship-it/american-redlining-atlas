@@ -1,0 +1,341 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.02777777777777,
+          44.27444444444444
+        ]
+      },
+      "properties": {
+        "facility_name": "TEX TECH INDUSTRIES INC",
+        "industry": "",
+        "tri_facility_id": "04265TXTCH105NM",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.797936,
+          44.341158
+        ]
+      },
+      "properties": {
+        "facility_name": "SANMINA-SCI CORP",
+        "industry": "",
+        "tri_facility_id": "04330DGTLQ500CI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.735556,
+          44.362778
+        ]
+      },
+      "properties": {
+        "facility_name": "HALLOWELL WATER DISTRICT JAMIES POND PUMP STATION",
+        "industry": "",
+        "tri_facility_id": "04330HLLWLMEDOW",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7625,
+          44.33027777777778
+        ]
+      },
+      "properties": {
+        "facility_name": "JOSEPH KIRSCHNER CO",
+        "industry": "",
+        "tri_facility_id": "04330JSPHK193RI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.833333,
+          44.333333
+        ]
+      },
+      "properties": {
+        "facility_name": "KENWAY COMPOSITES",
+        "industry": "",
+        "tri_facility_id": "04330KNWYC681RI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.70527777777778,
+          44.276666666666664
+        ]
+      },
+      "properties": {
+        "facility_name": "US VA TOGUS VA MED/REGIONAL OFFICE CENTER",
+        "industry": "",
+        "tri_facility_id": "04330SDPRT1VETE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.766667,
+          44.326667
+        ]
+      },
+      "properties": {
+        "facility_name": "AMERICAN TISSUE MILLS OF MAINE LLC",
+        "industry": "",
+        "tri_facility_id": "04330STTLRMAPLE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.743889,
+          44.361389
+        ]
+      },
+      "properties": {
+        "facility_name": "CIVES STEEL CO  NEW ENGLAND DIV",
+        "industry": "",
+        "tri_facility_id": "04332CVSSTPOBOX",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.78388888888888,
+          44.231388888888894
+        ]
+      },
+      "properties": {
+        "facility_name": "GARDINER PAPERBOARD CORP",
+        "industry": "",
+        "tri_facility_id": "04345GRDNR721WA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.971667,
+          44.306667
+        ]
+      },
+      "properties": {
+        "facility_name": "CARLETON WOOLEN MILLS INC",
+        "industry": "",
+        "tri_facility_id": "04364CRLTN51MAI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.97527777777778,
+          44.30888888888889
+        ]
+      },
+      "properties": {
+        "facility_name": "ALTERNATIVE MANUFACTURING INC",
+        "industry": "",
+        "tri_facility_id": "04364LTRNT3BSUM",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.637778,
+          44.571389
+        ]
+      },
+      "properties": {
+        "facility_name": "CHINET CO MACHINE SHOP",
+        "industry": "",
+        "tri_facility_id": "04901KYSFBUPPER",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.65444444444445,
+          44.50944444444445
+        ]
+      },
+      "properties": {
+        "facility_name": "MID-STATE MACHINE PRODUCTS",
+        "industry": "",
+        "tri_facility_id": "04901MDSTT1501V",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.625,
+          44.558333
+        ]
+      },
+      "properties": {
+        "facility_name": "KIMBERLY-CLARK TISSUE CO",
+        "industry": "",
+        "tri_facility_id": "04901SCTTP14BEN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.515833,
+          44.483056
+        ]
+      },
+      "properties": {
+        "facility_name": "GAZELLE PRODS",
+        "industry": "",
+        "tri_facility_id": "04926GZLLPPOBOX",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.716667,
+          44.55
+        ]
+      },
+      "properties": {
+        "facility_name": "CASCADE WOOLEN MILL INC",
+        "industry": "",
+        "tri_facility_id": "04963CSCDWCASCA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

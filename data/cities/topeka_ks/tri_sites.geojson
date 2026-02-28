@@ -1,0 +1,278 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5686,
+          39.0521
+        ]
+      },
+      "properties": {
+        "facility_name": "FUTAMURA USA INC",
+        "industry": "",
+        "tri_facility_id": "66542FLXLN6000S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.56861111111111,
+          39.05305555555555
+        ]
+      },
+      "properties": {
+        "facility_name": "TECUMSEH ENERGY CENTER",
+        "industry": "",
+        "tri_facility_id": "66542TCMSH2NDDU",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6785,
+          39.0501
+        ]
+      },
+      "properties": {
+        "facility_name": "HILL'S PET NUTRITION INC",
+        "industry": "",
+        "tri_facility_id": "66603HLLSP320EC",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.666667,
+          39.066667
+        ]
+      },
+      "properties": {
+        "facility_name": "CARGILL FLOUR MILLING I-H PLANT",
+        "industry": "",
+        "tri_facility_id": "66607CRGLL20012",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.665,
+          39.055
+        ]
+      },
+      "properties": {
+        "facility_name": "HALLMARK CARDS INC",
+        "industry": "",
+        "tri_facility_id": "66607HLLMR240MA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.633333,
+          39.044444
+        ]
+      },
+      "properties": {
+        "facility_name": "FARMLAND FOODS INC",
+        "industry": "",
+        "tri_facility_id": "66607HSFDS3215E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.661944,
+          39.066
+        ]
+      },
+      "properties": {
+        "facility_name": "INDUSTRIAL CHROME INC DBA ICI MANUFACTURING",
+        "industry": "",
+        "tri_facility_id": "66608NDSTR834NE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.690556,
+          38.988056
+        ]
+      },
+      "properties": {
+        "facility_name": "FRITO LAY INC",
+        "industry": "",
+        "tri_facility_id": "66609FRTLY4236K",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.667222,
+          38.998056
+        ]
+      },
+      "properties": {
+        "facility_name": "JOSTENS INC",
+        "industry": "",
+        "tri_facility_id": "66609JSTNS4000S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7649,
+          39.0914
+        ]
+      },
+      "properties": {
+        "facility_name": "THE GOODYEAR TIRE & RUBBER CO",
+        "industry": "",
+        "tri_facility_id": "66618THGDY2000N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.724556,
+          39.0889
+        ]
+      },
+      "properties": {
+        "facility_name": "BIG HEART PET BRANDS",
+        "industry": "",
+        "tri_facility_id": "66618THQKR2200N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.702333,
+          38.9449
+        ]
+      },
+      "properties": {
+        "facility_name": "SUPERIOR ESSEX GROUP INC WIRE & CABLE DIV",
+        "industry": "",
+        "tri_facility_id": "66619SSXGRUNIVE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1525,
+          37.1525
+        ]
+      },
+      "properties": {
+        "facility_name": "MORRISON CO INC",
+        "industry": "",
+        "tri_facility_id": "67003MRRSNRTE14",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

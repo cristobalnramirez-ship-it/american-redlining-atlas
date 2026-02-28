@@ -1,0 +1,467 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.49833333333333,
+          38.29
+        ]
+      },
+      "properties": {
+        "facility_name": "GOODRICH CORP",
+        "industry": "",
+        "tri_facility_id": "81001BFGDR50WIL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5,
+          38.25222222222222
+        ]
+      },
+      "properties": {
+        "facility_name": "AIRGAS USA LLC",
+        "industry": "",
+        "tri_facility_id": "81001CLRDX29550",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.494444,
+          38.290556
+        ]
+      },
+      "properties": {
+        "facility_name": "DANA CORP PUEBLO PLANT ENGINE PRODUCTS DIV",
+        "industry": "",
+        "tri_facility_id": "81001DNCRP32500",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.48083333333334,
+          38.27777777777778
+        ]
+      },
+      "properties": {
+        "facility_name": "FLEXIBLE FOAM PRODUCTS INC.",
+        "industry": "",
+        "tri_facility_id": "81001FLXBL33625",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.521667,
+          38.276667
+        ]
+      },
+      "properties": {
+        "facility_name": "KAISER SPACE PRODUCTS",
+        "industry": "",
+        "tri_facility_id": "81001KSRSP110WI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.48277777777778,
+          38.277499999999996
+        ]
+      },
+      "properties": {
+        "facility_name": "ELDORADO STONE LLC - PUEBLO FACILITY",
+        "industry": "",
+        "tri_facility_id": "81001LDRDS33645",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.505833,
+          38.281667
+        ]
+      },
+      "properties": {
+        "facility_name": "UNISYS MANUFACTURING & MATERIAL CENTER OPERATIONS",
+        "industry": "",
+        "tri_facility_id": "81001NSYSM15WIL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.56027777777777,
+          38.2725
+        ]
+      },
+      "properties": {
+        "facility_name": "SAFETY-KLEEN SYSTEMS PUEBLO (PUE) (605204)",
+        "industry": "",
+        "tri_facility_id": "81001SFTYK2841E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.52388888888889,
+          38.276944444444446
+        ]
+      },
+      "properties": {
+        "facility_name": "FUJIFILM ELECTRONIC MATERIALS U.S. INC.",
+        "industry": "",
+        "tri_facility_id": "81001SHLND250WI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5975,
+          38.280278
+        ]
+      },
+      "properties": {
+        "facility_name": "SUMMIT PRESSED BRICK & TILE CO",
+        "industry": "",
+        "tri_facility_id": "81001SMMTP13THE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.483333,
+          38.283333
+        ]
+      },
+      "properties": {
+        "facility_name": "PRYOR-GIGGEY CO",
+        "industry": "",
+        "tri_facility_id": "81001THPRY33163",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.515556,
+          38.289167
+        ]
+      },
+      "properties": {
+        "facility_name": "TRANE CO",
+        "industry": "",
+        "tri_facility_id": "81001TRNCX101WI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.612222,
+          38.229444
+        ]
+      },
+      "properties": {
+        "facility_name": "ABC-NACO",
+        "industry": "",
+        "tri_facility_id": "81002BCRLC2300S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.60111111111111,
+          38.24
+        ]
+      },
+      "properties": {
+        "facility_name": "HARSCO METALS - PUEBLO",
+        "industry": "",
+        "tri_facility_id": "81002HRSHC11HAR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.61972222222222,
+          38.26694444444444
+        ]
+      },
+      "properties": {
+        "facility_name": "ERGON ASPHALT PARTNERS LP - PUEBLO",
+        "industry": "",
+        "tri_facility_id": "81002KCHPR510WD",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6075,
+          38.232778
+        ]
+      },
+      "properties": {
+        "facility_name": "EVRAZ ROCKY MOUNTAIN STEEL",
+        "industry": "",
+        "tri_facility_id": "81004CFSTL225CA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.48333333333333,
+          38.233333333333334
+        ]
+      },
+      "properties": {
+        "facility_name": "DAVIS WIRE PUEBLO LLC",
+        "industry": "",
+        "tri_facility_id": "81004DVSWR2100S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.603889,
+          38.233333
+        ]
+      },
+      "properties": {
+        "facility_name": "PEPSI-COLA BOTTLING CO",
+        "industry": "",
+        "tri_facility_id": "81004PPSCL1900S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.57305555555556,
+          38.24583333333334
+        ]
+      },
+      "properties": {
+        "facility_name": "MISSION FOODS PUEBLO",
+        "industry": "",
+        "tri_facility_id": "81006MSSNF2110S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.57527777777777,
+          38.20805555555556
+        ]
+      },
+      "properties": {
+        "facility_name": "PUBLIC SERVICE CO OF COLORADO COMANCHE STATION",
+        "industry": "",
+        "tri_facility_id": "81006PBLCS2005L",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.65222222222222,
+          38.35333333333333
+        ]
+      },
+      "properties": {
+        "facility_name": "LAFARGE PUEBLO WEST READY MIX",
+        "industry": "",
+        "tri_facility_id": "81007LFRGW630ST",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.64833333333334,
+          38.36138888888889
+        ]
+      },
+      "properties": {
+        "facility_name": "INTERSTATE CHEMICAL CO INC",
+        "industry": "",
+        "tri_facility_id": "81007NTRST646NS",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

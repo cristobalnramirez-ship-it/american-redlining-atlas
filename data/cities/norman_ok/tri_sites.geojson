@@ -1,0 +1,194 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.405556,
+          35.156944
+        ]
+      },
+      "properties": {
+        "facility_name": "UNITED DESIGN CORP",
+        "industry": "",
+        "tri_facility_id": "73068NTDDS1600N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.466339,
+          35.267705
+        ]
+      },
+      "properties": {
+        "facility_name": "BIO-CIDE INTERNATIONAL INC A KEMIN CO",
+        "industry": "",
+        "tri_facility_id": "73069BCDNT2650V",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4623,
+          35.2469
+        ]
+      },
+      "properties": {
+        "facility_name": "COORS CERAMICS CO",
+        "industry": "",
+        "tri_facility_id": "73069CRSCR45024",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4388888888889,
+          35.22166666666667
+        ]
+      },
+      "properties": {
+        "facility_name": "THE CRUCIBLE LLC",
+        "industry": "",
+        "tri_facility_id": "73069THCRC11ETN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.479444,
+          35.281389
+        ]
+      },
+      "properties": {
+        "facility_name": "JOHNSON CONTROLS INC-NORMAN",
+        "industry": "",
+        "tri_facility_id": "73069YRKNT5005N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.414444,
+          35.1875
+        ]
+      },
+      "properties": {
+        "facility_name": "HITACHI COMPUTER PRODUCTS (AME RICA) INC.",
+        "industry": "",
+        "tri_facility_id": "73070HTCHC1800E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.475833,
+          35.252778
+        ]
+      },
+      "properties": {
+        "facility_name": "SOUTHWESTERN WIRE INC",
+        "industry": "",
+        "tri_facility_id": "73070STHWS3505N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.437444,
+          35.220516
+        ]
+      },
+      "properties": {
+        "facility_name": "HILAND/GILT EDGE DAIRY",
+        "industry": "",
+        "tri_facility_id": "73071GLTDG302SP",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4795,
+          35.3169
+        ]
+      },
+      "properties": {
+        "facility_name": "AH METAL FABRICATORS INC",
+        "industry": "",
+        "tri_facility_id": "73160HMTLF2400S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,992 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.226389,
+          32.101944
+        ]
+      },
+      "properties": {
+        "facility_name": "CARIBBEAN LUMBER CO INC",
+        "industry": "",
+        "tri_facility_id": "31322CRBBN6AJGA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.235,
+          32.12138888888889
+        ]
+      },
+      "properties": {
+        "facility_name": "JCB INC.",
+        "industry": "",
+        "tri_facility_id": "31322JCBNC2BAMF",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.261667,
+          32.119722
+        ]
+      },
+      "properties": {
+        "facility_name": "SHEAROUSE LUMBER CO",
+        "industry": "",
+        "tri_facility_id": "31322SHRHSHIGHW",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1125,
+          32.1
+        ]
+      },
+      "properties": {
+        "facility_name": "HUNT-WESSON INC",
+        "industry": "",
+        "tri_facility_id": "31401BTRCHLATHR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.137254,
+          32.080583
+        ]
+      },
+      "properties": {
+        "facility_name": "CLOWHITE CO",
+        "industry": "",
+        "tri_facility_id": "31401CSTLC2500W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1707,
+          32.0939
+        ]
+      },
+      "properties": {
+        "facility_name": "SOLENIS LLC",
+        "industry": "",
+        "tri_facility_id": "31401HRCLSOLDLO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.111111,
+          32.097222
+        ]
+      },
+      "properties": {
+        "facility_name": "GLOBAL SHIP SYSTEMS OPERATIONS LLC",
+        "industry": "",
+        "tri_facility_id": "31401NTRMR301NO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.24833333333333,
+          32.09638888888889
+        ]
+      },
+      "properties": {
+        "facility_name": "COLONIAL CHEMICAL SOLUTIONS INC.",
+        "industry": "",
+        "tri_facility_id": "31401SHLND400TE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0895,
+          32.0634
+        ]
+      },
+      "properties": {
+        "facility_name": "SAVANNAH MARBLE CO",
+        "industry": "",
+        "tri_facility_id": "31401SVNNH610EW",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1615,
+          32.1503
+        ]
+      },
+      "properties": {
+        "facility_name": "GULFSTREAM AEROSPACE CORP",
+        "industry": "",
+        "tri_facility_id": "31402GLFSTPOBOX",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.109722,
+          32.091111
+        ]
+      },
+      "properties": {
+        "facility_name": "GREAT DANE TRAILERS",
+        "industry": "",
+        "tri_facility_id": "31402GRTDNEASTL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.120556,
+          32.104722
+        ]
+      },
+      "properties": {
+        "facility_name": "INTERNATIONAL PAPER CO - SAVANNAH COMPLEX",
+        "industry": "",
+        "tri_facility_id": "31402NNCMPWESTL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.108333,
+          32.083333
+        ]
+      },
+      "properties": {
+        "facility_name": "NATROCHEM, INC.",
+        "industry": "",
+        "tri_facility_id": "31402NTRCH1EXLE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.11,
+          32.071944
+        ]
+      },
+      "properties": {
+        "facility_name": "EAST COAST TERMINAL",
+        "industry": "",
+        "tri_facility_id": "31402STCSTHARBO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.041667,
+          32.066667
+        ]
+      },
+      "properties": {
+        "facility_name": "ALAC SAVANNAH ASU",
+        "industry": "",
+        "tri_facility_id": "31404BGTHREASTP",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.029444,
+          32.080833
+        ]
+      },
+      "properties": {
+        "facility_name": "SOUTHERN STATES CHEMICAL SEAPOINT",
+        "industry": "",
+        "tri_facility_id": "31404KMRNCEASTP",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.039722,
+          32.080833
+        ]
+      },
+      "properties": {
+        "facility_name": "KEMWATER NA SAVANNAH PLANT",
+        "industry": "",
+        "tri_facility_id": "31404KMRWTEPRES",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0625,
+          32.070833
+        ]
+      },
+      "properties": {
+        "facility_name": "BASF CORP-SAVANNAH OPERATIONS",
+        "industry": "",
+        "tri_facility_id": "31404KTLST1800E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0625,
+          32.071111111111115
+        ]
+      },
+      "properties": {
+        "facility_name": "UNIVAR USA INC SAVANNAH FACILITY",
+        "industry": "",
+        "tri_facility_id": "31404NCHMN1680E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.068056,
+          32.081944
+        ]
+      },
+      "properties": {
+        "facility_name": "PHILLIPS 66 SAVANNAH LUBRICANTS PLANT",
+        "industry": "",
+        "tri_facility_id": "31404NCLCR110FO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0625,
+          32.075
+        ]
+      },
+      "properties": {
+        "facility_name": "SEAGATE TERMINALS SAVANNAH LLC",
+        "industry": "",
+        "tri_facility_id": "31404STHRN1600E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.119444,
+          32.0485
+        ]
+      },
+      "properties": {
+        "facility_name": "CARSON PRODUCTS COMPANY",
+        "industry": "",
+        "tri_facility_id": "31405CRSNP64ROS",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.131206,
+          32.051372
+        ]
+      },
+      "properties": {
+        "facility_name": "SAVANNAH MARBLE CO",
+        "industry": "",
+        "tri_facility_id": "31405SVNNH1944W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1696,
+          32.1268
+        ]
+      },
+      "properties": {
+        "facility_name": "PCS NITROGEN FERTILIZER LP SAVANNAH PLANT",
+        "industry": "",
+        "tri_facility_id": "31407CLMBNGAHWY",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.154444,
+          32.155
+        ]
+      },
+      "properties": {
+        "facility_name": "GEORGIA -PACIFIC CHEMICALS LLC",
+        "industry": "",
+        "tri_facility_id": "31407GRGPCCROSS",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.155556,
+          32.156944
+        ]
+      },
+      "properties": {
+        "facility_name": "INTERNATIONAL PAPER CO - PORT WENTWORTH",
+        "industry": "",
+        "tri_facility_id": "31407STNCN1BONN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.09583333333333,
+          32.14861111111111
+        ]
+      },
+      "properties": {
+        "facility_name": "KRAFT STEAM ELECTRIC GENERATING PLANT",
+        "industry": "",
+        "tri_facility_id": "31407SVNNHCROSS",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.145556,
+          32.144722
+        ]
+      },
+      "properties": {
+        "facility_name": "SAVANNAH SUGAR REFINERY",
+        "industry": "",
+        "tri_facility_id": "31407SVNNHOXNAR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.149167,
+          32.147222
+        ]
+      },
+      "properties": {
+        "facility_name": "ATLANTIC WOOD INDUSTRIES INC",
+        "industry": "",
+        "tri_facility_id": "31407TLNTCSUGAR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.13138888888888,
+          32.11611111111111
+        ]
+      },
+      "properties": {
+        "facility_name": "BUILDING MATERIALS MANUFACTURING LLC",
+        "industry": "",
+        "tri_facility_id": "31408BLDNG1BRAM",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.141111,
+          32.112222
+        ]
+      },
+      "properties": {
+        "facility_name": "FUJI VEGETABLE OIL INC.",
+        "industry": "",
+        "tri_facility_id": "31408FJVGT120BR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.215278,
+          32.108611
+        ]
+      },
+      "properties": {
+        "facility_name": "NHS U.S. LLC",
+        "industry": "",
+        "tri_facility_id": "31408HRSHY11ART",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.13388888888889,
+          32.10611111111111
+        ]
+      },
+      "properties": {
+        "facility_name": "ERGON ASPHALT & EMULSIONS INC. - GARDEN CITY",
+        "industry": "",
+        "tri_facility_id": "31408KCHMT14FOU",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.146667,
+          32.116667
+        ]
+      },
+      "properties": {
+        "facility_name": "L B FOSTER CO INC",
+        "industry": "",
+        "tri_facility_id": "31408LBFST550GA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.125,
+          32.110556
+        ]
+      },
+      "properties": {
+        "facility_name": "EPIC MIDSTREAM LLC",
+        "industry": "",
+        "tri_facility_id": "31408MCLCMFOUND",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.181667,
+          32.204167
+        ]
+      },
+      "properties": {
+        "facility_name": "EMD PERFORMANCE MATERIALS CORP",
+        "industry": "",
+        "tri_facility_id": "31408MNDSTOLEAR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.222487,
+          32.11099
+        ]
+      },
+      "properties": {
+        "facility_name": "JOHNSON MATTHEY PROCESS TECHNOLOGIES INC",
+        "industry": "",
+        "tri_facility_id": "31408NTRCT115EL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.144444,
+          32.108333
+        ]
+      },
+      "properties": {
+        "facility_name": "GEORGIA DRUM CO INC",
+        "industry": "",
+        "tri_facility_id": "31408RHMMN139BR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.11222222222221,
+          32.073888888888895
+        ]
+      },
+      "properties": {
+        "facility_name": "LAFARGE STILES AVENUE CONCRETE PLANT",
+        "industry": "",
+        "tri_facility_id": "31415LFRGS62STI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.120833,
+          32.115
+        ]
+      },
+      "properties": {
+        "facility_name": "GOLD BOND BUILDING PRODUCTS - SAVANNAH",
+        "industry": "",
+        "tri_facility_id": "31418GLDBNBRAMP",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.116667,
+          32.091667
+        ]
+      },
+      "properties": {
+        "facility_name": "SAVANNAH PAINT MFG CO",
+        "industry": "",
+        "tri_facility_id": "31418SVNNH101OL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1863888888889,
+          11.186388888888889
+        ]
+      },
+      "properties": {
+        "facility_name": "ROGER WOOD FOODS",
+        "industry": "",
+        "tri_facility_id": "31419RGRWD1313M",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.129444,
+          32.112222
+        ]
+      },
+      "properties": {
+        "facility_name": "GENERAL CHEMICAL CORP SAVANNAH WORKS",
+        "industry": "",
+        "tri_facility_id": "31420GNRLCBRAMP",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.084167,
+          32.068056
+        ]
+      },
+      "properties": {
+        "facility_name": "CARIBBEAN LUMBER CO INC",
+        "industry": "",
+        "tri_facility_id": "31498CRBBNHUTCH",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.052778,
+          32.076389
+        ]
+      },
+      "properties": {
+        "facility_name": "DOMTAR INC GYPSUM DIV",
+        "industry": "",
+        "tri_facility_id": "31498DMTRNWAHLS",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.179722,
+          32.098611
+        ]
+      },
+      "properties": {
+        "facility_name": "GEORGIA-PACIFIC CORP SAVANNAH PLYWOOD",
+        "industry": "",
+        "tri_facility_id": "31498GRGPCOLDLO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.126981,
+          32.110139
+        ]
+      },
+      "properties": {
+        "facility_name": "OWENS CORNING ROOFING & ASPHALT LLC",
+        "industry": "",
+        "tri_facility_id": "31498MNVLL1FOUN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

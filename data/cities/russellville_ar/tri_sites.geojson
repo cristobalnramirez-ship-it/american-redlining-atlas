@@ -1,0 +1,467 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.093889,
+          35.259722
+        ]
+      },
+      "properties": {
+        "facility_name": "CONAGRA FOODS PACKAGED FOODS LLC- RUSSELLVILLE",
+        "industry": "",
+        "tri_facility_id": "72801CNGRFHWY64",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.06833333333333,
+          35.26
+        ]
+      },
+      "properties": {
+        "facility_name": "CARMAR VALLEY",
+        "industry": "",
+        "tri_facility_id": "72801CRMRV203IN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.116667,
+          35.266667
+        ]
+      },
+      "properties": {
+        "facility_name": "MAHLE ENGINE COMPONENTS USA INC",
+        "industry": "",
+        "tri_facility_id": "72801DNCRP2301E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.16,
+          35.236944
+        ]
+      },
+      "properties": {
+        "facility_name": "OLIN RUSSELLVILLE CELL TECHNOLOGIES LLC",
+        "industry": "",
+        "tri_facility_id": "72801DWCHMLOCKA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.127983,
+          35.276886
+        ]
+      },
+      "properties": {
+        "facility_name": "FROLIC FOOTWEAR",
+        "industry": "",
+        "tri_facility_id": "72801FRLCF2NDAN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.103611,
+          35.277778
+        ]
+      },
+      "properties": {
+        "facility_name": "FIRESTONE TUBE CO",
+        "industry": "",
+        "tri_facility_id": "72801FRSTNHWY64",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.131111,
+          35.243056
+        ]
+      },
+      "properties": {
+        "facility_name": "GRACE MANUFACTURING INC",
+        "industry": "",
+        "tri_facility_id": "72801GRCNGROUTE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1089,
+          35.2896
+        ]
+      },
+      "properties": {
+        "facility_name": "ANITOX CORP",
+        "industry": "",
+        "tri_facility_id": "72801NTXCRHC30B",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.102556,
+          35.2692
+        ]
+      },
+      "properties": {
+        "facility_name": "POM INC",
+        "industry": "",
+        "tri_facility_id": "72801PMNCR200SO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.119606,
+          35.276924
+        ]
+      },
+      "properties": {
+        "facility_name": "PURINA MILLS INC",
+        "industry": "",
+        "tri_facility_id": "72801PRNML1110E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.104167,
+          35.272222
+        ]
+      },
+      "properties": {
+        "facility_name": "RUSSELLVILLE DISTRIBUTION CENTER",
+        "industry": "",
+        "tri_facility_id": "72801RSSLL1000E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.155,
+          35.236111
+        ]
+      },
+      "properties": {
+        "facility_name": "SUPERIOR GRAPHITE CO",
+        "industry": "",
+        "tri_facility_id": "72801SPRRGLOCKD",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.131944,
+          35.249444
+        ]
+      },
+      "properties": {
+        "facility_name": "DARLING INTERNATIONAL INC",
+        "industry": "",
+        "tri_facility_id": "72801STNDRHWY7T",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.102556,
+          35.2692
+        ]
+      },
+      "properties": {
+        "facility_name": "TABER EXTRUSIONS LLC",
+        "industry": "",
+        "tri_facility_id": "72801TBRMT915SO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.152778,
+          35.229167
+        ]
+      },
+      "properties": {
+        "facility_name": "STELLA-JONES CORP",
+        "industry": "",
+        "tri_facility_id": "72801THMPSRT1BO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.104167,
+          35.272222
+        ]
+      },
+      "properties": {
+        "facility_name": "TYSON POULTRY, INC. - TYLER ROAD",
+        "industry": "",
+        "tri_facility_id": "72801TYSNFPOBOX",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.081,
+          35.2751
+        ]
+      },
+      "properties": {
+        "facility_name": "TYSON VALLEY DISTRIBUTION CENTER",
+        "industry": "",
+        "tri_facility_id": "72801TYSNVHWY64",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.125,
+          35.25
+        ]
+      },
+      "properties": {
+        "facility_name": "RUSSELLVILLE STEEL CO INC",
+        "industry": "",
+        "tri_facility_id": "72802RSSLL280ST",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1,
+          35.266666666666666
+        ]
+      },
+      "properties": {
+        "facility_name": "HACKNEY LADISH INC",
+        "industry": "",
+        "tri_facility_id": "72802TRNTY708SE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.935556,
+          35.251944
+        ]
+      },
+      "properties": {
+        "facility_name": "PILGRIMS PRIDE FEED MILL ATKINS ARKANSAS",
+        "industry": "",
+        "tri_facility_id": "72823CNGRFHWY64",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.933333,
+          35.233333
+        ]
+      },
+      "properties": {
+        "facility_name": "GREEN BAY FOOD CO ATKINS PLANT",
+        "industry": "",
+        "tri_facility_id": "72823GRNBY602SE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.13361111111112,
+          35.274166666666666
+        ]
+      },
+      "properties": {
+        "facility_name": "CARGILL ANIMAL NUTRITION",
+        "industry": "",
+        "tri_facility_id": "72847CRGLLHWY64",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8012,
+          34.8918
+        ]
+      },
+      "properties": {
+        "facility_name": "US ARMY MCALESTER ARMY AMMUNITION PLANT",
+        "industry": "",
+        "tri_facility_id": "74501MCLSTHWY69",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.744444,
+          34.956389
+        ]
+      },
+      "properties": {
+        "facility_name": "ROCKWELL INTL CORP",
+        "industry": "",
+        "tri_facility_id": "74501RCKWLRT69B",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8949,
+          34.9383
+        ]
+      },
+      "properties": {
+        "facility_name": "NATIONAL OILWELL VARCO MCALESTER WORKS",
+        "industry": "",
+        "tri_facility_id": "74502NTNLLHWY69",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.827222,
+          39.924722
+        ]
+      },
+      "properties": {
+        "facility_name": "SIMMONS POULTRY FARMS INC",
+        "industry": "",
+        "tri_facility_id": "74502SMMNS101ST",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

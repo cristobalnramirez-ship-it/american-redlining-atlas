@@ -1,0 +1,383 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.216667,
+          44.083333
+        ]
+      },
+      "properties": {
+        "facility_name": "BLACK HILLS PACKING CO",
+        "industry": "",
+        "tri_facility_id": "57701BLCKH1330W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.25,
+          44.041667
+        ]
+      },
+      "properties": {
+        "facility_name": "COLEMAN CO",
+        "industry": "",
+        "tri_facility_id": "57701CLMNC5125H",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.262389,
+          44.0696
+        ]
+      },
+      "properties": {
+        "facility_name": "FOREST PRODUCTS DISTRIBUTORS INC",
+        "industry": "",
+        "tri_facility_id": "57701FRSTPRR2BO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.177222,
+          44.069167
+        ]
+      },
+      "properties": {
+        "facility_name": "GILLETTE DAIRY OF THE BLACK HILLS",
+        "industry": "",
+        "tri_facility_id": "57701GLLTT1699S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.222778,
+          44.081944
+        ]
+      },
+      "properties": {
+        "facility_name": "HUBBARD FEEDS INC",
+        "industry": "",
+        "tri_facility_id": "57701HBBRD426OM",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.186111,
+          44.057778
+        ]
+      },
+      "properties": {
+        "facility_name": "HIQUAL MANUFACTURING USA INC",
+        "industry": "",
+        "tri_facility_id": "57701HQLMN3139C",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.243889,
+          44.082778
+        ]
+      },
+      "properties": {
+        "facility_name": "LANDSTROM'S BLACK HILLS GOLD JEWELRY",
+        "industry": "",
+        "tri_facility_id": "57701LNDST405CA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.15916666666668,
+          44.109722222222224
+        ]
+      },
+      "properties": {
+        "facility_name": "ULTRAMAX AMMUNITION",
+        "industry": "",
+        "tri_facility_id": "57701LTRMX2112E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.200278,
+          44.068889
+        ]
+      },
+      "properties": {
+        "facility_name": "NORTH CENTRAL SUPPLY",
+        "industry": "",
+        "tri_facility_id": "57701NRTHC904ES",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.216667,
+          44.1
+        ]
+      },
+      "properties": {
+        "facility_name": "LITTELFUSE/SYMCOM",
+        "industry": "",
+        "tri_facility_id": "57701SCMFG222DI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.265,
+          44.08888888888889
+        ]
+      },
+      "properties": {
+        "facility_name": "BLACK HILLS CORP - BEN FRENCH POWER PLANT",
+        "industry": "",
+        "tri_facility_id": "57702BHPLB409DE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.28694444444444,
+          44.11805555555556
+        ]
+      },
+      "properties": {
+        "facility_name": "PETE LIEN & SONS INC",
+        "industry": "",
+        "tri_facility_id": "57702PTLNS3401U",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.268611,
+          44.089722
+        ]
+      },
+      "properties": {
+        "facility_name": "GCC DACOTAH",
+        "industry": "",
+        "tri_facility_id": "57702STHDK501NO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.26944444444445,
+          44.106944444444444
+        ]
+      },
+      "properties": {
+        "facility_name": "SYMCOM INC",
+        "industry": "",
+        "tri_facility_id": "57702SYMCM2880N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.16916666666667,
+          44.09722222222222
+        ]
+      },
+      "properties": {
+        "facility_name": "BLACK HILLS AMMUNITION",
+        "industry": "",
+        "tri_facility_id": "57703BLCKH3050E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.0775,
+          44.131944
+        ]
+      },
+      "properties": {
+        "facility_name": "U.S. DOD USAF, ELLSWORTH AFB",
+        "industry": "",
+        "tri_facility_id": "57706SDDSR1161T",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.191667,
+          44.041667
+        ]
+      },
+      "properties": {
+        "facility_name": "MIDWEST MANUFACTURING INC DBA DAKOTA PANEL",
+        "industry": "",
+        "tri_facility_id": "57709MRLLT4300S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.1875,
+          44.0375
+        ]
+      },
+      "properties": {
+        "facility_name": "SOUTH DAKOTA CONCRETE PRODUCTS CO",
+        "industry": "",
+        "tri_facility_id": "57709STHDKPOBOX",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}
