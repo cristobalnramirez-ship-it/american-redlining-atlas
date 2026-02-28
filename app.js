@@ -513,7 +513,7 @@
           layer.setStyle({ fillOpacity: 0.8, weight: 2, color: 'rgba(255,255,255,0.4)' });
           var income = feature.properties[field];
           layer.bindTooltip(
-            '<strong>' + feature.properties.name + '</strong><br>' +
+            '<strong>' + (feature.properties.name || feature.properties.tract_id || 'Census Tract') + '</strong><br>' +
             'Income: ' + (income ? '$' + income.toLocaleString() : 'N/A'),
             { sticky: true, className: 'dark-tooltip' }
           ).openTooltip();
@@ -567,7 +567,7 @@
           var p = feature.properties;
           var s = raceSuffix(state.currentDecade);
           layer.bindTooltip(
-            '<strong>' + p.name + '</strong><br>' +
+            '<strong>' + (p.name || p.tract_id || 'Census Tract') + '</strong><br>' +
             'W: ' + pct(p['pct_white' + s]) +
             ' B: ' + pct(p['pct_black' + s]) +
             ' H: ' + pct(p['pct_hispanic' + s]) +
@@ -654,9 +654,9 @@
       marker.on('mouseover', function () {
         marker.setStyle({ fillOpacity: 1, radius: radius + 3 });
         marker.bindTooltip(
-          '<strong>' + p.facility_name + '</strong><br>' +
-          p.top_chemical + (isCarcinogen ? ' (carcinogen)' : '') + '<br>' +
-          p.total_releases_lbs.toLocaleString() + ' lbs/yr',
+          '<strong>' + (p.facility_name || 'Unknown Facility') + '</strong><br>' +
+          (p.top_chemical || 'Unknown') + (isCarcinogen ? ' (carcinogen)' : '') + '<br>' +
+          (p.total_releases_lbs || 0).toLocaleString() + ' lbs/yr',
           { className: 'dark-tooltip' }
         ).openTooltip();
       });
@@ -703,7 +703,7 @@
           var p = feature.properties;
           var val = p[indicatorKey];
           layer.bindTooltip(
-            '<strong>' + p.zip + ' — ' + p.name + '</strong><br>' +
+            '<strong>' + (p.zip || p.tract_id || '') + ' — ' + (p.name || '') + '</strong><br>' +
             indDef.label + ': <strong>' + indDef.format(val) + '</strong>',
             { sticky: true, className: 'dark-tooltip' }
           ).openTooltip();
@@ -931,7 +931,7 @@
     sparkHtml += '</div>';
 
     return '' +
-      '<h3>' + p.name + '</h3>' +
+      '<h3>' + (p.name || p.tract_id || 'Census Tract') + '</h3>' +
       '<div class="info-section">' +
         '<h4>Median Household Income</h4>' +
         '<div class="info-row"><span class="label">Current (' + incomeField(state.currentDecade).replace('income_', '') + ')</span>' +
@@ -985,7 +985,7 @@
     }
 
     return '' +
-      '<h3>' + p.name + '</h3>' +
+      '<h3>' + (p.name || p.tract_id || 'Census Tract') + '</h3>' +
       '<div class="info-section">' +
         '<h4>Demographics (' + s.replace('_', '') + ')</h4>' +
         barsHtml +
@@ -1038,14 +1038,14 @@
 
   function buildPollutionInfo(p) {
     return '' +
-      '<h3>' + p.facility_name + '</h3>' +
+      '<h3>' + (p.facility_name || 'Unknown Facility') + '</h3>' +
       '<div class="info-section">' +
         '<h4>Facility Details</h4>' +
         '<div class="info-row"><span class="label">Industry</span><span class="value">' + (p.industry || 'N/A') + '</span></div>' +
         '<div class="info-row"><span class="label">Reporting since</span><span class="value">' + (p.year_first_reported || 'N/A') + '</span></div>' +
         '<div class="info-row"><span class="label">Risk Score</span><span class="value" style="color:' +
           (p.risk_score >= 8 ? 'var(--danger)' : p.risk_score >= 5 ? 'var(--warning)' : 'var(--text)') + '">' +
-          p.risk_score + '/10</span></div>' +
+          (p.risk_score != null ? p.risk_score : 'N/A') + '/10</span></div>' +
       '</div>' +
       '<div class="info-section">' +
         '<h4>Toxic Releases</h4>' +
@@ -1063,7 +1063,7 @@
   }
 
   function buildCapitalInfo(p) {
-    var html = '<h3>' + p.zip + ' — ' + (p.name || '') + '</h3>';
+    var html = '<h3>' + (p.zip || p.tract_id || '') + ' — ' + (p.name || '') + '</h3>';
 
     var risk = p.displacement_risk;
     var riskColor = risk >= 70 ? 'var(--danger)' : risk >= 40 ? 'var(--warning)' : 'var(--success)';
