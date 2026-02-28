@@ -391,7 +391,7 @@
 
     L.geoJSON(data, {
       style: function (feature) {
-        var grade = feature.properties.holc_grade;
+        var grade = feature.properties.holc_grade || feature.properties.grade;
         return {
           fillColor: holcColors[grade] || '#888',
           fillOpacity: 0.35,
@@ -877,10 +877,10 @@
 
   function buildRedliningInfo(p) {
     var gradeLabels = { A: 'Best', B: 'Still Desirable', C: 'Declining', D: 'Hazardous' };
-    var grade = p.holc_grade;
+    var grade = p.holc_grade || p.grade;
     var holcYear = state.cityMeta.holcYear || '1930s';
     return '' +
-      '<h3>' + (p.neighborhood_name || p.name || p.holc_id || 'HOLC Zone') + '</h3>' +
+      '<h3>' + (p.neighborhood_name || p.name || p.label || p.holc_id || 'HOLC Zone') + '</h3>' +
       '<div class="info-section">' +
         '<h4>HOLC Grade (' + holcYear + ')</h4>' +
         '<div class="info-row"><span class="label">Grade</span>' +
