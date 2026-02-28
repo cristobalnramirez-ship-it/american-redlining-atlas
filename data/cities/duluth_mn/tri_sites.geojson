@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.91388888888889,
+          47.53055555555555
+        ]
+      },
+      "properties": {
+        "facility_name": "TACONITE HARBOR ENERGY CENTER",
+        "industry": "",
+        "tri_facility_id": "55613TCNTH8124W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

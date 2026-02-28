@@ -1,0 +1,698 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.066667,
+          29.366667
+        ]
+      },
+      "properties": {
+        "facility_name": "STEELDIP GALVANIZING INC",
+        "industry": "",
+        "tri_facility_id": "77510STLDP12419",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.96666666666667,
+          29.474999999999998
+        ]
+      },
+      "properties": {
+        "facility_name": "CLEAN HARBORS SAN LEON INC",
+        "industry": "",
+        "tri_facility_id": "77539DRTHR2700A",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.043333,
+          29.460556
+        ]
+      },
+      "properties": {
+        "facility_name": "DICKINSON PLANT",
+        "industry": "",
+        "tri_facility_id": "77539PNNZL4401P",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.234444,
+          29.5175
+        ]
+      },
+      "properties": {
+        "facility_name": "THIRD COAST PACKAGING INC. FRIENDSWOOD",
+        "industry": "",
+        "tri_facility_id": "77546THRDC18410",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.822222,
+          29.291667
+        ]
+      },
+      "properties": {
+        "facility_name": "M-I DRILLING FLUIDS CO",
+        "industry": "",
+        "tri_facility_id": "77550MDRLL4105P",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.85,
+          29.267222
+        ]
+      },
+      "properties": {
+        "facility_name": "VI-TEX PACKAGING INC",
+        "industry": "",
+        "tri_facility_id": "77551VTXPCSCHOL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8575,
+          29.292778
+        ]
+      },
+      "properties": {
+        "facility_name": "MILPARK DRILLING FLUIDS GALVESTON BARITE GRINDING FACILITY",
+        "industry": "",
+        "tri_facility_id": "77553MLPRK7501P",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.85138888888888,
+          29.295555555555556
+        ]
+      },
+      "properties": {
+        "facility_name": "NEWPARK SHIPBUILDING-GALVESTON ISLAND",
+        "industry": "",
+        "tri_facility_id": "77553NWPRK6800P",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.77083333333333,
+          29.333333333333332
+        ]
+      },
+      "properties": {
+        "facility_name": "US COAST GUARD BASE GALVESTON",
+        "industry": "",
+        "tri_facility_id": "77553SCSTGFRTPI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.796944,
+          29.314722
+        ]
+      },
+      "properties": {
+        "facility_name": "TODD SHIPYARDS CORP",
+        "industry": "",
+        "tri_facility_id": "77553TDDSHPELIC",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.78361111111111,
+          29.321944444444444
+        ]
+      },
+      "properties": {
+        "facility_name": "MARTIN OPERATING PTNR-GALVESTON",
+        "industry": "",
+        "tri_facility_id": "77554MDSTR13CAS",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8,
+          29.316666666666666
+        ]
+      },
+      "properties": {
+        "facility_name": "NEWPARK SHIPBUILDING PELICAN ISLAND INC EAST PELICAN",
+        "industry": "",
+        "tri_facility_id": "77554NWPRK2920N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.80388888888889,
+          29.3125
+        ]
+      },
+      "properties": {
+        "facility_name": "SOUTHWEST SHIPYARD L.P. - GALVESTON",
+        "industry": "",
+        "tri_facility_id": "77554NWPRK3CPEL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.025,
+          29.541667
+        ]
+      },
+      "properties": {
+        "facility_name": "MAUDLIN & SON MANUFACTURING CO INC",
+        "industry": "",
+        "tri_facility_id": "77565MDLNSPOBOX",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.01583333333333,
+          29.348055555555554
+        ]
+      },
+      "properties": {
+        "facility_name": "KEMIN INDUSTRIES INC",
+        "industry": "",
+        "tri_facility_id": "77568KMNND100KE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.89333333333335,
+          29.37527777777778
+        ]
+      },
+      "properties": {
+        "facility_name": "BOLLINGER TEXAS CITY LP",
+        "industry": "",
+        "tri_facility_id": "77590BLLNG2201D",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.92916666666667,
+          29.349722222222223
+        ]
+      },
+      "properties": {
+        "facility_name": "BP TEXAS CITY REFINERY DOCKS",
+        "industry": "",
+        "tri_facility_id": "77590BPTXSLOOP1",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.894444,
+          29.375
+        ]
+      },
+      "properties": {
+        "facility_name": "THE DALLAS GROUP OF AMERICA INC",
+        "industry": "",
+        "tri_facility_id": "77590DLLSG301DO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.925,
+          29.374444
+        ]
+      },
+      "properties": {
+        "facility_name": "BP AMOCO CHEMICAL COMPANY",
+        "industry": "",
+        "tri_facility_id": "77590MCLCM24015",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.913889,
+          29.372778
+        ]
+      },
+      "properties": {
+        "facility_name": "MARATHON PETROLEUM CO LP (PART)",
+        "industry": "",
+        "tri_facility_id": "77590MRTHNFOOTO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.93805555555556,
+          29.354722222222225
+        ]
+      },
+      "properties": {
+        "facility_name": "LINDE INC TEXAS CITY SMR",
+        "industry": "",
+        "tri_facility_id": "77590PRXRN172GR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.02,
+          29.423333
+        ]
+      },
+      "properties": {
+        "facility_name": "MOMENTIVE PERFORMANCE MATERIALS INC.",
+        "industry": "",
+        "tri_facility_id": "77590SLNCH5700J",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9365,
+          29.3599
+        ]
+      },
+      "properties": {
+        "facility_name": "INEOS STYROLUTION AMERICA LLC",
+        "industry": "",
+        "tri_facility_id": "77592MCCHMFOOTO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9365,
+          29.3599
+        ]
+      },
+      "properties": {
+        "facility_name": "BP CHEMICAL CO  DOCKS DIV",
+        "industry": "",
+        "tri_facility_id": "77592MCCHMINDUS",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.945,
+          29.369167
+        ]
+      },
+      "properties": {
+        "facility_name": "UNION CARBIDE CORP TEXAS CITY MARINE TERMINAL",
+        "industry": "",
+        "tri_facility_id": "77592NNCRB2800L",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.945,
+          29.369167
+        ]
+      },
+      "properties": {
+        "facility_name": "UNION CARBIDE CORP TEXAS CITY PLANT",
+        "industry": "",
+        "tri_facility_id": "77592NNCRB33015",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9113888888889,
+          9.36361111111111
+        ]
+      },
+      "properties": {
+        "facility_name": "INTERCOASTAL TERMINAL INC",
+        "industry": "",
+        "tri_facility_id": "77592NTRCS159LE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.900556,
+          29.376944
+        ]
+      },
+      "properties": {
+        "facility_name": "PRAXAIR INC",
+        "industry": "",
+        "tri_facility_id": "77592PRXRN7036T",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.915,
+          29.371944
+        ]
+      },
+      "properties": {
+        "facility_name": "SEA LION TECHNOLOGY INC",
+        "industry": "",
+        "tri_facility_id": "77592SLNTC1500L",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.894444,
+          29.378333
+        ]
+      },
+      "properties": {
+        "facility_name": "INEOS ACETYLS CHEMICALS TEXAS CITY",
+        "industry": "",
+        "tri_facility_id": "77592STRLN201BA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.909167,
+          29.369722
+        ]
+      },
+      "properties": {
+        "facility_name": "VALERO REFINING-TEXAS LP",
+        "industry": "",
+        "tri_facility_id": "77592TXSCTLOOP1",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.939444,
+          29.356389
+        ]
+      },
+      "properties": {
+        "facility_name": "TEX TIN CORP",
+        "industry": "",
+        "tri_facility_id": "77592TXTNCHIGHW",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.973611,
+          29.429167
+        ]
+      },
+      "properties": {
+        "facility_name": "ISP TECHNOLOGIES INC",
+        "industry": "",
+        "tri_facility_id": "77598GFCHMPOBOX",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

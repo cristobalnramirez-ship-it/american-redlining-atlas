@@ -1,0 +1,383 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.91388888888889,
+          35.09916666666667
+        ]
+      },
+      "properties": {
+        "facility_name": "ADAMS PRODUCTS CO - FAYETTEVILLE",
+        "industry": "",
+        "tri_facility_id": "28301DMSPR957CO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7875,
+          34.983333333333334
+        ]
+      },
+      "properties": {
+        "facility_name": "DUPONT TEIJIN FILMS CEDAR CREEK SITE",
+        "industry": "",
+        "tri_facility_id": "28301DPNTT3220C",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.782778,
+          34.968889
+        ]
+      },
+      "properties": {
+        "facility_name": "MONSANTO CO",
+        "industry": "",
+        "tri_facility_id": "28301MNSNTCEDAR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.82944444444443,
+          35.09861111111111
+        ]
+      },
+      "properties": {
+        "facility_name": "PUBLIC WORKS COMMISSION BUTLER-WARNER GENERATION PLANT",
+        "industry": "",
+        "tri_facility_id": "28301PBLCWSTATE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78111111111112,
+          35.09638888888889
+        ]
+      },
+      "properties": {
+        "facility_name": "TYSON CENTRAL FARMS - FAYETTEVILLE FEED MILL",
+        "industry": "",
+        "tri_facility_id": "28301TYSNC3281B",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.861667,
+          35.028333
+        ]
+      },
+      "properties": {
+        "facility_name": "HEXION INC-FAYETTEVILLE FACILITY",
+        "industry": "",
+        "tri_facility_id": "28302BRDNN1411I",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8387,
+          35.0176
+        ]
+      },
+      "properties": {
+        "facility_name": "ALPEK POLYESTER USA LLC",
+        "industry": "",
+        "tri_facility_id": "28302CMRCSPOBOX",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.862222,
+          35.0325
+        ]
+      },
+      "properties": {
+        "facility_name": "DARLING INGREDIENTS INC - FAYETTEVILLE FACILITY",
+        "industry": "",
+        "tri_facility_id": "28302CPFRF1309I",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9275,
+          35.075
+        ]
+      },
+      "properties": {
+        "facility_name": "CARGILL INC",
+        "industry": "",
+        "tri_facility_id": "28302CRGLLRIVER",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.88194444444444,
+          35.04861111111111
+        ]
+      },
+      "properties": {
+        "facility_name": "UNIVAR USA INC FAYETTEVILLE FACILITY",
+        "industry": "",
+        "tri_facility_id": "28304PRLLM334WO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.92833333333334,
+          35.120555555555555
+        ]
+      },
+      "properties": {
+        "facility_name": "APAC FAYETTEVILLE ASPHALT PLANT",
+        "industry": "",
+        "tri_facility_id": "28305PCCRW6030M",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9017,
+          35.001
+        ]
+      },
+      "properties": {
+        "facility_name": "BLACK & DECKER (US) INC",
+        "industry": "",
+        "tri_facility_id": "28306BLCKDHWY30",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9187,
+          35.0142
+        ]
+      },
+      "properties": {
+        "facility_name": "MANN + HUMMEL PUROLATOR FILTERS LLC",
+        "industry": "",
+        "tri_facility_id": "28306FCTPR3200N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.85277777777777,
+          34.9925
+        ]
+      },
+      "properties": {
+        "facility_name": "W.R. GRACE & CO. - CONN. GRACE CONSTRUCTION PRODUCTS",
+        "industry": "",
+        "tri_facility_id": "28306WRGRC1541W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.894167,
+          34.996389
+        ]
+      },
+      "properties": {
+        "facility_name": "EATON - FAYETTEVILLE",
+        "industry": "",
+        "tri_facility_id": "28306WSTNG2900D",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.876181,
+          34.947306
+        ]
+      },
+      "properties": {
+        "facility_name": "WESTERN PUBLISHING CO INC",
+        "industry": "",
+        "tri_facility_id": "28306WSTRN107TO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.984444,
+          35.149722
+        ]
+      },
+      "properties": {
+        "facility_name": "U.S. ARMY FORT BRAGG",
+        "industry": "",
+        "tri_facility_id": "28307DPTFRDIREC",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.858611,
+          35.160278
+        ]
+      },
+      "properties": {
+        "facility_name": "THE GOODYEAR TIRE & RUBBER CO FAYETTEVILLE PLANT",
+        "industry": "",
+        "tri_facility_id": "28311KLLYS6650R",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

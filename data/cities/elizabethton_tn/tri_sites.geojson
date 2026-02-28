@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.32111111111111,
+          36.275555555555556
+        ]
+      },
+      "properties": {
+        "facility_name": "BORLA PERFORMANCE INDUSTRIES INC",
+        "industry": "",
+        "tri_facility_id": "37604SMNSN3000B",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3964,
+          36.3563
+        ]
+      },
+      "properties": {
+        "facility_name": "TEXAS INSTRUMENTS INC",
+        "industry": "",
+        "tri_facility_id": "37605TXSNSERWIN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.167778,
+          36.3675
+        ]
+      },
+      "properties": {
+        "facility_name": "GREAT LAKES RESEARCH CORP",
+        "industry": "",
+        "tri_facility_id": "37643GRTLKRESEA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.205,
+          36.329167
+        ]
+      },
+      "properties": {
+        "facility_name": "ALCOA ENGINEERED PRODUCTS",
+        "industry": "",
+        "tri_facility_id": "37643JRLXTSTATE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2185,
+          36.3545
+        ]
+      },
+      "properties": {
+        "facility_name": "MAPES PIANO STRING CO",
+        "industry": "",
+        "tri_facility_id": "37643MPSPN408NO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.24472,
+          36.35167
+        ]
+      },
+      "properties": {
+        "facility_name": "NORTH AMERICAN RAYON CORP",
+        "industry": "",
+        "tri_facility_id": "37643NRTHMWESTE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.18305555555555,
+          36.362500000000004
+        ]
+      },
+      "properties": {
+        "facility_name": "STAR BUILDING SYSTEMS",
+        "industry": "",
+        "tri_facility_id": "37643STRBL151JU",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2,
+          36.333333333333336
+        ]
+      },
+      "properties": {
+        "facility_name": "AYM INC - TENNESSEE DISTRIBUTION CENTER",
+        "industry": "",
+        "tri_facility_id": "37643YMNCT100MC",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.173889,
+          36.370833
+        ]
+      },
+      "properties": {
+        "facility_name": "SNAP-ON TOOLS CO",
+        "industry": "",
+        "tri_facility_id": "37644SNPNTSTATE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1423,
+          36.3752
+        ]
+      },
+      "properties": {
+        "facility_name": "EAST TENNESSEE CHAIR CO INC",
+        "industry": "",
+        "tri_facility_id": "37644STTNNELIZA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

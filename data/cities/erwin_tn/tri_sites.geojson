@@ -1,0 +1,194 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.413889,
+          36.149167
+        ]
+      },
+      "properties": {
+        "facility_name": "PREMIER REFRACTORIES INC",
+        "industry": "",
+        "tri_facility_id": "37650CRFRCJONES",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.420833,
+          36.146944
+        ]
+      },
+      "properties": {
+        "facility_name": "HOOVER PRECISION PRODUCTS INC",
+        "industry": "",
+        "tri_facility_id": "37650HVRGRPOBOX",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4673,
+          36.099
+        ]
+      },
+      "properties": {
+        "facility_name": "IMAGES PRODS CORP",
+        "industry": "",
+        "tri_facility_id": "37650MGSFBPOBOX",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4673,
+          36.099
+        ]
+      },
+      "properties": {
+        "facility_name": "MORRILL MOTORS INC",
+        "industry": "",
+        "tri_facility_id": "37650MRRLLPOBOX",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4673,
+          36.099
+        ]
+      },
+      "properties": {
+        "facility_name": "REGAL BELOIT OF AMERICA INC",
+        "industry": "",
+        "tri_facility_id": "37650MRRLLRTE2B",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.432778,
+          36.130833
+        ]
+      },
+      "properties": {
+        "facility_name": "NUCLEAR FUEL SERVICES INC",
+        "industry": "",
+        "tri_facility_id": "37650NCLRF205BA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.432778,
+          36.130556
+        ]
+      },
+      "properties": {
+        "facility_name": "TN TENNESSEE LLC - ERWIN",
+        "industry": "",
+        "tri_facility_id": "37650NNBLL800TE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.441944,
+          36.127222
+        ]
+      },
+      "properties": {
+        "facility_name": "NRF INC",
+        "industry": "",
+        "tri_facility_id": "37650NRFNC1010R",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.36222222222221,
+          36.18805555555555
+        ]
+      },
+      "properties": {
+        "facility_name": "SPECIALTY TIRES OF AMERICA (TN) LLC",
+        "industry": "",
+        "tri_facility_id": "37692SPCLT1000D",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

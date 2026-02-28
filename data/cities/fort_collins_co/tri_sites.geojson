@@ -1,0 +1,572 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.486111,
+          40.377778
+        ]
+      },
+      "properties": {
+        "facility_name": "RICKER BARTLETT INC (DBA) COLORADO CASTINGS",
+        "industry": "",
+        "tri_facility_id": "80517RCKRB2050B",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.085,
+          40.683611111111105
+        ]
+      },
+      "properties": {
+        "facility_name": "ALLWEATHER WOOD PRODUCTS",
+        "industry": "",
+        "tri_facility_id": "80524LLWTH1313W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.08611111111111,
+          40.97527777777778
+        ]
+      },
+      "properties": {
+        "facility_name": "MOUNTAIN STATES FINISHING",
+        "industry": "",
+        "tri_facility_id": "80524MNTNS1411E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0465,
+          40.605
+        ]
+      },
+      "properties": {
+        "facility_name": "FORT COLLINS BREWERY",
+        "industry": "",
+        "tri_facility_id": "80524NHSRB2351B",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.070278,
+          40.588889
+        ]
+      },
+      "properties": {
+        "facility_name": "RANCH-WAY FEED MILLS",
+        "industry": "",
+        "tri_facility_id": "80524RNCHW416LI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.04527777777777,
+          40.52472222222222
+        ]
+      },
+      "properties": {
+        "facility_name": "ADVANCED ENERGY INDUSTRIES",
+        "industry": "",
+        "tri_facility_id": "80525DVNCD16PRS",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.04527777777777,
+          40.52472222222222
+        ]
+      },
+      "properties": {
+        "facility_name": "ADVANCED ENERGY INDUSTRIES",
+        "industry": "",
+        "tri_facility_id": "80525DVNCD4424I",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0125,
+          40.52638888888889
+        ]
+      },
+      "properties": {
+        "facility_name": "AVAGO TECHNOLOGIES INC FORT COLLINS COLORADO",
+        "industry": "",
+        "tri_facility_id": "80525GLNTT4380S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0125,
+          40.526389
+        ]
+      },
+      "properties": {
+        "facility_name": "HEWLETT-PACKARD CO",
+        "industry": "",
+        "tri_facility_id": "80525HWLTT3404E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.01805555555555,
+          40.5425
+        ]
+      },
+      "properties": {
+        "facility_name": "MARTIN MARIETTA RIGDEN READY MIX",
+        "industry": "",
+        "tri_facility_id": "80525LFRGW3000S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.039444,
+          40.533056
+        ]
+      },
+      "properties": {
+        "facility_name": "SYMBIOS LOGIC INC",
+        "industry": "",
+        "tri_facility_id": "80525NCRMC2001D",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.043056,
+          40.526667
+        ]
+      },
+      "properties": {
+        "facility_name": "INNOVATIVE COMPANIES",
+        "industry": "",
+        "tri_facility_id": "80525NNVTV4401I",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.06,
+          40.554444
+        ]
+      },
+      "properties": {
+        "facility_name": "WOODWARD INC",
+        "industry": "",
+        "tri_facility_id": "80525WDWRD1000E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0175,
+          40.52166666666667
+        ]
+      },
+      "properties": {
+        "facility_name": "CELESTICA CORP",
+        "industry": "",
+        "tri_facility_id": "80528CLSTC4701T",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.13555555555556,
+          40.657777777777774
+        ]
+      },
+      "properties": {
+        "facility_name": "HOLCIM (US) INC FORT COLLINS PLANT",
+        "industry": "",
+        "tri_facility_id": "80535HLNMN4629N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.071944,
+          40.381389
+        ]
+      },
+      "properties": {
+        "facility_name": "CONTINENTAL GRAIN LOVELAND FOODS",
+        "industry": "",
+        "tri_facility_id": "80537CNTNN1000S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.088889,
+          40.379167
+        ]
+      },
+      "properties": {
+        "facility_name": "HEWLETT-PACKARD CO LOVELAND SITE",
+        "industry": "",
+        "tri_facility_id": "80537HWLTT81514",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.06472222222222,
+          40.38166666666667
+        ]
+      },
+      "properties": {
+        "facility_name": "LAFARGE WEST INC. LOVELAND PLANT",
+        "industry": "",
+        "tri_facility_id": "80537LFRGW1209S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.04527777777777,
+          40.39861111111111
+        ]
+      },
+      "properties": {
+        "facility_name": "ALLWEATER WOOD LLC",
+        "industry": "",
+        "tri_facility_id": "80537LLWTH715DE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.078486,
+          40.380226
+        ]
+      },
+      "properties": {
+        "facility_name": "LOVELAND SCULPTURE WORKS",
+        "industry": "",
+        "tri_facility_id": "80537LVLND20512",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.088889,
+          40.379167
+        ]
+      },
+      "properties": {
+        "facility_name": "MERIX CORP",
+        "industry": "",
+        "tri_facility_id": "80537MRXCR811SW",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.069167,
+          40.385833
+        ]
+      },
+      "properties": {
+        "facility_name": "METAL CASTINGS OF COLORADO INC.",
+        "industry": "",
+        "tri_facility_id": "80537MTLCS5118T",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.00361111111111,
+          40.403055555555554
+        ]
+      },
+      "properties": {
+        "facility_name": "ALL AMERICAN HOMES OF COLORADO LLC",
+        "industry": "",
+        "tri_facility_id": "80538LLMRC999NV",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.48611111111111,
+          40.37777777777778
+        ]
+      },
+      "properties": {
+        "facility_name": "DESIGNS BY RICKER",
+        "industry": "",
+        "tri_facility_id": "80538RCKRB6724N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0,
+          40.45
+        ]
+      },
+      "properties": {
+        "facility_name": "HACH CO LOVELAND",
+        "industry": "",
+        "tri_facility_id": "80539HCHCX5600L",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.981444,
+          40.5302
+        ]
+      },
+      "properties": {
+        "facility_name": "ALPINE CABINET CO",
+        "industry": "",
+        "tri_facility_id": "80547LPNCB4125M",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.02694444444444,
+          40.86
+        ]
+      },
+      "properties": {
+        "facility_name": "RAWHIDE ENERGY STATION",
+        "industry": "",
+        "tri_facility_id": "80549RWHDN2700E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

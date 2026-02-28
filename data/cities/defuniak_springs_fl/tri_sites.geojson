@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.068056,
+          30.725
+        ]
+      },
+      "properties": {
+        "facility_name": "WAYNE FARMS LLC - DEFUNIAK SPRINGS FEED MILL",
+        "industry": "",
+        "tri_facility_id": "32433SHWLLHIGHW",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

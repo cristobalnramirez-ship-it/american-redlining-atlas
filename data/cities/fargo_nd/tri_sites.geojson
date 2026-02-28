@@ -1,0 +1,383 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.867278,
+          46.8697
+        ]
+      },
+      "properties": {
+        "facility_name": "CARGILL INC",
+        "industry": "",
+        "tri_facility_id": "58078CRGLL2507T",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.90027777777779,
+          46.882222222222225
+        ]
+      },
+      "properties": {
+        "facility_name": "FLINT HILLS RESOURCES PINE BEND LLC WEST FARGO",
+        "industry": "",
+        "tri_facility_id": "58078KCHMT600CE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.810278,
+          46.875833
+        ]
+      },
+      "properties": {
+        "facility_name": "CLASSIC ROADSTERS LTD",
+        "industry": "",
+        "tri_facility_id": "58102CLSSC1617M",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.86999999999999,
+          46.8825
+        ]
+      },
+      "properties": {
+        "facility_name": "CONCORD INC",
+        "industry": "",
+        "tri_facility_id": "58102CNCRD30007",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.826944,
+          46.8825
+        ]
+      },
+      "properties": {
+        "facility_name": "CASE CONCORD",
+        "industry": "",
+        "tri_facility_id": "58102CSCNC28007",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.812,
+          46.8783
+        ]
+      },
+      "properties": {
+        "facility_name": "CASS CLAY CREAMERY INC",
+        "industry": "",
+        "tri_facility_id": "58102CSSCL200N2",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8441,
+          46.8953
+        ]
+      },
+      "properties": {
+        "facility_name": "GENERAL NUTRITION MILLS INC",
+        "industry": "",
+        "tri_facility_id": "58102GNRLN13013",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.85499999999999,
+          46.901111111111106
+        ]
+      },
+      "properties": {
+        "facility_name": "GPK PRODUCTS INC",
+        "industry": "",
+        "tri_facility_id": "58102GPKPR16014",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.766667,
+          46.883333
+        ]
+      },
+      "properties": {
+        "facility_name": "GPK PRODS INC",
+        "industry": "",
+        "tri_facility_id": "58102GPKPR17203",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.85888888888888,
+          46.89555555555555
+        ]
+      },
+      "properties": {
+        "facility_name": "JOHN DEERE ISG FARGO",
+        "industry": "",
+        "tri_facility_id": "58102PHNXN14414",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.841389,
+          46.895833
+        ]
+      },
+      "properties": {
+        "facility_name": "PEPSI-COLA BOTTLING",
+        "industry": "",
+        "tri_facility_id": "58102PPSCL38021",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.859167,
+          46.898056
+        ]
+      },
+      "properties": {
+        "facility_name": "MARVIN COMPOSITES LLC",
+        "industry": "",
+        "tri_facility_id": "58102TCTNX44011",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.85277777777777,
+          46.876111111111115
+        ]
+      },
+      "properties": {
+        "facility_name": "BRANICK INDUSTRIES INC",
+        "industry": "",
+        "tri_facility_id": "58103BRNCK4245M",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.820755,
+          46.8794
+        ]
+      },
+      "properties": {
+        "facility_name": "BRANICK INDUSTRIES INC",
+        "industry": "",
+        "tri_facility_id": "58107BRNCK26003",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.828889,
+          46.873611
+        ]
+      },
+      "properties": {
+        "facility_name": "PARKSITE TREATING PLANT",
+        "industry": "",
+        "tri_facility_id": "58108LVLLC11531",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.774444,
+          46.873889
+        ]
+      },
+      "properties": {
+        "facility_name": "MID AMERICA STEEL INC",
+        "industry": "",
+        "tri_facility_id": "58108MDMRC92NPA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8325,
+          46.879722
+        ]
+      },
+      "properties": {
+        "facility_name": "CNH INDUSTRIAL AMERICA LLC",
+        "industry": "",
+        "tri_facility_id": "58108STGRT34011",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.856111,
+          46.915556
+        ]
+      },
+      "properties": {
+        "facility_name": "ALLOWAY INDUSTRIES LLC",
+        "industry": "",
+        "tri_facility_id": "58108WDSLL13304",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,635 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.82083333333333,
+          36.161944444444444
+        ]
+      },
+      "properties": {
+        "facility_name": "DELFASCO",
+        "industry": "",
+        "tri_facility_id": "37616DLFSC1945S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.733333,
+          36.2
+        ]
+      },
+      "properties": {
+        "facility_name": "AMERICAN GREETINGS/ PLUS MARK LLC",
+        "industry": "",
+        "tri_facility_id": "37724PLSMRPOBOX",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.798611,
+          36.178333
+        ]
+      },
+      "properties": {
+        "facility_name": "ERMCO COMPONENTS INC.",
+        "industry": "",
+        "tri_facility_id": "37743BTLND1607I",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.831111,
+          36.163056
+        ]
+      },
+      "properties": {
+        "facility_name": "CEC INC",
+        "industry": "",
+        "tri_facility_id": "37743CCNCX1787C",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.816667,
+          36.166667
+        ]
+      },
+      "properties": {
+        "facility_name": "FULFLEX OF TENNESSEE",
+        "industry": "",
+        "tri_facility_id": "37743FLFLXBERNA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8025,
+          36.1624
+        ]
+      },
+      "properties": {
+        "facility_name": "GE CO COMPONENT PRODS OPERATION",
+        "industry": "",
+        "tri_facility_id": "37743GCCMP1787C",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.813889,
+          36.175833
+        ]
+      },
+      "properties": {
+        "facility_name": "GREENEVILLE IND",
+        "industry": "",
+        "tri_facility_id": "37743GRNVL711CA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.854825,
+          36.153882
+        ]
+      },
+      "properties": {
+        "facility_name": "PILLSBURY CO",
+        "industry": "",
+        "tri_facility_id": "37743PTNCX1112W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.80972222222222,
+          36.18416666666666
+        ]
+      },
+      "properties": {
+        "facility_name": "ERWIN INDUSTRIES PLASTICS DIV",
+        "industry": "",
+        "tri_facility_id": "37743RWNND110RO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.890833,
+          36.175556
+        ]
+      },
+      "properties": {
+        "facility_name": "CROWN FIXTURES INC CROWNTONKA",
+        "industry": "",
+        "tri_facility_id": "37743SHNNN140TE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.816667,
+          36.2
+        ]
+      },
+      "properties": {
+        "facility_name": "WHITMAN CORP",
+        "industry": "",
+        "tri_facility_id": "37743WHTMN1112W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.740833,
+          36.195278
+        ]
+      },
+      "properties": {
+        "facility_name": "ARTAZN LLC",
+        "industry": "",
+        "tri_facility_id": "37744BLLZNBALLR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.773056,
+          36.188611
+        ]
+      },
+      "properties": {
+        "facility_name": "GREENEVILLE CASTING INC",
+        "industry": "",
+        "tri_facility_id": "37744DHLRJRUFET",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.820833,
+          36.161944
+        ]
+      },
+      "properties": {
+        "facility_name": "DELFASCO TENNESSEE DIV",
+        "industry": "",
+        "tri_facility_id": "37744DLFSC301EB",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8125,
+          36.179167
+        ]
+      },
+      "properties": {
+        "facility_name": "HURD CORP",
+        "industry": "",
+        "tri_facility_id": "37744HRDLC603BO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8351,
+          36.0718
+        ]
+      },
+      "properties": {
+        "facility_name": "KRAFT INC",
+        "industry": "",
+        "tri_facility_id": "37744KRFTNBOHAA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.825,
+          36.175
+        ]
+      },
+      "properties": {
+        "facility_name": "LA QUESERA MEXICANA",
+        "industry": "",
+        "tri_facility_id": "37744KRFTNBOHAN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.816667,
+          36.191667
+        ]
+      },
+      "properties": {
+        "facility_name": "ALUMINUM FABRICATED PRODS INC",
+        "industry": "",
+        "tri_facility_id": "37744LMNMF1611I",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.798611,
+          36.186111
+        ]
+      },
+      "properties": {
+        "facility_name": "CIRCUIT SYS OF TENNESSEE LP",
+        "industry": "",
+        "tri_facility_id": "37744PHLPS1515I",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.773889,
+          36.205
+        ]
+      },
+      "properties": {
+        "facility_name": "PHILIPS CONSUMER ELECTRONICS CO PLANT 2",
+        "industry": "",
+        "tri_facility_id": "37744PHLPSSNAPA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.773889,
+          36.205
+        ]
+      },
+      "properties": {
+        "facility_name": "FIVE RIVERS ELECTONIC INNOVATIONS",
+        "industry": "",
+        "tri_facility_id": "37744PHLPSSNAPP",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.779722,
+          36.197222
+        ]
+      },
+      "properties": {
+        "facility_name": "PARKER HANNIFIN CORP",
+        "industry": "",
+        "tri_facility_id": "37744TRWNCSNAPP",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.793611,
+          36.178333
+        ]
+      },
+      "properties": {
+        "facility_name": "TATEHO AMERICA INC",
+        "industry": "",
+        "tri_facility_id": "37744TTHMR100TA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.80499999999999,
+          36.18277777777777
+        ]
+      },
+      "properties": {
+        "facility_name": "DONALDSON CO INC",
+        "industry": "",
+        "tri_facility_id": "37745DNLDS115RC",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.812778,
+          36.194167
+        ]
+      },
+      "properties": {
+        "facility_name": "AMERICAN TECHNOLOGY & RESEARCH INDUSTRIES INC.",
+        "industry": "",
+        "tri_facility_id": "37745MRCNT730OL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.83972222222222,
+          36.18388888888889
+        ]
+      },
+      "properties": {
+        "facility_name": "WORKHORSE CABS LLC DBA CRENLO ENGINEERED CABS",
+        "industry": "",
+        "tri_facility_id": "37745NGSPL115TE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.88333333333334,
+          36.1875
+        ]
+      },
+      "properties": {
+        "facility_name": "SUMIRIKO TENNESSEE INC.",
+        "industry": "",
+        "tri_facility_id": "37809DTRTN199BO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01222222222222,
+          36.19916666666666
+        ]
+      },
+      "properties": {
+        "facility_name": "OLDCASTLE BUILDING ENVELOPE - TENNESSEE FACILITY",
+        "industry": "",
+        "tri_facility_id": "37809VSTWL920PO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9525,
+          36.184444
+        ]
+      },
+      "properties": {
+        "facility_name": "PROWOOD LLC MOSHEIM",
+        "industry": "",
+        "tri_facility_id": "37818CHRKWSPRIN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.018056,
+          36.201389
+        ]
+      },
+      "properties": {
+        "facility_name": "EAST TENNESSEE FOREST PRODUCTS",
+        "industry": "",
+        "tri_facility_id": "37818STTNNPOTTE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

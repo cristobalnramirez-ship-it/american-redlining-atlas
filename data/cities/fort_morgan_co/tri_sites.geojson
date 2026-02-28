@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.76583333333333,
+          40.25277777777778
+        ]
+      },
+      "properties": {
+        "facility_name": "DAIRY FARMERS OF AMERICA INC",
+        "industry": "",
+        "tri_facility_id": "80701DRYFR2301E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.75555555555556,
+          40.251666666666665
+        ]
+      },
+      "properties": {
+        "facility_name": "HOMES BY OAKWOOD",
+        "industry": "",
+        "tri_facility_id": "80701HMSBY20870",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.8022,
+          40.2545
+        ]
+      },
+      "properties": {
+        "facility_name": "LEPRINO FOODS CO",
+        "industry": "",
+        "tri_facility_id": "80701LPRNF2400E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.840573,
+          40.271485
+        ]
+      },
+      "properties": {
+        "facility_name": "WESTERN SUGAR COOPERATIVE",
+        "industry": "",
+        "tri_facility_id": "80701WSTRN18317",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.774444,
+          40.247222
+        ]
+      },
+      "properties": {
+        "facility_name": "CARGILL MEAT SOLUTIONS CORP",
+        "industry": "",
+        "tri_facility_id": "80701XCLCR1505E",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.67861111111111,
+          40.219722222222224
+        ]
+      },
+      "properties": {
+        "facility_name": "PUBLIC SERVICE CO OF COLORADO PAWNEE STATION",
+        "industry": "",
+        "tri_facility_id": "80723PBLCS14940",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

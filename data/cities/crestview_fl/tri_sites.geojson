@@ -1,0 +1,257 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.535278,
+          30.777222
+        ]
+      },
+      "properties": {
+        "facility_name": "CRESTVIEW AEROSPACE CORP",
+        "industry": "",
+        "tri_facility_id": "32536CRSTVFAIRC",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.503783,
+          30.397188
+        ]
+      },
+      "properties": {
+        "facility_name": "FISHER MARBLE CORP",
+        "industry": "",
+        "tri_facility_id": "32541FSHRM150AZ",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2286111111111,
+          30.640555555555554
+        ]
+      },
+      "properties": {
+        "facility_name": "U.S. DOD USAF EGLIN AFB FL",
+        "industry": "",
+        "tri_facility_id": "32542GLNRF501DE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.68333333333334,
+          30.41861111111111
+        ]
+      },
+      "properties": {
+        "facility_name": "US DOD, USAF, HURLBURT FIELD",
+        "industry": "",
+        "tri_facility_id": "32544SRFRC16CES",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.67032,
+          30.420275
+        ]
+      },
+      "properties": {
+        "facility_name": "KITCHEN & BATH CENTER",
+        "industry": "",
+        "tri_facility_id": "32548FSHRM20REA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.66722222222222,
+          30.41916666666667
+        ]
+      },
+      "properties": {
+        "facility_name": "MICRO SYSTEMS INC",
+        "industry": "",
+        "tri_facility_id": "32548MCRSY35HIL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.660981,
+          30.42219
+        ]
+      },
+      "properties": {
+        "facility_name": "DRS TRAINING & CONTROL SYSTEMS LLC",
+        "industry": "",
+        "tri_facility_id": "32548MTRCS645AN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.604794,
+          30.445982
+        ]
+      },
+      "properties": {
+        "facility_name": "PANHANDLE MARBLE CO INC",
+        "industry": "",
+        "tri_facility_id": "32548PNHND923SK",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.661111,
+          30.406944
+        ]
+      },
+      "properties": {
+        "facility_name": "QMS CIRCUITS INC",
+        "industry": "",
+        "tri_facility_id": "32548QMSCR40HIL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.659167,
+          30.421944
+        ]
+      },
+      "properties": {
+        "facility_name": "AERO TECHNICAL SERVICES",
+        "industry": "",
+        "tri_facility_id": "32548RTCHN630AN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.66944444444445,
+          30.419722222222223
+        ]
+      },
+      "properties": {
+        "facility_name": "CRANE ELECTRONICS INC",
+        "industry": "",
+        "tri_facility_id": "32548SGNLT84HIL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.658611,
+          30.421944
+        ]
+      },
+      "properties": {
+        "facility_name": "VER-VAL ENTS INC",
+        "industry": "",
+        "tri_facility_id": "32549VRVLN91HIL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.210278,
+          36.308333
+        ]
+      },
+      "properties": {
+        "facility_name": "UFP ELIZABETH CITY LLC",
+        "industry": "",
+        "tri_facility_id": "27909CHSPKKNOBB",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2286111111111,
+          36.30833333333333
+        ]
+      },
+      "properties": {
+        "facility_name": "FRISKIES PETCARE",
+        "industry": "",
+        "tri_facility_id": "27909PTCRD621WE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.359972,
+          36.267587
+        ]
+      },
+      "properties": {
+        "facility_name": "CULPEPER OF ELIZABETH CITY LLC",
+        "industry": "",
+        "tri_facility_id": "27909STHTL1245F",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.168889,
+          36.196667
+        ]
+      },
+      "properties": {
+        "facility_name": "TRIANGLE PACIFIC CORP IXL PLANT",
+        "industry": "",
+        "tri_facility_id": "27909TXLDVROUTE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

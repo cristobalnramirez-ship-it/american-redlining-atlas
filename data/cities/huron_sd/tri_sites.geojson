@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.21583333333334,
+          44.385555555555555
+        ]
+      },
+      "properties": {
+        "facility_name": "BANNER ENGINEERING CORP",
+        "industry": "",
+        "tri_facility_id": "57350BNNRN9915T",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.218611,
+          44.383611
+        ]
+      },
+      "properties": {
+        "facility_name": "DAKOTA COLD STORAGE INC",
+        "industry": "",
+        "tri_facility_id": "57350DKTCL701LI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.21888888888888,
+          44.36055555555556
+        ]
+      },
+      "properties": {
+        "facility_name": "DAKOTALAND FEEDS LLC",
+        "industry": "",
+        "tri_facility_id": "57350DKTLN674WP",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.218611,
+          44.383611
+        ]
+      },
+      "properties": {
+        "facility_name": "DAKOTA PORK INDUSTRIES INC",
+        "industry": "",
+        "tri_facility_id": "57350DKTPR4THST",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.218611,
+          44.383611
+        ]
+      },
+      "properties": {
+        "facility_name": "HURON DRESSED BEEF INC",
+        "industry": "",
+        "tri_facility_id": "57350HRNDRWESTH",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.23472222222222,
+          44.36666666666667
+        ]
+      },
+      "properties": {
+        "facility_name": "HURON ENERGY",
+        "industry": "",
+        "tri_facility_id": "57350HRTLN694WP",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.221944,
+          44.358333
+        ]
+      },
+      "properties": {
+        "facility_name": "MIDCOM INC",
+        "industry": "",
+        "tri_facility_id": "57350SDKCR601LI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.228333,
+          44.385278
+        ]
+      },
+      "properties": {
+        "facility_name": "TEREX SOUTH DAKOTA INC",
+        "industry": "",
+        "tri_facility_id": "57350TLLCT601AR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.235833,
+          44.371389
+        ]
+      },
+      "properties": {
+        "facility_name": "ASSAABLOY (DBA TRUSSBILT)",
+        "industry": "",
+        "tri_facility_id": "57350TRSSB555LI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.213889,
+          44.363333
+        ]
+      },
+      "properties": {
+        "facility_name": "HUBBARD FEEDS INC HURON",
+        "industry": "",
+        "tri_facility_id": "57350ZPFDMRTE3H",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

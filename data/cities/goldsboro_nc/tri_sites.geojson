@@ -1,0 +1,530 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.979167,
+          35.413889
+        ]
+      },
+      "properties": {
+        "facility_name": "GOLDTEX INC",
+        "industry": "",
+        "tri_facility_id": "27350GLDTX401PA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0,
+          35.366667
+        ]
+      },
+      "properties": {
+        "facility_name": "COOPER BUSSMANN LLC",
+        "industry": "",
+        "tri_facility_id": "27530CPRND210DI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.00833333333334,
+          35.376666666666665
+        ]
+      },
+      "properties": {
+        "facility_name": "COASTAL LUMBER CO - GOLDSBORO",
+        "industry": "",
+        "tri_facility_id": "27530CSTLL700WE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.995556,
+          35.394444
+        ]
+      },
+      "properties": {
+        "facility_name": "GE LIGHTING LLC CAROLINA PRO DUCTS PLANT",
+        "industry": "",
+        "tri_facility_id": "27530GNRLL900NG",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.08333333333333,
+          35.36666666666667
+        ]
+      },
+      "properties": {
+        "facility_name": "DUKE ENERGY PROGRESS LLC - H F LEE ENERGY COMPLEX",
+        "industry": "",
+        "tri_facility_id": "27530HFLST1677O",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.033333,
+          35.325
+        ]
+      },
+      "properties": {
+        "facility_name": "WAUKESHA ELECTRIC SYSTEMS INC",
+        "industry": "",
+        "tri_facility_id": "27530HVDTYHWY11",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0,
+          35.375
+        ]
+      },
+      "properties": {
+        "facility_name": "UNIVERSAL BEDROOM FURNITURE LTD",
+        "industry": "",
+        "tri_facility_id": "27530KMPFRNORTH",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.953611,
+          35.380556
+        ]
+      },
+      "properties": {
+        "facility_name": "NEESE COUNTRY SAUSAGE CO DIST CENTER",
+        "industry": "",
+        "tri_facility_id": "27530NSCNT2009N",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.033333,
+          35.483333
+        ]
+      },
+      "properties": {
+        "facility_name": "AIRGAS NATIONAL WELDERS",
+        "industry": "",
+        "tri_facility_id": "27530NTNLWHWY11",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0,
+          35.375
+        ]
+      },
+      "properties": {
+        "facility_name": "UNIVERSAL BEDROOM FURNITURE LTD",
+        "industry": "",
+        "tri_facility_id": "27530NVRSL108WE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.005,
+          35.363333
+        ]
+      },
+      "properties": {
+        "facility_name": "AP EMISSIONS TECHNOLOGIES INC",
+        "industry": "",
+        "tri_facility_id": "27530PPRTS300DI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.011389,
+          35.365556
+        ]
+      },
+      "properties": {
+        "facility_name": "SOUTHEASTERN LABORATORIES INC",
+        "industry": "",
+        "tri_facility_id": "27530STHST1207U",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.988333,
+          35.413056
+        ]
+      },
+      "properties": {
+        "facility_name": "COOPER-STANDARD AUTOMOTIVE INC.",
+        "industry": "",
+        "tri_facility_id": "27530STNDR308FE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0307,
+          35.326
+        ]
+      },
+      "properties": {
+        "facility_name": "CELOTEX CORP",
+        "industry": "",
+        "tri_facility_id": "27530THCLTOLDMT",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.01638888888888,
+          35.39
+        ]
+      },
+      "properties": {
+        "facility_name": "TURKINGTON USA",
+        "industry": "",
+        "tri_facility_id": "27530TRKNG12WAS",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.96194444444444,
+          35.348888888888894
+        ]
+      },
+      "properties": {
+        "facility_name": "US DOD USAF SEYMOUR JOHNSON AFB",
+        "industry": "",
+        "tri_facility_id": "27531SRFRC4CESC",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.03333333333333,
+          35.41111111111111
+        ]
+      },
+      "properties": {
+        "facility_name": "SPX FLOW TECHNOLOGY SERVICES INC",
+        "industry": "",
+        "tri_facility_id": "27533PVNRT1200A",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.894722,
+          35.364167
+        ]
+      },
+      "properties": {
+        "facility_name": "WAMPLER LONGACRE INC FEED MILL",
+        "industry": "",
+        "tri_facility_id": "27534WMPLR761MI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.98,
+          35.541111
+        ]
+      },
+      "properties": {
+        "facility_name": "ACME UNITED CORP",
+        "industry": "",
+        "tri_facility_id": "27830CMNTDUSHIG",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.02722222222222,
+          35.33527777777778
+        ]
+      },
+      "properties": {
+        "facility_name": "BUILDING MATERIALS MANUFACTURING CORP",
+        "industry": "",
+        "tri_facility_id": "28333BLDNG430OL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.035278,
+          35.260278
+        ]
+      },
+      "properties": {
+        "facility_name": "GEORGIA-PACIFIC WOOD PRODUCTS LLC  DUDLEY FACILITY",
+        "industry": "",
+        "tri_facility_id": "28333GRGPCOLDMO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.001389,
+          35.316389
+        ]
+      },
+      "properties": {
+        "facility_name": "CASE FARMS LLC",
+        "industry": "",
+        "tri_facility_id": "28333WMPLR330PE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.059722,
+          35.197222
+        ]
+      },
+      "properties": {
+        "facility_name": "MOUNT OLIVE PICKLE CO INC",
+        "industry": "",
+        "tri_facility_id": "28365MNTLV812NO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.038333,
+          35.223056
+        ]
+      },
+      "properties": {
+        "facility_name": "SONOCO PRODS CO",
+        "industry": "",
+        "tri_facility_id": "28365SNCPRRR193",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.037778,
+          35.222222
+        ]
+      },
+      "properties": {
+        "facility_name": "BOLING CO",
+        "industry": "",
+        "tri_facility_id": "28365THBLNSTATE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}
