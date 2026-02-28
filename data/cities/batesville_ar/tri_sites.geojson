@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.641389,
+          35.763056
+        ]
+      },
+      "properties": {
+        "facility_name": "CONAGRA FROZEN FOODS  FROZEN FOOD PLANT",
+        "industry": "",
+        "tri_facility_id": "72501CNGRF1810S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6397,
+          35.7671
+        ]
+      },
+      "properties": {
+        "facility_name": "LACROIX PRECISION OPTICS",
+        "industry": "",
+        "tri_facility_id": "72501LCRXP50LAC",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.619629,
+          35.765219
+        ]
+      },
+      "properties": {
+        "facility_name": "WHITE RODGERS DIV AT BATESVILLE",
+        "industry": "",
+        "tri_facility_id": "72501WHTRDHWY69",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.641389,
+          35.763056
+        ]
+      },
+      "properties": {
+        "facility_name": "OZARK MOUNTAIN POULTRY FEED MILL BATESVILLE ARKANSAS",
+        "industry": "",
+        "tri_facility_id": "72503CNGRF1810S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.625,
+          35.808333
+        ]
+      },
+      "properties": {
+        "facility_name": "GDX AUTOMOTIVE",
+        "industry": "",
+        "tri_facility_id": "72503DVRST200GE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74527777777777,
+          35.795833333333334
+        ]
+      },
+      "properties": {
+        "facility_name": "ARKANSAS LIME CO",
+        "industry": "",
+        "tri_facility_id": "72503RKNSS600LI",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.529444,
+          35.722778
+        ]
+      },
+      "properties": {
+        "facility_name": "FUTUREFUEL CHEMICAL CO",
+        "industry": "",
+        "tri_facility_id": "72503RKNSSSTATE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.648952,
+          35.764699
+        ]
+      },
+      "properties": {
+        "facility_name": "PECO FOODS INC - BATESVILLE PROCESSING",
+        "industry": "",
+        "tri_facility_id": "72503TWNSN625SA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.40444444444445,
+          35.67111111111111
+        ]
+      },
+      "properties": {
+        "facility_name": "INDEPENDENCE STEAM ELECTRIC STATION",
+        "industry": "",
+        "tri_facility_id": "72562NRGYN555PO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.44027777777778,
+          35.693888888888885
+        ]
+      },
+      "properties": {
+        "facility_name": "PECO FOODS INC - NEWARK FEED MILL",
+        "industry": "",
+        "tri_facility_id": "72562TWNSN318SL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

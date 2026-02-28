@@ -106,7 +106,7 @@ def discover_cities(holc_data):
         props = feature.get('properties', {})
         city = props.get('city', '')
         state = props.get('state', '')
-        geoid = str(props.get('GEOID', props.get('geoid', '')))
+        geoid = str(props.get('GEOID10', props.get('GEOID', props.get('geoid', ''))))
 
         if not city or not state:
             continue
@@ -194,6 +194,33 @@ def build_city_configs(city_groups):
     return cities
 
 
+def fetch_county_names(state_fips_set):
+    """Fetch county FIPS -> name mapping from Census API for relevant states."""
+    county_names = {}
+    for sf in sorted(state_fips_set):
+        try:
+            url = f"https://api.census.gov/data/2022/acs/acs5?get=NAME&for=county:*&in=state:{sf}"
+            req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+            with urllib.request.urlopen(req, timeout=30) as response:
+                data = json.loads(response.read().decode('utf-8'))
+            for row in data[1:]:
+                name = row[0]
+                state_code = row[1]
+                county_code = row[2]
+                # NAME looks like "Fulton County, Georgia" — extract just the county part
+                county_part = name.split(',')[0].strip()
+                # Remove " County", " Parish", etc. for TRI matching
+                for suffix in [' County', ' Parish', ' Borough', ' Census Area',
+                               ' Municipality', ' city']:
+                    if county_part.endswith(suffix):
+                        county_part = county_part[:-len(suffix)]
+                        break
+                county_names[f"{state_code}{county_code}"] = county_part.upper()
+        except Exception as e:
+            print(f"  Warning: Could not fetch county names for state {sf}: {e}")
+    return county_names
+
+
 def merge_featured(auto_cities, existing_cities_file):
     """Merge auto-discovered cities with manually-curated featured configs."""
     if not os.path.exists(existing_cities_file):
@@ -218,6 +245,25 @@ def main():
     auto_cities = build_city_configs(city_groups)
 
     print(f"Generated configs for {len(auto_cities)} cities")
+
+    # Fetch county names for TRI queries
+    state_fips_set = set()
+    for city in auto_cities.values():
+        if city['stateFips']:
+            state_fips_set.add(city['stateFips'])
+    print(f"Fetching county names for {len(state_fips_set)} states...")
+    county_names = fetch_county_names(state_fips_set)
+    print(f"  Got {len(county_names)} county name mappings")
+
+    # Fill in county names
+    for city in auto_cities.values():
+        sf = city['stateFips']
+        updated = {}
+        for cf in city['counties']:
+            full_fips = sf + cf
+            name = county_names.get(full_fips, '')
+            updated[cf] = name
+        city['counties'] = updated
 
     # Merge with existing featured configs
     all_cities = merge_featured(auto_cities, CITIES_FILE)

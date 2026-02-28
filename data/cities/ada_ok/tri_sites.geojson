@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.683333,
+          34.758333
+        ]
+      },
+      "properties": {
+        "facility_name": "HOLCIM (US) INC - ADA PLANT",
+        "industry": "",
+        "tri_facility_id": "74820DLCMN1100W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.647778,
+          34.788611
+        ]
+      },
+      "properties": {
+        "facility_name": "FLEX-N-GATE OKLAHOMA L.L.C.",
+        "industry": "",
+        "tri_facility_id": "74820JPMCNONEGE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.64972222222222,
+          34.788333333333334
+        ]
+      },
+      "properties": {
+        "facility_name": "REMINGTON ARMS CO INC.",
+        "industry": "",
+        "tri_facility_id": "74820RMNGT1900A",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.671944,
+          34.784722
+        ]
+      },
+      "properties": {
+        "facility_name": "SOLO CUP CO",
+        "industry": "",
+        "tri_facility_id": "74820SLCPC401NE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.673333,
+          34.781667
+        ]
+      },
+      "properties": {
+        "facility_name": "OWENS-BROCKWAY GLASS CONTAINER",
+        "industry": "",
+        "tri_facility_id": "74820WNSBR300EA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8162,
+          34.5832
+        ]
+      },
+      "properties": {
+        "facility_name": "TECHNISAND INC",
+        "industry": "",
+        "tri_facility_id": "74865BSCPRWYNNE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

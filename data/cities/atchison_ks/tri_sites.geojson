@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.17194444444445,
+          39.54666666666667
+        ]
+      },
+      "properties": {
+        "facility_name": "CONAGRA FOODS CORN PROCESSING",
+        "industry": "",
+        "tri_facility_id": "66002CNGRF16755",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1333,
+          39.561
+        ]
+      },
+      "properties": {
+        "facility_name": "MGPI PROCESSING INC.",
+        "industry": "",
+        "tri_facility_id": "66002MDWST1300M",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2461111111111,
+          39.565555555555555
+        ]
+      },
+      "properties": {
+        "facility_name": "NORTHWEST PIPE CO",
+        "industry": "",
+        "tri_facility_id": "66002NRTHW8154I",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.15555555555557,
+          39.555
+        ]
+      },
+      "properties": {
+        "facility_name": "PROGRESS RAIL- FASTENER DIV",
+        "industry": "",
+        "tri_facility_id": "66002NTRLN2604I",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.116111,
+          39.558611
+        ]
+      },
+      "properties": {
+        "facility_name": "BRADKEN ATCHISON/ST JOSEPH",
+        "industry": "",
+        "tri_facility_id": "66002RCKWL4THAN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

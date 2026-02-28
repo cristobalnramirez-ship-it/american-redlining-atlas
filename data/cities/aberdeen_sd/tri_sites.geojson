@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.43361111111112,
+          45.472500000000004
+        ]
+      },
+      "properties": {
+        "facility_name": "BANNER ENGINEERING CORP",
+        "industry": "",
+        "tri_facility_id": "57401BNNRN715NC",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.421667,
+          45.45
+        ]
+      },
+      "properties": {
+        "facility_name": "HUB CITY INC",
+        "industry": "",
+        "tri_facility_id": "57401HBCTY2914I",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5425,
+          45.458333333333336
+        ]
+      },
+      "properties": {
+        "facility_name": "HUB CITY ENERGY LLC",
+        "industry": "",
+        "tri_facility_id": "57401HRTLN38469",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.425,
+          45.460556
+        ]
+      },
+      "properties": {
+        "facility_name": "MIDCOM INC",
+        "industry": "",
+        "tri_facility_id": "57401MDCMB701EN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.433333,
+          45.475
+        ]
+      },
+      "properties": {
+        "facility_name": "SHELDAHL INC",
+        "industry": "",
+        "tri_facility_id": "57401SHLDH715NO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.441667,
+          45.471111
+        ]
+      },
+      "properties": {
+        "facility_name": "TWIN CITY FAN COS ABERDEEN",
+        "industry": "",
+        "tri_facility_id": "57401TCFRV515CO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.425278,
+          45.453333
+        ]
+      },
+      "properties": {
+        "facility_name": "FMC CORP NAVAL SYS DIV ABERDEEN FACILITY",
+        "industry": "",
+        "tri_facility_id": "57402FMCCR33178",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.13972222222223,
+          45.45388888888889
+        ]
+      },
+      "properties": {
+        "facility_name": "POET HOLDING CO LLC",
+        "industry": "",
+        "tri_facility_id": "57445JMSVL44251",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

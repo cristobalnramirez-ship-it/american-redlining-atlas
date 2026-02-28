@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.830278,
+          33.555
+        ]
+      },
+      "properties": {
+        "facility_name": "CELOTEX CORP",
+        "industry": "",
+        "tri_facility_id": "71701CLTXC303BA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.758889,
+          33.619444
+        ]
+      },
+      "properties": {
+        "facility_name": "HUGHES MISSILE SYSTEMS CO",
+        "industry": "",
+        "tri_facility_id": "71701GNRLDROUTE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.839722,
+          33.639444
+        ]
+      },
+      "properties": {
+        "facility_name": "HLH INC",
+        "industry": "",
+        "tri_facility_id": "71701HLHNC12MIW",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.815278,
+          33.555556
+        ]
+      },
+      "properties": {
+        "facility_name": "INTERNATIONAL PAPER CO CAMDEN MILL",
+        "industry": "",
+        "tri_facility_id": "71701NTRNT1944A",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.79166666666667,
+          33.5625
+        ]
+      },
+      "properties": {
+        "facility_name": "JOHN L MCCLELLAN GENERATING STATION",
+        "industry": "",
+        "tri_facility_id": "71701RKNSS1625B",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.691667,
+          33.616667
+        ]
+      },
+      "properties": {
+        "facility_name": "EVANS-ST CLAIR INC",
+        "industry": "",
+        "tri_facility_id": "71701VNSSTHIGHL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0575,
+          33.417222
+        ]
+      },
+      "properties": {
+        "facility_name": "BERRY PETROLEUM CO",
+        "industry": "",
+        "tri_facility_id": "71764BRRYPBERRY",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

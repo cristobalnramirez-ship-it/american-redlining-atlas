@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8732,
+          42.0876
+        ]
+      },
+      "properties": {
+        "facility_name": "GATES CORP",
+        "industry": "",
+        "tri_facility_id": "50036GTSRBINDUS",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.86583333333333,
+          42.04555555555555
+        ]
+      },
+      "properties": {
+        "facility_name": "MIDLAND BIO PRODUCTS CORP",
+        "industry": "",
+        "tri_facility_id": "50036MDLND800SN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.88916666666667,
+          42.062777777777775
+        ]
+      },
+      "properties": {
+        "facility_name": "AMERICAN CONCRETE PRODUCTS",
+        "industry": "",
+        "tri_facility_id": "50036MRCNC827MN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.847778,
+          42.051667
+        ]
+      },
+      "properties": {
+        "facility_name": "OSHKOSH TANNING CO INC",
+        "industry": "",
+        "tri_facility_id": "50036SHKSHINDUS",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

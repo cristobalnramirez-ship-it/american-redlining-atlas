@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.621667,
+          43.898889
+        ]
+      },
+      "properties": {
+        "facility_name": "RYNEL INC",
+        "industry": "",
+        "tri_facility_id": "04537TWNRVRTE27",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.47333333333333,
+          43.94499999999999
+        ]
+      },
+      "properties": {
+        "facility_name": "MASTERS MACHINE CO",
+        "industry": "",
+        "tri_facility_id": "04564MSTRS500LO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.375,
+          44.083333
+        ]
+      },
+      "properties": {
+        "facility_name": "OSRAM SYLVANIA INC",
+        "industry": "",
+        "tri_facility_id": "04572GTPRDFRIEN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.373333,
+          44.093056
+        ]
+      },
+      "properties": {
+        "facility_name": "SNS PLASTICS CO INC",
+        "industry": "",
+        "tri_facility_id": "04572SNSPL221FR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.67083333333333,
+          43.99111111111111
+        ]
+      },
+      "properties": {
+        "facility_name": "MASON STEAM STATION",
+        "industry": "",
+        "tri_facility_id": "04578MSNSTBIRCH",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

@@ -20,7 +20,7 @@ CITIES_FILE = os.path.join(DATA_DIR, 'cities.json')
 
 TIGER_URL = (
     "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/"
-    "Tracts_Blocks/MapServer/8/query"
+    "Tracts_Blocks/MapServer/7/query"
 )
 ACS_URL = "https://api.census.gov/data/{year}/acs/acs5"
 

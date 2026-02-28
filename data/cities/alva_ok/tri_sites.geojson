@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.258333,
+          36.806944
+        ]
+      },
+      "properties": {
+        "facility_name": "CARGILL INC SALT DIV",
+        "industry": "",
+        "tri_facility_id": "73842CRGLL13MIL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.875,
+          36.591667
+        ]
+      },
+      "properties": {
+        "facility_name": "CDR SYSTEMS CORP",
+        "industry": "",
+        "tri_facility_id": "73860CDRSYSANTA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

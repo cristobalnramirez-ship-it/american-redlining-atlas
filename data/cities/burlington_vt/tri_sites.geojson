@@ -1,0 +1,362 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.219722,
+          44.4475
+        ]
+      },
+      "properties": {
+        "facility_name": "GE CO",
+        "industry": "",
+        "tri_facility_id": "05401GNRLLINDUS",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2175,
+          44.4612
+        ]
+      },
+      "properties": {
+        "facility_name": "MARTIN MARIETTA ORDNANCE SYSTEMS CO",
+        "industry": "",
+        "tri_facility_id": "05401GNRLLLAKES",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.216667,
+          44.483333
+        ]
+      },
+      "properties": {
+        "facility_name": "HP HOOD INC",
+        "industry": "",
+        "tri_facility_id": "05401HPHDN187SO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.20861111111111,
+          44.49277777777778
+        ]
+      },
+      "properties": {
+        "facility_name": "JOSEPH C MCNEIL GENERATING STATION",
+        "industry": "",
+        "tri_facility_id": "05401JSPHC111IN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2225,
+          44.447222
+        ]
+      },
+      "properties": {
+        "facility_name": "EDLUND CO INC",
+        "industry": "",
+        "tri_facility_id": "05402DLNDC159IN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.220692,
+          44.46094
+        ]
+      },
+      "properties": {
+        "facility_name": "BLODGETT OVEN CO",
+        "industry": "",
+        "tri_facility_id": "05402GSBLD50LAK",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.14777777777779,
+          44.475
+        ]
+      },
+      "properties": {
+        "facility_name": "US DOD USAF VERMONT ANG",
+        "industry": "",
+        "tri_facility_id": "05403SRFRC105NC",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.183996,
+          44.502357
+        ]
+      },
+      "properties": {
+        "facility_name": "YORK CAPACITOR CORP",
+        "industry": "",
+        "tri_facility_id": "05404YRKCP450WE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.166667,
+          44.5
+        ]
+      },
+      "properties": {
+        "facility_name": "CHAMPLAIN CABLE CORP",
+        "industry": "",
+        "tri_facility_id": "05446CHMPLHERCU",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.22,
+          44.545833
+        ]
+      },
+      "properties": {
+        "facility_name": "HAZELETT STRIP CASTING CORP",
+        "industry": "",
+        "tri_facility_id": "05446HZLTT217LA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0558,
+          44.535
+        ]
+      },
+      "properties": {
+        "facility_name": "BELDEN CDT INC ESSEX JUNCTION",
+        "industry": "",
+        "tri_facility_id": "05451CPRNDTHOMP",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1,
+          44.483333
+        ]
+      },
+      "properties": {
+        "facility_name": "GLOBALFOUNDRIES U.S. 2 LLC - VERMONT FACILITY",
+        "industry": "",
+        "tri_facility_id": "05452BMXXX1000R",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.088333,
+          44.337222
+        ]
+      },
+      "properties": {
+        "facility_name": "SAPUTO CHEESE  USA INC",
+        "industry": "",
+        "tri_facility_id": "05461NTRNTPOBOX",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.21861111111112,
+          44.369166666666665
+        ]
+      },
+      "properties": {
+        "facility_name": "BLODGETT OVEN CO",
+        "industry": "",
+        "tri_facility_id": "05482BLDGTHARBO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.231944,
+          44.365278
+        ]
+      },
+      "properties": {
+        "facility_name": "SHELBURNE CORP",
+        "industry": "",
+        "tri_facility_id": "05482THSHLRTE7S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.135,
+          44.446666666666665
+        ]
+      },
+      "properties": {
+        "facility_name": "BLODGETT COMBI",
+        "industry": "",
+        "tri_facility_id": "05495BLDGT290BO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12805555555555,
+          44.46138888888889
+        ]
+      },
+      "properties": {
+        "facility_name": "ST GRISWOLD AND CO INC",
+        "industry": "",
+        "tri_facility_id": "05495STGRS193IN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

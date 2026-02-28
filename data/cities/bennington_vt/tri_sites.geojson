@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.203056,
+          42.894167
+        ]
+      },
+      "properties": {
+        "facility_name": "BIJUR LUBRICATING CORP",
+        "industry": "",
+        "tri_facility_id": "05201BJRLB50KOC",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.216111,
+          42.875278
+        ]
+      },
+      "properties": {
+        "facility_name": "BEN-MONT CORP",
+        "industry": "",
+        "tri_facility_id": "05201BNMNTBENMO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2178,
+          42.9041
+        ]
+      },
+      "properties": {
+        "facility_name": "JOHNSON CONTROLS INC, BATTERY GROUP",
+        "industry": "",
+        "tri_facility_id": "05201JHNSNROUTE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.191111,
+          42.889444
+        ]
+      },
+      "properties": {
+        "facility_name": "JARD CO INC",
+        "industry": "",
+        "tri_facility_id": "05201JRDCNBOWEN",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.216889,
+          42.8823
+        ]
+      },
+      "properties": {
+        "facility_name": "TANSITOR ELECTRONICS INC",
+        "industry": "",
+        "tri_facility_id": "05201TNSTRWESTR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.190556,
+          42.880556
+        ]
+      },
+      "properties": {
+        "facility_name": "ENERGIZER MANUFACTURING INC",
+        "industry": "",
+        "tri_facility_id": "05201VRDYB401GA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.15277777777779,
+          43.07166666666667
+        ]
+      },
+      "properties": {
+        "facility_name": "MACK MOLDING CO",
+        "industry": "",
+        "tri_facility_id": "05250MCKML79EAR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.246667,
+          42.914444
+        ]
+      },
+      "properties": {
+        "facility_name": "CHEMFAB CORP",
+        "industry": "",
+        "tri_facility_id": "05257CHMCL13WAT",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.24333333333334,
+          42.92833333333333
+        ]
+      },
+      "properties": {
+        "facility_name": "ADC OPTICAL SYSTEMS",
+        "industry": "",
+        "tri_facility_id": "05257KRNPT441WA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.217222,
+          42.947778
+        ]
+      },
+      "properties": {
+        "facility_name": "STANLEY TOOLS EAGLE SQUARE PLANT",
+        "industry": "",
+        "tri_facility_id": "05262STNLYROUTE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

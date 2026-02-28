@@ -72,11 +72,11 @@ def fetch_tri(slug):
 
         print(f"    Got {len(all_facilities)} total facilities so far")
 
-    # De-duplicate by TRI_FACILITY_ID
+    # De-duplicate by tri_facility_id
     seen = set()
     unique = []
     for fac in all_facilities:
-        fid = fac.get('TRI_FACILITY_ID', '')
+        fid = fac.get('tri_facility_id', fac.get('TRI_FACILITY_ID', ''))
         if fid and fid not in seen:
             seen.add(fid)
             unique.append(fac)
@@ -88,14 +88,38 @@ def fetch_tri(slug):
     # Convert to GeoJSON
     features = []
     for fac in unique:
-        lat = fac.get('LATITUDE')
-        lon = fac.get('LONGITUDE')
+        lat, lon = None, None
+
+        # Prefer pref_latitude/pref_longitude (decimal degrees)
+        plat = fac.get('pref_latitude')
+        plon = fac.get('pref_longitude')
+        if plat and plon:
+            try:
+                lat = float(plat)
+                lon = -abs(float(plon))  # US longitudes are negative
+            except (ValueError, TypeError):
+                pass
+
+        # Fall back to street address geocoding via fac_latitude/fac_longitude
         if lat is None or lon is None:
-            continue
-        try:
-            lat = float(lat)
-            lon = float(lon)
-        except (ValueError, TypeError):
+            flat = fac.get('fac_latitude')
+            flon = fac.get('fac_longitude')
+            if flat and flon:
+                try:
+                    flat = float(flat)
+                    flon = float(flon)
+                    if flat > 1000:  # DMS format like 341240 = 34.2111
+                        s = str(int(flat)).zfill(6)
+                        lat = int(s[:2]) + int(s[2:4]) / 60 + int(s[4:6]) / 3600
+                        s = str(int(flon)).zfill(7)
+                        lon = -(int(s[:3]) + int(s[3:5]) / 60 + int(s[5:7]) / 3600)
+                    elif flat != 0 and flon != 0:
+                        lat = flat
+                        lon = -abs(flon)
+                except (ValueError, TypeError):
+                    pass
+
+        if lat is None or lon is None or lat == 0 or lon == 0:
             continue
 
         # Infer some fields for compatibility with the frontend
@@ -112,9 +136,9 @@ def fetch_tri(slug):
             'type': 'Feature',
             'geometry': {'type': 'Point', 'coordinates': [lon, lat]},
             'properties': {
-                'facility_name': fac.get('FACILITY_NAME', ''),
-                'industry': fac.get('INDUSTRY_SECTOR', fac.get('SIC_CODE', '')),
-                'tri_facility_id': fac.get('TRI_FACILITY_ID', ''),
+                'facility_name': fac.get('facility_name', fac.get('FACILITY_NAME', '')),
+                'industry': fac.get('industry_sector', fac.get('INDUSTRY_SECTOR', fac.get('sic_code', fac.get('SIC_CODE', '')))),
+                'tri_facility_id': fac.get('tri_facility_id', fac.get('TRI_FACILITY_ID', '')),
                 'year_first_reported': year_reported or 1987,
                 'carcinogen': False,  # Would need TRI release data to determine
                 'total_releases_lbs': 1000,  # Placeholder

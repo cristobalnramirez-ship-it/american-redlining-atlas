@@ -1,0 +1,341 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8313,
+          39.6123
+        ]
+      },
+      "properties": {
+        "facility_name": "AMERICAN GALVANIZING CO",
+        "industry": "",
+        "tri_facility_id": "08037MRCNGRT54S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.79333333333334,
+          39.628055555555555
+        ]
+      },
+      "properties": {
+        "facility_name": "MASSARELLI'S LAWN ORNAMENTS INC",
+        "industry": "",
+        "tri_facility_id": "08037MSSRL5SEGG",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.813889,
+          39.636389
+        ]
+      },
+      "properties": {
+        "facility_name": "EASTERN BREWING CORP",
+        "industry": "",
+        "tri_facility_id": "08037STRNB334NW",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.77777777777777,
+          39.61416666666667
+        ]
+      },
+      "properties": {
+        "facility_name": "WATER WORLD FIBERGLASS POOLS",
+        "industry": "",
+        "tri_facility_id": "08037WTRWR7READ",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6366,
+          39.5391
+        ]
+      },
+      "properties": {
+        "facility_name": "OCEAN YACHTS INC FACILITY II",
+        "industry": "",
+        "tri_facility_id": "08215CNYCHPOBOX",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5942,
+          39.6075
+        ]
+      },
+      "properties": {
+        "facility_name": "VIKING YACHT CO - MULLICA",
+        "industry": "",
+        "tri_facility_id": "08215CNYCHRT563",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6365,
+          39.5379
+        ]
+      },
+      "properties": {
+        "facility_name": "EH YACHTS LLC",
+        "industry": "",
+        "tri_facility_id": "08215GGHRB801PH",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.653898,
+          39.52999
+        ]
+      },
+      "properties": {
+        "facility_name": "RAY PLASTICS INC",
+        "industry": "",
+        "tri_facility_id": "08215RYPLSNORFO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.56583333333333,
+          39.44944444444444
+        ]
+      },
+      "properties": {
+        "facility_name": "U.S. FAA TECHNICAL CENTER",
+        "industry": "",
+        "tri_facility_id": "08234SFWLLFACIL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.56666666666666,
+          39.45
+        ]
+      },
+      "properties": {
+        "facility_name": "U.S. AIR FORCE NJ ANG 177 FIGHTER WING",
+        "industry": "",
+        "tri_facility_id": "08234SRFRC400LA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.601389,
+          39.488333
+        ]
+      },
+      "properties": {
+        "facility_name": "LENOX INC (DBA GORHAM)",
+        "industry": "",
+        "tri_facility_id": "08240LNXCHTILTO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8911,
+          39.5368
+        ]
+      },
+      "properties": {
+        "facility_name": "IMMUNOGENETICS INC VINELAND LABORATORIES DIV",
+        "industry": "",
+        "tri_facility_id": "08310DVFVN711SH",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.97277777777778,
+          39.515
+        ]
+      },
+      "properties": {
+        "facility_name": "TRITON ASSOCIATED INDUSTRIES INC",
+        "industry": "",
+        "tri_facility_id": "08310TRTNS418NB",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.717722,
+          39.4373
+        ]
+      },
+      "properties": {
+        "facility_name": "POST MARINE CO",
+        "industry": "",
+        "tri_facility_id": "08330PSTMR36POS",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.694444,
+          39.444444
+        ]
+      },
+      "properties": {
+        "facility_name": "WHEATON COATED PRODUCTS CO",
+        "industry": "",
+        "tri_facility_id": "08330WHTNRROUTE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.89805555555556,
+          39.484722222222224
+        ]
+      },
+      "properties": {
+        "facility_name": "RICHLAND GLASS CO",
+        "industry": "",
+        "tri_facility_id": "08350RCHLN535TU",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.147778,
+          33.954167
+        ]
+      },
+      "properties": {
+        "facility_name": "GP WOOD PRODUCTS LLC GURDON PLYWOOD & LUMBER COMPLEX",
+        "industry": "",
+        "tri_facility_id": "71743NTRNTHIGHW",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.47,
+          34.266389
+        ]
+      },
+      "properties": {
+        "facility_name": "BARKSDALE LUMBER CO. INC.",
+        "industry": "",
+        "tri_facility_id": "71921BRKSDHWY8W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.475,
+          34.251111
+        ]
+      },
+      "properties": {
+        "facility_name": "CURT BEAN LUMBER CO INC.",
+        "industry": "",
+        "tri_facility_id": "71921CRTBNSOUTH",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.064444,
+          34.134444
+        ]
+      },
+      "properties": {
+        "facility_name": "ALUMACRAFT BOAT CO",
+        "industry": "",
+        "tri_facility_id": "71923LMCRFHIGHW",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0925,
+          34.048056
+        ]
+      },
+      "properties": {
+        "facility_name": "PETIT JEAN POULTRY",
+        "industry": "",
+        "tri_facility_id": "71923PTTJN125TE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.08,
+          34.0675
+        ]
+      },
+      "properties": {
+        "facility_name": "ELEMENTAL ENVIRONMENTAL SOLUTIONS LLC",
+        "industry": "",
+        "tri_facility_id": "71923RYNLD500ER",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.09027777777777,
+          34.045833333333334
+        ]
+      },
+      "properties": {
+        "facility_name": "SGL COMPOSITES INC",
+        "industry": "",
+        "tri_facility_id": "71923SGLTC201TE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0625,
+          34.11
+        ]
+      },
+      "properties": {
+        "facility_name": "BUILDING MATERIALS MANUFACTURING LLC",
+        "industry": "",
+        "tri_facility_id": "71923SPLST1111H",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.094444,
+          34.052778
+        ]
+      },
+      "properties": {
+        "facility_name": "DANFOSS LLC",
+        "industry": "",
+        "tri_facility_id": "71923TCCRR1SCRO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3625,
+          34.3125
+        ]
+      },
+      "properties": {
+        "facility_name": "CONTAINER LIFE CYCLE MANAGEMENT LLC DBA DRUMCO",
+        "industry": "",
+        "tri_facility_id": "72150RHRNDHWY27",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}

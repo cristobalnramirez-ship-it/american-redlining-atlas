@@ -1,0 +1,488 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.827222,
+          35.205833
+        ]
+      },
+      "properties": {
+        "facility_name": "BORDEN INC DAIRY DIV",
+        "industry": "",
+        "tri_facility_id": "79101BRDNN609SO",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.745748,
+          35.204508
+        ]
+      },
+      "properties": {
+        "facility_name": "FLAVORLAND BEEF",
+        "industry": "",
+        "tri_facility_id": "79104FLVRL110BE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.818333,
+          35.1675
+        ]
+      },
+      "properties": {
+        "facility_name": "SOUTHWEST COCA-COLA BOTTLING CO",
+        "industry": "",
+        "tri_facility_id": "79105STHWS701SL",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.87027777777777,
+          35.222500000000004
+        ]
+      },
+      "properties": {
+        "facility_name": "KAST MARBLE INC",
+        "industry": "",
+        "tri_facility_id": "79106KSTMR3012W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.79527777777777,
+          35.215833333333336
+        ]
+      },
+      "properties": {
+        "facility_name": "CARGILL ANIMAL NUTRITION",
+        "industry": "",
+        "tri_facility_id": "79107CRGLL301NG",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.82972222222222,
+          35.222500000000004
+        ]
+      },
+      "properties": {
+        "facility_name": "PLAINS DAIRY LLC",
+        "industry": "",
+        "tri_facility_id": "79107PLNSD300NT",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.848,
+          35.215496
+        ]
+      },
+      "properties": {
+        "facility_name": "TECHSPRAY LP",
+        "industry": "",
+        "tri_facility_id": "79107TCHSP88NOR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.74722222222222,
+          35.29944444444444
+        ]
+      },
+      "properties": {
+        "facility_name": "SOUTHWESTERN PUBLIC SERVICE CO HARRINGTON STATION",
+        "industry": "",
+        "tri_facility_id": "79108STHWSNLAKE",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.85666666666665,
+          35.120555555555555
+        ]
+      },
+      "properties": {
+        "facility_name": "SAFETY-KLEEN SYSTEMS AMARILLO (AMA)",
+        "industry": "",
+        "tri_facility_id": "79110SFTYK1750W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.69972222222222,
+          35.22222222222222
+        ]
+      },
+      "properties": {
+        "facility_name": "LEADING EDGE AVIATION SERVICES",
+        "industry": "",
+        "tri_facility_id": "79111LDNGD10801",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.675278,
+          35.213333
+        ]
+      },
+      "properties": {
+        "facility_name": "TEXAS KNAACK CHEMICAL DIV (DBA CUSTOM CHEMICAL DISTRIB)",
+        "industry": "",
+        "tri_facility_id": "79111TXSKN9505W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.674167,
+          35.243056
+        ]
+      },
+      "properties": {
+        "facility_name": "WAYNE CHEMICAL CORP",
+        "industry": "",
+        "tri_facility_id": "79111WYNCH9510W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.801,
+          35.1556
+        ]
+      },
+      "properties": {
+        "facility_name": "BELL HELICOPTER TEXTRON INC",
+        "industry": "",
+        "tri_facility_id": "79120BLLHLAVEBA",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.73417,
+          35.28528
+        ]
+      },
+      "properties": {
+        "facility_name": "ASARCO LLC AMARILLO COPPER REFINERY",
+        "industry": "",
+        "tri_facility_id": "79120SRCNCHWY13",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8863888888889,
+          35.26583333333333
+        ]
+      },
+      "properties": {
+        "facility_name": "AMARILLO REFINED PRODUCTS TERMINAL",
+        "industry": "",
+        "tri_facility_id": "79124MRLLR4200W",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.64666666666668,
+          35.25888888888889
+        ]
+      },
+      "properties": {
+        "facility_name": "BEEF PRODUCTS INC (AMA)",
+        "industry": "",
+        "tri_facility_id": "79187BFPRDHWY60",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.642222,
+          35.258611
+        ]
+      },
+      "properties": {
+        "facility_name": "TYSON FRESH MEATS INC",
+        "industry": "",
+        "tri_facility_id": "79187BPNCXFARMR",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8393,
+          35.2059
+        ]
+      },
+      "properties": {
+        "facility_name": "CHS INC",
+        "industry": "",
+        "tri_facility_id": "79105FRMLN6300S",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.878889,
+          35.153889
+        ]
+      },
+      "properties": {
+        "facility_name": "BORDEN INC DAIRY DIV",
+        "industry": "",
+        "tri_facility_id": "79110BRDNN4945C",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.846017,
+          35.1605
+        ]
+      },
+      "properties": {
+        "facility_name": "POWER PIPE & TANK LLC",
+        "industry": "",
+        "tri_facility_id": "79110MRTXC511W4",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.858333,
+          35.151389
+        ]
+      },
+      "properties": {
+        "facility_name": "COOPER CROUSE-HINDS AMARILLO TX",
+        "industry": "",
+        "tri_facility_id": "79118CRSHN1901F",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8475,
+          35.072222
+        ]
+      },
+      "properties": {
+        "facility_name": "LONE STAR AIRGAS INC",
+        "industry": "",
+        "tri_facility_id": "79118WLDNGSWASH",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.859722,
+          35.117778
+        ]
+      },
+      "properties": {
+        "facility_name": "OWENS-CORNING AMARILLO",
+        "industry": "",
+        "tri_facility_id": "79144WNSCR1701H",
+        "year_first_reported": 1987,
+        "carcinogen": false,
+        "total_releases_lbs": 1000,
+        "top_chemical": "Unknown",
+        "risk_score": 5,
+        "nearby_neighborhoods": []
+      }
+    }
+  ]
+}
