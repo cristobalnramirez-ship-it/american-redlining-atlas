@@ -1,0 +1,1072 @@
+{
+ "as_of": "2026-09-27",
+ "ny_congress": {
+  "3": {
+   "name": "Tom Suozzi",
+   "party": "D"
+  },
+  "4": {
+   "name": "Laura Gillen",
+   "party": "D"
+  },
+  "5": {
+   "name": "Gregory Meeks",
+   "party": "D"
+  },
+  "6": {
+   "name": "Grace Meng",
+   "party": "D"
+  },
+  "7": {
+   "name": "Nydia Vel\u00e1zquez",
+   "party": "D"
+  },
+  "8": {
+   "name": "Hakeem Jeffries",
+   "party": "D"
+  },
+  "9": {
+   "name": "Yvette Clarke",
+   "party": "D"
+  },
+  "10": {
+   "name": "Dan Goldman",
+   "party": "D"
+  },
+  "11": {
+   "name": "Nicole Malliotakis",
+   "party": "R"
+  },
+  "12": {
+   "name": "Jerry Nadler",
+   "party": "D"
+  },
+  "13": {
+   "name": "Adriano Espaillat",
+   "party": "D"
+  },
+  "14": {
+   "name": "Alexandria Ocasio-Cortez",
+   "party": "D"
+  },
+  "15": {
+   "name": "Ritchie Torres",
+   "party": "D"
+  },
+  "16": {
+   "name": "George Latimer",
+   "party": "D"
+  }
+ },
+ "ny_senate": {
+  "7": {
+   "name": "Jack Martins",
+   "party": "R"
+  },
+  "9": {
+   "name": "Patricia Canzoneri-Fitzpatrick",
+   "party": "R"
+  },
+  "10": {
+   "name": "James Sanders Jr.",
+   "party": "D"
+  },
+  "11": {
+   "name": "Toby Ann Stavisky",
+   "party": "D"
+  },
+  "12": {
+   "name": "Michael Gianaris",
+   "party": "D"
+  },
+  "13": {
+   "name": "Jessica Ramos",
+   "party": "D"
+  },
+  "14": {
+   "name": "Leroy Comrie",
+   "party": "D"
+  },
+  "15": {
+   "name": "Joseph Addabbo Jr.",
+   "party": "D"
+  },
+  "16": {
+   "name": "John Liu",
+   "party": "D"
+  },
+  "17": {
+   "name": "Stephen Chan",
+   "party": "R"
+  },
+  "18": {
+   "name": "Julia Salazar",
+   "party": "D"
+  },
+  "19": {
+   "name": "Roxanne Persaud",
+   "party": "D"
+  },
+  "20": {
+   "name": "Zellnor Myrie",
+   "party": "D"
+  },
+  "21": {
+   "name": "Kevin Parker",
+   "party": "D"
+  },
+  "22": {
+   "name": "Sam Sutton",
+   "party": "D"
+  },
+  "23": {
+   "name": "Jessica Scarcella-Spanton",
+   "party": "D"
+  },
+  "24": {
+   "name": "Andrew Lanza",
+   "party": "R"
+  },
+  "25": {
+   "name": "Jabari Brisport",
+   "party": "D"
+  },
+  "26": {
+   "name": "Andrew Gounardes",
+   "party": "D"
+  },
+  "27": {
+   "name": "Brian Kavanagh",
+   "party": "D"
+  },
+  "28": {
+   "name": "Liz Krueger",
+   "party": "D"
+  },
+  "29": {
+   "name": "Jos\u00e9 M. Serrano",
+   "party": "D"
+  },
+  "30": {
+   "name": "Cordell Cleare",
+   "party": "D"
+  },
+  "31": {
+   "name": "Robert Jackson",
+   "party": "D"
+  },
+  "32": {
+   "name": "Luis Sep\u00falveda",
+   "party": "D"
+  },
+  "33": {
+   "name": "Gustavo Rivera",
+   "party": "D"
+  },
+  "34": {
+   "name": "Nathalia Fernandez",
+   "party": "D"
+  },
+  "35": {
+   "name": "Andrea Stewart-Cousins",
+   "party": "D"
+  },
+  "36": {
+   "name": "Jamaal Bailey",
+   "party": "D"
+  },
+  "37": {
+   "name": "Shelley Mayer",
+   "party": "D"
+  },
+  "38": {
+   "name": "Bill Weber",
+   "party": "R"
+  },
+  "39": {
+   "name": "Rob Rolison",
+   "party": "R"
+  },
+  "40": {
+   "name": "Pete Harckham",
+   "party": "D"
+  },
+  "47": {
+   "name": "Erik Bottcher",
+   "party": "D"
+  },
+  "59": {
+   "name": "Kristen Gonzalez",
+   "party": "D"
+  }
+ },
+ "ny_assembly": {
+  "12": {
+   "name": "Keith Brown",
+   "party": "R"
+  },
+  "13": {
+   "name": "Charles Lavine",
+   "party": "D"
+  },
+  "16": {
+   "name": "Daniel Norber",
+   "party": "R"
+  },
+  "19": {
+   "name": "Ed Ra",
+   "party": "R"
+  },
+  "20": {
+   "name": "Ari Brown",
+   "party": "R"
+  },
+  "21": {
+   "name": "Judy Griffin",
+   "party": "D"
+  },
+  "22": {
+   "name": "Michaelle Solages",
+   "party": "D"
+  },
+  "23": {
+   "name": "Stacey Pheffer Amato",
+   "party": "D"
+  },
+  "24": {
+   "name": "David Weprin",
+   "party": "D"
+  },
+  "25": {
+   "name": "Nily Rozic",
+   "party": "D"
+  },
+  "26": {
+   "name": "Edward Braunstein",
+   "party": "D"
+  },
+  "27": {
+   "name": "Sam Berger",
+   "party": "D"
+  },
+  "28": {
+   "name": "Andrew Hevesi",
+   "party": "D"
+  },
+  "29": {
+   "name": "Alicia Hyndman",
+   "party": "D"
+  },
+  "30": {
+   "name": "Steven Raga",
+   "party": "D"
+  },
+  "31": {
+   "name": "Khaleel Anderson",
+   "party": "D"
+  },
+  "32": {
+   "name": "Vivian Cook",
+   "party": "D"
+  },
+  "33": {
+   "name": "Clyde Vanel",
+   "party": "D"
+  },
+  "34": {
+   "name": "Jessica Gonz\u00e1lez-Rojas",
+   "party": "D"
+  },
+  "35": {
+   "name": "Larinda Hooks",
+   "party": "D"
+  },
+  "36": {
+   "name": "Diana Moreno",
+   "party": "D"
+  },
+  "37": {
+   "name": "Claire Valdez",
+   "party": "D"
+  },
+  "38": {
+   "name": "Jenifer Rajkumar",
+   "party": "D"
+  },
+  "39": {
+   "name": "Catalina Cruz",
+   "party": "D"
+  },
+  "40": {
+   "name": "Ron Kim",
+   "party": "D"
+  },
+  "41": {
+   "name": "Kalman Yeger",
+   "party": "D"
+  },
+  "42": {
+   "name": "Rodneyse Bichotte Hermelyn",
+   "party": "D"
+  },
+  "43": {
+   "name": "Brian Cunningham",
+   "party": "D"
+  },
+  "44": {
+   "name": "Robert Carroll",
+   "party": "D"
+  },
+  "45": {
+   "name": "Michael Novakhov",
+   "party": "R"
+  },
+  "46": {
+   "name": "Alec Brook-Krasny",
+   "party": "R"
+  },
+  "47": {
+   "name": "William Colton",
+   "party": "D"
+  },
+  "48": {
+   "name": "Simcha Eichenstein",
+   "party": "D"
+  },
+  "49": {
+   "name": "Lester Chang",
+   "party": "R"
+  },
+  "50": {
+   "name": "Emily Gallagher",
+   "party": "D"
+  },
+  "51": {
+   "name": "Marcela Mitaynes",
+   "party": "D"
+  },
+  "52": {
+   "name": "Jo Anne Simon",
+   "party": "D"
+  },
+  "53": {
+   "name": "Maritza Davila",
+   "party": "D"
+  },
+  "54": {
+   "name": "Erik Dilan",
+   "party": "D"
+  },
+  "55": {
+   "name": "Latrice Walker",
+   "party": "D"
+  },
+  "56": {
+   "name": "Stefani Zinerman",
+   "party": "D"
+  },
+  "57": {
+   "name": "Phara Souffrant Forrest",
+   "party": "D"
+  },
+  "58": {
+   "name": "Monique Chandler-Waterman",
+   "party": "D"
+  },
+  "59": {
+   "name": "Jaime Williams",
+   "party": "D"
+  },
+  "60": {
+   "name": "Nikki Lucas",
+   "party": "D"
+  },
+  "61": {
+   "name": "Charles Fall",
+   "party": "D"
+  },
+  "62": {
+   "name": "Michael Reilly",
+   "party": "R"
+  },
+  "63": {
+   "name": "Sam Pirozzolo",
+   "party": "R"
+  },
+  "64": {
+   "name": "Michael Tannousis",
+   "party": "R"
+  },
+  "65": {
+   "name": "Grace Lee",
+   "party": "D"
+  },
+  "66": {
+   "name": "Deborah Glick",
+   "party": "D"
+  },
+  "67": {
+   "name": "Linda Rosenthal",
+   "party": "D"
+  },
+  "68": {
+   "name": "Eddie Gibbs",
+   "party": "D"
+  },
+  "69": {
+   "name": "Micah Lasher",
+   "party": "D"
+  },
+  "70": {
+   "name": "Jordan Wright",
+   "party": "D"
+  },
+  "71": {
+   "name": "Al Taylor",
+   "party": "D"
+  },
+  "72": {
+   "name": "Manny De Los Santos",
+   "party": "D"
+  },
+  "73": {
+   "name": "Alex Bores",
+   "party": "D"
+  },
+  "74": {
+   "name": "Keith Powers",
+   "party": "D"
+  },
+  "75": {
+   "name": "Tony Simone",
+   "party": "D"
+  },
+  "76": {
+   "name": "Rebecca Seawright",
+   "party": "D"
+  },
+  "77": {
+   "name": "Landon Dais",
+   "party": "D"
+  },
+  "78": {
+   "name": "George Alvarez",
+   "party": "D"
+  },
+  "79": {
+   "name": "Chantel Jackson",
+   "party": "D"
+  },
+  "80": {
+   "name": "John Zaccaro Jr.",
+   "party": "D"
+  },
+  "81": {
+   "name": "Jeffrey Dinowitz",
+   "party": "D"
+  },
+  "82": {
+   "name": "Michael Benedetto",
+   "party": "D"
+  },
+  "83": {
+   "name": "Carl Heastie",
+   "party": "D"
+  },
+  "84": {
+   "name": "Amanda Septimo",
+   "party": "D"
+  },
+  "85": {
+   "name": "Em\u00e9rita Torres",
+   "party": "D"
+  },
+  "86": {
+   "name": "Yudelka Tapia",
+   "party": "D"
+  },
+  "87": {
+   "name": "Karines Reyes",
+   "party": "D"
+  },
+  "88": {
+   "name": "Amy Paulin",
+   "party": "D"
+  },
+  "89": {
+   "name": "J. Gary Pretlow",
+   "party": "D"
+  },
+  "90": {
+   "name": "Nader Sayegh",
+   "party": "D"
+  },
+  "91": {
+   "name": "Steven Otis",
+   "party": "D"
+  }
+ },
+ "nyc_council": {
+  "1": {
+   "name": "Christopher Marte",
+   "party": "D"
+  },
+  "2": {
+   "name": "Harvey Epstein",
+   "party": "D"
+  },
+  "3": {
+   "name": "Carl Wilson",
+   "party": "D"
+  },
+  "4": {
+   "name": "Virginia Maloney",
+   "party": "D"
+  },
+  "5": {
+   "name": "Julie Menin",
+   "party": "D"
+  },
+  "6": {
+   "name": "Gale Brewer",
+   "party": "D"
+  },
+  "7": {
+   "name": "Shaun Abreu",
+   "party": "D"
+  },
+  "8": {
+   "name": "Elsie Encarnacion",
+   "party": "D"
+  },
+  "9": {
+   "name": "Yusef Salaam",
+   "party": "D"
+  },
+  "10": {
+   "name": "Carmen De La Rosa",
+   "party": "D"
+  },
+  "11": {
+   "name": "Eric Dinowitz",
+   "party": "D"
+  },
+  "12": {
+   "name": "Kevin Riley",
+   "party": "D"
+  },
+  "13": {
+   "name": "Shirley Aldebol",
+   "party": "D"
+  },
+  "14": {
+   "name": "Pierina Ana Sanchez",
+   "party": "D"
+  },
+  "15": {
+   "name": "Oswald Feliz",
+   "party": "D"
+  },
+  "16": {
+   "name": "Althea Stevens",
+   "party": "D"
+  },
+  "17": {
+   "name": "Justin Sanchez",
+   "party": "D"
+  },
+  "18": {
+   "name": "Amanda Far\u00edas",
+   "party": "D"
+  },
+  "19": {
+   "name": "Vickie Paladino",
+   "party": "R"
+  },
+  "20": {
+   "name": "Sandra Ung",
+   "party": "D"
+  },
+  "21": {
+   "name": "Shanel Thomas-Henry",
+   "party": "D"
+  },
+  "22": {
+   "name": "Tiffany Cab\u00e1n",
+   "party": "D"
+  },
+  "23": {
+   "name": "Linda Lee",
+   "party": "D"
+  },
+  "24": {
+   "name": "James Gennaro",
+   "party": "D"
+  },
+  "25": {
+   "name": "Shekar Krishnan",
+   "party": "D"
+  },
+  "26": {
+   "name": "Julie Won",
+   "party": "D"
+  },
+  "27": {
+   "name": "Nantasha Williams",
+   "party": "D"
+  },
+  "28": {
+   "name": "Tyrell Hankerson",
+   "party": "D"
+  },
+  "29": {
+   "name": "Lynn Schulman",
+   "party": "D"
+  },
+  "30": {
+   "name": "Phil Wong",
+   "party": "D"
+  },
+  "31": {
+   "name": "Selvena Brooks-Powers",
+   "party": "D"
+  },
+  "32": {
+   "name": "Joann Ariola",
+   "party": "R"
+  },
+  "33": {
+   "name": "Lincoln Restler",
+   "party": "D"
+  },
+  "34": {
+   "name": "Jennifer Guti\u00e9rrez",
+   "party": "D"
+  },
+  "35": {
+   "name": "Crystal Hudson",
+   "party": "D"
+  },
+  "36": {
+   "name": "Chi Oss\u00e9",
+   "party": "D"
+  },
+  "37": {
+   "name": "Sandy Nurse",
+   "party": "D"
+  },
+  "38": {
+   "name": "Alexa Avil\u00e9s",
+   "party": "D"
+  },
+  "39": {
+   "name": "Shahana Hanif",
+   "party": "D"
+  },
+  "40": {
+   "name": "Rita Joseph",
+   "party": "D"
+  },
+  "41": {
+   "name": "Darlene Mealy",
+   "party": "D"
+  },
+  "42": {
+   "name": "Chris Banks",
+   "party": "D"
+  },
+  "43": {
+   "name": "Susan Zhuang",
+   "party": "D"
+  },
+  "44": {
+   "name": "Simcha Felder",
+   "party": "D"
+  },
+  "45": {
+   "name": "Farah Louis",
+   "party": "D"
+  },
+  "46": {
+   "name": "Mercedes Narcisse",
+   "party": "D"
+  },
+  "47": {
+   "name": "Kayla Santosuosso",
+   "party": "D"
+  },
+  "48": {
+   "name": "Inna Vernikov",
+   "party": "R"
+  },
+  "49": {
+   "name": "Kamillah Hanks",
+   "party": "D"
+  },
+  "50": {
+   "name": "David Carr",
+   "party": "R"
+  },
+  "51": {
+   "name": "Frank Morano",
+   "party": "R"
+  }
+ },
+ "nyc_bp": {
+  "Manhattan": {
+   "name": "Brad Hoylman-Sigal",
+   "party": "D"
+  },
+  "Brooklyn": {
+   "name": "Antonio Reynoso",
+   "party": "D"
+  },
+  "Queens": {
+   "name": "Donovan Richards",
+   "party": "D"
+  },
+  "Bronx": {
+   "name": "Vanessa Gibson",
+   "party": "D"
+  },
+  "Staten Island": {
+   "name": "Vito Fossella",
+   "party": "R"
+  }
+ },
+ "tx_congress": {
+  "2": {
+   "name": "Dan Crenshaw",
+   "party": "R"
+  },
+  "7": {
+   "name": "Lizzie Fletcher",
+   "party": "D"
+  },
+  "8": {
+   "name": "Morgan Luttrell",
+   "party": "R"
+  },
+  "9": {
+   "name": "Al Green",
+   "party": "D"
+  },
+  "10": {
+   "name": "Michael McCaul",
+   "party": "R"
+  },
+  "14": {
+   "name": "Randy Weber",
+   "party": "R"
+  },
+  "18": {
+   "name": "Christian Menefee",
+   "party": "D"
+  },
+  "22": {
+   "name": "Troy Nehls",
+   "party": "R"
+  },
+  "29": {
+   "name": "Sylvia Garcia",
+   "party": "D"
+  },
+  "36": {
+   "name": "Brian Babin",
+   "party": "R"
+  },
+  "38": {
+   "name": "Wesley Hunt",
+   "party": "R"
+  }
+ },
+ "tx_senate": {
+  "3": {
+   "name": "Robert Nichols",
+   "party": "R"
+  },
+  "4": {
+   "name": "Brett Ligon",
+   "party": "R"
+  },
+  "6": {
+   "name": "Carol Alvarado",
+   "party": "D"
+  },
+  "7": {
+   "name": "Paul Bettencourt",
+   "party": "R"
+  },
+  "11": {
+   "name": "Mayes Middleton",
+   "party": "R"
+  },
+  "13": {
+   "name": "Borris Miles",
+   "party": "D"
+  },
+  "15": {
+   "name": "Molly Cook",
+   "party": "D"
+  },
+  "17": {
+   "name": "Joan Huffman",
+   "party": "R"
+  },
+  "18": {
+   "name": "Lois Kolkhorst",
+   "party": "R"
+  }
+ },
+ "tx_house": {
+  "3": {
+   "name": "Cecil Bell Jr.",
+   "party": "R"
+  },
+  "15": {
+   "name": "Steve Toth",
+   "party": "R"
+  },
+  "18": {
+   "name": "Janis Holt",
+   "party": "R"
+  },
+  "23": {
+   "name": "Terri Leo-Wilson",
+   "party": "R"
+  },
+  "24": {
+   "name": "Greg Bonnen",
+   "party": "R"
+  },
+  "25": {
+   "name": "Cody Vasut",
+   "party": "R"
+  },
+  "26": {
+   "name": "Matt Morgan",
+   "party": "R"
+  },
+  "27": {
+   "name": "Ron Reynolds",
+   "party": "D"
+  },
+  "28": {
+   "name": "Gary Gates",
+   "party": "R"
+  },
+  "29": {
+   "name": "Jeffrey Barry",
+   "party": "R"
+  },
+  "76": {
+   "name": "Suleman Lalani",
+   "party": "D"
+  },
+  "85": {
+   "name": "Stan Kitzman",
+   "party": "R"
+  },
+  "126": {
+   "name": "Sam Harless",
+   "party": "R"
+  },
+  "127": {
+   "name": "Charles Cunningham",
+   "party": "R"
+  },
+  "128": {
+   "name": "Briscoe Cain",
+   "party": "R"
+  },
+  "129": {
+   "name": "Dennis Paul",
+   "party": "R"
+  },
+  "130": {
+   "name": "Tom Oliverson",
+   "party": "R"
+  },
+  "131": {
+   "name": "Alma Allen",
+   "party": "D"
+  },
+  "132": {
+   "name": "Mike Schofield",
+   "party": "R"
+  },
+  "133": {
+   "name": "Mano DeAyala",
+   "party": "R"
+  },
+  "134": {
+   "name": "Ann Johnson",
+   "party": "D"
+  },
+  "135": {
+   "name": "Jon Rosenthal",
+   "party": "D"
+  },
+  "137": {
+   "name": "Gene Wu",
+   "party": "D"
+  },
+  "138": {
+   "name": "Lacey Hull",
+   "party": "R"
+  },
+  "139": {
+   "name": "Charlene Ward Johnson",
+   "party": "D"
+  },
+  "140": {
+   "name": "Armando Walle",
+   "party": "D"
+  },
+  "141": {
+   "name": "Senfronia Thompson",
+   "party": "D"
+  },
+  "142": {
+   "name": "Harold Dutton Jr.",
+   "party": "D"
+  },
+  "143": {
+   "name": "Ana Hernandez",
+   "party": "D"
+  },
+  "144": {
+   "name": "Mary Ann Perez",
+   "party": "D"
+  },
+  "145": {
+   "name": "Christina Morales",
+   "party": "D"
+  },
+  "146": {
+   "name": "Lauren Ashley Simmons",
+   "party": "D"
+  },
+  "147": {
+   "name": "Jolanda Jones",
+   "party": "D"
+  },
+  "148": {
+   "name": "Penny Morales Shaw",
+   "party": "D"
+  },
+  "149": {
+   "name": "Hubert Vo",
+   "party": "D"
+  },
+  "150": {
+   "name": "Valoree Swanson",
+   "party": "R"
+  }
+ },
+ "harris_commissioners": {
+  "1": {
+   "name": "Rodney Ellis",
+   "party": "D"
+  },
+  "2": {
+   "name": "Adrian Garcia",
+   "party": "D"
+  },
+  "3": {
+   "name": "Tom Ramsey",
+   "party": "R"
+  },
+  "4": {
+   "name": "Lesley Briones",
+   "party": "D"
+  }
+ },
+ "houston_council": {
+  "A": {
+   "name": "Amy Peck",
+   "affiliation": "R"
+  },
+  "B": {
+   "name": "Tarsha Jackson",
+   "affiliation": "D"
+  },
+  "C": {
+   "name": "Joe Panzarella",
+   "affiliation": ""
+  },
+  "D": {
+   "name": "Carolyn Evans-Shabazz",
+   "affiliation": "D"
+  },
+  "E": {
+   "name": "Fred Flickinger",
+   "affiliation": "R"
+  },
+  "F": {
+   "name": "Tiffany Thomas",
+   "affiliation": "D"
+  },
+  "G": {
+   "name": "Mary Nan Huffman",
+   "affiliation": "R"
+  },
+  "H": {
+   "name": "Mario Castillo",
+   "affiliation": "D"
+  },
+  "I": {
+   "name": "Joaquin Martinez",
+   "affiliation": "D"
+  },
+  "J": {
+   "name": "Edward Pollard",
+   "affiliation": "D"
+  },
+  "K": {
+   "name": "Martha Castex-Tatum",
+   "affiliation": "D"
+  }
+ },
+ "sources": [
+  "https://en.wikipedia.org/wiki/New_York_State_Assembly",
+  "https://assembly.state.ny.us/mem/?sh=email",
+  "https://en.wikipedia.org/wiki/New_York_State_Senate",
+  "https://www.nysenate.gov/senators-committees",
+  "https://en.wikipedia.org/wiki/2026_New_York_state_elections",
+  "https://en.wikipedia.org/wiki/2026_New_York_State_Senate_election",
+  "https://en.wikipedia.org/wiki/2026_New_York_State_Assembly_election",
+  "https://ny1.com/nyc/queens/politics/2026/02/04/special-nyc-elections-2026--manhattan--queens-districts",
+  "https://en.wikipedia.org/wiki/New_York_City_Council",
+  "https://council.nyc.gov/districts/",
+  "https://www.cityandstateny.com/politics/2026/04/carl-wilson-wins-nyc-council-special-election-blow-mamdani/413190/",
+  "https://en.wikipedia.org/wiki/2025_New_York_City_borough_president_elections",
+  "https://en.wikipedia.org/wiki/List_of_United_States_representatives_from_New_York",
+  "https://en.wikipedia.org/wiki/List_of_United_States_representatives_from_Texas",
+  "https://www.texastribune.org/2026/01/31/christian-menefee-wins-special-election-runoff-texas-18th-congressional-district/",
+  "https://en.wikipedia.org/wiki/Texas_Senate",
+  "https://senate.texas.gov/members.php",
+  "https://en.wikipedia.org/wiki/Texas_House_of_Representatives",
+  "https://en.wikipedia.org/wiki/2026_Texas_House_of_Representatives_election",
+  "https://www.harriscountytx.gov/County-Judge-and-Commissioners/Harris-County-Elected-Officials",
+  "https://en.wikipedia.org/wiki/Houston_City_Council",
+  "https://www.click2houston.com/news/local/2026/05/17/joe-panzarella-wins-houston-city-council-district-c-runoff-defeating-nick-hellyar/",
+  "https://www.houstonpress.com/news/joe-panzarella-wins-district-c-city-council-runoff/"
+ ],
+ "notes": [
+  "NY Assembly 36: Diana Moreno (D) won Feb 3, 2026 special election after Zohran Mamdani resigned to become NYC mayor.",
+  "NY Assembly 74: Keith Powers (D) won Feb 3, 2026 special election after Harvey Epstein resigned to join NYC Council (District 2).",
+  "NY Senate 47: Erik Bottcher (D) won Feb 3, 2026 special election after Brad Hoylman-Sigal became Manhattan Borough President.",
+  "NY Senate 22: Sam Sutton (D) won May 20, 2025 special election after Simcha Felder resigned to join NYC Council (District 44).",
+  "NYC Council 3: Carl Wilson (D) won a spring 2026 special election (seat vacated by Erik Bottcher's move to State Senate).",
+  "NYC Council: new term began Jan 2026 after Nov 2025 elections; Julie Menin (D-5) is Speaker. Simcha Felder (D-44) is a registered Democrat who caucused with Senate Republicans while in Albany.",
+  "NYC Borough Presidents: Brad Hoylman-Sigal is new Manhattan BP (Jan 2026, succeeding Mark Levine, now Comptroller); other four incumbents re-elected Nov 2025.",
+  "NY Senate 12 (Gianaris) absent from one page of nysenate.gov listing extraction; confirmed via Wikipedia. Official lists also show minor-party lines (C, WF) omitted here.",
+  "NY retirements at end of 2026 (still serving): Assembly 12, 16, 66, 69, 73, 90; Senate 7, 12, 27; US House NY-7 (Vel\u00e1zquez) and NY-12 (Nadler) not seeking re-election.",
+  "TX-18: Christian Menefee (D) won Jan 31, 2026 special runoff over Amanda Edwards, filling seat vacant since Sylvester Turner's death (Mar 2025).",
+  "TX Senate 4: Brett Ligon (R) assumed office May 19, 2026, succeeding Brandon Creighton (resigned for Texas Tech University System chancellorship). Confirmed on senate.texas.gov.",
+  "Houston Council C: Joe Panzarella won May 16, 2026 special runoff (sworn in May 27) after Abbie Kamin left to become interim Harris County Attorney. Described as a progressive community organizer; no formal party affiliation documented, so affiliation left blank.",
+  "Houston Council: officially nonpartisan; D affiliations follow Wikipedia's Houston City Council table (less formally documented for Castillo and Martinez than for the R members).",
+  "Several TX incumbents are retiring or lost 2026 primaries (e.g., TX-22 Nehls, HD 15 Toth, HD 85 Kitzman, HD 126 Harless, HD 129 Paul, HD 131 Allen) but remain in office through the current term."
+ ]
+}

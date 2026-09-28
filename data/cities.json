@@ -23,15 +23,15 @@
       "holcCities": [
         "Aberdeen"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "ada_ok": {
       "slug": "ada_ok",
@@ -55,15 +55,15 @@
       "holcCities": [
         "Ada"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "aiken_sc": {
       "slug": "aiken_sc",
@@ -87,15 +87,15 @@
       "holcCities": [
         "Aiken"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "akron_oh": {
       "slug": "akron_oh",
@@ -119,15 +119,15 @@
       "holcCities": [
         "Akron"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "albany_ny": {
       "slug": "albany_ny",
@@ -152,15 +152,15 @@
       "holcCities": [
         "Albany"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "allentown_pa": {
       "slug": "allentown_pa",
@@ -184,15 +184,15 @@
       "holcCities": [
         "Allentown"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "altoona_pa": {
       "slug": "altoona_pa",
@@ -216,15 +216,15 @@
       "holcCities": [
         "Altoona"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "alva_ok": {
       "slug": "alva_ok",
@@ -248,15 +248,14 @@
       "holcCities": [
         "Alva"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
-        "race",
-        "pollution"
+        "race"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "amarillo_tx": {
       "slug": "amarillo_tx",
@@ -281,15 +280,15 @@
       "holcCities": [
         "Amarillo"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "arkadelphia_ar": {
       "slug": "arkadelphia_ar",
@@ -313,15 +312,15 @@
       "holcCities": [
         "Arkadelphia"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "arlington_ma": {
       "slug": "arlington_ma",
@@ -345,15 +344,15 @@
       "holcCities": [
         "Arlington"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "asheville_nc": {
       "slug": "asheville_nc",
@@ -377,15 +376,15 @@
       "holcCities": [
         "Asheville"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "atchison_ks": {
       "slug": "atchison_ks",
@@ -409,15 +408,15 @@
       "holcCities": [
         "Atchison"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "atlanta_ga": {
       "slug": "atlanta_ga",
@@ -443,15 +442,15 @@
       "holcCities": [
         "Atlanta"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "atlantic_city_nj": {
       "slug": "atlantic_city_nj",
@@ -475,48 +474,15 @@
       "holcCities": [
         "Atlantic City"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
-    },
-    "augusta_sc": {
-      "slug": "augusta_sc",
-      "label": "Augusta",
-      "state": "SC",
-      "stateFips": "45",
-      "center": [
-        33.4719,
-        -81.9942
-      ],
-      "zoom": 12,
-      "bbox": [
-        -82.099,
-        33.391,
-        -81.897,
-        33.562
-      ],
-      "counties": {
-        "245": "",
-        "003": "AIKEN"
-      },
-      "holcCities": [
-        "Augusta"
-      ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
-      "layers": [
-        "redlining",
-        "income",
-        "race",
-        "pollution"
-      ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "augusta_me": {
       "slug": "augusta_me",
@@ -540,15 +506,14 @@
       "holcCities": [
         "Augusta"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
-        "race",
-        "pollution"
+        "race"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "aurora_il": {
       "slug": "aurora_il",
@@ -573,15 +538,12 @@
       "holcCities": [
         "Aurora"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
-        "redlining",
-        "income",
-        "race",
-        "pollution"
+        "redlining"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "austin_mn": {
       "slug": "austin_mn",
@@ -605,15 +567,14 @@
       "holcCities": [
         "Austin"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
-        "race",
-        "pollution"
+        "race"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "austin_tx": {
       "slug": "austin_tx",
@@ -637,15 +598,15 @@
       "holcCities": [
         "Austin"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "baltimore_md": {
       "slug": "baltimore_md",
@@ -671,15 +632,15 @@
       "holcCities": [
         "Baltimore"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "batesville_ar": {
       "slug": "batesville_ar",
@@ -703,15 +664,15 @@
       "holcCities": [
         "Batesville"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "battle_creek_mi": {
       "slug": "battle_creek_mi",
@@ -735,15 +696,15 @@
       "holcCities": [
         "Battle Creek"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "bay_city_mi": {
       "slug": "bay_city_mi",
@@ -767,15 +728,15 @@
       "holcCities": [
         "Bay City"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "beaumont_tx": {
       "slug": "beaumont_tx",
@@ -799,15 +760,15 @@
       "holcCities": [
         "Beaumont"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "belmont_ma": {
       "slug": "belmont_ma",
@@ -831,15 +792,15 @@
       "holcCities": [
         "Belmont"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "bennington_vt": {
       "slug": "bennington_vt",
@@ -863,15 +824,15 @@
       "holcCities": [
         "Bennington"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "bergen_co_nj": {
       "slug": "bergen_co_nj",
@@ -897,15 +858,15 @@
       "holcCities": [
         "Bergen Co."
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "bethlehem_pa": {
       "slug": "bethlehem_pa",
@@ -930,15 +891,15 @@
       "holcCities": [
         "Bethlehem"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "binghamtonjohnson_city_ny": {
       "slug": "binghamtonjohnson_city_ny",
@@ -962,15 +923,15 @@
       "holcCities": [
         "Binghamton-Johnson City"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "birmingham_al": {
       "slug": "birmingham_al",
@@ -994,15 +955,15 @@
       "holcCities": [
         "Birmingham"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "boone_ia": {
       "slug": "boone_ia",
@@ -1026,15 +987,15 @@
       "holcCities": [
         "Boone"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "boothbay_me": {
       "slug": "boothbay_me",
@@ -1058,15 +1019,15 @@
       "holcCities": [
         "Boothbay"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "boston_ma": {
       "slug": "boston_ma",
@@ -1092,15 +1053,15 @@
       "holcCities": [
         "Boston"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "boulder_co": {
       "slug": "boulder_co",
@@ -1124,15 +1085,15 @@
       "holcCities": [
         "Boulder"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "braintree_ma": {
       "slug": "braintree_ma",
@@ -1156,48 +1117,15 @@
       "holcCities": [
         "Braintree"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
-    },
-    "brattleboro_nh": {
-      "slug": "brattleboro_nh",
-      "label": "Brattleboro",
-      "state": "NH",
-      "stateFips": "33",
-      "center": [
-        42.8489,
-        -72.564
-      ],
-      "zoom": 12,
-      "bbox": [
-        -72.637,
-        42.782,
-        -72.495,
-        42.913
-      ],
-      "counties": {
-        "025": "",
-        "005": "CHESHIRE"
-      },
-      "holcCities": [
-        "Brattleboro"
-      ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
-      "layers": [
-        "redlining",
-        "income",
-        "race",
-        "pollution"
-      ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "bridgeport_and_fairfield_ct": {
       "slug": "bridgeport_and_fairfield_ct",
@@ -1221,48 +1149,13 @@
       "holcCities": [
         "Bridgeport and Fairfield"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
-        "income",
-        "race",
         "pollution"
       ],
-      "featured": false
-    },
-    "bristol_tn": {
-      "slug": "bristol_tn",
-      "label": "Bristol",
-      "state": "TN",
-      "stateFips": "47",
-      "center": [
-        36.5983,
-        -82.1855
-      ],
-      "zoom": 12,
-      "bbox": [
-        -82.266,
-        36.544,
-        -82.107,
-        36.662
-      ],
-      "counties": {
-        "520": "",
-        "163": "SULLIVAN"
-      },
-      "holcCities": [
-        "Bristol"
-      ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
-      "layers": [
-        "redlining",
-        "income",
-        "race",
-        "pollution"
-      ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "brockton_ma": {
       "slug": "brockton_ma",
@@ -1287,15 +1180,15 @@
       "holcCities": [
         "Brockton"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "bronx_ny": {
       "slug": "bronx_ny",
@@ -1321,15 +1214,15 @@
       "holcCities": [
         "Bronx"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "brookline_ma": {
       "slug": "brookline_ma",
@@ -1355,15 +1248,15 @@
       "holcCities": [
         "Brookline"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "brooklyn_ny": {
       "slug": "brooklyn_ny",
@@ -1389,15 +1282,15 @@
       "holcCities": [
         "Brooklyn"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "buffalo_ny": {
       "slug": "buffalo_ny",
@@ -1421,15 +1314,15 @@
       "holcCities": [
         "Buffalo"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "burlington_vt": {
       "slug": "burlington_vt",
@@ -1453,15 +1346,15 @@
       "holcCities": [
         "Burlington"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "cambridge_ma": {
       "slug": "cambridge_ma",
@@ -1486,15 +1379,15 @@
       "holcCities": [
         "Cambridge"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "camden_ar": {
       "slug": "camden_ar",
@@ -1518,15 +1411,15 @@
       "holcCities": [
         "Camden"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "camden_nj": {
       "slug": "camden_nj",
@@ -1550,15 +1443,15 @@
       "holcCities": [
         "Camden"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "canton_oh": {
       "slug": "canton_oh",
@@ -1582,15 +1475,15 @@
       "holcCities": [
         "Canton"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "cape_girardeau_mo": {
       "slug": "cape_girardeau_mo",
@@ -1614,15 +1507,15 @@
       "holcCities": [
         "Cape Girardeau"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "carthage_mo": {
       "slug": "carthage_mo",
@@ -1646,15 +1539,15 @@
       "holcCities": [
         "Carthage"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "cedar_rapids_ia": {
       "slug": "cedar_rapids_ia",
@@ -1678,15 +1571,15 @@
       "holcCities": [
         "Cedar Rapids"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "charleston_sc": {
       "slug": "charleston_sc",
@@ -1710,15 +1603,15 @@
       "holcCities": [
         "Charleston"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "charleston_wv": {
       "slug": "charleston_wv",
@@ -1742,15 +1635,14 @@
       "holcCities": [
         "Charleston"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
-        "race",
-        "pollution"
+        "race"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "charlotte_nc": {
       "slug": "charlotte_nc",
@@ -1774,15 +1666,15 @@
       "holcCities": [
         "Charlotte"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "chattanooga_tn": {
       "slug": "chattanooga_tn",
@@ -1807,15 +1699,15 @@
       "holcCities": [
         "Chattanooga"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "chelsea_ma": {
       "slug": "chelsea_ma",
@@ -1840,15 +1732,15 @@
       "holcCities": [
         "Chelsea"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "chester_pa": {
       "slug": "chester_pa",
@@ -1872,15 +1764,15 @@
       "holcCities": [
         "Chester"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "chicago_il": {
       "slug": "chicago_il",
@@ -1908,15 +1800,15 @@
       "holcCities": [
         "Chicago"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "cleveland_oh": {
       "slug": "cleveland_oh",
@@ -1943,15 +1835,15 @@
       "holcCities": [
         "Cleveland"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "colorado_springs_co": {
       "slug": "colorado_springs_co",
@@ -1975,15 +1867,15 @@
       "holcCities": [
         "Colorado Springs"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "columbia_sc": {
       "slug": "columbia_sc",
@@ -2007,15 +1899,15 @@
       "holcCities": [
         "Columbia"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "columbus_ga": {
       "slug": "columbus_ga",
@@ -2039,15 +1931,15 @@
       "holcCities": [
         "Columbus"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "columbus_oh": {
       "slug": "columbus_oh",
@@ -2071,15 +1963,14 @@
       "holcCities": [
         "Columbus"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
-        "race",
-        "pollution"
+        "race"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "conway_ar": {
       "slug": "conway_ar",
@@ -2103,15 +1994,15 @@
       "holcCities": [
         "Conway"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "council_bluffs_ia": {
       "slug": "council_bluffs_ia",
@@ -2136,15 +2027,13 @@
       "holcCities": [
         "Council Bluffs"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
-        "income",
-        "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "covington_ky": {
       "slug": "covington_ky",
@@ -2169,15 +2058,15 @@
       "holcCities": [
         "Covington"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "crestview_fl": {
       "slug": "crestview_fl",
@@ -2201,15 +2090,13 @@
       "holcCities": [
         "Crestview"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
-        "income",
-        "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "dallas_tx": {
       "slug": "dallas_tx",
@@ -2233,15 +2120,15 @@
       "holcCities": [
         "Dallas"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "danville_va": {
       "slug": "danville_va",
@@ -2265,15 +2152,14 @@
       "holcCities": [
         "Danville"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
-        "race",
-        "pollution"
+        "race"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "davenport_ia": {
       "slug": "davenport_ia",
@@ -2297,15 +2183,15 @@
       "holcCities": [
         "Davenport"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "dayton_oh": {
       "slug": "dayton_oh",
@@ -2329,15 +2215,15 @@
       "holcCities": [
         "Dayton"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "daytona_beach_fl": {
       "slug": "daytona_beach_fl",
@@ -2361,15 +2247,15 @@
       "holcCities": [
         "Daytona Beach"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "defuniak_springs_fl": {
       "slug": "defuniak_springs_fl",
@@ -2393,15 +2279,15 @@
       "holcCities": [
         "DeFuniak Springs"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "deland_fl": {
       "slug": "deland_fl",
@@ -2425,15 +2311,15 @@
       "holcCities": [
         "DeLand"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "decatur_il": {
       "slug": "decatur_il",
@@ -2457,15 +2343,15 @@
       "holcCities": [
         "Decatur"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "dedham_ma": {
       "slug": "dedham_ma",
@@ -2490,15 +2376,15 @@
       "holcCities": [
         "Dedham"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "denver_co": {
       "slug": "denver_co",
@@ -2525,15 +2411,15 @@
       "holcCities": [
         "Denver"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "des_moines_ia": {
       "slug": "des_moines_ia",
@@ -2557,15 +2443,15 @@
       "holcCities": [
         "Des Moines"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "detroit_mi": {
       "slug": "detroit_mi",
@@ -2591,15 +2477,15 @@
       "holcCities": [
         "Detroit"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "dubuque_ia": {
       "slug": "dubuque_ia",
@@ -2624,15 +2510,15 @@
       "holcCities": [
         "Dubuque"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "duluth_mn": {
       "slug": "duluth_mn",
@@ -2657,15 +2543,14 @@
       "holcCities": [
         "Duluth"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
-        "race",
-        "pollution"
+        "race"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "durham_nc": {
       "slug": "durham_nc",
@@ -2689,15 +2574,15 @@
       "holcCities": [
         "Durham"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "east_st_louis_il": {
       "slug": "east_st_louis_il",
@@ -2722,15 +2607,15 @@
       "holcCities": [
         "East St. Louis"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "el_dorado_ar": {
       "slug": "el_dorado_ar",
@@ -2754,15 +2639,15 @@
       "holcCities": [
         "El Dorado"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "el_paso_tx": {
       "slug": "el_paso_tx",
@@ -2786,15 +2671,15 @@
       "holcCities": [
         "El Paso"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "elizabeth_city_nc": {
       "slug": "elizabeth_city_nc",
@@ -2818,15 +2703,15 @@
       "holcCities": [
         "Elizabeth City"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "elizabethton_tn": {
       "slug": "elizabethton_tn",
@@ -2850,15 +2735,15 @@
       "holcCities": [
         "Elizabethton"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "elmira_ny": {
       "slug": "elmira_ny",
@@ -2882,15 +2767,15 @@
       "holcCities": [
         "Elmira"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "enid_ok": {
       "slug": "enid_ok",
@@ -2914,15 +2799,15 @@
       "holcCities": [
         "Enid"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "erie_pa": {
       "slug": "erie_pa",
@@ -2946,15 +2831,15 @@
       "holcCities": [
         "Erie"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "erwin_tn": {
       "slug": "erwin_tn",
@@ -2978,15 +2863,15 @@
       "holcCities": [
         "Erwin"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "essex_co_nj": {
       "slug": "essex_co_nj",
@@ -3015,15 +2900,15 @@
       "holcCities": [
         "Essex Co."
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "evansville_in": {
       "slug": "evansville_in",
@@ -3048,15 +2933,15 @@
       "holcCities": [
         "Evansville"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "everett_ma": {
       "slug": "everett_ma",
@@ -3081,15 +2966,15 @@
       "holcCities": [
         "Everett"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "fall_river_ma": {
       "slug": "fall_river_ma",
@@ -3113,15 +2998,15 @@
       "holcCities": [
         "Fall River"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "fargo_nd": {
       "slug": "fargo_nd",
@@ -3146,15 +3031,15 @@
       "holcCities": [
         "Fargo"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "fayetteville_nc": {
       "slug": "fayetteville_nc",
@@ -3178,15 +3063,15 @@
       "holcCities": [
         "Fayetteville"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "fitchburg_ma": {
       "slug": "fitchburg_ma",
@@ -3210,15 +3095,14 @@
       "holcCities": [
         "Fitchburg"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
-        "race",
-        "pollution"
+        "race"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "flint_mi": {
       "slug": "flint_mi",
@@ -3242,15 +3126,15 @@
       "holcCities": [
         "Flint"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "fort_collins_co": {
       "slug": "fort_collins_co",
@@ -3274,15 +3158,15 @@
       "holcCities": [
         "Fort Collins"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "fort_morgan_co": {
       "slug": "fort_morgan_co",
@@ -3306,15 +3190,15 @@
       "holcCities": [
         "Fort Morgan"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "fort_smith_ar": {
       "slug": "fort_smith_ar",
@@ -3338,15 +3222,15 @@
       "holcCities": [
         "Fort Smith"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "fort_wayne_in": {
       "slug": "fort_wayne_in",
@@ -3370,15 +3254,15 @@
       "holcCities": [
         "Fort Wayne"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "fort_worth_tx": {
       "slug": "fort_worth_tx",
@@ -3402,15 +3286,15 @@
       "holcCities": [
         "Fort Worth"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "fresno_ca": {
       "slug": "fresno_ca",
@@ -3434,15 +3318,15 @@
       "holcCities": [
         "Fresno"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "galveston_tx": {
       "slug": "galveston_tx",
@@ -3466,15 +3350,15 @@
       "holcCities": [
         "Galveston"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "goldsboro_nc": {
       "slug": "goldsboro_nc",
@@ -3498,15 +3382,15 @@
       "holcCities": [
         "Goldsboro"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "grand_forks_nd": {
       "slug": "grand_forks_nd",
@@ -3531,15 +3415,15 @@
       "holcCities": [
         "Grand Forks"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "grand_junction_co": {
       "slug": "grand_junction_co",
@@ -3563,15 +3447,15 @@
       "holcCities": [
         "Grand Junction"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "grand_rapids_mi": {
       "slug": "grand_rapids_mi",
@@ -3595,15 +3479,15 @@
       "holcCities": [
         "Grand Rapids"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "greater_anderson_sc": {
       "slug": "greater_anderson_sc",
@@ -3627,15 +3511,15 @@
       "holcCities": [
         "Greater Anderson"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "greater_greenville_sc": {
       "slug": "greater_greenville_sc",
@@ -3659,15 +3543,15 @@
       "holcCities": [
         "Greater Greenville"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "greater_kansas_city_mo": {
       "slug": "greater_kansas_city_mo",
@@ -3695,15 +3579,15 @@
       "holcCities": [
         "Greater Kansas City"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "greeley_co": {
       "slug": "greeley_co",
@@ -3727,15 +3611,15 @@
       "holcCities": [
         "Greeley"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "greensboro_nc": {
       "slug": "greensboro_nc",
@@ -3759,15 +3643,15 @@
       "holcCities": [
         "Greensboro"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "greenville_tn": {
       "slug": "greenville_tn",
@@ -3791,15 +3675,15 @@
       "holcCities": [
         "Greenville"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "hamilton_oh": {
       "slug": "hamilton_oh",
@@ -3823,15 +3707,15 @@
       "holcCities": [
         "Hamilton"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "harrisburg_pa": {
       "slug": "harrisburg_pa",
@@ -3857,15 +3741,15 @@
       "holcCities": [
         "Harrisburg"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "harrisonburg_va": {
       "slug": "harrisonburg_va",
@@ -3889,15 +3773,14 @@
       "holcCities": [
         "Harrisonburg"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
-        "race",
-        "pollution"
+        "race"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "hartford_ct": {
       "slug": "hartford_ct",
@@ -3921,15 +3804,13 @@
       "holcCities": [
         "Hartford"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
-        "income",
-        "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "haverhill_ma": {
       "slug": "haverhill_ma",
@@ -3953,15 +3834,15 @@
       "holcCities": [
         "Haverhill"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "hendersonville_nc": {
       "slug": "hendersonville_nc",
@@ -3985,15 +3866,15 @@
       "holcCities": [
         "Hendersonville"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "high_point_nc": {
       "slug": "high_point_nc",
@@ -4017,15 +3898,15 @@
       "holcCities": [
         "High Point"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "holyoke_chicopee_ma": {
       "slug": "holyoke_chicopee_ma",
@@ -4050,47 +3931,15 @@
       "holcCities": [
         "Holyoke Chicopee"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
-    },
-    "houston_tx": {
-      "slug": "houston_tx",
-      "label": "Houston",
-      "state": "TX",
-      "stateFips": "48",
-      "center": [
-        29.7491,
-        -95.3617
-      ],
-      "zoom": 12,
-      "bbox": [
-        -95.485,
-        29.628,
-        -95.205,
-        29.864
-      ],
-      "counties": {
-        "201": "HARRIS"
-      },
-      "holcCities": [
-        "Houston"
-      ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
-      "layers": [
-        "redlining",
-        "income",
-        "race",
-        "pollution"
-      ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "houston": {
       "slug": "houston",
@@ -4114,17 +3963,14 @@
       "holcCities": [
         "Houston"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": 1937,
       "layers": [
         "redlining",
         "highways",
         "income",
         "race",
         "floods",
-        "pollution",
-        "political",
-        "capital"
+        "political"
       ],
       "featured": true,
       "politicalTypes": [
@@ -4134,7 +3980,9 @@
         "commissioner",
         "city_council"
       ],
-      "about": "This map visualizes layers of spatial inequality in Houston, from the 1940s to today. It shows how policies like redlining, highway construction through minority neighborhoods, petrochemical pollution, and recurring floods have compounded over decades to shape persistent patterns of racial and economic segregation."
+      "about": "This map layers Houston's 1937 HOLC redlining grades with the freeways built through its Black and Mexican-American neighborhoods, FEMA floodplains, and current Census income and race data.",
+      "decadeMin": 1930,
+      "citySurvey": true
     },
     "hudson_co_nj": {
       "slug": "hudson_co_nj",
@@ -4160,15 +4008,15 @@
       "holcCities": [
         "Hudson Co."
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "huntington_wv": {
       "slug": "huntington_wv",
@@ -4193,15 +4041,15 @@
       "holcCities": [
         "Huntington"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "huron_sd": {
       "slug": "huron_sd",
@@ -4225,15 +4073,15 @@
       "holcCities": [
         "Huron"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "indianapolis_in": {
       "slug": "indianapolis_in",
@@ -4257,15 +4105,15 @@
       "holcCities": [
         "Indianapolis"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "jackson_mi": {
       "slug": "jackson_mi",
@@ -4289,15 +4137,15 @@
       "holcCities": [
         "Jackson"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "jackson_ms": {
       "slug": "jackson_ms",
@@ -4322,15 +4170,15 @@
       "holcCities": [
         "Jackson"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "jacksonville_fl": {
       "slug": "jacksonville_fl",
@@ -4354,15 +4202,15 @@
       "holcCities": [
         "Jacksonville"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "jamestown_ny": {
       "slug": "jamestown_ny",
@@ -4386,15 +4234,15 @@
       "holcCities": [
         "Jamestown"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "johnson_city_tn": {
       "slug": "johnson_city_tn",
@@ -4418,15 +4266,15 @@
       "holcCities": [
         "Johnson City"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "johnstown_pa": {
       "slug": "johnstown_pa",
@@ -4450,15 +4298,15 @@
       "holcCities": [
         "Johnstown"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "joliet_il": {
       "slug": "joliet_il",
@@ -4482,15 +4330,15 @@
       "holcCities": [
         "Joliet"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "joplin_mo": {
       "slug": "joplin_mo",
@@ -4515,15 +4363,15 @@
       "holcCities": [
         "Joplin"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "junction_city_ks": {
       "slug": "junction_city_ks",
@@ -4547,15 +4395,15 @@
       "holcCities": [
         "Junction City"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "kalamazoo_mi": {
       "slug": "kalamazoo_mi",
@@ -4579,15 +4427,15 @@
       "holcCities": [
         "Kalamazoo"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "kenosha_wi": {
       "slug": "kenosha_wi",
@@ -4611,15 +4459,15 @@
       "holcCities": [
         "Kenosha"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "knoxville_tn": {
       "slug": "knoxville_tn",
@@ -4643,15 +4491,15 @@
       "holcCities": [
         "Knoxville"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "lake_co_gary_in": {
       "slug": "lake_co_gary_in",
@@ -4677,15 +4525,15 @@
       "holcCities": [
         "Lake Co. Gary"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "lancaster_pa": {
       "slug": "lancaster_pa",
@@ -4709,15 +4557,14 @@
       "holcCities": [
         "Lancaster"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
-        "race",
-        "pollution"
+        "race"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "lansing_mi": {
       "slug": "lansing_mi",
@@ -4743,15 +4590,15 @@
       "holcCities": [
         "Lansing"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "lawrence_ma": {
       "slug": "lawrence_ma",
@@ -4775,15 +4622,15 @@
       "holcCities": [
         "Lawrence"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "lexington_ky": {
       "slug": "lexington_ky",
@@ -4807,15 +4654,15 @@
       "holcCities": [
         "Lexington"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "lexington_ma": {
       "slug": "lexington_ma",
@@ -4839,15 +4686,15 @@
       "holcCities": [
         "Lexington"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "lima_oh": {
       "slug": "lima_oh",
@@ -4871,15 +4718,15 @@
       "holcCities": [
         "Lima"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "lincoln_ne": {
       "slug": "lincoln_ne",
@@ -4903,15 +4750,15 @@
       "holcCities": [
         "Lincoln"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "little_rock_ar": {
       "slug": "little_rock_ar",
@@ -4935,15 +4782,15 @@
       "holcCities": [
         "Little Rock"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "longmont_co": {
       "slug": "longmont_co",
@@ -4967,15 +4814,15 @@
       "holcCities": [
         "Longmont"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "lorain_oh": {
       "slug": "lorain_oh",
@@ -4999,15 +4846,15 @@
       "holcCities": [
         "Lorain"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "los_angeles_ca": {
       "slug": "los_angeles_ca",
@@ -5031,15 +4878,15 @@
       "holcCities": [
         "Los Angeles"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "louisville_ky": {
       "slug": "louisville_ky",
@@ -5063,15 +4910,15 @@
       "holcCities": [
         "Louisville"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "lowell_ma": {
       "slug": "lowell_ma",
@@ -5095,15 +4942,15 @@
       "holcCities": [
         "Lowell"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "lower_westchester_co_ny": {
       "slug": "lower_westchester_co_ny",
@@ -5128,15 +4975,15 @@
       "holcCities": [
         "Lower Westchester Co."
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "lynchburg_va": {
       "slug": "lynchburg_va",
@@ -5161,15 +5008,15 @@
       "holcCities": [
         "Lynchburg"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "lynn_ma": {
       "slug": "lynn_ma",
@@ -5193,15 +5040,15 @@
       "holcCities": [
         "Lynn"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "macon_ga": {
       "slug": "macon_ga",
@@ -5225,15 +5072,15 @@
       "holcCities": [
         "Macon"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "madison_wi": {
       "slug": "madison_wi",
@@ -5257,15 +5104,15 @@
       "holcCities": [
         "Madison"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "malden_ma": {
       "slug": "malden_ma",
@@ -5290,15 +5137,15 @@
       "holcCities": [
         "Malden"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "manchester_nh": {
       "slug": "manchester_nh",
@@ -5323,15 +5170,15 @@
       "holcCities": [
         "Manchester"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "manhattan_ny": {
       "slug": "manhattan_ny",
@@ -5356,15 +5203,15 @@
       "holcCities": [
         "Manhattan"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "mankato_mn": {
       "slug": "mankato_mn",
@@ -5389,15 +5236,15 @@
       "holcCities": [
         "Mankato"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "mckeesport_pa": {
       "slug": "mckeesport_pa",
@@ -5421,15 +5268,15 @@
       "holcCities": [
         "McKeesport"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "medford_ma": {
       "slug": "medford_ma",
@@ -5453,15 +5300,15 @@
       "holcCities": [
         "Medford"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "melrose_ma": {
       "slug": "melrose_ma",
@@ -5486,15 +5333,15 @@
       "holcCities": [
         "Melrose"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "memphis_tn": {
       "slug": "memphis_tn",
@@ -5518,15 +5365,15 @@
       "holcCities": [
         "Memphis"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "miami_fl": {
       "slug": "miami_fl",
@@ -5550,15 +5397,15 @@
       "holcCities": [
         "Miami"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "miami_ottawa_county_ok": {
       "slug": "miami_ottawa_county_ok",
@@ -5582,15 +5429,15 @@
       "holcCities": [
         "Miami Ottawa County"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "milbank_sd": {
       "slug": "milbank_sd",
@@ -5614,15 +5461,15 @@
       "holcCities": [
         "Milbank"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "milton_ma": {
       "slug": "milton_ma",
@@ -5647,15 +5494,15 @@
       "holcCities": [
         "Milton"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "milwaukee_co_wi": {
       "slug": "milwaukee_co_wi",
@@ -5680,15 +5527,15 @@
       "holcCities": [
         "Milwaukee Co."
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "minneapolis_mn": {
       "slug": "minneapolis_mn",
@@ -5714,15 +5561,15 @@
       "holcCities": [
         "Minneapolis"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "minot_nd": {
       "slug": "minot_nd",
@@ -5746,15 +5593,14 @@
       "holcCities": [
         "Minot"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
-        "race",
-        "pollution"
+        "race"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "mitchell_sd": {
       "slug": "mitchell_sd",
@@ -5778,15 +5624,14 @@
       "holcCities": [
         "Mitchell"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
-        "race",
-        "pollution"
+        "race"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "mobile_al": {
       "slug": "mobile_al",
@@ -5810,15 +5655,15 @@
       "holcCities": [
         "Mobile"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "monmouth_nj": {
       "slug": "monmouth_nj",
@@ -5844,15 +5689,15 @@
       "holcCities": [
         "Monmouth"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "montgomery_al": {
       "slug": "montgomery_al",
@@ -5876,15 +5721,15 @@
       "holcCities": [
         "Montgomery"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "montpelier_vt": {
       "slug": "montpelier_vt",
@@ -5908,15 +5753,15 @@
       "holcCities": [
         "Montpelier"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "muncie_in": {
       "slug": "muncie_in",
@@ -5940,15 +5785,15 @@
       "holcCities": [
         "Muncie"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "muskegon_mi": {
       "slug": "muskegon_mi",
@@ -5972,15 +5817,15 @@
       "holcCities": [
         "Muskegon"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "muskogee_ok": {
       "slug": "muskogee_ok",
@@ -6004,15 +5849,15 @@
       "holcCities": [
         "Muskogee"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "nashville_tn": {
       "slug": "nashville_tn",
@@ -6036,15 +5881,15 @@
       "holcCities": [
         "Nashville"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "needham_ma": {
       "slug": "needham_ma",
@@ -6068,15 +5913,15 @@
       "holcCities": [
         "Needham"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "new_bedford_ma": {
       "slug": "new_bedford_ma",
@@ -6100,15 +5945,15 @@
       "holcCities": [
         "New Bedford"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "new_bern_nc": {
       "slug": "new_bern_nc",
@@ -6132,15 +5977,15 @@
       "holcCities": [
         "New Bern"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "new_britain_ct": {
       "slug": "new_britain_ct",
@@ -6164,15 +6009,13 @@
       "holcCities": [
         "New Britain"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
-        "income",
-        "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "new_castle_pa": {
       "slug": "new_castle_pa",
@@ -6196,15 +6039,15 @@
       "holcCities": [
         "New Castle"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "new_haven_ct": {
       "slug": "new_haven_ct",
@@ -6228,15 +6071,13 @@
       "holcCities": [
         "New Haven"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
-        "income",
-        "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "new_orleans_la": {
       "slug": "new_orleans_la",
@@ -6262,15 +6103,14 @@
       "holcCities": [
         "New Orleans"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
-        "race",
-        "pollution"
+        "race"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "new_smyrna_fl": {
       "slug": "new_smyrna_fl",
@@ -6294,15 +6134,15 @@
       "holcCities": [
         "New Smyrna"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "nyc": {
       "slug": "nyc",
@@ -6335,13 +6175,11 @@
         "Staten Island"
       ],
       "holcYear": 1938,
-      "decadeMin": 1930,
       "layers": [
         "redlining",
         "highways",
         "income",
         "race",
-        "floods",
         "pollution",
         "political"
       ],
@@ -6353,7 +6191,9 @@
         "borough_president",
         "city_council"
       ],
-      "about": "This map visualizes layers of spatial inequality in New York City, from the 1930s to today. It shows how policies like redlining, Robert Moses-era highway construction, industrial siting, and flood risk have compounded over decades to create persistent patterns of racial and economic segregation."
+      "about": "This map layers New York City's 1938 HOLC redlining grades with Robert Moses-era highway construction, current Census income and race data, and EPA Toxics Release Inventory facilities.",
+      "decadeMin": 1930,
+      "citySurvey": true
     },
     "newport_city_vt": {
       "slug": "newport_city_vt",
@@ -6377,15 +6217,15 @@
       "holcCities": [
         "Newport City"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "newport_news_va": {
       "slug": "newport_news_va",
@@ -6410,15 +6250,14 @@
       "holcCities": [
         "Newport News"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
-        "race",
-        "pollution"
+        "race"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "newton_ma": {
       "slug": "newton_ma",
@@ -6444,15 +6283,15 @@
       "holcCities": [
         "Newton"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "niagara_falls_ny": {
       "slug": "niagara_falls_ny",
@@ -6476,15 +6315,15 @@
       "holcCities": [
         "Niagara Falls"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "norfolk_va": {
       "slug": "norfolk_va",
@@ -6513,15 +6352,14 @@
       "holcCities": [
         "Norfolk"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
-        "race",
-        "pollution"
+        "race"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "norman_ok": {
       "slug": "norman_ok",
@@ -6545,15 +6383,15 @@
       "holcCities": [
         "Norman"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "oakland_ca": {
       "slug": "oakland_ca",
@@ -6578,15 +6416,15 @@
       "holcCities": [
         "Oakland"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "ogden_ut": {
       "slug": "ogden_ut",
@@ -6610,15 +6448,14 @@
       "holcCities": [
         "Ogden"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
-        "race",
-        "pollution"
+        "race"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "oklahoma_city_ok": {
       "slug": "oklahoma_city_ok",
@@ -6642,15 +6479,15 @@
       "holcCities": [
         "Oklahoma City"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "omaha_ne": {
       "slug": "omaha_ne",
@@ -6676,15 +6513,15 @@
       "holcCities": [
         "Omaha"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "orangeburg_sc": {
       "slug": "orangeburg_sc",
@@ -6708,15 +6545,15 @@
       "holcCities": [
         "Orangeburg"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "orlando_fl": {
       "slug": "orlando_fl",
@@ -6740,15 +6577,15 @@
       "holcCities": [
         "Orlando"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "oshkosh_wi": {
       "slug": "oshkosh_wi",
@@ -6772,15 +6609,15 @@
       "holcCities": [
         "Oshkosh"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "passaic_county_nj": {
       "slug": "passaic_county_nj",
@@ -6806,15 +6643,15 @@
       "holcCities": [
         "Passaic County"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "pawtucket__central_falls_ri": {
       "slug": "pawtucket__central_falls_ri",
@@ -6839,15 +6676,15 @@
       "holcCities": [
         "Pawtucket & Central Falls"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "pensacola_fl": {
       "slug": "pensacola_fl",
@@ -6871,15 +6708,14 @@
       "holcCities": [
         "Pensacola"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
-        "race",
-        "pollution"
+        "race"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "peoria_il": {
       "slug": "peoria_il",
@@ -6904,15 +6740,15 @@
       "holcCities": [
         "Peoria"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "perth_amboy_nj": {
       "slug": "perth_amboy_nj",
@@ -6936,15 +6772,15 @@
       "holcCities": [
         "Perth Amboy"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "petersburg_va": {
       "slug": "petersburg_va",
@@ -6970,15 +6806,15 @@
       "holcCities": [
         "Petersburg"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "philadelphia_pa": {
       "slug": "philadelphia_pa",
@@ -7005,15 +6841,15 @@
       "holcCities": [
         "Philadelphia"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "phoebus_va": {
       "slug": "phoebus_va",
@@ -7037,15 +6873,14 @@
       "holcCities": [
         "Phoebus"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
-        "race",
-        "pollution"
+        "race"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "phoenix_az": {
       "slug": "phoenix_az",
@@ -7069,15 +6904,15 @@
       "holcCities": [
         "Phoenix"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "pittsburgh_pa": {
       "slug": "pittsburgh_pa",
@@ -7102,15 +6937,15 @@
       "holcCities": [
         "Pittsburgh"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "pittsfield_ma": {
       "slug": "pittsfield_ma",
@@ -7134,15 +6969,15 @@
       "holcCities": [
         "Pittsfield"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "pontiac_mi": {
       "slug": "pontiac_mi",
@@ -7166,15 +7001,15 @@
       "holcCities": [
         "Pontiac"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "port_arthur_tx": {
       "slug": "port_arthur_tx",
@@ -7198,15 +7033,15 @@
       "holcCities": [
         "Port Arthur"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "portland_me": {
       "slug": "portland_me",
@@ -7230,15 +7065,15 @@
       "holcCities": [
         "Portland"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "portland_or": {
       "slug": "portland_or",
@@ -7263,15 +7098,15 @@
       "holcCities": [
         "Portland"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "portsmouth_oh": {
       "slug": "portsmouth_oh",
@@ -7295,15 +7130,15 @@
       "holcCities": [
         "Portsmouth"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "poughkeepsie_ny": {
       "slug": "poughkeepsie_ny",
@@ -7327,15 +7162,15 @@
       "holcCities": [
         "Poughkeepsie"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "poultney_vt": {
       "slug": "poultney_vt",
@@ -7360,15 +7195,15 @@
       "holcCities": [
         "Poultney"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "providence_ri": {
       "slug": "providence_ri",
@@ -7392,15 +7227,15 @@
       "holcCities": [
         "Providence"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "pueblo_co": {
       "slug": "pueblo_co",
@@ -7424,15 +7259,15 @@
       "holcCities": [
         "Pueblo"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "queens_ny": {
       "slug": "queens_ny",
@@ -7458,15 +7293,15 @@
       "holcCities": [
         "Queens"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "quincy_ma": {
       "slug": "quincy_ma",
@@ -7490,15 +7325,15 @@
       "holcCities": [
         "Quincy"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "racine_wi": {
       "slug": "racine_wi",
@@ -7522,15 +7357,15 @@
       "holcCities": [
         "Racine"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "rapid_city_sd": {
       "slug": "rapid_city_sd",
@@ -7554,15 +7389,15 @@
       "holcCities": [
         "Rapid City"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "revere_ma": {
       "slug": "revere_ma",
@@ -7588,15 +7423,15 @@
       "holcCities": [
         "Revere"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "richmond_va": {
       "slug": "richmond_va",
@@ -7621,15 +7456,15 @@
       "holcCities": [
         "Richmond"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "roanoke_va": {
       "slug": "roanoke_va",
@@ -7655,15 +7490,15 @@
       "holcCities": [
         "Roanoke"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "rochester_mn": {
       "slug": "rochester_mn",
@@ -7687,15 +7522,15 @@
       "holcCities": [
         "Rochester"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "rochester_ny": {
       "slug": "rochester_ny",
@@ -7719,15 +7554,15 @@
       "holcCities": [
         "Rochester"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "rock_hill_sc": {
       "slug": "rock_hill_sc",
@@ -7751,15 +7586,15 @@
       "holcCities": [
         "Rock Hill"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "rockford_il": {
       "slug": "rockford_il",
@@ -7783,15 +7618,15 @@
       "holcCities": [
         "Rockford"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "rocky_mount_nc": {
       "slug": "rocky_mount_nc",
@@ -7816,15 +7651,15 @@
       "holcCities": [
         "Rocky Mount"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "russellville_ar": {
       "slug": "russellville_ar",
@@ -7848,15 +7683,15 @@
       "holcCities": [
         "Russellville"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "rutland_vt": {
       "slug": "rutland_vt",
@@ -7880,15 +7715,15 @@
       "holcCities": [
         "Rutland"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "sacramento_ca": {
       "slug": "sacramento_ca",
@@ -7913,15 +7748,15 @@
       "holcCities": [
         "Sacramento"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "saginaw_mi": {
       "slug": "saginaw_mi",
@@ -7945,15 +7780,15 @@
       "holcCities": [
         "Saginaw"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "salem_ma": {
       "slug": "salem_ma",
@@ -7977,15 +7812,15 @@
       "holcCities": [
         "Salem"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "salt_lake_city_ut": {
       "slug": "salt_lake_city_ut",
@@ -8009,15 +7844,15 @@
       "holcCities": [
         "Salt Lake City"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "san_antonio_tx": {
       "slug": "san_antonio_tx",
@@ -8041,15 +7876,15 @@
       "holcCities": [
         "San Antonio"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "san_diego_ca": {
       "slug": "san_diego_ca",
@@ -8073,15 +7908,15 @@
       "holcCities": [
         "San Diego"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "san_francisco_ca": {
       "slug": "san_francisco_ca",
@@ -8106,15 +7941,15 @@
       "holcCities": [
         "San Francisco"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "san_jose_ca": {
       "slug": "san_jose_ca",
@@ -8138,15 +7973,15 @@
       "holcCities": [
         "San Jose"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "sanford_me": {
       "slug": "sanford_me",
@@ -8170,15 +8005,15 @@
       "holcCities": [
         "Sanford"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "saugus_ma": {
       "slug": "saugus_ma",
@@ -8203,15 +8038,15 @@
       "holcCities": [
         "Saugus"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "savannah_ga": {
       "slug": "savannah_ga",
@@ -8235,15 +8070,15 @@
       "holcCities": [
         "Savannah"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "schenectady_ny": {
       "slug": "schenectady_ny",
@@ -8269,15 +8104,15 @@
       "holcCities": [
         "Schenectady"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "seattle_wa": {
       "slug": "seattle_wa",
@@ -8301,15 +8136,15 @@
       "holcCities": [
         "Seattle"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "shreveport_la": {
       "slug": "shreveport_la",
@@ -8334,15 +8169,14 @@
       "holcCities": [
         "Shreveport"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
-        "race",
-        "pollution"
+        "race"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "sioux_city_ia": {
       "slug": "sioux_city_ia",
@@ -8368,15 +8202,15 @@
       "holcCities": [
         "Sioux City"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "sioux_falls_sd": {
       "slug": "sioux_falls_sd",
@@ -8400,15 +8234,15 @@
       "holcCities": [
         "Sioux Falls"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "somerville_ma": {
       "slug": "somerville_ma",
@@ -8433,15 +8267,15 @@
       "holcCities": [
         "Somerville"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "south_bend_in": {
       "slug": "south_bend_in",
@@ -8465,15 +8299,14 @@
       "holcCities": [
         "South Bend"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
-        "race",
-        "pollution"
+        "race"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "south_mcalester_ok": {
       "slug": "south_mcalester_ok",
@@ -8497,15 +8330,15 @@
       "holcCities": [
         "South McAlester"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "spartanburg_sc": {
       "slug": "spartanburg_sc",
@@ -8529,15 +8362,15 @@
       "holcCities": [
         "Spartanburg"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "spokane_wa": {
       "slug": "spokane_wa",
@@ -8561,15 +8394,15 @@
       "holcCities": [
         "Spokane"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "springfield_il": {
       "slug": "springfield_il",
@@ -8593,15 +8426,15 @@
       "holcCities": [
         "Springfield"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "springfield_ma": {
       "slug": "springfield_ma",
@@ -8625,15 +8458,15 @@
       "holcCities": [
         "Springfield"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "springfield_mo": {
       "slug": "springfield_mo",
@@ -8657,15 +8490,15 @@
       "holcCities": [
         "Springfield"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "springfield_oh": {
       "slug": "springfield_oh",
@@ -8689,15 +8522,15 @@
       "holcCities": [
         "Springfield"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "springfield_vt": {
       "slug": "springfield_vt",
@@ -8721,15 +8554,15 @@
       "holcCities": [
         "Springfield"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "st_albans_vt": {
       "slug": "st_albans_vt",
@@ -8753,15 +8586,15 @@
       "holcCities": [
         "St. Albans"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "st_cloud_mn": {
       "slug": "st_cloud_mn",
@@ -8787,15 +8620,15 @@
       "holcCities": [
         "St. Cloud"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "st_johnsbury_vt": {
       "slug": "st_johnsbury_vt",
@@ -8819,15 +8652,15 @@
       "holcCities": [
         "St. Johnsbury"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "st_joseph_mo": {
       "slug": "st_joseph_mo",
@@ -8851,15 +8684,15 @@
       "holcCities": [
         "St. Joseph"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "st_louis_mo": {
       "slug": "st_louis_mo",
@@ -8884,15 +8717,14 @@
       "holcCities": [
         "St. Louis"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
-        "race",
-        "pollution"
+        "race"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "st_paul_mn": {
       "slug": "st_paul_mn",
@@ -8918,15 +8750,15 @@
       "holcCities": [
         "St. Paul"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "st_petersburg_fl": {
       "slug": "st_petersburg_fl",
@@ -8950,15 +8782,14 @@
       "holcCities": [
         "St. Petersburg"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
-        "race",
-        "pollution"
+        "race"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "stamford_darien_and_new_canaan_ct": {
       "slug": "stamford_darien_and_new_canaan_ct",
@@ -8982,15 +8813,13 @@
       "holcCities": [
         "Stamford, Darien, and New Canaan"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
-        "income",
-        "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "staples_mn": {
       "slug": "staples_mn",
@@ -9014,15 +8843,15 @@
       "holcCities": [
         "Staples"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "staten_island_ny": {
       "slug": "staten_island_ny",
@@ -9046,15 +8875,15 @@
       "holcCities": [
         "Staten Island"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "statesville_nc": {
       "slug": "statesville_nc",
@@ -9078,15 +8907,15 @@
       "holcCities": [
         "Statesville"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "staunton_va": {
       "slug": "staunton_va",
@@ -9110,15 +8939,14 @@
       "holcCities": [
         "Staunton"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
-        "race",
-        "pollution"
+        "race"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "stockton_ca": {
       "slug": "stockton_ca",
@@ -9142,15 +8970,15 @@
       "holcCities": [
         "Stockton"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "sumter_sc": {
       "slug": "sumter_sc",
@@ -9174,15 +9002,15 @@
       "holcCities": [
         "Sumter"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "syracuse_ny": {
       "slug": "syracuse_ny",
@@ -9206,15 +9034,15 @@
       "holcCities": [
         "Syracuse"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "tacoma_wa": {
       "slug": "tacoma_wa",
@@ -9238,15 +9066,15 @@
       "holcCities": [
         "Tacoma"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "tampa_fl": {
       "slug": "tampa_fl",
@@ -9270,15 +9098,15 @@
       "holcCities": [
         "Tampa"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "terre_haute_in": {
       "slug": "terre_haute_in",
@@ -9302,15 +9130,15 @@
       "holcCities": [
         "Terre Haute"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "texarkana_ar": {
       "slug": "texarkana_ar",
@@ -9335,15 +9163,15 @@
       "holcCities": [
         "Texarkana"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "toledo_oh": {
       "slug": "toledo_oh",
@@ -9369,15 +9197,15 @@
       "holcCities": [
         "Toledo"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "topeka_ks": {
       "slug": "topeka_ks",
@@ -9401,15 +9229,15 @@
       "holcCities": [
         "Topeka"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "trenton_nj": {
       "slug": "trenton_nj",
@@ -9433,15 +9261,15 @@
       "holcCities": [
         "Trenton"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "troy_ny": {
       "slug": "troy_ny",
@@ -9466,15 +9294,15 @@
       "holcCities": [
         "Troy"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "tulsa_ok": {
       "slug": "tulsa_ok",
@@ -9499,15 +9327,15 @@
       "holcCities": [
         "Tulsa"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "union_co_nj": {
       "slug": "union_co_nj",
@@ -9535,15 +9363,15 @@
       "holcCities": [
         "Union Co."
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "utica_ny": {
       "slug": "utica_ny",
@@ -9568,15 +9396,15 @@
       "holcCities": [
         "Utica"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "vermillion_sd": {
       "slug": "vermillion_sd",
@@ -9600,15 +9428,14 @@
       "holcCities": [
         "Vermillion"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
-        "race",
-        "pollution"
+        "race"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "waco_tx": {
       "slug": "waco_tx",
@@ -9632,15 +9459,15 @@
       "holcCities": [
         "Waco"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "waltham_ma": {
       "slug": "waltham_ma",
@@ -9664,15 +9491,15 @@
       "holcCities": [
         "Waltham"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "warren_oh": {
       "slug": "warren_oh",
@@ -9696,15 +9523,15 @@
       "holcCities": [
         "Warren"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "waterbury_ct": {
       "slug": "waterbury_ct",
@@ -9729,15 +9556,13 @@
       "holcCities": [
         "Waterbury"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
-        "income",
-        "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "waterloo_ia": {
       "slug": "waterloo_ia",
@@ -9761,15 +9586,15 @@
       "holcCities": [
         "Waterloo"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "watertown_ma": {
       "slug": "watertown_ma",
@@ -9793,15 +9618,15 @@
       "holcCities": [
         "Watertown"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "watertown_sd": {
       "slug": "watertown_sd",
@@ -9825,15 +9650,15 @@
       "holcCities": [
         "Watertown"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "waterville_me": {
       "slug": "waterville_me",
@@ -9857,15 +9682,15 @@
       "holcCities": [
         "Waterville"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "wheeling_wv": {
       "slug": "wheeling_wv",
@@ -9890,15 +9715,15 @@
       "holcCities": [
         "Wheeling"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "wichita_ks": {
       "slug": "wichita_ks",
@@ -9922,15 +9747,15 @@
       "holcCities": [
         "Wichita"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "wichita_falls_tx": {
       "slug": "wichita_falls_tx",
@@ -9954,15 +9779,15 @@
       "holcCities": [
         "Wichita Falls"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "wilkesbarre_pa": {
       "slug": "wilkesbarre_pa",
@@ -9986,15 +9811,15 @@
       "holcCities": [
         "Wilkes-Barre"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "williston_nd": {
       "slug": "williston_nd",
@@ -10018,15 +9843,15 @@
       "holcCities": [
         "Williston"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "winchester_ma": {
       "slug": "winchester_ma",
@@ -10050,15 +9875,15 @@
       "holcCities": [
         "Winchester"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "windsor_vt": {
       "slug": "windsor_vt",
@@ -10083,15 +9908,15 @@
       "holcCities": [
         "Windsor"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": false
     },
     "winstonsalem_nc": {
       "slug": "winstonsalem_nc",
@@ -10115,15 +9940,15 @@
       "holcCities": [
         "Winston-Salem"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "winthrop_ma": {
       "slug": "winthrop_ma",
@@ -10147,15 +9972,15 @@
       "holcCities": [
         "Winthrop"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "woonsocket_ri": {
       "slug": "woonsocket_ri",
@@ -10179,15 +10004,15 @@
       "holcCities": [
         "Woonsocket"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "worcester_ma": {
       "slug": "worcester_ma",
@@ -10211,15 +10036,15 @@
       "holcCities": [
         "Worcester"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "york_pa": {
       "slug": "york_pa",
@@ -10243,15 +10068,15 @@
       "holcCities": [
         "York"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
     },
     "youngstown_oh": {
       "slug": "youngstown_oh",
@@ -10276,15 +10101,105 @@
       "holcCities": [
         "Youngstown"
       ],
-      "holcYear": 1940,
-      "decadeMin": 1940,
+      "holcYear": null,
       "layers": [
         "redlining",
         "income",
         "race",
         "pollution"
       ],
-      "featured": false
+      "featured": false,
+      "citySurvey": true
+    },
+    "augusta_ga": {
+      "slug": "augusta_ga",
+      "label": "Augusta",
+      "state": "GA",
+      "stateFips": "13",
+      "center": [
+        33.4719,
+        -81.9942
+      ],
+      "zoom": 12,
+      "bbox": [
+        -82.099,
+        33.391,
+        -81.897,
+        33.562
+      ],
+      "counties": {
+        "245": "RICHMOND"
+      },
+      "holcCities": [
+        "Augusta"
+      ],
+      "holcYear": null,
+      "layers": [
+        "redlining",
+        "pollution"
+      ],
+      "featured": false,
+      "citySurvey": true
+    },
+    "brattleboro_vt": {
+      "slug": "brattleboro_vt",
+      "label": "Brattleboro",
+      "state": "VT",
+      "stateFips": "50",
+      "center": [
+        42.8489,
+        -72.564
+      ],
+      "zoom": 12,
+      "bbox": [
+        -72.637,
+        42.782,
+        -72.495,
+        42.913
+      ],
+      "counties": {
+        "025": "WINDHAM"
+      },
+      "holcCities": [
+        "Brattleboro"
+      ],
+      "holcYear": null,
+      "layers": [
+        "redlining",
+        "pollution"
+      ],
+      "featured": false,
+      "citySurvey": false
+    },
+    "bristol_va": {
+      "slug": "bristol_va",
+      "label": "Bristol",
+      "state": "VA",
+      "stateFips": "51",
+      "center": [
+        36.5983,
+        -82.1855
+      ],
+      "zoom": 12,
+      "bbox": [
+        -82.266,
+        36.544,
+        -82.107,
+        36.662
+      ],
+      "counties": {
+        "520": "BRISTOL CITY"
+      },
+      "holcCities": [
+        "Bristol"
+      ],
+      "holcYear": null,
+      "layers": [
+        "redlining",
+        "pollution"
+      ],
+      "featured": false,
+      "citySurvey": false
     }
   }
 }
