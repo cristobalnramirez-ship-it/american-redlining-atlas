@@ -49,10 +49,11 @@ def fetch_tri(slug):
     for county_fips, county_name in counties.items():
         # Try by county name if available, otherwise by state only
         name = county_name.strip() if county_name else ''
-        if name:
-            url = f"{BASE_URL}/state_abbr/{state}/county_name/{urllib.parse.quote(name)}"
-        else:
-            url = f"{BASE_URL}/state_abbr/{state}"
+        if not name:
+            # Never fall back to a whole-state query: it floods the city with far-away sites.
+            print(f"  Skipping county {county_fips}: no county name in cities.json")
+            continue
+        url = f"{BASE_URL}/state_abbr/{state}/county_name/{urllib.parse.quote(name)}"
 
         print(f"  Fetching county: {name or county_fips}...")
         offset = 0
@@ -123,16 +124,6 @@ def fetch_tri(slug):
         if lat is None or lon is None or lat == 0 or lon == 0:
             continue
 
-        # Infer some fields for compatibility with the frontend
-        year_reported = None
-        for key in ['REPORTING_YEAR', 'SUBMISSION_REPORTING_YEAR']:
-            if fac.get(key):
-                try:
-                    year_reported = int(fac[key])
-                except (ValueError, TypeError):
-                    pass
-                break
-
         features.append({
             'type': 'Feature',
             'geometry': {'type': 'Point', 'coordinates': [lon, lat]},
@@ -140,12 +131,6 @@ def fetch_tri(slug):
                 'facility_name': fac.get('facility_name', fac.get('FACILITY_NAME', '')),
                 'industry': fac.get('industry_sector', fac.get('INDUSTRY_SECTOR', fac.get('sic_code', fac.get('SIC_CODE', '')))),
                 'tri_facility_id': fac.get('tri_facility_id', fac.get('TRI_FACILITY_ID', '')),
-                'year_first_reported': year_reported or 1987,
-                'carcinogen': False,  # Would need TRI release data to determine
-                'total_releases_lbs': 1000,  # Placeholder
-                'top_chemical': 'Unknown',
-                'risk_score': 5,
-                'nearby_neighborhoods': [],
             },
         })
 

@@ -127,6 +127,11 @@ def fetch_acs_data(state_fips, county_fips, year=2022, api_key=None):
 def fetch_census(slug, api_key=None):
     config = load_city_config(slug)
     state_fips = config['stateFips']
+    if state_fips == '09':
+        # Connecticut: the 2022 ACS reports tracts under the nine new planning-region
+        # county-equivalents (FIPS 110-190), not the old eight counties used here.
+        # Update this city's "counties" in cities.json to planning-region codes first.
+        print("  NOTE: Connecticut uses planning-region codes in ACS 2022; see comment in fetch_census.py")
     counties = config['counties']
 
     print(f"Fetching census data for {config['label']}, {config['state']}")

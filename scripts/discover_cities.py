@@ -185,7 +185,7 @@ def build_city_configs(city_groups):
             'bbox': bbox,
             'counties': counties,
             'holcCities': [city_name],
-            'holcYear': 1940,  # default, can be refined
+            'holcYear': None,  # set only when verified; the map shows '1930s' otherwise
             'decadeMin': 1940,
             'layers': ['redlining', 'income', 'race', 'pollution'],
             'featured': False,

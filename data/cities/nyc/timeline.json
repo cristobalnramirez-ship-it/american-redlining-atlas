@@ -2,154 +2,197 @@
   {
     "year": 1938,
     "decade": "1930s",
-    "title": "HOLC Redlining Maps Drawn",
-    "description": "The Home Owners' Loan Corporation grades NYC neighborhoods A through D. Black communities in Harlem, Bedford-Stuyvesant, and the South Bronx are marked 'Hazardous' (D), denying residents access to federally-backed mortgages and creating a spatial template for decades of disinvestment.",
-    "category": "redlining",
-    "location": [40.7831, -73.9712],
-    "layers": ["redlining"]
+    "title": "HOLC Grades New York City",
+    "description": "The Home Owners' Loan Corporation grades New York's neighborhoods A through D. Harlem and Bedford-Stuyvesant, already home to large Black communities, are graded D (\"Hazardous\"), as are Mott Haven, Melrose and Morrisania in the South Bronx — then largely Irish, German, Italian and Jewish neighborhoods that became majority Black and Puerto Rican in the 1950s. Historians find the maps recorded and codified racial judgments that the FHA and private lenders were already applying.",
+    "layers": [
+      "redlining"
+    ],
+    "source": [
+      "https://dsl.richmond.edu/panorama/redlining/",
+      "https://en.wikipedia.org/wiki/South_Bronx"
+    ]
   },
   {
     "year": 1939,
     "decade": "1930s",
-    "title": "BQE Construction Begins",
-    "description": "Robert Moses begins the Brooklyn-Queens Expressway, his first major NYC highway. The BQE will carve through Brooklyn Heights, sever Red Hook from the rest of Brooklyn, and shadow Third Avenue in Sunset Park — destroying the commercial heart of working-class neighborhoods.",
-    "category": "infrastructure",
-    "location": [40.6920, -73.9980],
-    "layers": ["highways"]
+    "title": "First BQE Section Opens",
+    "description": "The Brooklyn-Queens Expressway's first section, at Meeker Avenue and the Kosciuszko Bridge, opens; the full road is finished in 1964. Its Hicks Street trench will separate Red Hook from the rest of Brooklyn. Nearby, the elevated Gowanus Parkway opens over Third Avenue in Sunset Park in 1941.",
+    "layers": [
+      "highways"
+    ],
+    "source": "http://www.nycroads.com/roads/brooklyn-queens/"
   },
   {
     "year": 1948,
     "decade": "1940s",
-    "title": "Cross-Bronx Expressway Announced",
-    "description": "Robert Moses announces plans for the Cross-Bronx Expressway through East Tremont, a stable, working-class neighborhood. Despite residents' pleas for an alternative route through nearby Crotona Park, Moses refuses. The project will displace over 60,000 people and destroy 159 buildings.",
-    "category": "infrastructure",
-    "location": [40.8460, -73.8800],
-    "layers": ["highways"]
+    "title": "Cross-Bronx Expressway Construction Begins",
+    "description": "Robert Moses routes the expressway through East Tremont. In 1953 his alignment is approved over an alternative along Crotona Park backed by Bronx Borough President James Lyons. About 4,000 families are displaced, roughly 1,500 of them in East Tremont, and 159 apartment buildings are demolished in East Tremont and Morris Heights.",
+    "layers": [
+      "highways"
+    ],
+    "source": [
+      "http://www.nycroads.com/roads/cross-bronx/",
+      "https://en.wikipedia.org/wiki/Cross_Bronx_Expressway"
+    ]
   },
   {
-    "year": 1955,
+    "year": 1956,
     "decade": "1950s",
-    "title": "Moses Highway Network Expands",
-    "description": "Federal Highway Act funding accelerates Moses's expressway program. The Major Deegan, Bruckner, and Long Island Expressways begin construction, creating a web of highways that isolate communities across the Bronx and Queens while prioritizing suburban commuters over residents.",
-    "category": "infrastructure",
-    "location": [40.8200, -73.9200],
-    "layers": ["highways"]
+    "title": "Federal Highway Money Arrives",
+    "description": "The Federal-Aid Highway Act of 1956 pays 90% of Interstate costs. The Major Deegan is finished that year, and the Bruckner Expressway (from 1957) and the Long Island Expressway's Queens sections push highways deeper into the Bronx and Queens.",
+    "layers": [
+      "highways"
+    ],
+    "source": "http://www.nycroads.com/roads/bruckner/"
   },
   {
-    "year": 1961,
+    "year": 1962,
     "decade": "1960s",
-    "title": "Jane Jacobs Fights Robert Moses",
-    "description": "Jane Jacobs leads the successful fight against Moses's planned Lower Manhattan Expressway (LOMEX), which would have destroyed SoHo, Little Italy, and Chinatown. Her victory marks the beginning of the end for Moses's highway-first approach, but the damage to the Bronx, Brooklyn, and Queens is already done.",
-    "category": "policy",
-    "location": [40.7230, -73.9980],
-    "layers": ["highways"]
+    "title": "Jacobs and the Lower Manhattan Expressway",
+    "description": "A committee led by Jane Jacobs wins a December 1962 Board of Estimate vote against the Lower Manhattan Expressway, which would have cut through what is now SoHo, Little Italy and Chinatown. The plan is revived, then dropped for good in 1969.",
+    "layers": [
+      "highways"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Lower_Manhattan_Expressway"
   },
   {
     "year": 1964,
     "decade": "1960s",
     "title": "Civil Rights Act Passes",
-    "description": "While the Civil Rights Act outlaws racial discrimination, NYC's spatial inequality is already locked in by redlining maps and highway routes. Segregation persists through infrastructure, lending patterns, and zoning.",
-    "category": "policy",
-    "location": [40.7128, -74.0060],
-    "layers": ["redlining", "race"]
+    "description": "The Civil Rights Act outlaws discrimination in public accommodations and employment; the Fair Housing Act follows in 1968. By then highway routes and decades of lending patterns had already shaped where New Yorkers could live.",
+    "layers": [
+      "redlining",
+      "race"
+    ],
+    "source": "https://www.archives.gov/milestone-documents/civil-rights-act"
   },
   {
     "year": 1970,
     "decade": "1970s",
     "title": "The Bronx Burns",
-    "description": "Landlord arson, building abandonment, and municipal neglect devastate the South Bronx. Entire blocks are reduced to rubble in neighborhoods already reeling from highway construction. Charlotte Street becomes a national symbol of urban decay — the endpoint of decades of redlining and highway-driven displacement.",
-    "category": "demographics",
-    "location": [40.8300, -73.8900],
-    "layers": ["race", "income"]
+    "description": "Through the 1970s, fires and abandonment destroy large parts of the South Bronx, as landlords walk away from buildings and the city closes fire companies. Charlotte Street becomes a national symbol after President Carter's 1977 visit.",
+    "layers": [
+      "race",
+      "income"
+    ],
+    "source": "https://en.wikipedia.org/wiki/South_Bronx"
   },
   {
     "year": 1975,
     "decade": "1970s",
     "title": "NYC Fiscal Crisis",
-    "description": "New York City nearly goes bankrupt. The fiscal crisis triggers massive cuts to public services — fire stations, schools, hospitals — disproportionately in Black and Hispanic neighborhoods already suffering from disinvestment. The South Bronx, Central Brooklyn, and Harlem bear the heaviest burden.",
-    "category": "economic",
-    "location": [40.7128, -74.0060],
-    "layers": ["income"]
+    "description": "New York City nearly defaults. Deep cuts to fire, sanitation, schools and hospitals hit already disinvested neighborhoods such as the South Bronx, Central Brooklyn and Harlem hard.",
+    "layers": [
+      "income"
+    ],
+    "source": "https://en.wikipedia.org/wiki/1975_New_York_City_fiscal_crisis"
   },
   {
-    "year": 1987,
+    "year": 1989,
     "decade": "1980s",
-    "title": "EPA Toxics Release Inventory Begins",
-    "description": "The first TRI data reveals the concentration of toxic facilities in low-income communities of color. Hunts Point, Greenpoint, Newtown Creek, and the Gowanus Canal area bear disproportionate pollution burdens — neighborhoods already weakened by highway construction and disinvestment.",
-    "category": "environment",
-    "location": [40.8100, -73.8850],
-    "layers": ["pollution"]
+    "title": "First Toxics Release Inventory Data",
+    "description": "EPA publishes the first Toxics Release Inventory data (reporting year 1987). Turn on the TRI layer to see where registered facilities are today.",
+    "layers": [
+      "pollution"
+    ],
+    "source": "https://www.epa.gov/toxics-release-inventory-tri-program/history-toxics-release-inventory-tri-program"
   },
   {
     "year": 1990,
     "decade": "1990s",
-    "title": "Crack Epidemic & Mass Incarceration",
-    "description": "The crack epidemic and aggressive policing devastate Black and Hispanic neighborhoods. East New York, Brownsville, and the South Bronx — all D-rated by HOLC in 1938 — see some of the highest incarceration rates in the country, further destabilizing communities.",
-    "category": "demographics",
-    "location": [40.6660, -73.8880],
-    "layers": ["race", "income"]
+    "title": "Crack Epidemic and Mass Incarceration",
+    "description": "The crack epidemic and aggressive policing hit Brownsville, East New York and the South Bronx hard — neighborhoods where much of the land had been graded D in 1938.",
+    "layers": [
+      "race",
+      "income"
+    ],
+    "source": "https://dsl.richmond.edu/panorama/redlining/"
   },
   {
     "year": 2001,
     "decade": "2000s",
     "title": "September 11 Attacks",
-    "description": "The destruction of the World Trade Center devastates Lower Manhattan. The rebuilding effort pours billions into downtown while nearby Chinatown — already one of the city's poorest neighborhoods — receives far less support and faces years of economic hardship from lost foot traffic and tourism.",
-    "category": "economic",
-    "location": [40.7115, -74.0134],
-    "layers": ["income"]
+    "description": "The destruction of the World Trade Center devastates Lower Manhattan. Nearby Chinatown faces years of economic hardship from street closures and lost business.",
+    "layers": [
+      "income"
+    ],
+    "source": "https://en.wikipedia.org/wiki/September_11_attacks"
   },
   {
     "year": 2005,
     "decade": "2000s",
-    "title": "Bloomberg Rezonings Transform Neighborhoods",
-    "description": "The Bloomberg administration rezonings upzone formerly industrial waterfront areas (Williamsburg, Greenpoint, Long Island City) for luxury development while downzoning wealthier neighborhoods. The rezonings accelerate gentrification and displacement in working-class communities of color.",
-    "category": "policy",
-    "location": [40.7141, -73.9613],
-    "layers": ["income", "race"]
+    "title": "Greenpoint–Williamsburg Rezoning",
+    "description": "The Bloomberg administration rezones the Greenpoint–Williamsburg waterfront from industrial to high-rise residential use, one of more than 100 rezonings that reshape neighborhoods and accelerate rising rents.",
+    "layers": [
+      "income",
+      "race"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Greenpoint,_Brooklyn"
   },
   {
     "year": 2012,
     "decade": "2010s",
-    "title": "Hurricane Sandy Devastates NYC",
-    "description": "Superstorm Sandy floods coastal neighborhoods across all five boroughs, killing 43 New Yorkers and causing $19 billion in damage. Public housing complexes on the waterfront — Red Hook Houses, Coney Island Houses — are without power for weeks. Recovery aid flows unevenly: wealthier neighborhoods rebuild quickly while NYCHA residents wait years.",
-    "category": "environment",
-    "location": [40.5730, -73.9712],
-    "layers": ["floods", "income"]
+    "title": "Hurricane Sandy",
+    "description": "Sandy kills 44 New Yorkers and causes about $19 billion in damage and lost economic activity in the city. Public housing on the waterfront, including Red Hook Houses and Coney Island, goes without power for weeks.",
+    "layers": [
+      "income"
+    ],
+    "source": "https://www.nyc.gov/site/cdbgdr/hurricane-sandy/hurricane-sandy.page"
   },
   {
     "year": 2015,
     "decade": "2010s",
-    "title": "Gentrification Accelerates Citywide",
-    "description": "Gentrification intensifies in formerly redlined neighborhoods: Harlem, Bed-Stuy, Bushwick, Crown Heights. Median rents in these communities double in a decade. Areas marked 'Hazardous' in 1938 are now the hottest real estate markets — but longtime residents are being displaced.",
-    "category": "demographics",
-    "location": [40.6868, -73.9418],
-    "layers": ["income", "race", "redlining"]
+    "title": "Gentrification in Formerly Redlined Neighborhoods",
+    "description": "Harlem, Bedford-Stuyvesant, Bushwick and Crown Heights — much of it graded C or D in 1938 — see fast-rising rents and the displacement of long-time residents.",
+    "layers": [
+      "income",
+      "race",
+      "redlining"
+    ],
+    "source": "https://furmancenter.org/stateofthecity"
   },
   {
     "year": 2020,
     "decade": "2020s",
-    "title": "COVID-19 Hits Hardest in Segregated Neighborhoods",
-    "description": "COVID-19 death rates are highest in the same neighborhoods HOLC marked 'Hazardous' 82 years earlier. Corona, East Elmhurst, Jackson Heights, and the South Bronx see death rates 2-3x higher than the Upper East Side. The pandemic lays bare how redlining's legacy compounds through housing density, essential worker exposure, and healthcare access.",
-    "category": "demographics",
-    "location": [40.7500, -73.8700],
-    "layers": ["race", "income"]
+    "title": "COVID-19 in Queens",
+    "description": "COVID-19 hits Corona, East Elmhurst and Jackson Heights among the hardest in the city. Their 1938 grades were mixed — Corona D, Jackson Heights B and C — a reminder that today's disparities follow more than the HOLC lines.",
+    "layers": [
+      "race",
+      "income",
+      "redlining"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_New_York_City",
+      "https://dsl.richmond.edu/panorama/redlining/"
+    ]
   },
   {
     "year": 2021,
     "decade": "2020s",
-    "title": "Hurricane Ida Exposes Basement Apartment Crisis",
-    "description": "The remnants of Hurricane Ida drop record rainfall on NYC, killing 13 people — 11 of them in illegal basement apartments in Queens and Brooklyn. The victims are predominantly immigrant workers living in substandard housing in flood-prone areas, revealing how housing affordability and flood risk intersect along racial and economic lines.",
-    "category": "environment",
-    "location": [40.7400, -73.8600],
-    "layers": ["floods", "income"]
+    "title": "Hurricane Ida",
+    "description": "The remnants of Ida kill 13 people in New York City, 11 of them in basement apartments in Queens and Brooklyn.",
+    "layers": [
+      "income"
+    ],
+    "source": [
+      "https://www.nyc.gov/site/cdbgdr/hurricane-ida/hurricane-ida.page",
+      "https://nysclimateimpacts.org/explore-the-assessment/case-studies/hurricane-ida-vulnerabilities-in-new-york-city/"
+    ]
   },
   {
     "year": 2024,
     "decade": "2020s",
     "title": "Inequality Persists",
-    "description": "In 2024, the median household income on the Upper East Side exceeds $130,000 while in Mott Haven, South Bronx, it's $22,000 — a 6:1 ratio. Life expectancy varies by up to 11 years between neighborhoods. The map of inequality today still echoes the HOLC maps of 1938.",
-    "category": "economic",
-    "location": [40.7128, -74.0060],
-    "layers": ["income", "race", "redlining"]
+    "description": "Median household income is about $168,780 on the Upper East Side and $27,360 in Mott Haven/Melrose (2024, in 2025 dollars), roughly 6 to 1. Life expectancy differs by about 11 years between community districts.",
+    "layers": [
+      "income",
+      "race",
+      "redlining"
+    ],
+    "source": [
+      "https://www.furmancenter.org/neighborhoods/upper-east-side/",
+      "https://furmancenter.org/neighborhoods/view/mott-haven-melrose",
+      "https://www.nyc.gov/site/doh/data/data-publications/profiles.page"
+    ]
   }
 ]

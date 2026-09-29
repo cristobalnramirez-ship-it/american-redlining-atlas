@@ -130,13 +130,9 @@ def fetch_real_census(slug, api_key=None):
             tid = feat['properties'].get('tract_id', '')
             if tid in all_acs:
                 acs = all_acs[tid]
-                if acs['median_income'] is not None:
-                    feat['properties']['income_2020'] = acs['median_income']
-                if acs['poverty_rate'] is not None:
-                    feat['properties']['poverty_rate_2020'] = acs['poverty_rate']
-                if acs['population'] is not None:
-                    feat['properties']['population_2020'] = acs['population']
-                feat['properties']['is_sample_data'] = False
+                feat['properties']['income_2020'] = acs['median_income']
+                feat['properties']['poverty_rate_2020'] = acs['poverty_rate']
+                feat['properties']['population_2020'] = acs['population']
                 matched += 1
 
         with open(income_file, 'w', encoding='utf-8') as f:
@@ -155,11 +151,8 @@ def fetch_real_census(slug, api_key=None):
             if tid in all_acs:
                 acs = all_acs[tid]
                 for k in ['pct_white', 'pct_black', 'pct_hispanic', 'pct_asian']:
-                    if acs[k] is not None:
-                        feat['properties'][k + '_2020'] = acs[k]
-                if acs['population'] is not None:
-                    feat['properties']['population_2020'] = acs['population']
-                feat['properties']['is_sample_data'] = False
+                    feat['properties'][k + '_2020'] = acs[k]
+                feat['properties']['population_2020'] = acs['population']
                 matched += 1
 
         with open(race_file, 'w', encoding='utf-8') as f:

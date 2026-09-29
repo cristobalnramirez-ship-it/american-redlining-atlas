@@ -6,10 +6,10 @@ Usage: python generate_city.py --city <slug> [--skip-floods] [--api-key KEY]
 Runs in order:
   1. fetch_redlining.py
   2. fetch_census.py
-  3. build_census.py (synthetic history)
-  4. fetch_real_census.py (real ACS 2020 overlay)
-  5. fetch_tri.py
-  6. fetch_flood_zones.py (optional, slow)
+  3. fetch_real_census.py (ACS 2018-22 overlay; suppressed values stay null)
+  4. fetch_tri.py
+  5. fetch_flood_zones.py (optional, slow)
+  6. clean_data.py (dissolve HOLC areas, strip placeholders, update layers)
 """
 
 import argparse
@@ -22,7 +22,6 @@ sys.path.insert(0, SCRIPT_DIR)
 
 from fetch_redlining import fetch_redlining
 from fetch_census import fetch_census
-from build_census import build_census
 from fetch_real_census import fetch_real_census
 from fetch_tri import fetch_tri
 from fetch_flood_zones import fetch_flood_zones
@@ -35,49 +34,46 @@ def generate_city(slug, skip_floods=False, api_key=None):
     start = time.time()
 
     # 1. Redlining
-    print(f"\n--- Step 1/6: Redlining ---")
+    print(f"\n--- Step 1/5: Redlining ---")
     try:
         fetch_redlining(slug)
     except Exception as e:
         print(f"  ERROR: {e}")
 
     # 2. Census geometry + basic ACS
-    print(f"\n--- Step 2/6: Census tracts ---")
+    print(f"\n--- Step 2/5: Census tracts ---")
     try:
         fetch_census(slug, api_key=api_key)
     except Exception as e:
         print(f"  ERROR: {e}")
 
-    # 3. Synthetic historical data
-    print(f"\n--- Step 3/6: Synthetic history ---")
-    try:
-        build_census(slug)
-    except Exception as e:
-        print(f"  ERROR: {e}")
-
-    # 4. Real ACS overlay
-    print(f"\n--- Step 4/6: Real ACS data ---")
+    # 3. Real ACS overlay
+    print(f"\n--- Step 3/5: Real ACS data ---")
     try:
         fetch_real_census(slug, api_key=api_key)
     except Exception as e:
         print(f"  ERROR: {e}")
 
-    # 5. TRI pollution
-    print(f"\n--- Step 5/6: TRI pollution ---")
+    # 4. TRI pollution
+    print(f"\n--- Step 4/5: TRI pollution ---")
     try:
         fetch_tri(slug)
     except Exception as e:
         print(f"  ERROR: {e}")
 
-    # 6. Flood zones (optional)
+    # 5. Flood zones (optional)
     if skip_floods:
-        print(f"\n--- Step 6/6: Flood zones (SKIPPED) ---")
+        print(f"\n--- Step 5/5: Flood zones (SKIPPED) ---")
     else:
-        print(f"\n--- Step 6/6: Flood zones ---")
+        print(f"\n--- Step 5/5: Flood zones ---")
         try:
             fetch_flood_zones(slug)
         except Exception as e:
             print(f"  ERROR: {e}")
+
+    # 6. Clean-up pass: dissolve HOLC areas, strip placeholders, set layers
+    import subprocess
+    subprocess.run([sys.executable, os.path.join(SCRIPT_DIR, 'clean_data.py'), '--city', slug], check=False)
 
     elapsed = time.time() - start
     print(f"\n{'='*60}")

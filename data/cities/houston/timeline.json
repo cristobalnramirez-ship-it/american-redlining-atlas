@@ -1,173 +1,240 @@
 [
   {
-    "year": 1940,
-    "decade": "1940s",
-    "title": "HOLC Redlining Maps Drawn",
-    "description": "The Home Owners' Loan Corporation grades Houston neighborhoods A through D. Black and Mexican-American communities in Third Ward, Fifth Ward, and Second Ward are marked 'Hazardous' (D), denying residents access to federally-backed mortgages.",
-    "category": "redlining",
-    "location": [29.760, -95.370],
-    "layers": ["redlining"]
+    "year": 1937,
+    "decade": "1930s",
+    "title": "HOLC Grades Houston Neighborhoods",
+    "description": "The Home Owners' Loan Corporation grades Houston neighborhoods A through D; the Big Ten Academic Alliance catalog dates the Houston sheet 1937. Fifth Ward and Fourth Ward/Freedmen's Town are graded D (\"Hazardous\"), as is the core of Third Ward around Emancipation Park, while much of Second Ward is left ungraded. Historians find the maps recorded and codified racial judgments that the FHA and private lenders were already applying, rather than causing them on their own.",
+    "layers": [
+      "redlining"
+    ],
+    "source": "https://geo.btaa.org/catalog/0b2e8605-b35c-40f6-afba-26c7b9d0c8e9"
   },
   {
     "year": 1948,
     "decade": "1940s",
-    "title": "Gulf Freeway Construction Begins",
-    "description": "I-45 South, the first freeway in Texas, begins construction. It will connect downtown Houston to Galveston, establishing the template for highway-driven development.",
-    "category": "infrastructure",
-    "location": [29.720, -95.350],
-    "layers": ["highways"]
+    "title": "Texas's First Freeway Opens",
+    "description": "Construction on the Gulf Freeway began in September 1946; its first section, downtown to Telephone Road, opened on September 30, 1948. It reached Galveston in 1952 and became I-45 in 1957. About 1,500 homes were removed for it, mostly in northern Third Ward and Park Place.",
+    "layers": [
+      "highways"
+    ],
+    "source": "https://www.bakerinstitute.org/research/houstons-freeways-who-was-displaced-and-why"
   },
   {
     "year": 1953,
     "decade": "1950s",
-    "title": "Highways Carve Through East Houston",
-    "description": "Construction of the East Freeway (I-10 East) begins, cutting through Second Ward and Magnolia Park—neighborhoods already redlined a decade earlier. Hundreds of homes and businesses are demolished.",
-    "category": "infrastructure",
-    "location": [29.757, -95.340],
-    "layers": ["highways", "redlining"]
+    "title": "Eastex and East Freeways Begin",
+    "description": "The first sections of the Eastex Freeway (US-59 North) and the East Freeway (I-10 East) open. Over the next decade the Eastex splits Frenchtown and western Fifth Ward and runs through Kashmere Gardens.",
+    "layers": [
+      "highways"
+    ],
+    "source": "https://www.bakerinstitute.org/research/houstons-freeways-who-was-displaced-and-why"
   },
   {
     "year": 1956,
     "decade": "1950s",
-    "title": "Federal Highway Act Transforms Houston",
-    "description": "The Federal-Aid Highway Act of 1956 provides 90% federal funding for interstate construction. Houston plans a radial highway network centered on downtown, routing freeways through Black and Hispanic neighborhoods where land is cheapest and political resistance weakest.",
-    "category": "infrastructure",
-    "location": [29.760, -95.370],
-    "layers": ["highways"]
+    "title": "Federal-Aid Highway Act",
+    "description": "The Federal-Aid Highway Act of 1956 pays 90% of the cost of Interstate construction. Houston's radial freeways, converging on downtown, pass through several Black and Mexican-American neighborhoods near the center, including Fifth Ward and Fourth Ward.",
+    "layers": [
+      "highways"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Federal-Aid_Highway_Act_of_1956",
+      "https://www.bakerinstitute.org/research/houstons-freeways-who-was-displaced-and-why"
+    ]
   },
   {
-    "year": 1959,
-    "decade": "1950s",
-    "title": "Southwest Freeway Bisects Third Ward",
-    "description": "US-59/I-69 construction tears through Third Ward and Midtown, displacing thousands of Black residents. The freeway creates a physical barrier that fragments one of Houston's most established Black communities.",
-    "category": "infrastructure",
-    "location": [29.735, -95.365],
-    "layers": ["highways", "redlining"]
-  },
-  {
-    "year": 1960,
+    "year": 1962,
     "decade": "1960s",
-    "title": "Inner Loop Completed",
-    "description": "I-610 forms a 38-mile loop around central Houston, creating a stark inside/outside divide. Properties inside the loop gain value; communities the loop cuts through—Independence Heights, Eastwood—are disrupted.",
-    "category": "infrastructure",
-    "location": [29.760, -95.370],
-    "layers": ["highways"]
+    "title": "Fourth Ward Cut Off From Downtown",
+    "description": "The Colored Carnegie Library in Fourth Ward, cut off by nearby freeway work, closes in 1961 and is razed in 1962 for the Clay Avenue extension. The downtown segment of I-45, opened as the Pierce Elevated in 1967, separates Freedmen's Town from downtown.",
+    "layers": [
+      "highways",
+      "redlining"
+    ],
+    "source": [
+      "https://www.tshaonline.org/handbook/entries/houston-colored-carnegie-library",
+      "https://en.wikipedia.org/wiki/Fourth_Ward,_Houston"
+    ]
   },
   {
     "year": 1964,
     "decade": "1960s",
     "title": "Civil Rights Act Passes",
-    "description": "While the Civil Rights Act outlaws racial discrimination, Houston's spatial inequality is already locked in by redlining maps and highway routes. Segregation persists through infrastructure and lending patterns.",
-    "category": "policy",
-    "location": [29.760, -95.370],
-    "layers": ["redlining", "race"]
+    "description": "The Civil Rights Act outlaws discrimination in public accommodations and employment; the Fair Housing Act follows in 1968. By then, freeway routes and decades of lending patterns had already shaped where Houstonians could live.",
+    "layers": [
+      "redlining",
+      "race"
+    ],
+    "source": "https://www.archives.gov/milestone-documents/civil-rights-act"
+  },
+  {
+    "year": 1966,
+    "decade": "1960s",
+    "title": "I-10 East Cuts Through Fifth Ward",
+    "description": "The East Freeway's link to US-59 downtown opens. It runs through southern Fifth Ward parallel to Lyons Avenue and dead-ends Lyons at Harbor Street, ending it as a through route. With the Eastex Freeway, it leaves Fifth Ward bounded by freeways.",
+    "layers": [
+      "highways",
+      "redlining"
+    ],
+    "source": "https://www.bakerinstitute.org/research/houstons-freeways-who-was-displaced-and-why"
   },
   {
     "year": 1970,
     "decade": "1970s",
-    "title": "Petrochemical Boom Along Ship Channel",
-    "description": "Houston's petrochemical industry expands rapidly along the Ship Channel. Refineries and chemical plants cluster near predominantly Black and Hispanic neighborhoods in East Houston, Manchester, and Galena Park.",
-    "category": "environment",
-    "location": [29.740, -95.260],
-    "layers": ["pollution"]
+    "title": "Petrochemical Growth Along the Ship Channel",
+    "description": "Refineries and chemical plants that expanded after World War II line the Houston Ship Channel, beside East End neighborhoods such as Manchester and Harrisburg and the city of Galena Park.",
+    "layers": [
+      "floods"
+    ],
+    "source": "https://www.tshaonline.org/handbook/entries/houston-ship-channel"
+  },
+  {
+    "year": 1973,
+    "decade": "1970s",
+    "title": "Loop 610 Nearly Complete",
+    "description": "The Sidney Sherman Bridge opens on the East Loop; the last I-610 interchange, with I-10 East, is finished in 1976. The loop had been under construction since 1950; on the north side it forms the southern edge of Independence Heights.",
+    "layers": [
+      "highways"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Interstate_610_(Texas)",
+      "https://en.wikipedia.org/wiki/Independence_Heights,_Houston"
+    ]
   },
   {
     "year": 1976,
     "decade": "1970s",
-    "title": "Tax Day Flood Devastates Meyerland",
-    "description": "Severe flooding along Brays Bayou inundates the Meyerland neighborhood. Despite repeated floods, development continues in Houston's bayou floodplains with minimal regulation.",
-    "category": "environment",
-    "location": [29.695, -95.450],
-    "layers": ["floods"]
+    "title": "June 1976 Brays Bayou Flood",
+    "description": "Heavy rain in June 1976 floods Brays Bayou, damaging the Texas Medical Center, Rice University, the University of Houston and the Museum District.",
+    "layers": [
+      "floods"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Brays_Bayou"
   },
   {
     "year": 1980,
     "decade": "1980s",
-    "title": "White Flight and Suburban Expansion",
-    "description": "Houston's white population increasingly concentrates in suburbs outside Beltway 8—Katy, Sugar Land, Kingwood, Clear Lake. Inner-city neighborhoods see disinvestment as property values and services decline.",
-    "category": "demographics",
-    "location": [29.790, -95.650],
-    "layers": ["race", "income"]
+    "title": "Suburban Growth",
+    "description": "Houston's suburbs grow rapidly — The Woodlands, Sugar Land, Katy, Pearland — while the city annexes outlying areas such as Clear Lake City (1977) and later Kingwood (1996).",
+    "layers": [
+      "race",
+      "income"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Kingwood,_Houston"
   },
   {
     "year": 1986,
     "decade": "1980s",
-    "title": "Oil Bust Hits Houston",
-    "description": "The collapse of oil prices devastates Houston's economy. Low-income communities of color, already suffering from disinvestment, are hit hardest. Property values in Fifth Ward, Kashmere Gardens, and Sunnyside plummet.",
-    "category": "economic",
-    "location": [29.778, -95.339],
-    "layers": ["income"]
+    "title": "Oil Bust",
+    "description": "Oil prices collapse in 1986, the low point of the 1982–87 oil bust. Houston lost about 211,000 jobs between February 1982 and March 1987.",
+    "layers": [
+      "income"
+    ],
+    "source": "https://www.houstoniamag.com/news-and-city-life/2020/06/1982-oil-bust-houston"
   },
   {
-    "year": 1987,
+    "year": 1989,
     "decade": "1980s",
-    "title": "EPA Toxics Release Inventory Begins",
-    "description": "The first TRI data reveals the scale of toxic pollution in East Houston. Communities near the Ship Channel—Manchester, Galena Park, Harrisburg—face some of the highest toxic exposure in the nation.",
-    "category": "environment",
-    "location": [29.740, -95.260],
-    "layers": ["pollution"]
+    "title": "First Toxics Release Inventory Data",
+    "description": "EPA publishes the first Toxics Release Inventory data (reporting year 1987, required by the 1986 Emergency Planning and Community Right-to-Know Act).",
+    "layers": [
+      "floods"
+    ],
+    "source": "https://www.epa.gov/toxics-release-inventory-tri-program/history-toxics-release-inventory-tri-program"
+  },
+  {
+    "year": 1990,
+    "decade": "1990s",
+    "title": "Houston Is Majority-Minority",
+    "description": "The 1990 Census counts non-Hispanic whites at 40.6% of Houston's population, down from 62.4% in 1970 — the city became majority-minority during the 1980s.",
+    "layers": [
+      "race"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Demographics_of_Houston"
   },
   {
     "year": 1994,
     "decade": "1990s",
-    "title": "October Flood of 1994",
-    "description": "Devastating floods along White Oak and Greens Bayous hit northeast Houston hardest—areas that are predominantly Black and Hispanic. FEMA buyout programs begin acquiring properties in flood-prone areas.",
-    "category": "environment",
-    "location": [29.800, -95.310],
-    "layers": ["floods"]
+    "title": "October 1994 Flood",
+    "description": "Record rain on October 15–19 floods the East and West Forks of the San Jacinto River around Kingwood and Lake Houston. On October 20 ruptured pipelines set the river on fire; at least 17 people die. (Harris County Flood Control District buyouts had begun in 1985.)",
+    "layers": [
+      "floods"
+    ],
+    "source": [
+      "https://abc13.com/river-fire-flood-san-jacinto-on/1563118/",
+      "https://www.texasstandard.org/stories/harris-county-texas-houston-flood-control-district-buyouts-hurricane-harvey/"
+    ]
   },
   {
-    "year": 2000,
+    "year": 2001,
     "decade": "2000s",
     "title": "Tropical Storm Allison",
-    "description": "Allison drops 40 inches of rain on Houston in June 2001, causing $9 billion in damage. The Medical Center floods catastrophically. Low-income areas along bayous suffer worst, with the least resources to recover.",
-    "category": "environment",
-    "location": [29.705, -95.400],
-    "layers": ["floods"]
+    "description": "Allison drops up to 36.99 inches of rain at the Port of Houston in June 2001 and causes about $9 billion in damage, including about $2 billion to public facilities, especially the Texas Medical Center.",
+    "layers": [
+      "floods"
+    ],
+    "source": "https://www.nhc.noaa.gov/data/tcr/AL012001_Allison.pdf"
   },
   {
     "year": 2005,
     "decade": "2000s",
-    "title": "Gentrification Accelerates in Inner Loop",
-    "description": "Heights, Montrose, EaDo, and Midtown see rapid development. Property values soar, pricing out long-time residents. Areas once redlined as 'hazardous' become desirable—but for new, wealthier, whiter populations.",
-    "category": "demographics",
-    "location": [29.790, -95.398],
-    "layers": ["income", "race"]
+    "title": "Inner-Loop Redevelopment",
+    "description": "The Heights, Montrose, Midtown, EaDo and Fourth Ward see rapid redevelopment and rising property values, displacing long-time renters in some formerly redlined areas.",
+    "layers": [
+      "income",
+      "race"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Fourth_Ward,_Houston"
   },
   {
-    "year": 2010,
+    "year": 2015,
     "decade": "2010s",
-    "title": "Houston Becomes Majority-Minority",
-    "description": "Houston is now one of the most ethnically diverse large cities in America. But diversity and integration are different things—racial and economic segregation patterns from the 1940s remain starkly visible.",
-    "category": "demographics",
-    "location": [29.760, -95.370],
-    "layers": ["race"]
+    "title": "Memorial Day Flood",
+    "description": "Storms on May 25–26, 2015 flood more than 6,000 structures in Harris County; Meyerland along Brays Bayou is among the hardest hit.",
+    "layers": [
+      "floods"
+    ],
+    "source": "https://www.hcfcd.org/portals/62/about/flooding-history/historytimeline-24x36-1.pdf"
   },
   {
     "year": 2016,
     "decade": "2010s",
-    "title": "Tax Day Flood & Memorial Day Flood",
-    "description": "Two devastating floods hit Houston in April and May 2016. Meyerland floods for the third time in 18 months. Low-income communities in Greens Bayou watershed, already living with industrial pollution, face repeated flood damage.",
-    "category": "environment",
-    "location": [29.695, -95.450],
-    "layers": ["floods"]
+    "title": "Tax Day Flood",
+    "description": "The April 17–18, 2016 storm floods about 9,820 structures. Meyerland floods again; it will flood a third time in Harvey, about 27 months after the first.",
+    "layers": [
+      "floods"
+    ],
+    "source": [
+      "https://www.hcfcd.org/portals/62/about/flooding-history/historytimeline-24x36-1.pdf",
+      "https://www.click2houston.com/news/local/2025/05/28/rising-waters-rising-costs-a-decade-of-flooding-in-meyerland/"
+    ]
   },
   {
     "year": 2017,
     "decade": "2010s",
     "title": "Hurricane Harvey",
-    "description": "Harvey drops over 60 inches of rain on Houston—the most extreme rainfall event in US history. Over 300,000 structures flood. Recovery reveals deep inequality: wealthier neighborhoods rebuild quickly while low-income communities of color wait years for assistance. Superfund sites overflow, spreading toxins into neighboring communities.",
-    "category": "environment",
-    "location": [29.760, -95.370],
-    "layers": ["floods", "pollution", "income"]
+    "description": "Harvey is the most significant tropical cyclone rainfall event in U.S. history: 60.58 inches near Nederland, and 36–48 inches across much of the Houston area. About 300,000 structures flood across Southeast Texas. EPA reports 13 Superfund sites flooded or possibly damaged, and the cap on the San Jacinto River Waste Pits is damaged.",
+    "layers": [
+      "floods"
+    ],
+    "source": [
+      "https://www.nhc.noaa.gov/data/tcr/AL092017_Harvey.pdf",
+      "https://archive.epa.gov/epa/newsreleases/status-superfund-sites-areas-affected-harvey.html",
+      "https://www.texastribune.org/2017/09/29/epa-hurricane-harvey-compromised-caps-toxic-waste-site/"
+    ]
   },
   {
-    "year": 2020,
+    "year": 2022,
     "decade": "2020s",
     "title": "Inequality Persists",
-    "description": "In 2020, the median household income in River Oaks exceeds $250,000 while in Fifth Ward it's under $28,000—a 9:1 ratio. Life expectancy varies by up to 25 years between Houston ZIP codes. The map of inequality today still echoes the HOLC maps of 1940.",
-    "category": "economic",
-    "location": [29.760, -95.370],
-    "layers": ["income", "race", "redlining"]
+    "description": "ACS 2018–22 estimates put median household income at $135,894 in Afton Oaks/River Oaks and $39,893 in Greater Fifth Ward. Life expectancy differs by about 20 years between Harris County ZIP codes. Turn on the income and HOLC layers together to compare today's map with the 1930s grades.",
+    "layers": [
+      "income",
+      "redlining"
+    ],
+    "source": [
+      "https://www.houstontx.gov/planning/Demographics/docs_pdfs/sn-demographics2022/7%20Median%20Household%20Income%20and%20Median%20Housing%20Value.pdf",
+      "https://www.houstonpublicmedia.org/articles/news/harris-county/2019/03/04/323859/life-expectancy-in-houston-can-vary-up-to-20-years-depending-on-where-you-live/"
+    ]
   }
 ]
